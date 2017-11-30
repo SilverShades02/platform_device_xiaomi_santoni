@@ -70,10 +70,6 @@ PRODUCT_PACKAGES += \
     AntHalService \
     com.dsi.ant.antradio_library
 
-# Offline Charger
-PRODUCT_PACKAGES += \
-    charger_res_images
-
 # Audio
 PRODUCT_PACKAGES += \
     audiod \
@@ -291,6 +287,10 @@ PRODUCT_PACKAGES += \
     netutils-wrapper-1.0 \
     android.system.net.netd@1.0 \
     libandroid_net
+
+# OMNI Charger Images
+PRODUCT_PACKAGES += \
+    omni_charger_res_images
 
 # OMX
 PRODUCT_PACKAGES += \
