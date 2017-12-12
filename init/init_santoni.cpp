@@ -32,12 +32,13 @@
 #include <string>
 #include <sstream>
 #include <sys/sysinfo.h>
-
 #include <android-base/properties.h>
 #include <android-base/logging.h>
-#include "vendor_init.h"
 #include "property_service.h"
 #include "util.h"
+
+namespace android {
+namespace init {
 
 char const *heapstartsize;
 char const *heapgrowthlimit;
@@ -134,3 +135,5 @@ void vendor_load_properties()
     android::init::property_set("ro.hwui.text_large_cache_width", "2048");
     android::init::property_set("ro.hwui.text_large_cache_height", large_cache_height);
 }
+}  // namespace init
+}  // namespace android
