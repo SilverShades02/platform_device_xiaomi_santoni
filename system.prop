@@ -76,6 +76,7 @@ persist.debug.coresight.config=stm-events
 # Display
 persist.debug.wfd.enable=1
 persist.hwc.enable_vds=1
+persist.sys.wfd.virtual=0
 debug.sf.hw=0
 debug.egl.hw=0
 persist.hwc.mdpcomp.enable=true
