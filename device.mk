@@ -432,3 +432,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
     $(LOCAL_PATH)/wifi/WCNSS_qcom_cfg.ini:system/vendor/etc/wifi/WCNSS_qcom_cfg.ini
+
+# Touchscreen files (ft5336)
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/rootdir/etc/ft5336_biel_1080p.ini:system/etc/ft5336_biel_1080p.ini \
+    $(LOCAL_PATH)/rootdir/etc/ft5336_oufei_720p.ini:system/etc/ft5336_oufei_720p.ini
