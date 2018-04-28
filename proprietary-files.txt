@@ -416,7 +416,7 @@ etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg.xml
 etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml
 
 # Fingerprint
-bin/gx_fpd
+vendor/bin/gx_fpd
 lib/hw/fingerprint.searchf.so
 lib/libcom_fingerprints_service.so
 lib64/hw/fingerprint.searchf.so
