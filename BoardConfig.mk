@@ -48,6 +48,9 @@ TARGET_COMPILE_WITH_MSM_KERNEL := true
 TARGET_KERNEL_CONFIG := santoni_defconfig
 TARGET_KERNEL_SOURCE := kernel/xiaomi/msm8937
 
+# Clang for Kernel
+TARGET_KERNEL_CLANG_COMPILE := true
+
 # exfat
 TARGET_EXFAT_DRIVER := sdfat
 
