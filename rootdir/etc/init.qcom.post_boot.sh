@@ -254,6 +254,9 @@ else
         fi
     fi
 
+    # Enabling Adaptive Lowmemorykiller
+    echo 1 > /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+
     if [ -f /sys/devices/soc0/soc_id ]; then
         soc_id=`cat /sys/devices/soc0/soc_id`
     else
