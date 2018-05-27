@@ -100,6 +100,9 @@ function configure_memory_parameters() {
     echo $clearPercent > /sys/module/zcache/parameters/clear_percent
     echo 30 >  /sys/module/zcache/parameters/max_pool_percent
 
+    # Enabling Adaptive Lowmemorykiller
+    echo 1 > /sys/module/lowmemorykiller/parameters/enable_adaptive_lmk
+
     if [ -f /sys/devices/soc0/soc_id ]; then
         soc_id=`cat /sys/devices/soc0/soc_id`
     else
