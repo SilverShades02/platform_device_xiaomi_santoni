@@ -281,6 +281,10 @@ PRODUCT_COPY_FILES += \
     frameworks/av/media/libstagefright/data/media_codecs_google_telephony.xml:system/vendor/etc/media_codecs_google_telephony.xml \
     frameworks/av/media/libstagefright/data/media_codecs_google_video_le.xml:system/vendor/etc/media_codecs_google_video_le.xml
 
+# Sound Charging
+PRODUCT_COPY_FILES += \
+    frameworks/base/data/sounds/effects/material/ogg/WirelessChargingStarted.ogg:system/media/audio/ui/BatteryPlugged.ogg
+
 # Netutils
 PRODUCT_PACKAGES += \
     netutils-wrapper-1.0 \
