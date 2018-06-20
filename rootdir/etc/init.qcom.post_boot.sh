@@ -27,51 +27,6 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-function 8953_sched_dcvs_eas()
-{
-    #governor settings
-    echo 1 > /sys/devices/system/cpu/cpu0/online
-    echo "schedutil" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
-    echo 0 > /sys/devices/system/cpu/cpufreq/schedutil/rate_limit_us
-    #set the hispeed_freq
-    echo 1401600 > /sys/devices/system/cpu/cpufreq/schedutil/hispeed_freq
-    #default value for hispeed_load is 90, for 8953 and sdm450 it should be 85
-    echo 85 > /sys/devices/system/cpu/cpufreq/schedutil/hispeed_load
-}
-
-function 8917_sched_dcvs_eas()
-{
-    #governor settings
-    echo 1 > /sys/devices/system/cpu/cpu0/online
-    echo "schedutil" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
-    echo 0 > /sys/devices/system/cpu/cpufreq/schedutil/rate_limit_us
-    #set the hispeed_freq
-    echo 1094400 > /sys/devices/system/cpu/cpufreq/schedutil/hispeed_freq
-    #default value for hispeed_load is 90, for 8917 it should be 85
-    echo 85 > /sys/devices/system/cpu/cpufreq/schedutil/hispeed_load
-}
-
-function 8937_sched_dcvs_eas()
-{
-    # enable governor for perf cluster
-    echo 1 > /sys/devices/system/cpu/cpu0/online
-    echo "schedutil" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
-    echo 0 > /sys/devices/system/cpu/cpu0/cpufreq/schedutil/rate_limit_us
-    #set the hispeed_freq
-    echo 1094400 > /sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_freq
-    #default value for hispeed_load is 90, for 8937 it should be 85
-    echo 85 > /sys/devices/system/cpu/cpu0/cpufreq/schedutil/hispeed_load
-    ## enable governor for power cluster
-    echo 1 > /sys/devices/system/cpu/cpu4/online
-    echo "schedutil" > /sys/devices/system/cpu/cpu4/cpufreq/scaling_governor
-    echo 0 > /sys/devices/system/cpu/cpu4/cpufreq/schedutil/rate_limit_us
-    #set the hispeed_freq
-    echo 768000 > /sys/devices/system/cpu/cpu4/cpufreq/schedutil/hispeed_freq
-    #default value for hispeed_load is 90, for 8937 it should be 85
-    echo 85 > /sys/devices/system/cpu/cpu4/cpufreq/schedutil/hispeed_load
-
-}
-
 function 8953_sched_dcvs_hmp()
 {
     #scheduler settings
@@ -1658,16 +1613,8 @@ case "$target" in
                     echo -n enable > $mode
                 done
 
-                #if the kernel version >=4.9,use the schedutil governor
-                KernelVersionStr=`cat /proc/sys/kernel/osrelease`
-                KernelVersionS=${KernelVersionStr:2:2}
-                KernelVersionA=${KernelVersionStr:0:1}
-                KernelVersionB=${KernelVersionS%.*}
-                if [ $KernelVersionA -ge 4 ] && [ $KernelVersionB -ge 9 ]; then
-                    8953_sched_dcvs_eas
-                else
-                    8953_sched_dcvs_hmp
-                fi
+                8953_sched_dcvs_hmp
+
                 echo 652800 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq
                 # re-enable thermal & BCL core_control now
                 echo 1 > /sys/module/msm_thermal/core_control/enabled
@@ -1782,15 +1729,8 @@ case "$target" in
                 # disable thermal core_control to update interactive gov settings
                 echo 0 > /sys/module/msm_thermal/core_control/enabled
 
-                KernelVersionStr=`cat /proc/sys/kernel/osrelease`
-                KernelVersionS=${KernelVersionStr:2:2}
-                KernelVersionA=${KernelVersionStr:0:1}
-                KernelVersionB=${KernelVersionS%.*}
-                if [ $KernelVersionA -ge 4 ] && [ $KernelVersionB -ge 9 ]; then
-                    8917_sched_dcvs_eas
-                else
-                    8917_sched_dcvs_hmp
-                fi
+                8917_sched_dcvs_hmp
+
                 echo 960000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq
                 # re-enable thermal core_control now
                 echo 1 > /sys/module/msm_thermal/core_control/enabled
@@ -1867,15 +1807,8 @@ case "$target" in
                 # disable thermal core_control to update interactive gov and core_ctl settings
                 echo 0 > /sys/module/msm_thermal/core_control/enabled
 
-                KernelVersionStr=`cat /proc/sys/kernel/osrelease`
-                KernelVersionS=${KernelVersionStr:2:2}
-                KernelVersionA=${KernelVersionStr:0:1}
-                KernelVersionB=${KernelVersionS%.*}
-                if [ $KernelVersionA -ge 4 ] && [ $KernelVersionB -ge 9 ]; then
-                    8937_sched_dcvs_eas
-                else
-                    8937_sched_dcvs_hmp
-                fi
+                8937_sched_dcvs_hmp
+
                 echo 960000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq
                 echo 768000 > /sys/devices/system/cpu/cpu4/cpufreq/scaling_min_freq
                 # Disable L2-GDHS low power modes
