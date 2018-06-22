@@ -201,9 +201,6 @@ TARGET_PER_MGR_ENABLED := true
 # Properties
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
 
-# Power
-TARGET_USES_INTERACTION_BOOST := true
-
 # Qualcomm
 BOARD_USES_QCOM_HARDWARE := true
 TARGET_USES_QCOM_BSP := true
