@@ -2255,16 +2255,11 @@ case "$target" in
         setprop sys.post_boot.parsed 1
     ;;
     "msm8937" | "msm8953")
-        echo 128 > /sys/block/mmcblk0/bdi/read_ahead_kb
-        echo 128 > /sys/block/mmcblk0/queue/read_ahead_kb
-        echo 128 > /sys/block/dm-0/queue/read_ahead_kb
-        echo 128 > /sys/block/dm-1/queue/read_ahead_kb
         setprop sys.post_boot.parsed 1
 	rm /data/system/perfd/default_values
     ;;
     "msm8974")
         start mpdecision
-        echo 512 > /sys/block/mmcblk0/bdi/read_ahead_kb
     ;;
     "msm8994" | "msm8992" | "msm8996" | "msm8998")
         setprop sys.post_boot.parsed 1
@@ -2272,15 +2267,6 @@ case "$target" in
     "apq8084")
         rm /data/system/perfd/default_values
         start mpdecision
-        echo 512 > /sys/block/mmcblk0/bdi/read_ahead_kb
-        echo 512 > /sys/block/sda/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdb/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdc/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdd/bdi/read_ahead_kb
-        echo 512 > /sys/block/sde/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdf/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdg/bdi/read_ahead_kb
-        echo 512 > /sys/block/sdh/bdi/read_ahead_kb
     ;;
     "msm7627a")
         if [ -f /sys/devices/soc0/soc_id ]; then
