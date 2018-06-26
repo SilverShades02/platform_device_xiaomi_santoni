@@ -2253,9 +2253,7 @@ case "$target" in
     ;;
     "msm8937" | "msm8953")
         setprop sys.post_boot.parsed 1
-		rm /data/system/perfd/default_values
-        start perfd
-        start gamed
+	rm /data/system/perfd/default_values
     ;;
     "msm8974")
         start mpdecision
