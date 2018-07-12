@@ -42,8 +42,8 @@
     "revision": "android-8.1"
   },
   {
-    "remote": "omnirom",
-    "repository": "android_hardware_qcom_audio-caf-msm8996",
+    "remote": "github",
+    "repository": "ryan-andri/android_hardware_qcom_audio-caf-msm8996",
     "target_path": "hardware/qcom/audio-caf-msm8996",
     "revision": "android-8.1"
   },
