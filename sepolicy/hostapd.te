@@ -1,0 +1,2 @@
+allow hostapd self:capability { setuid setgid };
+allow hostapd diag_device:chr_file rw_file_perms;
