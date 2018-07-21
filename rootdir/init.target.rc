@@ -32,7 +32,7 @@ on early-init
     symlink /data/tombstones /tombstones
 
 on fs
-    mount_all /vendor/etc/fstab.qcom
+    mount_all /system/vendor/etc/fstab.qcom
 
     mkdir /persist/data 0700 system system
     mkdir /persist/bms 0700 root system
@@ -68,14 +68,14 @@ service qcamerasvr /system/vendor/bin/mm-qcamera-daemon
     writepid /dev/cpuset/system-background/tasks
 	
 #Start up peripheral manager
-service per_mgr /vendor/bin/pm-service
+service per_mgr /system/vendor/bin/pm-service
     class core
     user system
     group system net_raw
     ioprio rt 4
     writepid /dev/cpuset/system-background/tasks
 
-service per_proxy /vendor/bin/pm-proxy
+service per_proxy /system/vendor/bin/pm-proxy
     class core
     user system
     group system
@@ -108,7 +108,7 @@ service qrngp /system/bin/qrngp -f
 on property:sys.boot_completed=1
    start qrngp
 
-service qseecomd /vendor/bin/qseecomd
+service qseecomd /system/vendor/bin/qseecomd
    class core
    user root
    group root
@@ -384,7 +384,7 @@ service mlipayservice /system/bin/mlipayd
         chown system system /dev/cpuset/camera-daemon/tasks
         chmod 0664 /dev/cpuset/camera-daemon/tasks
 
-service ppd /vendor/bin/mm-pp-dpps
+service ppd /system/vendor/bin/mm-pp-dpps
     class late_start
     user system
     group system graphics
@@ -392,4 +392,4 @@ service ppd /vendor/bin/mm-pp-dpps
     disabled
 
 on property:sys.boot_completed=1
-    swapon_all /vendor/etc/fstab.qcom
+    swapon_all /system/vendor/etc/fstab.qcom

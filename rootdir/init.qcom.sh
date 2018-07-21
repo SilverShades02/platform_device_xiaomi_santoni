@@ -1,4 +1,4 @@
-#! /vendor/bin/sh
+#!/system/vendor/bin/sh
 
 # Copyright (c) 2009-2016, The Linux Foundation. All rights reserved.
 #
@@ -91,7 +91,7 @@ start_msm_irqbalance_8939()
 
 start_msm_irqbalance()
 {
-	if [ -f /vendor/bin/msm_irqbalance ]; then
+	if [ -f /system/vendor/bin/msm_irqbalance ]; then
 		case "$platformid" in
 		    "317" | "324" | "325" | "326" | "345" | "346")
 			start vendor.msm_irqbalance;;
@@ -103,8 +103,8 @@ start_msm_irqbalance()
 
 start_copying_prebuilt_qcril_db()
 {
-    if [ -f /vendor/radio/qcril_database/qcril.db -a ! -f /data/vendor/radio/qcril.db ]; then
-        cp /vendor/radio/qcril_database/qcril.db /data/vendor/radio/qcril.db
+    if [ -f /system/vendor/radio/qcril_database/qcril.db -a ! -f /data/vendor/radio/qcril.db ]; then
+        cp /system/vendor/radio/qcril_database/qcril.db /data/vendor/radio/qcril.db
         chown -h radio.radio /data/vendor/radio/qcril.db
     fi
 }
