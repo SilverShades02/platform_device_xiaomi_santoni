@@ -16,17 +16,11 @@
 
 $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 
-# Inherit some common AOSP stuff.
-TARGET_ARCH := arm64
-TARGET_DENSITY := xhdpi
-TARGET_BOOT_ANIMATION_RES := 720
+# Inherit some common LLuviaOS stuff.
+$(call inherit-product, vendor/lluvia/config/common_full_phone.mk)
+$(call inherit-product, vendor/lluvia/config/caf_fw.mk)
 
-$(call inherit-product, vendor/carbon/config/common.mk)
-
-# Inherit Carbon GSM telephony parts
-$(call inherit-product, vendor/carbon/config/gsm.mk)
-
-PRODUCT_NAME := carbon_santoni
+PRODUCT_NAME := lluvia_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_DEVICE := santoni
 
@@ -37,3 +31,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "Xiaomi/santoni/santoni:7.1.2/N2G47H/V9.5.10.0.NAMMIFD:user/release-keys"
+
+# LLuviaOS Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    DEVICE_MAINTAINERS="Jyotiraditya Panda"
