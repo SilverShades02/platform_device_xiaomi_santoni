@@ -35,7 +35,6 @@
 #include <android-base/properties.h>
 #include <android-base/logging.h>
 #include "property_service.h"
-#include "util.h"
 
 namespace android {
 namespace init {
