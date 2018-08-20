@@ -108,6 +108,10 @@ function configure_memory_parameters() {
     else
         soc_id=`cat /sys/devices/system/soc/soc0/id`
     fi
+
+    if [ $MemTotal -le 2097152 ]; then
+        setprop ro.config.low_ram true
+    fi
 }
 
 function set_rt_bandwidth()
