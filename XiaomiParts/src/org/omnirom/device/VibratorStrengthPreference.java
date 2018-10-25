@@ -38,9 +38,8 @@ public class VibratorStrengthPreference extends SeekBarDialogPreference implemen
     private int mOldStrength;
     private int mMinValue;
     private int mMaxValue;
+    private Vibrator mVibrator;
     private Button mTestButton;
-
-    final Vibrator mVibrator;
 
     private static final String FILE_LEVEL = "/sys/devices/virtual/timed_output/vibrator/vtg_level";
     private static final long testVibrationPattern[] = {0,250};
@@ -72,7 +71,9 @@ public class VibratorStrengthPreference extends SeekBarDialogPreference implemen
         mSeekBar.setProgress(mOldStrength - mMinValue);
 
         mTestButton = (Button) view.findViewById(R.id.vib_test);
-        if (mVibrator != null) {
+        if (!mVibrator.hasVibrator()){
+            mTestButton.setEnabled(false);
+        } else {
             mTestButton.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
                     mVibrator.vibrate(testVibrationPattern, -1);
