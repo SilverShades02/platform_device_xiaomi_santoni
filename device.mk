@@ -447,3 +447,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/etc/ft5336_biel_1080p.ini:system/etc/ft5336_biel_1080p.ini \
     $(LOCAL_PATH)/rootdir/etc/ft5336_oufei_720p.ini:system/etc/ft5336_oufei_720p.ini
+
+# XiaomiDoze
+PRODUCT_PACKAGES += \
+    XiaomiDoze

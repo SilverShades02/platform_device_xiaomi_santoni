@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="LightTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
+    </style>
+    <style name="DarkTheme" parent="android:Theme.Material">
+        <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
+    </style>
+    <style name="BlackTheme" parent="android:Theme.Material">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:alertDialogTheme">@style/BlackAlertDialog</item>
+	<item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
+    </style>
+    <style name="BlackAlertDialog" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:background">@color/black</item>
+    </style>
+
+</resources>
