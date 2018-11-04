@@ -14,12 +14,14 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<vector xmlns:api24="http://schemas.android.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android"
-    android:viewportWidth="1024"
-    android:viewportHeight="1024"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
-    android:height="24dp">
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
     <path
-        android:pathData="M99.5 284.8l61.3 0 0 -74 260.3 260.3 43.4 -43.4 -265.7 -265.7 84.8 0 0 -61.4 -184.1 0zM869.1 825.8L603.4 560 560 603.4l260.3 260.4 -73.9 0 0 61.3 184.1 0 0 -184.1 -61.4 0zm-709 -83.4l-61.4 0 0 184.1 184.2 0 0 -61.3 -68.6 0L477.4 602.1 434 558.7 160.1 832.6ZM742 102l0 61.3 90.2 0 -263 263.1 43.4 43.4 252.2 -252.2 0 68.5 61.4 0 0 -184.1z"
-        android:fillColor="#333333" />
+        android:pathData="M0 0h24v24H0V0z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M14.25 2.26l-0.08-0.04-0.01 0.02 C13.46 2.09 12.74 2 12 2 6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10c0-4.75-3.31-8.72-7.75-9.74zM19.41 9h-7.99l2.71-4.7c2.4 0.66 4.35 2.42 5.28 4.7zM13.1 4.08L10.27 9l-1.15 2L6.4 6.3C7.84 4.88 9.82 4 12 4c0.37 0 0.74 0.03 1.1 0.08 zM5.7 7.09L8.54 12l1.15 2H4.26C4.1 13.36 4 12.69 4 12c0-1.85 0.64 -3.55 1.7-4.91zM4.59 15h7.98l-2.71 4.7c-2.4-0.67-4.34-2.42-5.27-4.7zm6.31 4.91L14.89 13l2.72 4.7C16.16 19.12 14.18 20 12 20c-0.38 0-0.74-0.04-1.1-0.09zm7.4-3l-4-6.91h5.43c0.17 0.64 0.27 1.31 0.27 2 0 1.85-0.64 3.55-1.7 4.91z" />
 </vector>
