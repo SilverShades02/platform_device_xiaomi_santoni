@@ -22,13 +22,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_n_mr1.mk
 # Inherit from santoni device
 $(call inherit-product, device/xiaomi/santoni/device.mk)
 
-# Inherit from Omni custom product configuration
-$(call inherit-product, vendor/aoscp/configs/common_full_phone.mk)
+# Inherit some common fiOS stuff.
+$(call inherit-product, vendor/fi/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions
 TARGET_VENDOR := Xiaomi
 PRODUCT_DEVICE := santoni
-PRODUCT_NAME := aoscp_santoni
+PRODUCT_NAME := fi_santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4X
 PRODUCT_MANUFACTURER := Xiaomi

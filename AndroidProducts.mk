@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aoscp.mk
+    $(LOCAL_DIR)/fi_santoni.mk
