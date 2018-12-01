@@ -2,6 +2,9 @@
 vendor/lib/libhwdaphal.so
 vendor/lib64/libhwdaphal.so
 
+# Alarm - from jasmine - PKQ1.180904.001 V10.0.1.0.PDIMIFJ
+-vendor/app/PowerOffAlarm/PowerOffAlarm.apk|c6ac3bd60b196cbc69fd51a532fcbcf2f4521a67
+
 # Audio ACDB
 etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
 etc/acdbdata/MTP/MTP_General_cal.acdb:vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
