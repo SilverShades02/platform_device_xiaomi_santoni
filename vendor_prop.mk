@@ -142,6 +142,14 @@ video.disable.ubwc=1
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.vendor.qti.sys.fw.bservice_enable=true
 
+# Perf Ux IOPrefetcher
+PRODUCT_PROPERTY_OVERRIDES += \
+vendor.enable_prefetch=1 \
+vendor.iop.enable_uxe=1 \
+vendor.iop.enable_prefetch_ofr=1 \
+vendor.perf.iop_v3.enable=1 \
+persist.vendor.qti.games.gt.prof=1 \
+
 # Perf
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.sys.fw.dex2oat_thread_count=4 \
