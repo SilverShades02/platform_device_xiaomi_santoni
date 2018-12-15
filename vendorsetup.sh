@@ -21,5 +21,5 @@
 # function: add_lunch_combo generic-eng
 
 for var in eng user userdebug; do
-  add_lunch_combo nitrogen_santoni-$var
+  add_lunch_combo aosp_santoni-$var
 done

@@ -16,13 +16,16 @@
 
 $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/nitrogen/products/common.mk)
+# Inherit some common AOSPExtended stuff.
+$(call inherit-product, vendor/aosp/common.mk)
+
+# Bootanimation res
+TARGET_BOOT_ANIMATION_RES := 1080
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4X
-PRODUCT_NAME := nitrogen_santoni
+PRODUCT_NAME := aosp_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
