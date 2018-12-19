@@ -121,6 +121,9 @@ WITH_LINEAGE_CHARGER := false
 # CNE / DPM
 BOARD_USES_QCNE := true
 
+# Crypto
+TARGET_HW_DISK_ENCRYPTION := true
+
 # Dexpreopt
 ifeq ($(HOST_OS),linux)
   ifneq ($(TARGET_BUILD_VARIANT),eng)
@@ -149,10 +152,6 @@ OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 #Media/Display
 TARGET_QCOM_MEDIA_VARIANT := caf-msm8937
 TARGET_QCOM_DISPLAY_VARIANT := caf-msm8937
-
-# Encryption
-TARGET_HW_DISK_ENCRYPTION := true
-TARGET_CRYPTFS_HW_PATH := $(DEVICE_PATH)/cryptfs_hw
 
 # Filesystem
 BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := ext4
