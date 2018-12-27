@@ -1,0 +1,8 @@
+[
+  {
+    "remote"     : "gh",
+    "repository" : "LineageOS/android_external_json-c",
+    "target_path": "external/json-c",
+    "revision"   : "lineage-16.0"
+  }
+]
