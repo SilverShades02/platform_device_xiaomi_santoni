@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oneplus.lib.design.widget.AppBarLayout android:id="@id/actionbar" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip">
+        <com.oneplus.lib.widget.actionbar.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:elevation="0.0dip" app:op_layout_collapseMode="opPin" app:op_layout_scrollFlags="opEnterAlways|opScroll|opSnap" />
+    </com.oneplus.lib.design.widget.AppBarLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:visibility="gone" layout="@layout/layout_empty" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/downloading_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:background="@color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/img_android_nerver_settle" />
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/oneplus_contorl_layout_margin_left3" android:layout_marginEnd="@dimen/oneplus_contorl_layout_margin_left3">
+                <TextView android:textColor="@color/oneplus_contorl_text_color_primary_default" android:id="@id/tv_download_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="57.0dip" style="@style/oneplus_contorl_text_style_subtitle" />
+                <TextView android:textColor="@color/oneplus_contorl_text_color_primary_default" android:id="@id/tv_download_progress" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="21.0dip" style="@style/oneplus_contorl_text_style_display1" />
+                <ProgressBar android:id="@id/progressBar_download" android:layout_width="fill_parent" android:layout_height="@dimen/download_progressbar_height" android:layout_marginTop="10.0dip" android:max="100" android:progressDrawable="@drawable/progressbar_style" style="?android:progressBarStyleHorizontal" />
+                <TextView android:textColor="@color/oneplus_contorl_text_color_primary_default" android:layout_gravity="end" android:id="@id/tv_download_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" style="@style/oneplus_contorl_text_style_body1" />
+            </LinearLayout>
+            <com.oneplus.lib.widget.button.OPButton android:layout_gravity="end" android:id="@id/btn_try_again" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/try_again" android:layout_marginEnd="15.0dip" />
+        </LinearLayout>
+        <com.oneplus.lib.widget.OPProgressBar android:layout_gravity="center" android:id="@id/progressBar_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</LinearLayout>

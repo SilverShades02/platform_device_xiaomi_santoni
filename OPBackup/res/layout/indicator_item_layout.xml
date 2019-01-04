@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton android:layout_gravity="center" android:id="@id/radioButton" android:background="@drawable/indicator_bg" android:layout_width="@dimen/page_indicator_size" android:layout_height="@dimen/page_indicator_size" android:button="@null"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="about_to_restart">Bạn sắp khởi động lại thiết bị để cài đặt bản nâng cấp. Bạn vui lòng không tắt thiết bị trong quá trình cài đặt.</string>
+    <string name="access">Cho phép</string>
+    <string name="alert_text_backup_data">"Cập nhật hệ thống sẽ không ảnh hưởng đến dịch vụ dữ liệu của bạn. 
+Tuy nhiên, để đảm bảo toàn vẹn dữ liệu, vui lòng sao lưu dữ liệu của bạn. Vui lòng khởi động lại điện thoại và cài đặt bản cập nhật."</string>
+    <string name="app_name">Cập nhật Hệ thống</string>
+    <string name="attention">Lời khuyên</string>
+    <string name="battery_low_prompt">Thiết bị cần có mức pin cao hơn 20% để cập nhật. Vui lòng sạc để tiếp tục.</string>
+    <string name="battery_very_low_prompt">Pin còn quá ít, hãy sạc điện thoại của bạn đến 5% trước khi tiếp tục cập nhật. Không rút sạc điện thoại ra.</string>
+    <string name="btn_text_upgrade_now">Nâng cấp ngay</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="check_upgrade_log">Kiểm tra lịch sử cập nhật</string>
+    <string name="click_to_install">Nhấn để cài đặt</string>
+    <string name="continue_to_download">Tiếp tục tải về</string>
+    <string name="default_download_wifi">Chỉ tải về qua Wi-Fi</string>
+    <string name="default_download_wifi_auto">Tự động tải về qua Wi-Fi</string>
+    <string name="dont_wipe_data">Không xóa sạch dữ liệu</string>
+    <string name="download">Tải về</string>
+    <string name="download_cancel">Bạn có chắc bạn muốn hủy bỏ tải về?</string>
+    <string name="download_corrupted">Tập tin tải về không thể được xác nhận, bạn vui lòng tải lại.</string>
+    <string name="download_error">Đã có vấn đề trong quá trình giao tiếp với máy chủ để tải xuống, bạn vui lòng tiếp tục tải xuống sau.</string>
+    <string name="download_error_notification_text">Hãy thử tiếp tục tải xuống sau.</string>
+    <string name="download_error_notification_title">Lỗi cập nhật hệ thống</string>
+    <string name="download_fail">Đã có vấn đề xảy ra trong quá trình tải về, bạn vui lòng tải về một lần nữa.</string>
+    <string name="download_fail_title">Tải về thất bại</string>
+    <string name="download_io_error">Không đủ dung tích để tải về bản cập nhật, vui lòng giải phóng không gian và tiếp tục tải về.</string>
+    <string name="download_is_not_wifi">"Tải về qua dữ liệu di động, có thể mất thêm phí.
+Tiếp tục?"</string>
+    <string name="download_is_slow">"Kết nối của bạn quá chậm và sẽ cần một vài phút để tải về bản cập nhật này.
+Tiếp tục?"</string>
+    <string name="download_no_network">Không có mạng, bạn vui lòng thử lại sau.</string>
+    <string name="download_no_network_title">Không có mạng</string>
+    <string name="download_now">Tải về ngay</string>
+    <string name="download_paused">"Quá trình tải về đã bị tạm ngưng bởi không có mạng.
+Nó sẽ được tiếp diễn khi có kết nối với mạng."</string>
+    <string name="download_paused_resume">"Kết nối Wi-Fi đã bị mất, tải về bị ngưng. 
+Vui lòng thử tiếp tục tải về sau."</string>
+    <string name="download_paused_resume_by_manual">Bạn có chắc bạn muốn tạm ngưng tải về? Bạn có thể tiếp tục sau.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Còn lại %s</string>
+    <string name="download_retry">Tải lại</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Tạm ngưng tải về</string>
+    <string name="downloaded_notification_error_text">Hãy thử tiếp tục tải xuống sau.</string>
+    <string name="downloaded_notification_error_title">Lỗi tải xuống.</string>
+    <string name="downloaded_notification_fail_text">Đã có vấn đề xảy ra trong quá trình tải về, bạn vui lòng thử lại sau.</string>
+    <string name="downloaded_notification_fail_title">Lỗi tải về.</string>
+    <string name="downloaded_notification_io_error_text">Giải phóng không gian và tiếp tục.</string>
+    <string name="downloaded_notification_io_error_title">Không đủ không gian.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Tải về đã bị tạm ngưng.</string>
+    <string name="downloaded_notification_pause_text">Quá trình tải về đã bị tạm ngưng bởi không có mạng khả dụng.</string>
+    <string name="downloaded_notification_pause_title">Tải về bị tạm ngưng.</string>
+    <string name="downloaded_notification_title">Bản cập nhật hệ thống đã được tải về</string>
+    <string name="downloading">Đang tải về %1$s / %2$s</string>
+    <string name="downloading_notification_title">Đang tải về bản cập nhật hệ thống</string>
+    <string name="exists_new_version_title">Phát hiện phiên bản hệ thống mới</string>
+    <string name="has_new_version_notification">Phát hiện một phiên bản mới, Đến cập nhật OTA H2OS</string>
+    <string name="install">Cài đặt</string>
+    <string name="install_copy_fail">Đã có lỗi xảy ra khi cài đặt bản nâng cấp. Bạn vui lòng thử lại sau.</string>
+    <string name="last_check_update">Lần kiểm tra gần nhất: %1$s</string>
+    <string name="need_more_space">Không đủ dung lượng lưu trữ để nâng cấp, bạn cần %s dung lượng lưu trữ. Vui lòng giải phóng bớt dung lượng và thử lại.</string>
+    <string name="network_tip">Mạng hiện tại là 2G/3G/4G. Việc tiếp tục tải về có thể làm phát sinh phí từ nhà mạng của bạn.</string>
+    <string name="network_wrarning_checkbox">Không hiển thị lại lời nhắc</string>
+    <string name="network_wrarning_text">Ứng dụng này tạo ra lưu lượng dữ liệu. Khuyến nghị sử dụng với Wi-Fi</string>
+    <string name="network_wrarning_title">Lời nhắc</string>
+    <string name="no_enough_space">Không còn đủ dung lượng lưu trữ. Bạn vui lòng giải phóng thêm dung lượng và thử lại.</string>
+    <string name="no_local_update_packges_title">Di chuyển gói cài đặt vào thư mục root</string>
+    <string name="no_upgrade_log">Không có nhật ký cập nhật</string>
+    <string name="notification_download_fail">Thất bại khi tải về gói nâng cấp, vui lòng thử lại</string>
+    <string name="notification_download_success">Tải về đã hoàn tất, nhấn nút cập nhật</string>
+    <string name="notification_downloading">Tải về</string>
+    <string name="notification_into_update_content">Chạm để nâng cấp ngay</string>
+    <string name="notification_into_update_title">Đã hoàn tất tải về gói cập nhật hệ thống</string>
+    <string name="oneplus_read_contacts">Truy cập Mạng</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Nhớ lựa chọn của tôi</string>
+    <string name="oneplus_rights_dialog_discription">Bạn cần các quyền sau đây để sử dụng bản cập nhật hệ thống</string>
+    <string name="oneplus_rights_dialog_title">Quyền của ứng dụng</string>
+    <string name="ota_check_update">Kiểm tra cập nhật</string>
+    <string name="ota_never_check_update">Bạn chưa bao giờ kiểm tra cập nhật.</string>
+    <string name="ota_new_update">Đã có phiên bản mới</string>
+    <string name="ota_new_update_downloading">"Có phiên bản mới
+Đang tải về…"</string>
+    <string name="ota_new_update_name">%1$s Cập nhật Hệ thống</string>
+    <string name="ota_new_update_name_downloading">"%1$s Cập nhật Hệ thống
+Đang tải về…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Cập nhật Hệ thống
+Tạm ngưng tải về…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Cập nhật Hệ thống
+Sẵn sàng cài đặt"</string>
+    <string name="ota_new_update_paused">Tạm ngưng tải về…</string>
+    <string name="ota_new_update_ready">"Có phiên bản mới
+Sẵn sàng cài đặt"</string>
+    <string name="ota_no_update">Hệ thống của bạn đã cập nhật</string>
+    <string name="ota_oem_unlock_detected_alert">Phát thiện thấy mở khóa OEM. Hệ thống sẽ bắt đầu tải về gói nâng cấp đầy đủ. Để đảm bảo sự toàn vẹn của dữ liệu, vui lòng thực hiện sao lưu.</string>
+    <string name="ota_root_detected_alert">Phát hiện root, hệ thống sẽ bắt đầu tải về gói nâng cấp đầy đủ. Để đảm bảo sự toàn vẹn của dữ liệu, vui lòng thực hiện sao lưu. Thiết bị của bạn sẽ được hủy root khi quá trình nâng cấp đã hoàn tất.</string>
+    <string name="pause_downloading">Tạm dừng tải về</string>
+    <string name="play_under_mobile_data">Phát</string>
+    <string name="play_under_mobile_data_tips">Đang dùng mạng di động, tiếp tục phát?</string>
+    <string name="preparing_download">Đang chuẩn bị tải về…</string>
+    <string name="preparing_install">Đang chuẩn bị cài đặt…</string>
+    <string name="ready_to_install">Bản cập nhật hệ thống đã sẵn sàng. Nhấn nút cài đặt dưới đây để khởi động lại điện thoại của bạn và cài đặt bản cập nhật.</string>
+    <string name="ready_to_upgrade">Đang kiểm tra gói cập nhật...</string>
+    <string name="reject">Không cho phép</string>
+    <string name="remind_later">Nhắc tôi sau</string>
+    <string name="resume">Tiếp tục</string>
+    <string name="rooted_warning">"Phát hiện thiết bị đã cài root, việc cập nhật có thể thất bại.
+Bạn có muốn nâng cấp?"</string>
+    <string name="search_menu_title">Tìm kiếm</string>
+    <string name="searching">Đang tìm kiếm...</string>
+    <string name="setting">Thiết lập</string>
+    <string name="share">Chia sẻ</string>
+    <string name="show_new_version_info">Kiểm tra nội dung được cập nhật</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Phiên bản của gói bạn đã chọn thấp hơn phiên bản của hệ thống hiện tại. Để tránh lỗi khởi động, quá trình giảm cấp sẽ không được phép thực hiện.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ĐÃ HIỂU</string>
+    <string name="str_ab_upgrade_warning_wipe">"Gói bạn đã chọn sẽ đặt lại thiết bị của bạn về cài đặt gốc sau khi cài đặt.
+Bạn có chắc chắn muốn cài đặt nó không?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Bản cập nhật hệ thống này sẽ không ảnh hưởng đến dữ liệu của bạn.
+Tuy nhiên, để đảm bảo sự toàn vẹn của dữ liệu, vui lòng thực hiện sao lưu."</string>
+    <string name="str_abupdate_continue_download">Tiếp tục tải về &amp; cài đặt</string>
+    <string name="str_abupdate_install_completed">Đã hoàn tất cài đặt bản cập nhật hệ thống. Vui lòng khởi động lại để hoàn tất bản cập nhật.</string>
+    <string name="str_abupdate_install_failed">Cài đặt bản cập nhật hệ thống thất bại</string>
+    <string name="str_abupdate_install_update">CÀI ĐẶT NGAY</string>
+    <string name="str_abupdate_installing">Đang cài đặt bản cập nhật hệ thống</string>
+    <string name="str_abupdate_local_package_log">Phiên bản này không có nhật ký thay đổi</string>
+    <string name="str_abupdate_reboot">KHỞI ĐỘNG LẠI</string>
+    <string name="str_abupdate_retry_failed">Cài đặt bản cập nhật hệ thống thất bại. Đang kiểm tra gói nâng cấp đầy đủ.</string>
+    <string name="str_abupdate_start_download">Tải về &amp; Cài đặt ngay</string>
+    <string name="str_abupdate_try_again">THỬ LẠI</string>
+    <string name="str_alert_local_downgrade">"Gói bạn chọn thấp hơn phiên bản hiện tại. Điều này có thể khiến máy không khởi động được do vấn đề về tương thích dữ liệu.
+Bạn có chắc bạn muốn cài đặt phiên bản cũ?"</string>
+    <string name="str_alert_local_downgrade_confirm">Xác nhận</string>
+    <string name="str_beta_to_mp_not_allow">"Gói bạn đã chọn thấp hơn phiên bản của hệ thống hiện tại. Để tránh lỗi khởi động, bạn không được phép hạ cấp.
+Nếu bạn muốn hạ cấp, vui lòng khởi động lại Chế độ Phục hồi để cài đặt gói."</string>
+    <string name="str_disabled_local_upgrade_summary">Không thể nâng cấp cục bộ bởi bạn đang tải về hoặc cài đặt một bản cập nhật hệ thống.</string>
+    <string name="str_download_retry">Tải về &amp; Cài đặt lại</string>
+    <string name="str_mp_downgrade_not_allow">"Gói bạn đã chọn thấp hơn phiên bản của hệ thống hiện tại. Để tránh lỗi khởi động, bạn không được phép hạ cấp.
+Nếu bạn muốn hạ cấp, trước hết hãy sao lưu dữ liệu của bạn, sau đó bạn có thể khởi động lại vào Chế độ Phục hồi để cài đặt gói."</string>
+    <string name="str_pause_download_new">Tạm dừng</string>
+    <string name="str_time_incorrect_check_failed">Kiểm tra cập nhật thất bại do ngày và giờ của thiết bị không chính xác</string>
+    <string name="str_time_incorrect_download_failed">Tải về thất bại do ngày và giờ của thiết bị không chính xác</string>
+    <string name="system_battery_low">Pin yếu (20%). Vui lòng sạc lại</string>
+    <string name="system_battery_low_title">Pin yếu</string>
+    <string name="system_can_fix_to_new_version">Hệ thống có thể được cập nhật lên phiên bản mới nhất</string>
+    <string name="system_can_update_to_new_version">Cập nhật ngay</string>
+    <string name="system_download_complete">Tải về hệ thống %s đã hoàn tất</string>
+    <string name="system_download_fail">Tải về thất bại. Vui lòng kiểm tra mạng và thử lại</string>
+    <string name="system_downloading">Tải về hệ thống %s</string>
+    <string name="system_fix_download">Tải về bản vá lỗi ngay</string>
+    <string name="system_fix_now">Khởi động lại để sửa ngay</string>
+    <string name="system_repair_mode">Chế độ sửa chữa</string>
+    <string name="system_update_checking">Đang kiểm tra cập nhật...</string>
+    <string name="system_update_download_finish">Tải về đã hoàn tất</string>
+    <string name="system_update_download_finish_tip">Nhấn để nâng cấp. Hệ thống sẽ tự động khởi động lại</string>
+    <string name="system_update_downloading_tip">Đang tải dữ liệu cho phiên bản mới:</string>
+    <string name="system_update_error">Mạng không được kết nối</string>
+    <string name="system_update_fail">Nâng cấp thất bại. Vui lòng thử lại</string>
+    <string name="system_update_messages">Lời nhắc cập nhật hệ thống %s</string>
+    <string name="system_update_messages_download">Cập nhật hệ thống %s, nhấn tải về bản cập nhật</string>
+    <string name="system_update_messages_failed_text">Cập nhật thất bại, nhấn để vào chế độ sửa chữa và thử lại</string>
+    <string name="system_update_messages_failed_title">Cập nhật hệ thống đã thất bại</string>
+    <string name="system_update_messages_success_text">Hệ thống đã được cập nhật thành công lên %s</string>
+    <string name="system_update_messages_success_title">Hệ thống đã được cập nhật</string>
+    <string name="system_update_no_network">Vui lòng thiết lập mạng trước</string>
+    <string name="system_update_notification">Thông báo cập nhật hệ thống</string>
+    <string name="system_update_now">Khởi động lại để nâng cấp ngay</string>
+    <string name="system_update_remain_time">Thời gian còn lại:</string>
+    <string name="system_update_success">Nâng cấp đã hoàn tất</string>
+    <string name="system_updating">Đang nâng cấp</string>
+    <string name="system_updating_tip">Dữ liệu sẽ không bị mất sau khi nâng cấp</string>
+    <string name="update_check_title">Kiểm tra cập nhật</string>
+    <string name="update_checking">Đang kiểm tra cập nhật, bạn vui lòng chờ…</string>
+    <string name="update_from_local">Nâng cấp cục bộ</string>
+    <string name="update_log">Lịch sử cập nhật</string>
+    <string name="update_package_size">Kích cỡ cập nhật: </string>
+    <string name="upgrade_log">Lịch sử cập nhật</string>
+    <string name="upgrade_package_not_exist">Gói nâng cấp không tồn tại, vui lòng tải về lại.</string>
+    <string name="verify_fail">Xác minh chữ ký thất bại</string>
+    <string name="verifying">Đang xác nhận tập tin, bạn vui lòng chờ…</string>
+    <string name="wipe_data">Xóa sạch dữ liệu</string>
+    <string name="wipe_data_text">"Chúng tôi khuyến nghị bạn xóa sạch dữ liệu (các ứng dụng đã cài, SMS và các dữ liệu khác) trước khi cài đặt bản cập nhật này.
+Bạn có muốn xóa sạch dữ liệu hay không?"</string>
+    <string name="wipe_data_title">Cảnh báo</string>
+</resources>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="about_to_restart">U staat op het punt uw toestel te herstarten om de update te installeren. Gelieve het toestel niet uit te schakelen tijdens het proces.</string>
+    <string name="access">Toestaan</string>
+    <string name="alert_text_backup_data">"De systeemupdate heeft geen invloed op uw gegevens. 
+Gelieve echter een back-up te maken om de integriteit van uw gegevens te garanderen. Gelieve de telefoon opnieuw op te starten en de update te installeren."</string>
+    <string name="app_name">Systeemupdate</string>
+    <string name="attention">Tips</string>
+    <string name="battery_low_prompt">Het toestel dient minstens 20% opgeladen te zijn om bij te werken. Laad op om verder te gaan.</string>
+    <string name="battery_very_low_prompt">Batterij is te laag, gelieve uw telefoon tot 5% op te laden voordat u verdergaat met de update. Laat uw telefoon verder opladen.</string>
+    <string name="btn_text_upgrade_now">Nu Bijwerken</string>
+    <string name="cancel">Annuleren</string>
+    <string name="check_upgrade_log">Log updates controleren</string>
+    <string name="click_to_install">Klik om te installeren</string>
+    <string name="continue_to_download">Doorgaan met downloaden</string>
+    <string name="default_download_wifi">Enkel downloaden via Wi-Fi</string>
+    <string name="default_download_wifi_auto">Automatisch downloaden over Wi-Fi</string>
+    <string name="dont_wipe_data">Gegevens niet wissen</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Bent u zeker dat u het downloaden wenst te annuleren?</string>
+    <string name="download_corrupted">De download kon niet worden geverifieerd, gelieve opnieuw te downloaden.</string>
+    <string name="download_error">Er is een probleem opgetreden bij het communiceren met de server tijdens het downloaden, gelieve de download later te hervatten.</string>
+    <string name="download_error_notification_text">Probeer de download later te hervatten.</string>
+    <string name="download_error_notification_title">Fout in systeemupdate</string>
+    <string name="download_fail">Er is een probleem opgetreden tijdens het downloaden, gelieve opnieuw te downloaden.</string>
+    <string name="download_fail_title">Download mislukt</string>
+    <string name="download_io_error">Er is onvoldoende opslagruimte om de update te downloaden, gelieve ruimte vrij te maken en de download te hervatten.</string>
+    <string name="download_is_not_wifi">"Downloaden via mobiel dataverkeer kan bijkomende kosten meebrengen.
+Verder gaan?"</string>
+    <string name="download_is_slow">"Uw verbinding is te traag en het kan enige tijd duren om de update te downloaden.
+Verder gaan?"</string>
+    <string name="download_no_network">Netwerk niet gedetecteerd, probeer het later opnieuw.</string>
+    <string name="download_no_network_title">Netwerk niet gedetecteerd</string>
+    <string name="download_now">Nu downloaden</string>
+    <string name="download_paused">"Het downloaden is onderbroken, omdat er geen netwerk beschikbaar is.
+Het wordt hervat wanneer er een netwerk is."</string>
+    <string name="download_paused_resume">"Wi-Fi-verbinding verloren, downloaden onderbroken. 
+Probeer later te hervatten."</string>
+    <string name="download_paused_resume_by_manual">Bent u zeker dat u de download wenst te onderbreken? U kunt later hervatten.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s links</string>
+    <string name="download_retry">Opnieuw downloaden</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Download gepauzeerd</string>
+    <string name="downloaded_notification_error_text">Probeer de download later te hervatten.</string>
+    <string name="downloaded_notification_error_title">Fout bij het downloaden.</string>
+    <string name="downloaded_notification_fail_text">Er is een probleem opgetreden tijdens het downloaden, gelieve het later opnieuw te proberen.</string>
+    <string name="downloaded_notification_fail_title">Fout bij het downloaden.</string>
+    <string name="downloaded_notification_io_error_text">Maak ruimte vrij en hervat.</string>
+    <string name="downloaded_notification_io_error_title">Niet voldoende ruimte.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Download werd onderbroken.</string>
+    <string name="downloaded_notification_pause_text">Het downloaden werd onderbroken omdat er geen netwerk beschikbaar is.</string>
+    <string name="downloaded_notification_pause_title">Download gepauzeerd.</string>
+    <string name="downloaded_notification_title">Systeemupdate gedownload</string>
+    <string name="downloading">Download %1$s van %2$s</string>
+    <string name="downloading_notification_title">Downloaden systeemupdate</string>
+    <string name="exists_new_version_title">Nieuwe systeemversie gedetecteerd</string>
+    <string name="has_new_version_notification">Er werd een nieuwe versie gedetecteerd, Ga naar H2OS OTA update</string>
+    <string name="install">Installeren</string>
+    <string name="install_copy_fail">Er was een probleem bij het installeren van de upgrade. Gelieve het later opnieuw te proberen.</string>
+    <string name="last_check_update">Laatst gecontroleerd: %1$s</string>
+    <string name="need_more_space">Onvoldoende opslagruimte om bij te werken, u heeft %s opslagruimte nodig. Maak ruimte vrij en probeer het opnieuw.</string>
+    <string name="network_tip">Huidig netwerk is 2G/3G/4G. Verder gaan met downloaden kan kosten meebrengen van de provider.</string>
+    <string name="network_wrarning_checkbox">Herinnering niet opnieuw weergeven</string>
+    <string name="network_wrarning_text">Deze applicatie produceert dataverkeer. Uitvoering aanbevolen tijdens gebruik van Wi-Fi</string>
+    <string name="network_wrarning_title">Herinnering</string>
+    <string name="no_enough_space">Onvoldoende opslagruimte. Gelieve ruimte vrij te maken en probeer het opnieuw.</string>
+    <string name="no_local_update_packges_title">Installatiepakket verplaatsen naar hoofdmap</string>
+    <string name="no_upgrade_log">Geen update logbestand beschikbaar</string>
+    <string name="notification_download_fail">Downloaden upgradepakket mislukt, probeer opnieuw te downloaden</string>
+    <string name="notification_download_success">Download voltooid, klik op update</string>
+    <string name="notification_downloading">Downloaden</string>
+    <string name="notification_into_update_content">Tap om nu bij te werken</string>
+    <string name="notification_into_update_title">Downloaden pakket systeemupdate voltooid</string>
+    <string name="oneplus_read_contacts">Open Netwerk</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Onthoud mijn keuzes</string>
+    <string name="oneplus_rights_dialog_discription">U heeft de volgende machtigingen nodig om de systeemupdate te gebruiken</string>
+    <string name="oneplus_rights_dialog_title">Toelating applicatie</string>
+    <string name="ota_check_update">Controleer op update</string>
+    <string name="ota_never_check_update">U heeft nooit gecontroleerd voor een update.</string>
+    <string name="ota_new_update">Nieuwe versie beschikbaar</string>
+    <string name="ota_new_update_downloading">"Nieuwe versie beschikbaar
+Downloaden…"</string>
+    <string name="ota_new_update_name">%1$s Systeemupdate</string>
+    <string name="ota_new_update_name_downloading">"%1$s Systeemupdate
+Downloaden…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Systeemupdate
+Download gepauzeerd…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Systeemupdate
+Klaar om te installeren"</string>
+    <string name="ota_new_update_paused">Download gepauzeerd…</string>
+    <string name="ota_new_update_ready">"Nieuwe versie beschikbaar
+Klaar om te installeren"</string>
+    <string name="ota_no_update">Uw systeem is up-to-date</string>
+    <string name="ota_oem_unlock_detected_alert">OEM ontgrendelen is gedetecteerd. Het systeem zal beginnen met het downloaden van het volledige upgradepakket. Maak een back-up om de integriteit van uw gegevens te garanderen.</string>
+    <string name="ota_root_detected_alert">Root werd gedetecteerd, systeem begint het volledige upgradepakket te downloaden. Gelieve een back-up uit te voeren om de integriteit van uw gegevens te garanderen. Uw toestel wordt root-vrij gemaakt van zodra de upgrade voltooid werd.</string>
+    <string name="pause_downloading">Download pauzeren</string>
+    <string name="play_under_mobile_data">Afspelen</string>
+    <string name="play_under_mobile_data_tips">Momenteel in een mobiel netwerk, verder afspelen?</string>
+    <string name="preparing_download">Voorbereiden download…</string>
+    <string name="preparing_install">Installatie voorbereiden…</string>
+    <string name="ready_to_install">Systeemupdate is klaar. Klik hieronder op installeren om uw telefoon herop te starten en de update installeren.</string>
+    <string name="ready_to_upgrade">Updatepakket verifiëren...</string>
+    <string name="reject">Niet toestaan</string>
+    <string name="remind_later">Herinner mij later</string>
+    <string name="resume">Ga verder</string>
+    <string name="rooted_warning">"Verankerd toestel gedetecteerd, update kan mislukken.
+Wenst u te upgraden?"</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="searching">Zoeken...</string>
+    <string name="setting">Instellingen</string>
+    <string name="share">Delen</string>
+    <string name="show_new_version_info">Bijgewerkte inhoud controleren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">De versie van uw geselecteerde pakket is lager dan die van het huidige systeem. Downgraden is niet mogelijk om fouten bij het opstarten te vermijden.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">BEGREPEN</string>
+    <string name="str_ab_upgrade_warning_wipe">"Het pakket dat u hebt geselecteerd zorgt dat het toestel na de installatie wordt gereset naar de fabrieksinstellingen. 
+Weet u zeker dat u het pakket wilt installeren?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Deze systeemupdate heeft geen invloed op uw gegevens. 
+Gelieve echter een back-up te maken om de integriteit van uw gegevens te garanderen."</string>
+    <string name="str_abupdate_continue_download">Download &amp; installatie hervatten</string>
+    <string name="str_abupdate_install_completed">Installatie systeemupdate voltooid. Gelieve opnieuw op te starten om de update te voltooien.</string>
+    <string name="str_abupdate_install_failed">Installatie systeemupdate mislukt</string>
+    <string name="str_abupdate_install_update">NU INSTALLEREN</string>
+    <string name="str_abupdate_installing">Systeemupdate wordt geïnstalleerd</string>
+    <string name="str_abupdate_local_package_log">Deze versie heeft geen changelog</string>
+    <string name="str_abupdate_reboot">OPNIEUW OPSTARTEN</string>
+    <string name="str_abupdate_retry_failed">Installatie systeemupdate mislukt. Er wordt gecontroleerd voor een volledig upgradepakket.</string>
+    <string name="str_abupdate_start_download">Download &amp; Installeer nu</string>
+    <string name="str_abupdate_try_again">OPNIEUW PROBEREN</string>
+    <string name="str_alert_local_downgrade">"Het pakket dat u selecteerde is lager dan de huidige versie. Dit kan ertoe leiden dat opnieuw opstarten mislukt door problemen met gegevenscompatibiliteit.
+Bent u zeker dat u de oude versie wilt installeren?"</string>
+    <string name="str_alert_local_downgrade_confirm">Bevestigen</string>
+    <string name="str_beta_to_mp_not_allow">"Het door u geselecteerde pakket is lager dan de huidige systeemversie. Om te voorkomen dat het opnieuw opstarten mislukt, is degradatie niet toegestaan.
+Als u toch wilt degraderen, start dan opnieuw op naar de herstelmodus om het pakket te installeren."</string>
+    <string name="str_disabled_local_upgrade_summary">Kan niet lokaal upgraden omdat u een systeemupdate downloadt of installeert.</string>
+    <string name="str_download_retry">Opnieuw Downloaden &amp; Installeren</string>
+    <string name="str_mp_downgrade_not_allow">"Het door u geselecteerde pakket is lager dan de huidige systeemversie. Om te voorkomen dat het opnieuw opstarten mislukt, is degradatie niet toegestaan.
+Als u toch wilt degraderen, start dan opnieuw op naar de herstelmodus om het pakket te installeren."</string>
+    <string name="str_pause_download_new">Pauzeren</string>
+    <string name="str_time_incorrect_check_failed">Zoeken naar updates is mislukt omdat de datum en tijd van uw toestel incorrect zijn</string>
+    <string name="str_time_incorrect_download_failed">Het downloaden is mislukt omdat de datum en tijd van uw toestel incorrect zijn</string>
+    <string name="system_battery_low">Batterij laag (20%). Gelieve op te laden</string>
+    <string name="system_battery_low_title">Batterij laag</string>
+    <string name="system_can_fix_to_new_version">Systeem kan worden bijgewerkt naar de nieuwste versie</string>
+    <string name="system_can_update_to_new_version">Nu bijwerken</string>
+    <string name="system_download_complete">Downloaden systeem %s voltooid</string>
+    <string name="system_download_fail">Downloaden mislukt. Controleer netwerk en probeer het opnieuw</string>
+    <string name="system_downloading">Systeem %s downloaden</string>
+    <string name="system_fix_download">Herstelpakket nu downloaden</string>
+    <string name="system_fix_now">Herstart om nu te herstellen</string>
+    <string name="system_repair_mode">Herstelmodus</string>
+    <string name="system_update_checking">Controleren op updates...</string>
+    <string name="system_update_download_finish">Download voltooid</string>
+    <string name="system_update_download_finish_tip">Klik om bij te werken. Systeem wordt automatisch opnieuw gestart</string>
+    <string name="system_update_downloading_tip">Gegevens downloaden voor nieuwe versie:</string>
+    <string name="system_update_error">Netwerk niet verbonden</string>
+    <string name="system_update_fail">Bijwerken mislukt. Probeer het opnieuw</string>
+    <string name="system_update_messages">Herinnering systeem %s update</string>
+    <string name="system_update_messages_download">Systeem %s update, klik op download update</string>
+    <string name="system_update_messages_failed_text">Update mislukt, tap om herstelmodus te starten en probeer het opnieuw</string>
+    <string name="system_update_messages_failed_title">Systeemupdate mislukt</string>
+    <string name="system_update_messages_success_text">Systeem werd met succes bijgewerkt naar %s</string>
+    <string name="system_update_messages_success_title">Systeem werd bijgewerkt</string>
+    <string name="system_update_no_network">Stel eerst een netwerk in</string>
+    <string name="system_update_notification">Melding systeemupdate</string>
+    <string name="system_update_now">Herstart om nu bij te werken</string>
+    <string name="system_update_remain_time">Resterende tijd:</string>
+    <string name="system_update_success">Upgrade voltooid</string>
+    <string name="system_updating">Bijwerken</string>
+    <string name="system_updating_tip">Gegevens gaan niet verloren na upgrade</string>
+    <string name="update_check_title">Controleren op updates</string>
+    <string name="update_checking">Controleren op updates, even geduld…</string>
+    <string name="update_from_local">Lokale upgrade</string>
+    <string name="update_log">Log bijwerken</string>
+    <string name="update_package_size">Grootte update:</string>
+    <string name="upgrade_log">Log updates</string>
+    <string name="upgrade_package_not_exist">Upgradepakket bestaat niet, gelieve opnieuw te downloaden.</string>
+    <string name="verify_fail">Verificatie handtekening mislukt</string>
+    <string name="verifying">Controleren van bestand, even geduld…</string>
+    <string name="wipe_data">Gegevens wissen</string>
+    <string name="wipe_data_text">"Het is aanbevolen om uw gegevens te verwijderen (geïnstalleerde apps, SMS en andere gegevens) voor het installeren van deze update.
+Wenst u dit te verwijderen?"</string>
+    <string name="wipe_data_title">Waarschuwing</string>
+</resources>

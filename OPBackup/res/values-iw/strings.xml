@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">נווט לדף הבית</string>
+    <string name="abc_action_bar_up_description">נווט למעלה</string>
+    <string name="abc_action_menu_overflow_description">עוד אפשרויות</string>
+    <string name="abc_action_mode_done">בוצע</string>
+    <string name="abc_activity_chooser_view_see_all">ראה הכל</string>
+    <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
+    <string name="abc_capital_off">כבוי</string>
+    <string name="abc_capital_on">פועל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">מקש רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
+    <string name="abc_search_hint">חיפוש…</string>
+    <string name="abc_searchview_description_clear">מחק שאילתה</string>
+    <string name="abc_searchview_description_query">שאילתת חיפוש</string>
+    <string name="abc_searchview_description_search">חיפוש</string>
+    <string name="abc_searchview_description_submit">שלח שאילתה</string>
+    <string name="abc_searchview_description_voice">חיפוש קולי</string>
+    <string name="abc_shareactionprovider_share_with">שתף עם</string>
+    <string name="abc_shareactionprovider_share_with_application">שתף עם %s</string>
+    <string name="abc_toolbar_collapse_description">כווץ</string>
+    <string name="about_to_restart">אתה עומד לאתחל את מכשירך ולהתקין את העדכון. אין לכבות את המכשיר בזמן התהליך.</string>
+    <string name="access">אשר</string>
+    <string name="alert_text_backup_data">"עדכון המערכת לא ישפיע על הנתונים שלך. 
+יחד עם זאת, כדי להבטיח את שלמות הנתונים שלך, יש לבצע גיבוי. אנא אתחל את הטלפון שלך והתקן את העדכון."</string>
+    <string name="app_name">עדכון מערכת</string>
+    <string name="attention">טיפים</string>
+    <string name="battery_low_prompt">סוללת המכשיר צריכה להיות טעונה מעל 20% לביצוע העדכון. הטען הסוללה כדי להמשיך.</string>
+    <string name="battery_very_low_prompt">הסוללה חלשה מדי. הטען את סוללת הטלפון שלך עד 5% בטרם תמשיך עם העדכון. השאר את מכשירך מחובר לחשמל.</string>
+    <string name="btn_text_upgrade_now">שדרג עכשיו</string>
+    <string name="cancel">בטל</string>
+    <string name="check_upgrade_log">בדוק את יומן הרישום</string>
+    <string name="click_to_install">לחץ כדי להתקין</string>
+    <string name="continue_to_download">המשך להורדה</string>
+    <string name="default_download_wifi">הורד רק באמצעות Wi-Fi</string>
+    <string name="default_download_wifi_auto">הורדה אוטומטית ברשת Wi-Fi</string>
+    <string name="dont_wipe_data">אל תנקה נתונים</string>
+    <string name="download">הורד</string>
+    <string name="download_cancel">האם אתה בטוח שברצונך לבטל את ההורדה?</string>
+    <string name="download_corrupted">לא ניתן לאמת את ההורדה, נסה להוריד שנית.</string>
+    <string name="download_error">אירעה בעיית התחברות לשרת במהלך ההורדה, אנא המשך את ההורדה מאוחר יותר.</string>
+    <string name="download_error_notification_text">נסה להמשיך את ההורדה מאוחר יותר.</string>
+    <string name="download_error_notification_title">שגיאה בעת עדכון המערכת</string>
+    <string name="download_fail">אירעה שגיאה במהלך ההורדה, נסה להוריד שנית.</string>
+    <string name="download_fail_title">ההורדה נכשלה</string>
+    <string name="download_io_error">לא קיים מספיק שטח אחסון פנוי להורדת העדכון, אנא פנה שטח אחסון וחדש את ההורדה.</string>
+    <string name="download_is_not_wifi">"מוריד באמצעות רשת העברת נתונים סלולרית, ייתכן שיחולו חיובים נוספים.
+להמשיך?"</string>
+    <string name="download_is_slow">"חיבור הרשת שלך איטי מדי ולכן הורדת העדכון עלולה להימשך זמן רב.
+להמשיך?"</string>
+    <string name="download_no_network">לא זוהתה רשת, נסה שוב מאוחר יותר.</string>
+    <string name="download_no_network_title">לא זוהתה רשת</string>
+    <string name="download_now">הורד כעת</string>
+    <string name="download_paused">"ההורדה הושהתה משום שלא קיים חיבור רשת זמין.
+ההורדה תתחדש ברגע שתתחבר מחדש לרשת האינטרנט."</string>
+    <string name="download_paused_resume">"חיבור ה-Wi-Fi אבד, ההורדה הושהתה. 
+נסה לחדש את ההורדה מאוחר יותר."</string>
+    <string name="download_paused_resume_by_manual">האם אתה בטוח שברצונך להשהות את ההורדה? תוכל לחדש אותה מאוחר יותר.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s נותרו</string>
+    <string name="download_retry">הורד שנית</string>
+    <string name="download_speed_text">%1$s,%2$s לשנייה</string>
+    <string name="download_state_update_paused">ההורדה הושהתה</string>
+    <string name="downloaded_notification_error_text">נסה להמשיך את ההורדה מאוחר יותר.</string>
+    <string name="downloaded_notification_error_title">שגיאת הורדה.</string>
+    <string name="downloaded_notification_fail_text">אירעה שגיאה במהלך ההורדה, נסה שוב מאוחר יותר.</string>
+    <string name="downloaded_notification_fail_title">שגיאת הורדה.</string>
+    <string name="downloaded_notification_io_error_text">פנה שטח אחסון ונסה שנית.</string>
+    <string name="downloaded_notification_io_error_title">אין די שטח אחסון פנוי.</string>
+    <string name="downloaded_notification_pause_by_manual_text">ההורדה הושהתה.</string>
+    <string name="downloaded_notification_pause_text">ההורדה הושהתה משום שלא קיים חיבור רשת זמין.</string>
+    <string name="downloaded_notification_pause_title">ההורדה הושהתה.</string>
+    <string name="downloaded_notification_title">הורדת עדכון המערכת הושלמה</string>
+    <string name="downloading">מוריד %1$s מתוך %2$s</string>
+    <string name="downloading_notification_title">מוריד עדכון מערכת</string>
+    <string name="exists_new_version_title">גרסת מערכת חדשה זוהתה</string>
+    <string name="has_new_version_notification">גרסה חדשה זוהתה, עבור לעדכון H2OS OTA</string>
+    <string name="install">התקן</string>
+    <string name="install_copy_fail">אירעה שגיאה במהלך התקנת העדכון. נסה שוב מאוחר יותר.</string>
+    <string name="last_check_update">בדיקה אחרונה: %1$s</string>
+    <string name="need_more_space">אין די שטח אחסון פנוי, נדרשים עוד %s לביצוע השדרוג. פנה מקום במכשירך ונסה שנית.</string>
+    <string name="network_tip">הרשת הנוכחית היא 2G/3G/4G. המשך ההורדה עשוי להוביל לחיוב עמלות על ידי ספק הסלולר.</string>
+    <string name="network_wrarning_checkbox">אל תציג תזכורת שוב</string>
+    <string name="network_wrarning_text">יישום זה מייצר תעבורת נתונים. מומלץ לבצע בעת חיבור לרשת Wi-Fi</string>
+    <string name="network_wrarning_title">תזכורת</string>
+    <string name="no_enough_space">אין מספיק שטח אחסון פנוי. פנה שטח אחסון ונסה שוב.</string>
+    <string name="no_local_update_packges_title">העבר חבילת התקנה לספריית ה-Root</string>
+    <string name="no_upgrade_log">אין יומן עדכונים זמין</string>
+    <string name="notification_download_fail">הורדת חבילת השדרוג נכשלה, נסה להוריד אותה שוב</string>
+    <string name="notification_download_success">ההורדה הושלמה, לחץ כדי לעדכן</string>
+    <string name="notification_downloading">מוריד</string>
+    <string name="notification_into_update_content">הקש כדי לשדרג כעת</string>
+    <string name="notification_into_update_title">חבילת עדכון המערכת הורדה בהצלחה</string>
+    <string name="oneplus_read_contacts">גישה לרשת</string>
+    <string name="oneplus_rights_dialog_checkbox_text">זכור את הבחירות שלי</string>
+    <string name="oneplus_rights_dialog_discription">יש צורך בהרשאות הבאות כדי לעדכן את המערכת</string>
+    <string name="oneplus_rights_dialog_title">הרשאות יישום</string>
+    <string name="ota_check_update">בדוק אם קיימים עדכונים</string>
+    <string name="ota_never_check_update">מעולם לא בדקת אם קיימים עדכונים.</string>
+    <string name="ota_new_update">גרסה חדשה זמינה</string>
+    <string name="ota_new_update_downloading">"גרסה חדשה זמינה
+מוריד…"</string>
+    <string name="ota_new_update_name">%1$s עדכון מערכת</string>
+    <string name="ota_new_update_name_downloading">"%1$s עדכון מערכת
+מוריד…"</string>
+    <string name="ota_new_update_name_paused">"%1$s עדכון מערכת
+ההורדה הושהתה…"</string>
+    <string name="ota_new_update_name_ready">"%1$s עדכון מערכת
+מוכן להתקנה"</string>
+    <string name="ota_new_update_paused">ההורדה הושהתה…</string>
+    <string name="ota_new_update_ready">"גרסה חדשה זמינה
+מוכן להתקנה"</string>
+    <string name="ota_no_update">המערכת שלך עדכנית</string>
+    <string name="ota_oem_unlock_detected_alert">זוהה ביטול נעילה של OEM. המערכת תתחיל להוריד את חבילת השדרוג המלאה. כדי להבטיח את שלמות הנתונים שלך, יש לבצע גיבוי.</string>
+    <string name="ota_root_detected_alert">זוהה Root, המערכת תחל להוריד את חבילת העדכון המלאה. כדי להבטיח את שלמות הנתונים, יש לבצע גיבוי. המכשיר יעבור תהליך ביטול Root ברגע שהעדכון יושלם.</string>
+    <string name="pause_downloading">השהה הורדה</string>
+    <string name="play_under_mobile_data">שחק</string>
+    <string name="play_under_mobile_data_tips">מחובר לרשת סלולרית כרגע, להמשיך לשחק?</string>
+    <string name="preparing_download">מכין הורדה…</string>
+    <string name="preparing_install">מכין את ההתקנה…</string>
+    <string name="ready_to_install">קיים עדכון מערכת זמין. לחץ על \"התקן\" למטה כדי לאתחל את מכשירך ולהתקין את העדכון.</string>
+    <string name="ready_to_upgrade">מאמת חבילת עדכון...</string>
+    <string name="reject">אל תאשר</string>
+    <string name="remind_later">הזכר לי מאוחר יותר</string>
+    <string name="resume">המשך</string>
+    <string name="rooted_warning">"זוהה מכשיר בעל הרשאות Root, העדכון עלול להיכשל.
+האם תרצה לשדרג?"</string>
+    <string name="search_menu_title">חיפוש</string>
+    <string name="searching">מחפש...</string>
+    <string name="setting">הגדרות</string>
+    <string name="share">שתף</string>
+    <string name="show_new_version_info">בדוק תוכן מעודכן</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">גירסת החבילה הנבחרת שלך הוא נמוך מזה של המערכת הנוכחית. כדי להימנע מכשל באתחול, אין לעבור לגרסה נמוכה יותר (לשנמך).</string>
+    <string name="str_ab_downgrade_not_allow_confirm">הבנתי</string>
+    <string name="str_ab_upgrade_warning_wipe">"החבילה שבחרת תאפס את המכשיר להגדרות ברירת המחדל של המפעל לאחר התקנת. 
+Are אתה בטוח שברצונך להתקין אותו?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"עדכון המערכת לא ישפיע על הנתונים שלך. 
+יחד עם זאת, כדי להבטיח את שלמות הנתונים, יש לבצע גיבוי."</string>
+    <string name="str_abupdate_continue_download">המשך בהורדה &amp; והתקנה</string>
+    <string name="str_abupdate_install_completed">התקנת עדכון המערכת הושלמה. אנא אתחל מחדש כדי לסיים את העדכון.</string>
+    <string name="str_abupdate_install_failed">התקנת עדכון המערכת נכשלה</string>
+    <string name="str_abupdate_install_update">התקן כעת</string>
+    <string name="str_abupdate_installing">עדכון המערכת מתקין</string>
+    <string name="str_abupdate_local_package_log">גרסה זו אינה כוללת changelog</string>
+    <string name="str_abupdate_reboot">אתחל מחדש</string>
+    <string name="str_abupdate_retry_failed">התקנת עדכון המערכת נכשלה. נבדקת חבילת שדרוג מלאה.</string>
+    <string name="str_abupdate_start_download">הורד &amp; והתקן כעת</string>
+    <string name="str_abupdate_try_again">נסה שוב</string>
+    <string name="str_alert_local_downgrade">"החבילה שבחרת נמוכה יותר מהגירסה הנוכחית. זה עלול להוביל לכשל באתחול עקב בעיות תאימות נתונים. 
+האם אתה בטוח שברצונך להתקין את הגירסה הישנה?"</string>
+    <string name="str_alert_local_downgrade_confirm">אישור</string>
+    <string name="str_beta_to_mp_not_allow">"גרסת החבילה שבחרת נמוכה יותר מגרסה הנוכחית של המערכת. כדי להימנע מכשל באתחול, אין לבצע ירידה לגרסה נמוכה יותר. 
+אם ברצונך לבצע תהליך זה, אתחל ל\"מצב שחזור\" כדי להתקין את החבילה."</string>
+    <string name="str_disabled_local_upgrade_summary">אין אפשרות לשדרג באופן מקומי כיוון שמתבצעת הורדת או התקנת עדכון מערכת.</string>
+    <string name="str_download_retry">הורד &amp; והתקן שוב</string>
+    <string name="str_mp_downgrade_not_allow">"החבילה שבחרת נמוכה יותר מגרסת המערכת הנוכחית. כדי להימנע מכשל באתחול, אין לבצע ירידה לגרסה נמוכה יותר.
+אם ברצונך לבצע תהליך זה, אנא גבה את המידע שלך תחילה, לאחר מכן באפשרותך לאתחל ל'מצב שחזור' כדי להתקין את החבילה."</string>
+    <string name="str_pause_download_new">השהה</string>
+    <string name="str_time_incorrect_check_failed">בדיקת עדכונים נכשלה מכיוון שהתאריך והשעה במכשיר לא נכונים</string>
+    <string name="str_time_incorrect_download_failed">ההורדה נכשלה מכיוון שהתאריך והשעה במכשיר לא נכונים</string>
+    <string name="system_battery_low">הסוללה חלשה (20%). אנא הטען את הסוללה</string>
+    <string name="system_battery_low_title">הסוללה חלשה</string>
+    <string name="system_can_fix_to_new_version">המערכת יכולה להשתדרג לגרסה העדכנית ביותר</string>
+    <string name="system_can_update_to_new_version">עדכן כעת</string>
+    <string name="system_download_complete">הורדת %s מערכת הושלמה</string>
+    <string name="system_download_fail">ההורדה נכשלה. בדוק את החיבור לרשת ונסה שנית</string>
+    <string name="system_downloading">הורדת %s מערכת</string>
+    <string name="system_fix_download">הורד ערכת תיקון כעת</string>
+    <string name="system_fix_now">אתחל כדי לתקן כעת</string>
+    <string name="system_repair_mode">מצב תיקון</string>
+    <string name="system_update_checking">בודק עדכונים...</string>
+    <string name="system_update_download_finish">ההורדה הושלמה</string>
+    <string name="system_update_download_finish_tip">לחץ כדי לשדרג. המערכת תבצע אתחול באופן אוטומטי</string>
+    <string name="system_update_downloading_tip">מוריד נתוני גרסה חדשה:</string>
+    <string name="system_update_error">לא מחובר לרשת</string>
+    <string name="system_update_fail">השדרוג נכשל, נסה שנית</string>
+    <string name="system_update_messages">תזכורת עדכון %s מערכת</string>
+    <string name="system_update_messages_download">עדכון %s מערכת, לחץ על הורד עדכון</string>
+    <string name="system_update_messages_failed_text">העדכון נכשל, לחץ כדי להיכנס למצב תיקון ולנסות שוב</string>
+    <string name="system_update_messages_failed_title">עדכון המערכת נכשל</string>
+    <string name="system_update_messages_success_text">המערכת שודרגה בהצלחה ל-%s</string>
+    <string name="system_update_messages_success_title">המערכת עודכנה</string>
+    <string name="system_update_no_network">ראשית הגדר רשת</string>
+    <string name="system_update_notification">התראת עדכון מערכת</string>
+    <string name="system_update_now">אתחל כדי לשדרג כעת</string>
+    <string name="system_update_remain_time">זמן שנותר:</string>
+    <string name="system_update_success">השדרוג הושלם</string>
+    <string name="system_updating">משדרג</string>
+    <string name="system_updating_tip">הנתונים לא יאבדו לאחר השדרוג</string>
+    <string name="update_check_title">בדוק אם קיימים עדכונים</string>
+    <string name="update_checking">בודק אם קיימים עדכונים, אנא המתן…</string>
+    <string name="update_from_local">שדרוג מקומי</string>
+    <string name="update_log">עדכן יומן רישום</string>
+    <string name="update_package_size">גודל עדכון:</string>
+    <string name="upgrade_log">עדכן יומן רישום</string>
+    <string name="upgrade_package_not_exist">חבילת השדרוג לא קיימת, אנא הורד אותה שוב.</string>
+    <string name="verify_fail">אימות חתימה נכשל</string>
+    <string name="verifying">מאמת קובץ, אנא המתן…</string>
+    <string name="wipe_data">נקה נתונים</string>
+    <string name="wipe_data_text">"מומלץ לנקות את הנתונים שבמכשיר (אפליקציות מותקנות, הודעות SMS ונתונים נוספים) לפני התקנת עדכון זה.
+האם תרצה לנקות את הנתונים כעת?"</string>
+    <string name="wipe_data_title">אזהרה</string>
+</resources>

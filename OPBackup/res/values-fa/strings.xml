@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">کلید فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="about_to_restart">شما در حال دوباره راه اندازی کردن دستگاه خود برای نصب فایل بروزرسانی هستید. لطفاً دستگاه را در طول این روند خاموش نکنید.</string>
+    <string name="access">اجازه دادن</string>
+    <string name="alert_text_backup_data">"به روزرسانی سیستم بر خدمات داده‌ها تأثیر نخواهد گذاشت. 
+برای اطمینان از ایمنی داده‌های خود، لطفاً از داده‌های خود پشتیبان تهیه کنید. بلافاصله روی بروزرسانی کلیک کنید، تلفن وارد حالتی می‌شود که قابل ویرایش نیست. دوباره راه اندازی و بروزرسانی کنید."</string>
+    <string name="app_name">به‌روزرسانی سیستم</string>
+    <string name="attention">نکات</string>
+    <string name="battery_low_prompt">برای بروزرسانی شارژ دستگاه باید بیشتر از 20 درصد باشد. لطفاً برای ادامه شارژ کنید.</string>
+    <string name="battery_very_low_prompt">باتری بسیار کم است، لطفاً قبل از ادامۀ بروزرسانی تلفن خود را تا 5 درصد شارژ کنید. تلفن خود را در برق نگه دارید.</string>
+    <string name="btn_text_upgrade_now">اکنون بروز رسانی کنید</string>
+    <string name="cancel">لغو</string>
+    <string name="check_upgrade_log">برچسب بروزرسانی را بررسی کنید</string>
+    <string name="click_to_install">برای نصب کلیک کنید</string>
+    <string name="continue_to_download">ادامه دانلود</string>
+    <string name="default_download_wifi">دانلود فقط از طریق Wi-Fi</string>
+    <string name="default_download_wifi_auto">دانلود خودکار در شبکه بی‌سیم</string>
+    <string name="dont_wipe_data">داده ها را حذف نکنید</string>
+    <string name="download">دانلود</string>
+    <string name="download_cancel">از لغو بارگیری مطمئن هستید؟</string>
+    <string name="download_corrupted">دانلود قابل تأیید نیست، لطفآً دوباره دانلود کنید.</string>
+    <string name="download_error">مشکلی در برقراری ارتباط با سرور در طول دانلود وجود دارد، لطفاً بعداً دوباره دانلود را ادامه دهید.</string>
+    <string name="download_error_notification_text">لطفاً بعداً دوباره دانلود را ادامه دهید.</string>
+    <string name="download_error_notification_title">خطا در بروزرسانی سیستم</string>
+    <string name="download_fail">در حین دانلود مشکلی بوجود آمد، لطفاً دوباره دانلود کنید.</string>
+    <string name="download_fail_title">دانلود کامل نشد</string>
+    <string name="download_io_error">برای دانلود فایل آپدیت فضای کافی موجود نیست، لطفاً فضا را آزاد کنید و سپس دانلود را ادامه دهید.</string>
+    <string name="download_is_not_wifi">"در حال دانلود داده های موبایل، هزینه های اضافی را نیز دربر می گیرد.
+ادامه یابد؟"</string>
+    <string name="download_is_slow">"اتصال شما بسیار آهسته است و ممکن است دانلود فایل بروزرسانی چندین دقیقه طول بکشد.
+ادامه یابد؟"</string>
+    <string name="download_no_network">شبکه شناسایی نشده، لطفاً بعداً دوباره تلاش کنید.</string>
+    <string name="download_no_network_title">شبکه شناسایی نشده</string>
+    <string name="download_now">اکنون دانلود کنید</string>
+    <string name="download_paused">"دانلود بخاطر اینکه هیچ شبکه‌ای موجود نیست قطع شده است.
+بعد از یافتن شبکه دانلود دوباره از سر گرفته می‌شود."</string>
+    <string name="download_paused_resume">"اتصال Wi-Fi از دست رفته، دانلود متوقف شد. 
+ لطفاً سعی کنید بعداً دوباره ادامه دهید."</string>
+    <string name="download_paused_resume_by_manual">مطمئن هستید که می‌خواهید دانلود را متوقف کنید؟ می‌توانید بعداً آن را ادامه دهید.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%sچپ</string>
+    <string name="download_retry">دوباره دانلود کنید</string>
+    <string name="download_speed_text">%1$s،%2$sها</string>
+    <string name="download_state_update_paused">بارگیری متوقف شد</string>
+    <string name="downloaded_notification_error_text">لطفاً بعداً دوباره دانلود را ادامه دهید.</string>
+    <string name="downloaded_notification_error_title">خطا در دانلود.</string>
+    <string name="downloaded_notification_fail_text">در حین دانلود مشکلی بوجود آمد، لطفاً بعداً مجدد امتحان کنید.</string>
+    <string name="downloaded_notification_fail_title">خطای دانلود.</string>
+    <string name="downloaded_notification_io_error_text">فضا را آزاد کنید و سپس ادامه دهید.</string>
+    <string name="downloaded_notification_io_error_title">فضای کافی موجود نیست.</string>
+    <string name="downloaded_notification_pause_by_manual_text">دانلود متوقف شد.</string>
+    <string name="downloaded_notification_pause_text">چون هیچ شبکه ای در دسترس است دانلود متوقف شد.</string>
+    <string name="downloaded_notification_pause_title">دانلود متوقف شد.</string>
+    <string name="downloaded_notification_title">بروزرسانی سیستم دانلود شد</string>
+    <string name="downloading">در حال دانلود%1$s از %2$s</string>
+    <string name="downloading_notification_title">در حال دانلود بروزرسانی سیستم</string>
+    <string name="exists_new_version_title">نسخۀ جدید سیستم شناسایی شد</string>
+    <string name="has_new_version_notification">نسخه جدیدی شناسایی شده است، به قسمت بروزرسانی H2OS OTA بروید</string>
+    <string name="install">نصب کنید</string>
+    <string name="install_copy_fail">در نصب فایل بروزرسانی مشکل بوجود آمد. لطفاً بعداً دوباره سعی کنید.</string>
+    <string name="last_check_update">آخرین بررسی: %1$s</string>
+    <string name="need_more_space">فضای ذخیره سازی برای بروزرسانی کافی نیست، و به %s فضای حافظه نیاز است. لطفاً مقداری از حافظه را خالی کنید و دوباره امتحان کنید.</string>
+    <string name="network_tip">شبکه فعلی 2G/3G/4G است. ادامه دانلود ممکن است از جانب حامل برای شما هزینه داشته باشد.</string>
+    <string name="network_wrarning_checkbox">یادآور را دوباره نشان نده</string>
+    <string name="network_wrarning_text">این برنامه، اطلاعات ترافیک سایت را تولید می‌کند. اجرا موقع استفاده از Wi-Fi توصیه می‌شود</string>
+    <string name="network_wrarning_title">یادآور</string>
+    <string name="no_enough_space">فضای ذخیره ناکافی است. لطفاً فضا را خالی کنید و دوباره امتحان کنید.</string>
+    <string name="no_local_update_packges_title">انتقال بسته نصب به پوشه ریشه</string>
+    <string name="no_upgrade_log">هیچ سابقه به‌روزرسانی وجود ندارد</string>
+    <string name="notification_download_fail">دانلود بسته بروزرسانی ناتمام ماند، لطفاً برای دانلود دوباره تلاش کنید</string>
+    <string name="notification_download_success">دانلود کامل، بر روی بروز رسانی کلیک کنید</string>
+    <string name="notification_downloading">در حال دانلود</string>
+    <string name="notification_into_update_content">برای بروزرسانی اکنون ضربه بزنید</string>
+    <string name="notification_into_update_title">دانلود بسته بروزرسانی سیستم کامل شد</string>
+    <string name="oneplus_read_contacts">شبکه دسترسی</string>
+    <string name="oneplus_rights_dialog_checkbox_text">انتخاب‌های مرا به یاد داشته باش</string>
+    <string name="oneplus_rights_dialog_discription">برای استفاده از بروزرسانی سیستم به مجوزهای ذیل نیاز دارید</string>
+    <string name="oneplus_rights_dialog_title">درخواست مجوز</string>
+    <string name="ota_check_update">بروزرسانی را بررسی کن</string>
+    <string name="ota_never_check_update">شما هرگز بروزرسانی را بررسی نکرده اید.</string>
+    <string name="ota_new_update">نسخه جدید موجود است</string>
+    <string name="ota_new_update_downloading">"نسخه جدید موجود است
+درحال دانلود…"</string>
+    <string name="ota_new_update_name">%1$s بروزرسانی سیستم</string>
+    <string name="ota_new_update_name_downloading">"%1$s بروزرسانی سیستم
+درحال دانلود…"</string>
+    <string name="ota_new_update_name_paused">"%1$s بروزرسانی سیستم
+دانلود متوقف شد…"</string>
+    <string name="ota_new_update_name_ready">"%1$s بروزرسانی سیستم
+آماده برای نصب"</string>
+    <string name="ota_new_update_paused">دانلود متوقف شد...</string>
+    <string name="ota_new_update_ready">"نسخه جدید موجود است
+آماده برای نصب"</string>
+    <string name="ota_no_update">سیستم شما بروز است</string>
+    <string name="ota_oem_unlock_detected_alert">قفل‌گشایی OEM شناسایی شده است؛ سیستم شروع به بارگیری بسته ارتقای کامل خواهد کرد. لطفاً برای اطمینان از حفظ داده‌های خود، از آنها پشتیبان‌گیری کنید.</string>
+    <string name="ota_root_detected_alert">روت شناسایی شد؛ سیستم شروع به بارگیری بسته کامل ارتقاء می‌کند. لطفاً برای اطمینان از حفظ داده‌های خود، از آن پشتیبان‌گیری کنید. دستگاه پس از تکمیل ارتقاء از حالت روت خارج می‌شود.</string>
+    <string name="pause_downloading">توقف دانلود</string>
+    <string name="play_under_mobile_data">بازی کردن</string>
+    <string name="play_under_mobile_data_tips">در حال حاضر در یک شبکه تلفن همراه قرار دارید، پخش ادامه یابد؟</string>
+    <string name="preparing_download">در حال آماده سازی دانلود…</string>
+    <string name="preparing_install">در حال آماده سازی نصب…</string>
+    <string name="ready_to_install">بروزرسانی سیستم آمادۀ نصب است. دکمۀ ذیل را بزنید تا موبایل شما دوباره راه اندازی شود و فایل بروزرسانی نصب شود.</string>
+    <string name="ready_to_upgrade">در حال تأیید بسته بروزرسانی...</string>
+    <string name="reject">اجازه ندادن</string>
+    <string name="remind_later">بعداً به من یادآوری کن</string>
+    <string name="resume">ادامه</string>
+    <string name="rooted_warning">"دستگاه روت شده شناسایی شده، بروزرسانی احتمالاً ناتمام می‌ماند.
+آیا قصد دارید بروزرسانی کنید؟"</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="searching">در حال جستجو...</string>
+    <string name="setting">تنظیمات</string>
+    <string name="share">به اشتراک گذاری</string>
+    <string name="show_new_version_info">محتوای بروزشده را بررسی کنید</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">نسخه بسته انتخابی شما پایین‌تر از سیستم فعلی است. برای جلوگیری از بروز نقص در راه‌اندازی، برگرداندن به نسخه قبلی مجاز نیست.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">متوجه شدم</string>
+    <string name="str_ab_upgrade_warning_wipe">"بسته‌ای که انتخاب کرده‌اید پس از نصب باعث بازنشانی دستگاه بر روی تنظیمات پیش‌فرض کارخانه می‌شود.
+برای نصب آن اطمینان دارید؟"</string>
+    <string name="str_abupdate_alert_local_upgrade">"این به روز رسانی سیستم تأثیری بر اطلاعات شما ندارد. 
+با این وجود برای اطمینان از حفظ داده ها، لطفا از آنها نسخه پشتیبان بگیرید."</string>
+    <string name="str_abupdate_continue_download">ادامه بارگیری و نصب</string>
+    <string name="str_abupdate_install_completed">نصب به روز رسانی سیستم کامل شد. لطفا برای پایان به روز رسانی، سیستم را مجددا راه اندازی کنید.</string>
+    <string name="str_abupdate_install_failed">نصب به روز رسانی سیستم انجام نشد</string>
+    <string name="str_abupdate_install_update">هم اکنون نصب کنید</string>
+    <string name="str_abupdate_installing">به روز رسانی سیستم در حال نصب است</string>
+    <string name="str_abupdate_local_package_log">این نسخه هیچ سابقه تغییراتی ندارد</string>
+    <string name="str_abupdate_reboot">راه اندازی مجدد</string>
+    <string name="str_abupdate_retry_failed">نصب به روز رسانی سیستم ناموفق بود. در حال بررسی بسته کامل ارتقاء.</string>
+    <string name="str_abupdate_start_download">بارگیری و نصب همین الآن</string>
+    <string name="str_abupdate_try_again">تلاش مجدد</string>
+    <string name="str_alert_local_downgrade">"نسخه بسته انتخابی شما پایین تر از نسخه فعلی است. این ممکن است به علت مشکلات سازگاری منجر به بوت نشدن سیستم شود.
+آیا از نصب نسخه قدیمی مطمئن هستید؟"</string>
+    <string name="str_alert_local_downgrade_confirm">تأیید</string>
+    <string name="str_beta_to_mp_not_allow">"بسته‌ای که انتخاب کرده‌اید پایین‌تر از نسخۀ سیستم فعلی است. برای جلوگیری از اشکال در راه‌اندازی، تنزل نسخه مجاز نیست.
+اگر مایل به تنزل نسخه هستید، لطفاً برای نصب بسته، دستگاه را در «حالت بازیابی» راه‌اندازی مجدد کنید."</string>
+    <string name="str_disabled_local_upgrade_summary">از آنجا که شما در حال بارگیری یا نصب به روز رسانی سیستم هستید، به روز رسانی محلی قابل انجام نیست.</string>
+    <string name="str_download_retry">بارگیری و نصب مجدد</string>
+    <string name="str_mp_downgrade_not_allow">"بسته‌ای که انتخاب کرده‌اید پایین‌تر از نسخۀ سیستم فعلی است. برای جلوگیری از اشکال در راه‌اندازی، تنزل نسخه مجاز نیست.
+اگر مایل به تنزل نسخه هستید، لطفاً برای نصب بسته، ابتدا از داده‌هایتان پشتیبان‌گیری کنید، سپس می‌توانید دستگاه را در «حالت بازیابی» راه‌اندازی مجدد کنید."</string>
+    <string name="str_pause_download_new">توقف</string>
+    <string name="str_time_incorrect_check_failed">به علت اشتباه بودن تاریخ و ساعت دستگاه شما، به‌روزرسانی‌ها بررسی نشد</string>
+    <string name="str_time_incorrect_download_failed">به علت اشتباه بودن تاریخ و ساعت دستگاه شما، دانلود انجام نشد</string>
+    <string name="system_battery_low">باتری کم (20%). لطفاً مجدد شارژ کنید</string>
+    <string name="system_battery_low_title">باتری کم است</string>
+    <string name="system_can_fix_to_new_version">سیستم را می‌توان به آخرین نسخه اصلاح کرد</string>
+    <string name="system_can_update_to_new_version">اکنون بروز رسانی کنید</string>
+    <string name="system_download_complete">دانلود %s سیستم کامل شد</string>
+    <string name="system_download_fail">دانلود کامل نشد. شبکه را بررسی کنید و دوباره سعی کنید</string>
+    <string name="system_downloading">دانلود %s سیستم</string>
+    <string name="system_fix_download">اکنون بسته تعمیری را دانلود کنید</string>
+    <string name="system_fix_now">برای اصلاح، راه اندازی مجدد کنید</string>
+    <string name="system_repair_mode">حالت تعمیر</string>
+    <string name="system_update_checking">در حال بررسی برای بروزرسانی‌ها...</string>
+    <string name="system_update_download_finish">دانلود کامل شد</string>
+    <string name="system_update_download_finish_tip">برای بروز رسانی کلیک کنید. سیستم به طور خودکار دوباره راه اندازی خواهد شد</string>
+    <string name="system_update_downloading_tip">در حال دانلود داده‌ها برای نسخه جدید:</string>
+    <string name="system_update_error">شبکه متصل نشده</string>
+    <string name="system_update_fail">بروزرسانی انجام نشد. لطفاً دوباره امتحان کنید</string>
+    <string name="system_update_messages">یادآوری بروزرسانی %s سیستم</string>
+    <string name="system_update_messages_download">بروزرسانی %s سیستم، روی دانلود بروزرسانی کلیک کنید</string>
+    <string name="system_update_messages_failed_text">به‌روزرسانی انجام نشد، برای وارد شدن به حالت ترمیم برای تلاش مجدد ضربه بزنید</string>
+    <string name="system_update_messages_failed_title">بروزرسانی سیستم ناتمام ماند</string>
+    <string name="system_update_messages_success_text">سیستم با موفقیت به %s بروز شد</string>
+    <string name="system_update_messages_success_title">سیستم بروز شده است</string>
+    <string name="system_update_no_network">لطفاً ابتدا شبکه را تنظیم کنید</string>
+    <string name="system_update_notification">اعلان بروزرسانی سیستم</string>
+    <string name="system_update_now">برای بروزرسانی، راه اندازی مجدد کنید</string>
+    <string name="system_update_remain_time">زمان باقی مانده:</string>
+    <string name="system_update_success">بروزرسانی کامل شد</string>
+    <string name="system_updating">در حال بروزرسانی</string>
+    <string name="system_updating_tip">داده ها پس از ارتقاء از دست نخواهد رفت</string>
+    <string name="update_check_title">بررسی بروزرسانی‌ها</string>
+    <string name="update_checking">در حال بررسی بروزرسانی، لطفاً صبرکنید…</string>
+    <string name="update_from_local">بروزرسانی محلی</string>
+    <string name="update_log">برچسب بروزرسانی</string>
+    <string name="update_package_size">اندازۀ بروزرسانی:</string>
+    <string name="upgrade_log">برچسب بروزرسانی</string>
+    <string name="upgrade_package_not_exist">بسته بروزرسانی موجود نیست، لطفاً دوباره دانلود کنید.</string>
+    <string name="verify_fail">تأئیدیه امضا انجام نشد</string>
+    <string name="verifying">در حال تأیید فایل، لطفاً صبر کنید…</string>
+    <string name="wipe_data">داده ها را حذف کنید</string>
+    <string name="wipe_data_text">"توصیه می‌شود اطلاعات خود (شامل اپلیکیشن های نصب شده، پیامک و داده های دیگر) را موقع نصب این بروزرسانی پاک کنید.
+آیا مایل هستید آن را پاک کنید؟"</string>
+    <string name="wipe_data_title">هشدار</string>
+</resources>

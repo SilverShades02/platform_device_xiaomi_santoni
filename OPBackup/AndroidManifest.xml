@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:sharedUserId="android.uid.system" package="com.oneplus.opbackup">
+    <protected-broadcast android:name="oneplus.opbackup.android.alarm.action"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+    <uses-permission android:name="android.permission.DELETE_CACHE_FILES"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.BATTERY_STATS"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.RECOVERY"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_SEARCH_INDEXABLES"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <application android:appComponentFactory="android.support.v4.app.CoreComponentFactory" android:icon="@mipmap/ic_launcher_settings" android:label="@string/app_name" android:name="com.oneplus.opbackup.OTApplication" android:resizeableActivity="false" android:supportsRtl="true" android:usesCleartextTraffic="true">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <meta-data android:name="use_common_accent_color" android:value="true"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.oneplus.opbackup.CheckUpdateActivity" android:screenOrientation="portrait" android:theme="@style/MainVideoActivityStyle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="oneplus.intent.action.CheckUpdate"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.oneplus.ota.from.notification"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.oneplus.opbackup.ShowPermissionActivity" android:screenOrientation="portrait" android:theme="@style/ActivityStyle"/>
+        <service android:name="com.oneplus.opbackup.update.DownloadService"/>
+        <activity android:name="com.oneplus.opbackup.OpSetting" android:screenOrientation="portrait" android:theme="@style/ActivityStyle"/>
+        <activity android:name="com.oneplus.opbackup.LocalUpdateActivity" android:screenOrientation="portrait" android:theme="@style/ActivityStyle"/>
+        <activity android:name="com.oneplus.opbackup.UpdateLogActivity" android:screenOrientation="portrait" android:theme="@style/ActivityStyle">
+            <intent-filter>
+                <action android:name="oneplus.intent.action.UpdateLog"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name="com.oneplus.opbackup.receiver.CheckUpdateReceiver">
+            <intent-filter>
+                <action android:name="com.oem.intent.action.BOOT_COMPLETED"/>
+                <action android:name="oneplus.intent.action.PERMISSION_AGREE_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.oneplus.opbackup.receiver.DownloadNotificationReceiver">
+            <intent-filter>
+                <action android:name="com.oneplus.opbackup.action.START_DOWNLOAD"/>
+                <action android:name="com.oneplus.opbackup.action.RESUME_DOWNLOAD"/>
+                <action android:name="com.oneplus.opbackup.action.UPDATE_NOW"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.oneplus.opbackup.receiver.NetworkListenerService"/>
+        <service android:name="com.oneplus.opbackup.CheckUpdateService"/>
+        <service android:name="com.oneplus.opbackup.service.BackupService"/>
+        <service android:name="com.oneplus.opbackup.service.KillNotificationsService"/>
+        <receiver android:name="com.oneplus.opbackup.abupdate.ABUpdateNotificationReceiver">
+            <intent-filter>
+                <action android:name="com.oneplus.opbackup.action.REBOOT_NOW"/>
+                <action android:name="com.oneplus.opbackup.action.RETRY_AGAIN"/>
+                <action android:name="com.oneplus.opbackup.action.INSTALL_NOW"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.oneplus.opbackup.abupdate.ABUpdateNotificationService"/>
+        <meta-data android:name="upgrade_product_code" android:value="40010"/>
+        <meta-data android:name="oneplus_upgrage" android:value="true"/>
+        <provider android:authorities="com.oneplus.opbackup.updatewizard" android:directBootAware="true" android:exported="true" android:multiprocess="false" android:name="com.oneplus.opbackup.updatewizard.db.UpdateWizardProvider"/>
+        <activity android:launchMode="singleTop" android:name="com.oneplus.opbackup.updatewizard.UpdateWizardActivity" android:screenOrientation="portrait" android:theme="@style/UpdateWizardActivityStyle"/>
+        <service android:name="com.oneplus.opbackup.service.DownloadWizardService"/>
+        <service android:name="com.oneplus.opbackup.service.DownloadNewFeaturesService"/>
+        <activity android:enabled="false" android:excludeFromRecents="true" android:name="com.oneplus.opbackup.OTAUpdateWizardActivity" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/ActivityStyle">
+            <intent-filter android:priority="101">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.HOME"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="com.oneplus.opbackup.CATEGORY_HOME"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:launchMode="singleTop" android:name="com.oneplus.opbackup.updatewizard.UpdateCompleteActivity" android:screenOrientation="portrait" android:theme="@style/UpdateWizardActivityStyle"/>
+        <activity android:label="@string/version_features" android:name="com.oneplus.opbackup.updatewizard.DownloadUpdateWizardActivity" android:screenOrientation="portrait" android:theme="@style/UpdateWizardActivityStyle"/>
+    </application>
+</manifest>

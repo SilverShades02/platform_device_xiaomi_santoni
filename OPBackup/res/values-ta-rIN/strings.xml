@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_to_restart">பதிவிறக்கத்தை நிறுவ நீங்கள் இப்பொழுது உங்கள் சாதனத்தை மீண்டும் துவக்க இருக்கிறீர்கள். இச்செயல்முறை நடந்து கொண்டிருக்கும்போது உங்கள் சாதனத்தை தயவுசெய்து ஆஃப் செய்யாதீர்.</string>
+    <string name="access">அனுமதிக்கவும்</string>
+    <string name="alert_text_backup_data">"சிஸ்டம் புதுப்பிப்பு உங்களுடைய தரவு சேவையைப் பாதிக்காது. 
+எனினும், உங்கள் தரவின் பாதுகாப்பை உறுதிசெய்ய, உங்கள் தரவை பின்சேமித்துக் கொள்ளவும். உங்கள் ஃபோனை மீண்டும் துவக்கி புதுப்பிப்பை நிறுவவும்."</string>
+    <string name="app_name">சிஸ்டம் புதுப்பிப்பு</string>
+    <string name="attention">குறிப்புகள்</string>
+    <string name="battery_low_prompt">புதுப்பிப்பதற்கு சாதனத்தில் 20%-க்கும் அதிகமான சார்ஜ் இருக்கவேண்டும். தொடர்வதற்கு தயவுசெய்து சார்ஜ் செய்யவும்.</string>
+    <string name="battery_very_low_prompt">பேட்டரி மிகவும் குறைவாக உள்ளது, புதுப்பிப்பைத் தொடர்வதற்கு முன்பு, உங்கள் ஃபோனை 5% வரை சார்ஜ் செய்யவும். உங்கள் ஃபோனை தொடர்ந்து மின்னிணைப்பில் செருகி வைக்கவும்.</string>
+    <string name="btn_text_upgrade_now">இப்பொழுது புதுப்பிக்கவும்</string>
+    <string name="cancel">இரத்துசெய்க</string>
+    <string name="check_upgrade_log">புதுப்பிப்புப் பதிவை சரிபார்க்கவும்</string>
+    <string name="click_to_install">நிறுவ கிளிக் செய்யவும்</string>
+    <string name="continue_to_download">பதிவிறக்க தொடரவும்</string>
+    <string name="default_download_wifi">WiFi வழியாக மட்டுமே பதிவிறக்கவும்</string>
+    <string name="default_download_wifi_auto">Wi-Fi இல் தானாக பதிவிறக்கவும்</string>
+    <string name="dont_wipe_data">தரவை அழிக்க வேண்டாம்</string>
+    <string name="download">பதிவிறக்கவும்</string>
+    <string name="download_cancel">பதிவிறக்கத்தை ரத்துசெய்ய வேண்டும் என்பதில் நீங்கள் உறுதியாக உள்ளீர்களா?</string>
+    <string name="download_corrupted">பதிவிறக்கத்தை சரிபார்க்க முடியவில்லை, தயவுசெய்து மீண்டும் பதிவிறக்கவும்.</string>
+    <string name="download_error">பதிவிறக்கத்தின் போது சர்வருடன் தகவல் பரிமாறுவதில் பிரச்சனை ஏற்பட்டது, தயவுசெய்து பதிவிறக்கத்தை மற்றொரு சமயத்தில் மீண்டும் தொடர்க.</string>
+    <string name="download_error_notification_text">மற்றொரு சமயத்தில் பதிவிறக்கத்தை மீண்டும் தொடர முயற்சிக்கவும்.</string>
+    <string name="download_error_notification_title">சிஸ்டம் புதுப்பிப்பில் பிழை</string>
+    <string name="download_fail">பதிவிறக்கத்தின் போது ஒரு பிழை ஏற்பட்டது. தயவுசெய்து மீண்டும் பதிவிறக்கவும்.</string>
+    <string name="download_fail_title">பதிவிறக்கம் தோல்வியுற்றது</string>
+    <string name="download_io_error">புதுப்பிப்பைப் பதிவிறக்கப் போதுமான சேமிப்பக இடமில்லை, தயவுசெய்து சிறிதளவு இடத்தைக் காலி செய்துவிட்டு, பதிவிறக்கத்தை மீண்டும் தொடரவும்.</string>
+    <string name="download_is_not_wifi">"மொபைல் தரவில் பதிவிறக்குகிறது, கூடுதல் கட்டணங்கள் பொருந்தக்கூடும்.
+தொடரவா?"</string>
+    <string name="download_is_slow">"உங்களுடைய இணைப்பு மிகவும் மெதுவாக உள்ளது, மேலும் புதுப்பிப்பைப் பதிவிறக்க சில நிமிடங்கள் எடுக்கக்கூடும்.
+தொடரவா?"</string>
+    <string name="download_no_network">நெட்வொர்க் கண்டறியப்படவில்லை, தயவுசெய்து பிறகு மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="download_no_network_title">நெட்வொர்க் கண்டறியப்படவில்லை</string>
+    <string name="download_now">இப்போது பதிவிறக்கவும்</string>
+    <string name="download_paused">"நெட்வொர்க் இல்லாததால் பதிவிறக்கம் இடைநிறுத்தப்பட்டது.
+நெட்வொர்க் இருக்கும்போது அது மீண்டும் துவங்கும்."</string>
+    <string name="download_paused_resume">"Wi-Fi இணைப்பு இழக்கப்பட்டது, பதிவிறக்கம் இடைநிறுத்தப்பட்டது. 
+தயவுசெய்து மீண்டும் தொடர முயற்சிக்கவும்."</string>
+    <string name="download_paused_resume_by_manual">பதிவிறக்கத்தை இடைநிறுத்த வேண்டிமென்பதில் நீங்கள் உறுதியாக உள்ளீர்களா? நீங்கள் மற்றொரு சமயத்தில் தொடரலாம்.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s மீதமுள்ளது</string>
+    <string name="download_retry">மீண்டும் பதிவிறக்கவும்</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">பதிவிறக்கம் இடைநிறுத்தப்பட்டது</string>
+    <string name="downloaded_notification_error_text">மற்றொரு சமயத்தில் பதிவிறக்கத்தை மீண்டும் தொடர முயற்சிக்கவும்.</string>
+    <string name="downloaded_notification_error_title">பதிவிறக்குவதில் பிழை.</string>
+    <string name="downloaded_notification_fail_text">பதிவிறக்கத்தின் போது ஒரு பிழை ஏற்பட்டது, தயவுசெய்து பிறகு மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="downloaded_notification_fail_title">பதிவிறக்குவதில் பிழை.</string>
+    <string name="downloaded_notification_io_error_text">இடத்தைக் காலிசெய்துவிட்டு, மீண்டும் தொடர்க.</string>
+    <string name="downloaded_notification_io_error_title">போதுமான இடமில்லை.</string>
+    <string name="downloaded_notification_pause_by_manual_text">பதிவிறக்கம் இடைநிறுத்தப்பட்டது.</string>
+    <string name="downloaded_notification_pause_text">நெட்வொர்க் ஏதும் இல்லாததால் பதிவிறக்கம் இடைநிறுத்தப்பட்டது.</string>
+    <string name="downloaded_notification_pause_title">பதிவிறக்கம் இடைநிறுத்தப்பட்டது.</string>
+    <string name="downloaded_notification_title">சிஸ்டம் புதுப்பிப்பு பதிவிறக்கப்பட்டது</string>
+    <string name="downloading">%2$s இல் %1$s ஐப் பதிவிறக்குகிறது</string>
+    <string name="downloading_notification_title">சிஸ்டம் புதுப்பிப்பைப் பதிவிறக்குகிறது</string>
+    <string name="exists_new_version_title">புதிய சிஸ்டம் பதிப்பு கண்டறியப்பட்டுள்ளது</string>
+    <string name="has_new_version_notification">ஒரு புதிய பதிப்பு கண்டறியப்பட்டுள்ளது, H2OS OTA புதுப்பிப்புக்குச் செல்க</string>
+    <string name="install">நிறுவுக</string>
+    <string name="install_copy_fail">புதுப்பிப்பை நிறுவுவதில் ஒரு பிழை ஏற்பட்டது. தயவுசெய்து பிறகு மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="last_check_update">கடைசியாக சரிபார்க்கப்பட்டது: %1$s</string>
+    <string name="need_more_space">புதுப்பிக்கப் போதுமான சேமிப்பக இடம் இல்லை, அதோடு %s சேமிப்பக இடம் தேவை. சிறிதளவு இடத்தைக் காலி செய்துவிட்டு பிறகு மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="network_tip">நடப்பு நெட்வொர்க் 2G/3G/4G ஆகும். தொடர்ந்து பதிவிறக்கினால், கேரியரிடமிருந்து கட்டணங்கள் விதிக்கப்படலாம்.</string>
+    <string name="network_wrarning_checkbox">நினைவூட்டியை மீண்டும் காண்பிக்க வேண்டாம்</string>
+    <string name="network_wrarning_text">இந்தப் பயன்பாடு, டேட்டா டிராஃபிக்கை உருவாக்குகிறது. Wi-Fi உபயோகிக்கும்போது செயல்படுத்துதல் பரிந்துரைக்கப்படுகிறது</string>
+    <string name="network_wrarning_title">நினைவூட்டி</string>
+    <string name="no_enough_space">போதுமான சேமிப்பக இடம் இல்லை. சிறிதளவு இடத்தைக் காலி செய்துவிட்டு, மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="no_local_update_packges_title">நிறுவுதல் தொகுப்பை ரூட் டைரக்டரிக்கு நகர்த்தவும்</string>
+    <string name="no_upgrade_log">புதுப்பிப்பு பதிவு ஏதுமில்லை</string>
+    <string name="notification_download_fail">புதுப்பிப்பு தொகுப்பு பதிவிறக்குதல் தோல்வியுற்றது, பதிவிறக்க தயவுசெய்து மீண்டும் முயற்சிக்கவும்</string>
+    <string name="notification_download_success">பதிவிறக்கம் முடிந்தது, புதுப்பிப்பைக் கிளிக்செய்க</string>
+    <string name="notification_downloading">பதிவிறக்குகிறது</string>
+    <string name="notification_into_update_content">இப்பொழுது புதுப்பிக்க டேப் செய்யவும்</string>
+    <string name="notification_into_update_title">சிஸ்டம் புதுப்பிப்பு தொகுப்பு பதிவிறக்கம் முடிந்தது</string>
+    <string name="oneplus_read_contacts">அணுகல் நெட்வொர்க்</string>
+    <string name="oneplus_rights_dialog_checkbox_text">எனது தேர்வுகளை நினைவிற்கொள்க</string>
+    <string name="oneplus_rights_dialog_discription">சிஸ்டம் புதுப்பிப்பைப் பயன்படுத்த, உங்களுக்கு பின்வரும் அனுமதிகள் தேவை</string>
+    <string name="oneplus_rights_dialog_title">அனுமதியைப் பயன்படுத்துதல்</string>
+    <string name="ota_check_update">புதுப்பிப்புக்காக சரிபார்க்கவும்</string>
+    <string name="ota_never_check_update">புதுப்பிப்புக்காக நீங்கள் இதுவரை சரிபார்த்ததே இல்லை.</string>
+    <string name="ota_new_update">புதிய பதிப்பு இல்லை</string>
+    <string name="ota_new_update_downloading">"புதிய பதிப்பு உள்ளது
+பதிவிறக்குகிறது…"</string>
+    <string name="ota_new_update_name">%1$s சிஸ்டம் புதுப்பிப்பு</string>
+    <string name="ota_new_update_name_downloading">"%1$s சிஸ்டம் புதுப்பிப்பு
+பதிவிறக்குகிறது…"</string>
+    <string name="ota_new_update_name_paused">"%1$s சிஸ்டம் புதுப்பிப்பு
+பதிவிறக்கம் இடைநிறுத்தப்பட்டது…"</string>
+    <string name="ota_new_update_name_ready">"%1$s சிஸ்டம் புதுப்பிப்பு
+நிறுவத் தயாராக உள்ளது"</string>
+    <string name="ota_new_update_paused">பதிவிறக்கம் இடைநிறுத்தப்பட்டது…</string>
+    <string name="ota_new_update_ready">"புதிய பதிப்பு உள்ளது
+நிறுவத் தயாராக உள்ளது"</string>
+    <string name="ota_no_update">உங்கள் சிஸ்டம் இன்றைய தேதி வரையில் புதுப்பிக்கப்படவில்லை</string>
+    <string name="ota_oem_unlock_detected_alert">OEM பூட்டுநீக்கம் கண்டறியப்பட்டது, சிஸ்டமானது முழு மேம்படுத்தல் தொகுப்பையும் பதிவிறக்கத் தொடங்கும். உங்கள் தரவின் பாதுகாப்பை உறுதிசெய்ய, உங்கள் தரவை பின்சேமித்துக் கொள்ளவும்.</string>
+    <string name="ota_root_detected_alert">ரூட் கண்டறியப்பட்டது, சிஸ்டமானது முழு புதுப்பிப்பு தொகுப்பை பதிவிறக்கத் துவங்கும். உங்கள் தரவின் பாதுகாப்பை உறுதிசெய்ய, உங்கள் தரவை பின்சேமித்துக் கொள்ளவும். புதுப்பிப்பு முடிந்தவுடன், உங்கள் சாதனம் அன்ரூட் செய்யப்படும்.</string>
+    <string name="pause_downloading">பதிவிறக்கத்தை இடைநிறுத்தவும்</string>
+    <string name="play_under_mobile_data">இயக்குக</string>
+    <string name="play_under_mobile_data_tips">தற்சமயம் செல்லுலார் நெட்வொர்க்கில் உள்ளது, தொடர்ந்து இயக்கவா?</string>
+    <string name="preparing_download">பதிவிறக்கத்திற்குத் தயார்செய்கிறது…</string>
+    <string name="preparing_install">நிறுவலுக்குத் தயார் செய்கிறது…</string>
+    <string name="ready_to_install">முறைமை புதுப்பிப்பு தயாராக உள்ளது, உங்கள் ஃபோனை மீண்டும் துவக்கி புதுப்பிப்பை நிறுவ, கீழே நிறுவு என்பதை கிளிக் செய்யவும்.</string>
+    <string name="ready_to_upgrade">புதுப்பிப்பு தொகுப்பைச் சரிபார்க்கிறது...</string>
+    <string name="reject">அனுமதிக்க வேண்டாம்</string>
+    <string name="remind_later">பின்னர் எனக்கு நினைவூட்டவும்</string>
+    <string name="resume">சுயவிவரம்</string>
+    <string name="rooted_warning">"ரூட் செய்யப்பட்ட சாதனம் கண்டறியப்பட்டது, புதுப்பிப்பு தோல்வி அடையக்கூடும்.
+நீங்கள் புதுப்பிக்க விரும்புகிறீர்களா?"</string>
+    <string name="searching">தேடுகிறது...</string>
+    <string name="setting">அமைப்புகள்</string>
+    <string name="share">பகிர்க</string>
+    <string name="show_new_version_info">புதுப்பிக்கப்பட்ட உள்ளடக்கத்தை சரிபார்க்கவும்</string>
+    <string name="str_ab_downgrade_not_allow">நீங்கள் தேர்ந்தெடுத்த பேக்கேஜின் பதிப்பு நடப்பு முறைமையின் பதிப்பைவிட குறைவாக உள்ளது. துவக்குதல் தோல்வியடைவதைத் தவிர்க்க, மதிப்பிறக்குதல் அனுமதிக்கப்படாது.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">புரிந்தது</string>
+    <string name="str_ab_upgrade_warning_wipe">"நிறுவியப் பிறகு, நீங்கள் தேர்ந்தெடுத்த பேக்கேஜ் உங்கள் சாதனத்தை தொழிற்சாலை இயல்புநிலைக்கு மீட்டமைக்கும்.
+அதை நிச்சயமாக நிறுவ விரும்புகிறீர்களா?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"சிஸ்டம் புதுப்பிப்பு உங்களுடைய தரவு சேவையைப் பாதிக்காது.
+எனினும், உங்கள் தரவின் பாதுகாப்பை உறுதிசெய்ய, உங்கள் தரவை பின்சேமித்துக் கொள்ளவும்."</string>
+    <string name="str_abupdate_continue_download">பதிவிறக்குவதைத் தொடரவும் &amp; நிறுவவும்</string>
+    <string name="str_abupdate_install_completed">சிஸ்டம் புதுப்பிப்பு நிறுவல் முடிந்தது. புதுப்பிப்பை நிறைவுசெய்ய ரீபூட் செய்யவும்.</string>
+    <string name="str_abupdate_install_failed">சிஸ்டம் புதுப்பிப்பு நிறுவுதல் தோல்வியுற்றது</string>
+    <string name="str_abupdate_install_update">இ்ப்பொழுதே நிறுவவும்</string>
+    <string name="str_abupdate_installing">சிஸ்டம் புதுப்பிப்பை நிறுவுகிறது</string>
+    <string name="str_abupdate_local_package_log">இந்தப் பதிப்பில் சேஞ்ச்லாக் இல்லை</string>
+    <string name="str_abupdate_reboot">ரீபூட் செய்க</string>
+    <string name="str_abupdate_retry_failed">சிஸ்டம் புதுப்பிப்பு நிறுவுதல் தோல்வியுற்றது. முழு மேம்படுத்துதல் தொகுப்புக்காக பார்த்துக் கொண்டிருக்கிறது.</string>
+    <string name="str_abupdate_start_download">பதிவிறக்கவும் &amp; இப்பொழுது நிறுவவும்</string>
+    <string name="str_abupdate_try_again">மீண்டும் முயற்சிக்கவும்</string>
+    <string name="str_alert_local_downgrade">"நீங்கள் தேர்வுசெய்த தொகுப்பு நடப்பு பதிப்பை விட குறைவானதாகும். தரவு இணக்கத்தன்மை பிரச்சனை காரணமாக, பூட் செய்வதைத் தோல்வியுறச் செய்வதற்கு இது வழிவகுக்கும்.
+பழைய பதிப்பை நிறுவ வேண்டுமென்பதில் நீங்கள் உறுதியாக உள்ளீர்களா?"</string>
+    <string name="str_alert_local_downgrade_confirm">உறுதிசெய்க</string>
+    <string name="str_beta_to_mp_not_allow">"நீங்கள் தேர்ந்தெடுத்த தொகுப்பு தற்போதைய முறைமையின் பதிப்புக்கு முந்தையதாக உள்ளது. பூட்-அப் செயலிழப்பதைத் தவிர்க்க, பதிப்புத் தரமிறக்குதல் அனுமதிக்கப்படாது.
+நீங்கள் பதிப்புத் தரமிறக்க விரும்பினால், தொகுப்பை நிறுவ மறுதுவக்கம் செய்து மீட்டெடுப்புப் பயன்முறையில் தொடங்கவும்."</string>
+    <string name="str_disabled_local_upgrade_summary">நீங்கள் ஒரு சிஸ்டம் புதுப்பிப்பை பதிவிறக்கம் செய்வதால் அல்லது நிறுவுவதால், மேம்படுத்துதலை உள்ளகத்தில் செய்ய இயலாது.</string>
+    <string name="str_download_retry">பதிவிறக்கவும் &amp; மீண்டும் நிறுவவும்</string>
+    <string name="str_mp_downgrade_not_allow">"நீங்கள் தேர்ந்தெடுத்த தொகுப்பு தற்போதைய முறைமையின் பதிப்புக்கு முந்தையதாக உள்ளது. பூட்-அப் செயலிழப்பதைத் தவிர்க்க, பதிப்புத் தரமிறக்குதல் அனுமதிக்கப்படாது.
+நீங்கள் பதிப்புத் தரமிறக்க விரும்பினால், முதலில் உங்கள் தரவை பின்சேமித்து விட்டு, பின்னர் தொகுப்பை நிறுவ மீட்டெடுப்பு பயன்முறைக்கு மறுதொடக்கம் செய்யலாம்."</string>
+    <string name="str_pause_download_new">இடைநிறுத்துக</string>
+    <string name="str_time_incorrect_check_failed">சாதனத்தின் தேதி மற்றும் நேரம் தவறாக இருப்பதால், புதுப்பிப்புகளைச் சரிபார்த்தல் தோல்வியடைந்தது</string>
+    <string name="str_time_incorrect_download_failed">சாதனத்தின் தேதி மற்றும் நேரம் தவறாக இருப்பதால், பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="system_battery_low">மின்கலம் குறைவாக உள்ளது (20%). தயவுசெய்து மீண்டும் சார்ஜ் செய்யவும்</string>
+    <string name="system_battery_low_title">மின்கலம் குறைவாக உள்ளது</string>
+    <string name="system_can_fix_to_new_version">அண்மைப் பதிப்புக்கு சிஸ்டம் ஃபிக்ஸ் செய்யப்படலாம்</string>
+    <string name="system_can_update_to_new_version">இப்பொழுது புதுப்பிக்கவும்</string>
+    <string name="system_download_complete">சிஸ்டம் %s பதிவிறக்கம் முடிந்தது</string>
+    <string name="system_download_fail">பதிவிறக்கம் தோல்வியுற்றது. தயவுசெய்து நெட்வொர்க்கை சரிபார்த்து மீண்டும் முயற்சிக்கவும்</string>
+    <string name="system_downloading">சிஸ்டம் %s பதிவிறக்கம்</string>
+    <string name="system_fix_download">ஃபிக்ஸ் பேக்கை இப்பொழுது பதிவிறக்கவும்</string>
+    <string name="system_fix_now">இப்பொழுது ஃபிக்ஸ் செய்ய மீண்டும் துவக்கவும்</string>
+    <string name="system_repair_mode">ரிபேர் முறை</string>
+    <string name="system_update_checking">புதுப்பிப்புகளுக்காக சரிபார்க்கிறது...</string>
+    <string name="system_update_download_finish">பதிவிறக்கம் முடிந்தது</string>
+    <string name="system_update_download_finish_tip">புதுப்பிக்க கிளிக்செய்க. சிஸ்டம் தானாக மீண்டும் துவங்கும்</string>
+    <string name="system_update_downloading_tip">புதிய பதிப்புக்காக தரவைப் பதிவிறக்குகிறது:</string>
+    <string name="system_update_error">நெட்வொர்க் இணைக்கப்படவில்லை</string>
+    <string name="system_update_fail">புதுப்பிப்பு தோல்வியுற்றது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்</string>
+    <string name="system_update_messages">சிஸ்டம் %s புதுப்பிப்பு நினைவூட்டி</string>
+    <string name="system_update_messages_download">சிஸ்டம் %s புதுப்பிப்பு, புதுப்பிப்பைப் பதிவிறக்கு என்பதைக் கிளிக்செய்க</string>
+    <string name="system_update_messages_failed_text">புதுப்பிப்பு தோல்வியுற்றது, மீண்டும் முயற்சிக்க ரிபேர் முறையை டேப் செய்யவும்</string>
+    <string name="system_update_messages_failed_title">சிஸ்டம் புதுப்பிப்பு தோல்வியுற்றது</string>
+    <string name="system_update_messages_success_text">சிஸ்டம் %sக்கு வெற்றிகரமாகப் புதுப்பிக்கப்பட்டது</string>
+    <string name="system_update_messages_success_title">சிஸ்டம் புதுப்பிக்கப்பட்டுள்ளது</string>
+    <string name="system_update_no_network">முதலில் நெட்வொர்க்கை அமைக்கவும்</string>
+    <string name="system_update_notification">சிஸ்டம் புதுப்பிப்பு அறிவிப்பு</string>
+    <string name="system_update_now">இப்பொழுது புதுப்பிக்க மீண்டும் துவக்கவும்</string>
+    <string name="system_update_remain_time">மீதமுள்ள நேரம்:</string>
+    <string name="system_update_success">புதுப்பிப்பு முடிந்தது</string>
+    <string name="system_updating">புதுப்பிக்கிறது</string>
+    <string name="system_updating_tip">புதுப்பிப்புக்குப் பிறகு தரவு இழக்கப்படும்</string>
+    <string name="update_check_title">புதுப்பிப்புகளுக்காக சரிபார்க்கவும்</string>
+    <string name="update_checking">புதுப்பிப்புக்காக சரிபார்க்கிறது, தயவுசெய்து காத்திருக்கவும்…</string>
+    <string name="update_from_local">உள்ளக புதுப்பிப்பு</string>
+    <string name="update_log">பதிவைப் புதுப்பிக்கவும்</string>
+    <string name="update_package_size">புதுப்பிப்பு அளவு:</string>
+    <string name="upgrade_log">பதிவைப் புதுப்பிக்கவும்</string>
+    <string name="upgrade_package_not_exist">புதுப்பிப்பு தொகுப்பு இல்லை, தயவுசெய்து மீண்டும் பதிவிறக்கவும்.</string>
+    <string name="verify_fail">கையொப்பம் சரிபார்ப்பு தோல்வியுற்றது</string>
+    <string name="verifying">கோப்பை சரிபார்க்கிறது, தயவுசெய்து காத்திருக்கவும்…</string>
+    <string name="wipe_data">தரவை அழிக்கவும்</string>
+    <string name="wipe_data_text">"இந்தப் புதுப்பிப்பை நிறுவும் போது, உங்கள் தரவை (நிறுவப்பட்ட பயன்பாடுகள், SMS மற்றும் பிற தரவு) அழிக்குமாறு பரிந்துரைக்கப்படுகிறது.
+நீங்கள் அதை அழிக்க விரும்புகிறீர்கள்?"</string>
+    <string name="wipe_data_title">எச்சரிக்கை</string>
+</resources>

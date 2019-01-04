@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="about_to_restart">Güncellemenin yüklenebilmesi için cihazınızı yeniden başlatılacak. Lütfen işlem tamamlanıncaya kadar cihazınızı kapatmayın.</string>
+    <string name="access">İzin ver</string>
+    <string name="alert_text_backup_data">"Sistem güncellemesi verilerinizi etkilemeyecek. 
+Ancak, verilerinizin güvenliğinden emin olmak için yedekleme yapmanız önerilir. Lütfen güncellemeyi yüklemek için telefonunuzu yeniden başlatın."</string>
+    <string name="app_name">Sistem Güncellemesi</string>
+    <string name="attention">İpuçları</string>
+    <string name="battery_low_prompt">"Güncelleme işlemi için cihazınızın şarjının %20'nin üzerinde olması gerekiyor. Devam etmek için lütfen cihazınızı şarj edin."</string>
+    <string name="battery_very_low_prompt">Pil gücü çok düşük. Güncelleme işlemine devam etmeden önce pil gücü en az %5 olacak şekilde telefonunuzu şarj edin.</string>
+    <string name="btn_text_upgrade_now">Şimdi Yükselt</string>
+    <string name="cancel">İptal</string>
+    <string name="check_upgrade_log">Güncelleme günlüğüne gözat</string>
+    <string name="click_to_install">Yüklemek için tıklayın</string>
+    <string name="continue_to_download">İndirme işlemi için devam et</string>
+    <string name="default_download_wifi">Sadece Wi-Fi üzerinden indir</string>
+    <string name="default_download_wifi_auto">Wi-Fi üzerinden otomatik indir</string>
+    <string name="dont_wipe_data">Verileri silme</string>
+    <string name="download">İndir</string>
+    <string name="download_cancel">İndirme işlemini iptal etmek istediğinizden emin misiniz?</string>
+    <string name="download_corrupted">İndirme işlemi doğrulanamadı. Lütfen tekrar deneyin.</string>
+    <string name="download_error">Dosya indirme işlemi devam ederken sunucuyla bağlantısında bir sorun oluştu. Lütfen indirme işlemine daha sonra devam edin.</string>
+    <string name="download_error_notification_text">İndirme işlemini daha sonra tekrar deneyin.</string>
+    <string name="download_error_notification_title">Sistem Güncelleştirme hatası</string>
+    <string name="download_fail">İndirme işlemi sırasında bir hata oluştu. Lütfen tekrar deneyin.</string>
+    <string name="download_fail_title">İndirme işlemi başarısız oldu</string>
+    <string name="download_io_error">Güncellemeyi yüklemek için yeterli depolama alanınız yok. Lütfen bir miktar alanı boşaltın ve indirmeye devam edin.</string>
+    <string name="download_is_not_wifi">"Mobil veri bağlantısı üzerinden yapacağınız indirmeler ek ücretlerin uygulanmasına neden olabilir.
+Devam edilsin mi?"</string>
+    <string name="download_is_slow">"İnternet bağlantınız çok yavaş olduğu için indirme işlemi birkaç dakika sürebilir.
+Devam etmek istiyor musunuz?"</string>
+    <string name="download_no_network">Ağ algılanmadı. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="download_no_network_title">Ağ algılanmadı</string>
+    <string name="download_now">Şimdi indir</string>
+    <string name="download_paused">"Bağlantı olmadığı için indirme işlemi duraklatıldı.
+Bağlantının mevcut olması durumunda indirme işlemi kaldığı yerden devam edecek."</string>
+    <string name="download_paused_resume">"Wi-Fi bağlantısı kesildiği için indirme duraklatıldı. 
+Lütfen daha sonra tekrar deneyin."</string>
+    <string name="download_paused_resume_by_manual">İndirmeyi duraklatmak istediğinizden emin misiniz? İşleme daha sonra devam edebilirsiniz.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s kaldı</string>
+    <string name="download_retry">Tekrar indir</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">İndirme duraklatıldı</string>
+    <string name="downloaded_notification_error_text">İndirme işlemini daha sonra tekrar deneyin.</string>
+    <string name="downloaded_notification_error_title">İndirme hatası.</string>
+    <string name="downloaded_notification_fail_text">İndirme işlemi sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="downloaded_notification_fail_title">İndirme hatası.</string>
+    <string name="downloaded_notification_io_error_text">Alanı boşalt ve devam et.</string>
+    <string name="downloaded_notification_io_error_title">Yeterli alan yok.</string>
+    <string name="downloaded_notification_pause_by_manual_text">İndirme duraklatıldı.</string>
+    <string name="downloaded_notification_pause_text">İnternet bağlantısı olmadığı için indirme işlemi duraklatıldı.</string>
+    <string name="downloaded_notification_pause_title">İndirme duraklatıldı.</string>
+    <string name="downloaded_notification_title">Sistem güncellemesi indirildi</string>
+    <string name="downloading">%1$s / %2$s indiriliyor...</string>
+    <string name="downloading_notification_title">Sistem güncellemesi indiriliyor...</string>
+    <string name="exists_new_version_title">Yeni sistem sürümü algılandı</string>
+    <string name="has_new_version_notification">Yeni bir sürüm tespit edildi, H2Os OTA güncellemesine gidin</string>
+    <string name="install">Yükle</string>
+    <string name="install_copy_fail">Güncelleme yüklenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="last_check_update">Son kontrol: %1$s</string>
+    <string name="need_more_space">Güncelleme için yeterli depolama alanı yok. İşleme devam etmek için %s depolama alanı gerekiyor. Lütfen bir miktar alanı temizledikten sonra tekrar deneyin.</string>
+    <string name="network_tip">Geçerli ağ: 2G/3G/4G. İndirme işlemine devam etmeniz durumunda verileriniz operatörünüz tarafından ücretlendirilebilir.</string>
+    <string name="network_wrarning_checkbox">Hatırlatıcıyı tekrar gösterme</string>
+    <string name="network_wrarning_text">Bu uygulama veri trafiği oluşturur. İşlem için Wi-Fi kullanmanız önerilir</string>
+    <string name="network_wrarning_title">Hatırlatıcı</string>
+    <string name="no_enough_space">Yetersiz depolama alanı. Lütfen depolama alanını boşalttıktan sonra tekrar deneyin.</string>
+    <string name="no_local_update_packges_title">Yükleme paketini kök dizine taşı</string>
+    <string name="no_upgrade_log">Güncelleme günlüğü mevcut değil</string>
+    <string name="notification_download_fail">Yükseltme paketi yüklenemedi. Lütfen yeniden indirmeyi deneyin</string>
+    <string name="notification_download_success">"İndirme tamamlandı. Güncelle'yi tıklayın"</string>
+    <string name="notification_downloading">İndiriliyor</string>
+    <string name="notification_into_update_content">Şimdi yükseltmek için dokunun</string>
+    <string name="notification_into_update_title">Sistem güncelleme paketi indirildi</string>
+    <string name="oneplus_read_contacts">Erişim Ağı</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Seçimlerimi hatırla</string>
+    <string name="oneplus_rights_dialog_discription">Sistem güncellemeyi kullanmak için aşağıdaki izinlere sahip olmanız gerekir</string>
+    <string name="oneplus_rights_dialog_title">Uygulama izni</string>
+    <string name="ota_check_update">Güncellemeleri denetle</string>
+    <string name="ota_never_check_update">Güncellemeleri daha önce hiç kontrol etmediniz.</string>
+    <string name="ota_new_update">Yeni sürüm mevcut</string>
+    <string name="ota_new_update_downloading">"Yeni sürüm kullanılabilir durumda
+İndiriliyor…"</string>
+    <string name="ota_new_update_name">%1$s Sistem Güncellemesi</string>
+    <string name="ota_new_update_name_downloading">"%1$s Sistem Güncellemesi
+İndiriliyor…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Sistem Güncellemesi
+İndirme duraklatıldı…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Sistem Güncellemesi
+Yükleme Hazır"</string>
+    <string name="ota_new_update_paused">İndirme duraklatıldı…</string>
+    <string name="ota_new_update_ready">"Yeni sürüm kullanılabilir durumda
+Yükleme Hazır"</string>
+    <string name="ota_no_update">Sisteminiz güncel</string>
+    <string name="ota_oem_unlock_detected_alert">OEM kilidinin aç olduğu tespit edildi. Sistem tam yükseltme paketini indirmeye başlayacak. Veri bütünlüğünüzü sağlamak için lütfen verilerinizi yedekleyin.</string>
+    <string name="ota_root_detected_alert">Kök dizin algılandı, sistem tam yükseltme paketini indirmeye başlayacak. Verilerinizin güvenliğinden emin olmak için yedekleme yapmanız önerilir. Yükseltme tamamlandıktan sonra cihazınızda kök dizin olmayacak.</string>
+    <string name="pause_downloading">İndirmeyi duraklat</string>
+    <string name="play_under_mobile_data">Yürüt</string>
+    <string name="play_under_mobile_data_tips">Şu anda hücresel ağ etkin, oynatmaya devam edilsin mi?</string>
+    <string name="preparing_download">İndirmeye hazırlanıyor…</string>
+    <string name="preparing_install">Yükleme hazırlanıyor…</string>
+    <string name="ready_to_install">"Sistem güncellemesi hazır. Güncellemeyi yüklemek ve telefonunuzu yeniden başlatmak için aşağıdaki 'Yükle' seçeneğini tıklayın."</string>
+    <string name="ready_to_upgrade">Güncelleme paketi doğrulanıyor...</string>
+    <string name="reject">İzin verme</string>
+    <string name="remind_later">Daha sonra hatırlat</string>
+    <string name="resume">Devam</string>
+    <string name="rooted_warning">"Kök dizine erişim sağlayan bir aygıt tespit edildi. Güncelleme işlemi başarısız.
+Yükseltmek ister misiniz?"</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="searching">Aranıyor...</string>
+    <string name="setting">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="show_new_version_info">Güncellenmiş içeriğe gözat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Seçmiş olduğunuz paket sürümü mevcut sistemin sürümünden eskidir. Önyükleme hatasını önlemek için eski sürüme indirilmesine izin verilmez.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ANLADIM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Seçmiş olduğunuz paket kurulumdan sonra cihazınızı fabrika varsayılan ayarlarına sıfırlayacaktır.
+Bunu yüklemek istediğinizden emin misiniz?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Bu sistem güncellemesi verilerinizi etkilemeyecek. 
+Ancak, verilerinizin güvenliğinden emin olmak için yedekleme yapmanız önerilir."</string>
+    <string name="str_abupdate_continue_download">İndirmeye ve yüklemeye devam et</string>
+    <string name="str_abupdate_install_completed">Sistem güncelleştirme paketi yüklendi. Güncelleştirme işlemini tamamlamak için cihazınızı yeniden başlatın.</string>
+    <string name="str_abupdate_install_failed">Sistem güncelleştirme paketi yüklenemedi</string>
+    <string name="str_abupdate_install_update">ŞİMDİ YÜKLE</string>
+    <string name="str_abupdate_installing">Sistem güncellemesi yükleniyor</string>
+    <string name="str_abupdate_local_package_log">Bu sürüm güncelleme değişiklik günlüğü içermiyor</string>
+    <string name="str_abupdate_reboot">YENİDEN BAŞLAT</string>
+    <string name="str_abupdate_retry_failed">Sistem güncelleştirmesi yüklenemedi. Tam yükseltme paketi kontrol ediliyor.</string>
+    <string name="str_abupdate_start_download">Hemen İndir ve Yükle</string>
+    <string name="str_abupdate_try_again">TEKRAR DENE</string>
+    <string name="str_alert_local_downgrade">"Seçtiğiniz paketin sürümü şu anki sürümden daha eski. Bu durum, veri uyumluluk sorunları nedeniyle önyükleme işleminin başarısız olmasına neden olabilir.
+Yine de eski sürümü yüklemek istediğinizden emin misiniz?"</string>
+    <string name="str_alert_local_downgrade_confirm">Onayla</string>
+    <string name="str_beta_to_mp_not_allow">"Seçtiğiniz paket geçerli sistemin sürümünden daha düşüktür. Başlatma hatasını önlemek için, derece düşürmeye izin verilmez. 
+If Derece düşürmek istiyorsanız, paketi yeniden yüklemek için bilgisayarı Kurtarma Modundan başlatın."</string>
+    <string name="str_disabled_local_upgrade_summary">Bir sistem güncellemesini indirdiğiniz veya yüklediğiniz için yerel olarak yükseltme işlemi yapılamıyor.</string>
+    <string name="str_download_retry">Tekrar indir ve yükle</string>
+    <string name="str_mp_downgrade_not_allow">"Seçtiğiniz paket geçerli sistemin sürümünden daha düşüktür. Başlatma hatasını önlemek için, derece düşürmeye izin verilmez. 
+If Derece düşürmek istiyorsanız, önce verilerinizi yedekleyin ardından paketi yüklemek için bilgisayarı Kurtarma Modundan başlatın."</string>
+    <string name="str_pause_download_new">Duraklat</string>
+    <string name="str_time_incorrect_check_failed">Cihazınızın tarih ve saati yanlış olduğundan güncelleme kontrolü başarısız oldu</string>
+    <string name="str_time_incorrect_download_failed">Cihazınızın tarih ve saati yanlış olduğundan indirme başarısız oldu</string>
+    <string name="system_battery_low">Pil zayıf (%20). Lütfen şarj edin</string>
+    <string name="system_battery_low_title">Pil düşük</string>
+    <string name="system_can_fix_to_new_version">Sistem en son sürüme yükseltilebilir</string>
+    <string name="system_can_update_to_new_version">Şimdi güncelle</string>
+    <string name="system_download_complete">Sistem %s indirildi</string>
+    <string name="system_download_fail">İndirme işlemi başarısız oldu. Lütfen ağ bağlantınızı kontrol edin ve yeniden deneyin</string>
+    <string name="system_downloading">Sistem %s indir</string>
+    <string name="system_fix_download">Düzeltme paketini şimdi yükleyin</string>
+    <string name="system_fix_now">Düzeltmek için şimdi yeniden başlatın</string>
+    <string name="system_repair_mode">Onarım modu</string>
+    <string name="system_update_checking">Güncellemeler kontrol ediliyor...</string>
+    <string name="system_update_download_finish">İndirme işlemi tamamlandı</string>
+    <string name="system_update_download_finish_tip">Yükseltmek için tıklayın. Sistem otomatik olarak yeniden başlatılacak</string>
+    <string name="system_update_downloading_tip">Yeni sürüm için veriler indiriyor:</string>
+    <string name="system_update_error">Ağ bağlantısı yok</string>
+    <string name="system_update_fail">Yükseltme başarısız oldu. Lütfen yeniden deneyin</string>
+    <string name="system_update_messages">Sistem %s yükseltme hatırlatıcısı</string>
+    <string name="system_update_messages_download">Sistem %s güncellemesi mevcut. Güncellemek için tıklayın</string>
+    <string name="system_update_messages_failed_text">Güncelleme başarısız. Onarım moduna girmek ve yeniden denemek için tıklayın</string>
+    <string name="system_update_messages_failed_title">Sistem güncelleme başarısız oldu</string>
+    <string name="system_update_messages_success_text">Sistem başarıyla %s sürümüne güncellendi</string>
+    <string name="system_update_messages_success_title">Sistem güncellendi</string>
+    <string name="system_update_no_network">Lütfen ilk önce ağ bağlantısını kurun</string>
+    <string name="system_update_notification">Sistem güncelleme bildirimi</string>
+    <string name="system_update_now">Şimdi yükseltmek için yeniden başlatın</string>
+    <string name="system_update_remain_time">Kalan süre:</string>
+    <string name="system_update_success">Yükseltme tamamlandı</string>
+    <string name="system_updating">Yükseltiliyor</string>
+    <string name="system_updating_tip">Yükseltme işlemi hiçbir veri kaybına neden olmayacak</string>
+    <string name="update_check_title">Güncellemeleri denetle</string>
+    <string name="update_checking">Güncellemeler kontrol ediliyor, lütfen bekleyin…</string>
+    <string name="update_from_local">Yerel yükseltme</string>
+    <string name="update_log">Güncelleme günlüğü</string>
+    <string name="update_package_size">Güncelleme boyutu:</string>
+    <string name="upgrade_log">Güncelleme günlüğü</string>
+    <string name="upgrade_package_not_exist">Yükseltme paketini bulunamadı, Lütfen tekrar indirin.</string>
+    <string name="verify_fail">İmza doğrulanamadı</string>
+    <string name="verifying">Dosya doğrulanıyor, lütfen bekleyin…</string>
+    <string name="wipe_data">Verileri sil</string>
+    <string name="wipe_data_text">"Bu güncellemeyi yüklemeden önce verilerinizi (yüklü uygulamalar, SMS ve diğer veriler) silmeniz tavsiye edilir.
+Verileri silmek istiyor musunuz?"</string>
+    <string name="wipe_data_title">Uyarı</string>
+</resources>

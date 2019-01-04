@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oneplus.lib.widget.preference.OPPreferenceCategory android:title="@string/system_update" android:key="system_update" android:defaultValue="true">
+        <com.oneplus.lib.widget.preference.OPSwitchPreference android:title="@string/default_download_wifi_auto" android:key="wifi_only_setting" android:defaultValue="true" />
+        <com.oneplus.lib.widget.preference.OPPreference android:persistent="false" android:title="@string/update_from_local" android:key="update_from_local" />
+    </com.oneplus.lib.widget.preference.OPPreferenceCategory>
+    <com.oneplus.opbackup.widget.PreferenceDivider />
+    <com.oneplus.lib.widget.preference.OPPreferenceCategory android:title="@string/wizard_update" android:key="wizard_update" android:defaultValue="true">
+        <com.oneplus.lib.widget.preference.OPPreference android:persistent="false" android:title="@string/update_wizard_info" android:key="update_wizard_info" />
+    </com.oneplus.lib.widget.preference.OPPreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="about_to_restart">更新をインストールするため、デバイスを再起動しようとしています。処理を実行中はデバイスの電源をオフにしないでください。</string>
+    <string name="access">許可</string>
+    <string name="alert_text_backup_data">"このシステム更新プログラムは、データ サービスには影響を与えません。
+しかしながら、データの整合性を確保するため、データをバックアップしてください。携帯電話を再起動して、更新をインストールしてください。"</string>
+    <string name="app_name">システムの更新</string>
+    <string name="attention">ヒント</string>
+    <string name="battery_low_prompt">デバイスを更新するには、バッテリー残量が 20% を超えている必要があります。引き続き充電を行ってください。</string>
+    <string name="battery_very_low_prompt">バッテリー残量が少なすぎます。更新を続行する前に携帯電話を 5% になるまで充電してください。携帯電話を電源に接続したままにしてください。</string>
+    <string name="btn_text_upgrade_now">今すぐアップグレード</string>
+    <string name="cancel">キャンセル</string>
+    <string name="check_upgrade_log">更新履歴を確認</string>
+    <string name="click_to_install">クリックしてインストール</string>
+    <string name="continue_to_download">ダウンロードを続行</string>
+    <string name="default_download_wifi">Wi-Fi 経由でのみダウンロード</string>
+    <string name="default_download_wifi_auto">Wi-Fi 経由で自動ダウンロード</string>
+    <string name="dont_wipe_data">データをクリアしない</string>
+    <string name="download">ダウンロード</string>
+    <string name="download_cancel">ダウンロードをキャンセルしますか？</string>
+    <string name="download_corrupted">ダウンロードを検証できませんでした、もう一度ダウンロードしてください。</string>
+    <string name="download_error">ダウンロード中にサーバーとの通信に問題が発生しました。後でダウンロードを再開してください。</string>
+    <string name="download_error_notification_text">後ほどもう一度ダウンロードを再開してください。</string>
+    <string name="download_error_notification_title">システム更新中のエラー</string>
+    <string name="download_fail">ダウンロード中に問題が発生しました、もう一度ダウンロードしてください。</string>
+    <string name="download_fail_title">ダウンロードに失敗しました</string>
+    <string name="download_io_error">更新プログラムをダウンロードするための空き容量が不足しています。空き容量を確保してからダウンロードを再開してください。</string>
+    <string name="download_is_not_wifi">"モバイルデータ経由でダウンロードしています、追加の料金が発生するかもしれません。
+続けますか？"</string>
+    <string name="download_is_slow">"接続が遅すぎるため、更新のダウンロードに数分かかる可能性があります。
+続けますか？"</string>
+    <string name="download_no_network">ネットワークを検出できませんでした、後ほどもう一度お試しください。</string>
+    <string name="download_no_network_title">ネットワークを検出できませんでした</string>
+    <string name="download_now">今すぐダウンロード</string>
+    <string name="download_paused">"利用可能なネットワークが存在しないため、ダウンロードは一時停止されました。
+ネットワークに接続されると、処理は再開されます。"</string>
+    <string name="download_paused_resume">"Wi-Fi 接続が切れたため、ダウンロードを一時停止しました。
+後で再開してください。"</string>
+    <string name="download_paused_resume_by_manual">ダウンロードを一時停止しますか？後で再開することができます。</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s 残り</string>
+    <string name="download_retry">再ダウンロード</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">ダウンロードを一時停止しました</string>
+    <string name="downloaded_notification_error_text">後ほどもう一度ダウンロードを再開してください。</string>
+    <string name="downloaded_notification_error_title">ダウンロードエラー。</string>
+    <string name="downloaded_notification_fail_text">ダウンロード中に問題が発生しました、後でもう一度試してください。</string>
+    <string name="downloaded_notification_fail_title">ダウンロードエラー。</string>
+    <string name="downloaded_notification_io_error_text">空き容量を確保してから再開してください。</string>
+    <string name="downloaded_notification_io_error_title">容量が足りません。</string>
+    <string name="downloaded_notification_pause_by_manual_text">ダウンロードが一時停止されました。</string>
+    <string name="downloaded_notification_pause_text">利用可能なネットワークが存在しないため、ダウンロードは一時停止されました。</string>
+    <string name="downloaded_notification_pause_title">ダウンロードが一時停止されました。</string>
+    <string name="downloaded_notification_title">システムの更新をダウンロードしました</string>
+    <string name="downloading">%2$s 中 %1$s をダウンロード中</string>
+    <string name="downloading_notification_title">システムの更新をダウンロード中</string>
+    <string name="exists_new_version_title">新しいシステムのバージョンが検出されました</string>
+    <string name="has_new_version_notification">新しいバージョンが検出されました。H2OS OTA アップデートへ移動してください。</string>
+    <string name="install">インストール</string>
+    <string name="install_copy_fail">アップグレードのインストール中に問題が発生しました。後でもう一度試してください。</string>
+    <string name="last_check_update">最終確認時刻: %1$s</string>
+    <string name="need_more_space">アップグレードするのに十分な空き容量が不足しており、また %s の空き容量が必要です。空き容量を確保して、もう一度やり直してください。</string>
+    <string name="network_tip">現在のネットワークは、2G/3G/4G です。ダウンロードの続行により、キャリアから料金が請求される場合があります。</string>
+    <string name="network_wrarning_checkbox">リマインダーを再度表示しない</string>
+    <string name="network_wrarning_text">このアプリケーションでは、データ通信が発生します。Wi-Fi 環境で実行することをお勧めします。</string>
+    <string name="network_wrarning_title">リマインダー</string>
+    <string name="no_enough_space">ディスクの空き容量が足りません。空き容量を確保してもう一度お試しください。</string>
+    <string name="no_local_update_packges_title">ルート ディレクトリにインストール パッケージを移動します</string>
+    <string name="no_upgrade_log">更新ログはありません</string>
+    <string name="notification_download_fail">アップグレード パッケージのダウンロードに失敗しました。もう一度ダウンロードしてください。</string>
+    <string name="notification_download_success">ダウンロード完了。更新をクリックしてください。</string>
+    <string name="notification_downloading">ダウンロード中</string>
+    <string name="notification_into_update_content">今すぐアップグレードするにはタップします。</string>
+    <string name="notification_into_update_title">システム更新パッケージのダウンロードが完了しました</string>
+    <string name="oneplus_read_contacts">ネットワークへのアクセス</string>
+    <string name="oneplus_rights_dialog_checkbox_text">選択内容を記憶</string>
+    <string name="oneplus_rights_dialog_discription">システム更新プログラムを使用するには、次のアクセス許可が必要です。</string>
+    <string name="oneplus_rights_dialog_title">許可申請</string>
+    <string name="ota_check_update">更新プログラムのチェック</string>
+    <string name="ota_never_check_update">まだ一度も更新のチェックを行っていません。</string>
+    <string name="ota_new_update">新しいバージョンが利用可能です</string>
+    <string name="ota_new_update_downloading">"新しいバージョンが利用可能です
+ダウンロード中…"</string>
+    <string name="ota_new_update_name">%1$s システム更新</string>
+    <string name="ota_new_update_name_downloading">"%1$s システム更新
+ダウンロード中…"</string>
+    <string name="ota_new_update_name_paused">"%1$s システム更新
+ダウンロードを一時停止しました…"</string>
+    <string name="ota_new_update_name_ready">"%1$s システム更新
+インストールの準備ができました"</string>
+    <string name="ota_new_update_paused">ダウンロードを一時停止しました…</string>
+    <string name="ota_new_update_ready">"新しいバージョンが利用可能です
+インストールの準備ができました"</string>
+    <string name="ota_no_update">お使いのシステムは最新の状態です</string>
+    <string name="ota_oem_unlock_detected_alert">OEM ロック解除が検出されると、完全アップグレードパッケージのダウンロードが開始されます。データの整合性を確保するため、バックアップを実行してください。</string>
+    <string name="ota_root_detected_alert">root 化が検出されると、システムは完全アップグレードパッケージのダウンロードを開始します。データの整合性を確保するため、データをバックアップしてください。お使いのデバイスの root 化は、アップグレード完了後に解除されます。</string>
+    <string name="pause_downloading">ダウンロードを一時停止</string>
+    <string name="play_under_mobile_data">再生</string>
+    <string name="play_under_mobile_data_tips">現在、モバイルネットワークを使用中です。再生を続けますか？</string>
+    <string name="preparing_download">ダウンロードの準備中…</string>
+    <string name="preparing_install">インストールの準備中…</string>
+    <string name="ready_to_install">システム更新プログラムの準備ができました。以下をインストールして携帯電話を再起動し、更新プログラムをインストールしてください。</string>
+    <string name="ready_to_upgrade">更新パッケージを検証中...</string>
+    <string name="reject">許可しない</string>
+    <string name="remind_later">後で通知</string>
+    <string name="resume">再開</string>
+    <string name="rooted_warning">"ルート化されたデバイスを検出しました。更新は失敗する可能性があります。
+アップグレードしますか？"</string>
+    <string name="search_menu_title">検索</string>
+    <string name="searching">検索中...</string>
+    <string name="setting">設定</string>
+    <string name="share">シェア</string>
+    <string name="show_new_version_info">更新されたコンテンツをチェックしてください</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">現在のシステムよりも古いバージョンのパッケージが選択されています。起動エラーを回避するため、ダウングレードは許可されません。</string>
+    <string name="str_ab_downgrade_not_allow_confirm">了解</string>
+    <string name="str_ab_upgrade_warning_wipe">"選択したパッケージをインストールすると、デバイスが出荷時のデフォルトにリセットされます。
+インストールしてもよろしいですか？"</string>
+    <string name="str_abupdate_alert_local_upgrade">"このシステム更新プログラムは、データ サービスには影響を与えません。
+しかしながら、データの整合性を確保するため、データをバックアップしてください。"</string>
+    <string name="str_abupdate_continue_download">ダウンロード &amp; インストール続行</string>
+    <string name="str_abupdate_install_completed">システム更新プログラムのインストールを完了しました。更新を完了するには、再起動してください。</string>
+    <string name="str_abupdate_install_failed">システム更新プログラムのインストールに失敗しました</string>
+    <string name="str_abupdate_install_update">今すぐインストール</string>
+    <string name="str_abupdate_installing">システム更新プログラムをインストール中です</string>
+    <string name="str_abupdate_local_package_log">このバージョンには更新履歴がありません</string>
+    <string name="str_abupdate_reboot">再起動</string>
+    <string name="str_abupdate_retry_failed">システム更新プログラムのインストールに失敗しました。完全アップグレードパッケージを確認中です。</string>
+    <string name="str_abupdate_start_download">今すぐダウンロード &amp; インストール</string>
+    <string name="str_abupdate_try_again">再試行</string>
+    <string name="str_alert_local_downgrade">"選択したパッケージは現在のバージョンよりも低いものです。これを選択すると、データ互換性の問題により起動できなくなる可能性があります。
+古いバージョンを削除してもよろしいですか？"</string>
+    <string name="str_alert_local_downgrade_confirm">確認</string>
+    <string name="str_beta_to_mp_not_allow">"現在のシステムよりも古いバージョンのパッケージが選択されています。起動エラーを回避するため、ダウングレードは許可されません。
+ダウングレードする場合は、リカバリーモードで再起動し、パッケージをインストールしてください。"</string>
+    <string name="str_disabled_local_upgrade_summary">システム更新プログラムをダウンロードまたはインストール中であるため、アップグレードをローカルで実行できません。</string>
+    <string name="str_download_retry">再度ダウンロード &amp; インストール</string>
+    <string name="str_mp_downgrade_not_allow">"現在のシステムよりも古いバージョンのパッケージが選択されています。起動エラーを回避するため、ダウングレードは許可されません。
+ダウングレードする場合は、まずデータをバックアップしてから、リカバリーモードで再起動し、パッケージをインストールしてください。"</string>
+    <string name="str_pause_download_new">一時停止</string>
+    <string name="str_time_incorrect_check_failed">デバイスの日付と時間が正しくないため、更新の確認に失敗しました</string>
+    <string name="str_time_incorrect_download_failed">デバイスの日付と時間が正しくないため、ダウンロードに失敗しました</string>
+    <string name="system_battery_low">バッテリー残量少 (20%)。充電してください。</string>
+    <string name="system_battery_low_title">バッテリー残量少</string>
+    <string name="system_can_fix_to_new_version">システムを最新バージョンに保つことができます</string>
+    <string name="system_can_update_to_new_version">今すぐ更新</string>
+    <string name="system_download_complete">システム %s のダウンロードが完了しました</string>
+    <string name="system_download_fail">ダウンロードに失敗しました。ネットワークを確認して、もう一度やり直してください。</string>
+    <string name="system_downloading">システム %s のダウンロード</string>
+    <string name="system_fix_download">修正パックを今すぐダウンロード</string>
+    <string name="system_fix_now">今すぐ修正するには再起動します。</string>
+    <string name="system_repair_mode">修復モード</string>
+    <string name="system_update_checking">更新プログラムを確認しています...</string>
+    <string name="system_update_download_finish">ダウンロード完了</string>
+    <string name="system_update_download_finish_tip">クリックしてアップグレードします。システムは自動的に再起動します。</string>
+    <string name="system_update_downloading_tip">新しいバージョンのデータをダウンロード中:</string>
+    <string name="system_update_error">ネットワークに接続できませんでした</string>
+    <string name="system_update_fail">アップグレードに失敗しました。もう一度やり直してください。</string>
+    <string name="system_update_messages">システム %s の更新通知</string>
+    <string name="system_update_messages_download">システム %s の更新。クリックして更新をダウンロードしてください。</string>
+    <string name="system_update_messages_failed_text">更新に失敗しました。再試行するには、タップして修復モードに入ってください。</string>
+    <string name="system_update_messages_failed_title">システムを更新できませんでした</string>
+    <string name="system_update_messages_success_text">システムが正常に %s に更新されました</string>
+    <string name="system_update_messages_success_title">システムが更新されました</string>
+    <string name="system_update_no_network">最初にネットワークを設定してください</string>
+    <string name="system_update_notification">システム更新の通知</string>
+    <string name="system_update_now">今すぐアップグレードするには再起動します。</string>
+    <string name="system_update_remain_time">残り時間:</string>
+    <string name="system_update_success">アップグレード完了</string>
+    <string name="system_updating">アップグレード中</string>
+    <string name="system_updating_tip">データはアップグレード後も失われません</string>
+    <string name="update_check_title">更新プログラムのチェック</string>
+    <string name="update_checking">更新プログラムを確認中、お待ちください...</string>
+    <string name="update_from_local">ローカルアップグレード</string>
+    <string name="update_log">更新履歴</string>
+    <string name="update_package_size">更新プログラムのサイズ:</string>
+    <string name="upgrade_log">更新履歴</string>
+    <string name="upgrade_package_not_exist">アップグレード パッケージが存在しません。もう一度ダウンロードしてください。</string>
+    <string name="verify_fail">署名の検証に失敗しました</string>
+    <string name="verifying">ファイルを検証中です。お待ちください…</string>
+    <string name="wipe_data">データのクリア</string>
+    <string name="wipe_data_text">"この更新のインストールする際はデータ (インストールしたアプリ、SMS およびその他のデータ) をクリアすることを推奨します。
+消去しますか？"</string>
+    <string name="wipe_data_title">警告</string>
+</resources>

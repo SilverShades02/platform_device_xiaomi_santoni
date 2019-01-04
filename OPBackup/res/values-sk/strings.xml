@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Prejsť na plochu</string>
+    <string name="abc_action_bar_up_description">Prejsť hore</string>
+    <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
+    <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
+    <string name="abc_capital_off">VYPNUTÉ</string>
+    <string name="abc_capital_on">ZAPNUTÉ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">odstrániť</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">medzerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhľadať…</string>
+    <string name="abc_searchview_description_clear">Vymazať dopyt</string>
+    <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
+    <string name="abc_searchview_description_search">Hľadať</string>
+    <string name="abc_searchview_description_submit">Odoslať dopyt</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
+    <string name="abc_shareactionprovider_share_with_application">Zdieľať s aplikáciou %s</string>
+    <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="about_to_restart">Chystáte sa reštartovať zariadenie kvôli nainštalovaní aktualizácie. Nevypínajte zariadenie počas procesu.</string>
+    <string name="access">Povoliť</string>
+    <string name="alert_text_backup_data">"Aktualizácia systému neovplyvní vaše údaje. 
+Odporúčame však vytvoriť zálohu kvôli zabezpečeniu integrity vašich dát. Reštartujte svoj telefón a nainštalujte aktualizáciu."</string>
+    <string name="app_name">Aktualizácia systému</string>
+    <string name="attention">Tipy</string>
+    <string name="battery_low_prompt">Na aktualizáciu je potrebné zariadenie nabiť aspoň na 20%. Ak chcete pokračovať, zariadenie nabite.</string>
+    <string name="battery_very_low_prompt">Batéria sa vybíja, pred pokračovaním aktualizácie nabite svoj telefón na 5%. Nechajte telefón pripojený k nabíjačke.</string>
+    <string name="btn_text_upgrade_now">Aktualizovať teraz</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="check_upgrade_log">Pozrite si denník aktualizácií</string>
+    <string name="click_to_install">Kliknutím nainštalujte</string>
+    <string name="continue_to_download">Pokračovať na prevzatie</string>
+    <string name="default_download_wifi">Stiahnuť len cez Wi-Fi</string>
+    <string name="default_download_wifi_auto">Automatické sťahovanie cez Wi-Fi</string>
+    <string name="dont_wipe_data">Nevymazať údaje</string>
+    <string name="download">Preberanie</string>
+    <string name="download_cancel">Naozaj chcete zrušiť preberanie?</string>
+    <string name="download_corrupted">Preberanie nebolo možné overiť, prosím prevezmite súbor znova.</string>
+    <string name="download_error">Počas preberania sa vyskytol problém komunikácie so serverom, obnovte preberanie neskôr.</string>
+    <string name="download_error_notification_text">Skúste obnoviť preberanie neskôr.</string>
+    <string name="download_error_notification_title">Chyba pri aktualizácii systému</string>
+    <string name="download_fail">Vyskytol sa problém počas preberania, skúste preberanie znova.</string>
+    <string name="download_fail_title">Preberanie zlyhalo</string>
+    <string name="download_io_error">Na preberanie aktualizácie je málo miesta v pamäti. Uvoľnite miesto a pokračujte v preberaní.</string>
+    <string name="download_is_not_wifi">"Preberanie cez mobilnú dátovú sieť, môžu vzniknúť dodatočné poplatky.
+Pokračovať?"</string>
+    <string name="download_is_slow">"Vaše pripojenie je príliš pomalé, preberanie aktualizácie môže vyžadovať dlhší čas.
+Pokračovať?"</string>
+    <string name="download_no_network">Sieť sa nenašla, skúste to znova neskôr.</string>
+    <string name="download_no_network_title">Sieť sa nenašla</string>
+    <string name="download_now">Prevziať teraz</string>
+    <string name="download_paused">"Preberanie sa pozastavilo, pretože sieť nie je k dispozícii.
+Preberanie sa obnoví, ak sa nájde sieť."</string>
+    <string name="download_paused_resume">"Pripojenie Wi-Fi sa prerušilo, preberanie bolo pozastavené. 
+Skúste pokračovať neskôr."</string>
+    <string name="download_paused_resume_by_manual">Naozaj chcete pozastaviť preberanie? Môžete pokračovať neskôr.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Zostáva %s</string>
+    <string name="download_retry">Stiahnuť znova</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Preberanie pozastavené</string>
+    <string name="downloaded_notification_error_text">Skúste obnoviť preberanie neskôr.</string>
+    <string name="downloaded_notification_error_title">Chyba pri preberaní.</string>
+    <string name="downloaded_notification_fail_text">Vyskytol sa problém počas preberania, skúste to znova neskôr.</string>
+    <string name="downloaded_notification_fail_title">Chyba pri preberaní.</string>
+    <string name="downloaded_notification_io_error_text">Uvoľnite miesto a pokračujte.</string>
+    <string name="downloaded_notification_io_error_title">Nedostatok voľného miesta.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Preberanie bolo pozastavené.</string>
+    <string name="downloaded_notification_pause_text">Preberanie sa pozastavilo, pretože nie je k dispozícii žiadna sieť.</string>
+    <string name="downloaded_notification_pause_title">Preberanie pozastavené.</string>
+    <string name="downloaded_notification_title">Aktualizácia systému sa prevzala</string>
+    <string name="downloading">Preberanie %1$s z %2$s</string>
+    <string name="downloading_notification_title">Preberanie aktualizácie systému</string>
+    <string name="exists_new_version_title">Zistená nová verzia systému</string>
+    <string name="has_new_version_notification">Zistila sa nová verzia. Prejdite na aktualizáciu H2OS OTA</string>
+    <string name="install">Inštalovať</string>
+    <string name="install_copy_fail">Počas inštalácie aktualizácie nastal problém. Skúste znova neskôr.</string>
+    <string name="last_check_update">Naposledy kontrolované: %1$s</string>
+    <string name="need_more_space">Na aktualizáciu nie je dostatok ukladacieho priestoru. Potrebný ukladací priestor: %s. Uvoľnite nejaký ukladací priestor a skúste to znova.</string>
+    <string name="network_tip">Aktuálna sieť je 2G / 3G / 4G. Ak budete pokračovanie na stiahnutie, môže vám operátor účtovať poplatok.</string>
+    <string name="network_wrarning_checkbox">Pripomenutie už nezobrazovať</string>
+    <string name="network_wrarning_text">Táto aplikácia vytvára prenos dát. Jej spustenie odporúčame počas používania Wi-Fi</string>
+    <string name="network_wrarning_title">Pripomenutie</string>
+    <string name="no_enough_space">Nedostatok úložného priestoru. Uvoľnite miesto a skúste to znova.</string>
+    <string name="no_local_update_packges_title">Presuňte inštalačný balík do koreňového adresára</string>
+    <string name="no_upgrade_log">Denník aktualizácií nie je k dispozícii</string>
+    <string name="notification_download_fail">Preberanie balíka s inováciou zlyhalo. Preberanie spustite znova</string>
+    <string name="notification_download_success">Preberanie dokončené, kliknite na tlačidlo aktualizovať</string>
+    <string name="notification_downloading">Prebieha preberanie</string>
+    <string name="notification_into_update_content">Ťuknutím inovujete teraz</string>
+    <string name="notification_into_update_title">Preberanie balíka aktualizácie systému dokončené</string>
+    <string name="oneplus_read_contacts">Prístup k sieti</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Pamätať si moje výbery</string>
+    <string name="oneplus_rights_dialog_discription">Na používanie aktualizácie systému budete potrebovať nasledujúce povolenia</string>
+    <string name="oneplus_rights_dialog_title">Povolenie aplikácie</string>
+    <string name="ota_check_update">Skontrolovať aktualizácie</string>
+    <string name="ota_never_check_update">Ešte ste nikdy nekontrolovali aktualizácie.</string>
+    <string name="ota_new_update">Nová verzia je k dispozícii</string>
+    <string name="ota_new_update_downloading">"Nová verzia je k dispozícii
+Prebieha preberanie…"</string>
+    <string name="ota_new_update_name">%1$s aktualizácia systému</string>
+    <string name="ota_new_update_name_downloading">"%1$s aktualizácia systému
+Prebieha preberanie…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Aktualizácia systému
+Preberanie pozastavené…"</string>
+    <string name="ota_new_update_name_ready">"%1$s aktualizácia systému
+Pripravená na inštaláciu"</string>
+    <string name="ota_new_update_paused">Preberanie pozastavené…</string>
+    <string name="ota_new_update_ready">"Nová verzia je k dispozícii
+Pripravená na inštaláciu"</string>
+    <string name="ota_no_update">Váš systém je aktuálny</string>
+    <string name="ota_oem_unlock_detected_alert">Zistené odomknutie OEM. Systém začne preberať úplný balík na inovovanie. Vytvorte zálohu kvôli zabezpečeniu integrity vašich dát.</string>
+    <string name="ota_root_detected_alert">Zistil sa root, systém začne preberať plný aktualizačný balík. Odporúčame vytvoriť zálohu kvôli zabezpečeniu integrity vašich dát. Po dokončení aktualizácie bude rootovanie vášho zariadenia zrušené.</string>
+    <string name="pause_downloading">Pozastaviť sťahovanie</string>
+    <string name="play_under_mobile_data">Prehrávanie</string>
+    <string name="play_under_mobile_data_tips">V súčasnosti ste v mobilnej sieti, chcete pokračovať v hraní?</string>
+    <string name="preparing_download">Pripravuje sa preberanie…</string>
+    <string name="preparing_install">Pripravuje sa inštalácia…</string>
+    <string name="ready_to_install">Aktualizácia systému je pripravená. Kliknite na tlačidlo Inštalovať, reštartujte svoj telefón a nainštalujte aktualizáciu.</string>
+    <string name="ready_to_upgrade">Overuje sa balík aktualizácie...</string>
+    <string name="reject">Nepovoliť</string>
+    <string name="remind_later">Pripomeňte mi neskôr</string>
+    <string name="resume">Obnoviť</string>
+    <string name="rooted_warning">"Zistilo sa rootované zariadenie, aktualizácia môže zlyhať 
+Chcete aktualizovať?"</string>
+    <string name="search_menu_title">Vyhľadávanie</string>
+    <string name="searching">Vyhľadáva sa...</string>
+    <string name="setting">Nastavenia</string>
+    <string name="share">Zdieľať</string>
+    <string name="show_new_version_info">Skontrolujte aktualizovaný obsah</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Verzia vášho vybraného balíka je nižšia ako v súčasnom systéme. Aby sa zabránilo chybe pri spúšťaní, degradovanie nie je povolené.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">CHÁPEM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Balík, ktorý ste vybrali, obnoví po inštalácii vaše zariadenie na pôvodné nastavenia z výroby.
+Naozaj ho chcete nainštalovať?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Táto aktualizácia systému neovplyvní vaše údaje.
+Odporúčame však vytvoriť zálohu kvôli zabezpečeniu integrity vašich dát."</string>
+    <string name="str_abupdate_continue_download">Pokračovať sťahovaním a nainštalovaním</string>
+    <string name="str_abupdate_install_completed">Inštalácia aktualizácie systému je dokončená. Reštartovaním počítača dokončite aktualizáciu.</string>
+    <string name="str_abupdate_install_failed">Inštalácia aktualizácie systému zlyhala</string>
+    <string name="str_abupdate_install_update">NAINŠTALOVAŤ TERAZ</string>
+    <string name="str_abupdate_installing">Inštaluje sa aktualizácia systému</string>
+    <string name="str_abupdate_local_package_log">Táto verzia nemá denník zmien</string>
+    <string name="str_abupdate_reboot">REŠTART</string>
+    <string name="str_abupdate_retry_failed">Inštalácia aktualizácie systému zlyhala. Hľadáme úplný balík na inovovanie.</string>
+    <string name="str_abupdate_start_download">Stiahnuť a nainštalovať teraz</string>
+    <string name="str_abupdate_try_again">SKÚSTE ZNOVA</string>
+    <string name="str_alert_local_downgrade">"Balík, ktorý ste vybrali, je starší ako aktuálna verzia. Problémy s kompatibilitou môžu viesť k zlyhaniu zavedenia systému.
+Určite chcete nainštalovať starú verziu?"</string>
+    <string name="str_alert_local_downgrade_confirm">Potvrdiť</string>
+    <string name="str_beta_to_mp_not_allow">"Vybratý balík má nižšiu verziu než je systémová verzia. Aby sa zabránilo chybe pri spúšťaní, degradovanie nie je povolené.
+Ak chcete degradovať nainštalovaním balíka, reštartujte sa prosím do režimu obnovy."</string>
+    <string name="str_disabled_local_upgrade_summary">Nepodarilo sa inovovať lokálne, lebo práve sťahujete alebo inštalujete aktualizáciu systému.</string>
+    <string name="str_download_retry">Stiahnuť a nainštalovať znova</string>
+    <string name="str_mp_downgrade_not_allow">"Vybratý balík má nižšiu verziu než je systémová verzia. Aby sa zabránilo chybe pri spúšťaní, prechod na nižšiu verziu nie je povolený.
+Ak chcete prejsť na nižšiu verziu, najprv vykonajte zálohu svojich údajov a potom môžete spustiť režim obnovy a nainštalovať balík."</string>
+    <string name="str_pause_download_new">Pozastaviť</string>
+    <string name="str_time_incorrect_check_failed">Kontrola aktualizácií zlyhala, pretože dátum a čas zariadenia sú nesprávne</string>
+    <string name="str_time_incorrect_download_failed">Preberanie zlyhalo, pretože dátum a čas zariadenia sú nesprávne</string>
+    <string name="system_battery_low">Batéria sa vybíja (20%), pripojte nabíjačku</string>
+    <string name="system_battery_low_title">Batéria sa vybíja</string>
+    <string name="system_can_fix_to_new_version">Systém je možné opraviť na najnovšiu verziu</string>
+    <string name="system_can_update_to_new_version">Aktualizovať teraz</string>
+    <string name="system_download_complete">Preberanie systému %s dokončené</string>
+    <string name="system_download_fail">Prevzatie zlyhalo. Skontrolujte sieť a skúste to znova</string>
+    <string name="system_downloading">Preberanie systému %s</string>
+    <string name="system_fix_download">Prevziať balík fix pack</string>
+    <string name="system_fix_now">Reštartovaním teraz opraviť</string>
+    <string name="system_repair_mode">Režim opravy</string>
+    <string name="system_update_checking">Kontrola aktualizácií...</string>
+    <string name="system_update_download_finish">Preberanie dokončené</string>
+    <string name="system_update_download_finish_tip">Kliknutím inovujte. Systém sa automaticky reštartuje</string>
+    <string name="system_update_downloading_tip">Sťahovanie dát pre novú verziu:</string>
+    <string name="system_update_error">Sieť nie je pripojená</string>
+    <string name="system_update_fail">Inovácia zlyhala. Skúste to znova</string>
+    <string name="system_update_messages">Pripomenutie aktualizácie systému %s</string>
+    <string name="system_update_messages_download">Aktualizácia systému %s, kliknite na tlačidlo prebrať aktualizáciu</string>
+    <string name="system_update_messages_failed_text">Aktualizácia zlyhala. Ťuknutím prejdite do režimu opravy a skúste to znova</string>
+    <string name="system_update_messages_failed_title">Aktualizácia systému zlyhala</string>
+    <string name="system_update_messages_success_text">Systém bol úspešne aktualizovaný na %s</string>
+    <string name="system_update_messages_success_title">Systém bol aktualizovaný</string>
+    <string name="system_update_no_network">Najprv nastavte sieť</string>
+    <string name="system_update_notification">Oznámenie o aktualizácii systému</string>
+    <string name="system_update_now">Reštartovaním teraz inovujte</string>
+    <string name="system_update_remain_time">Zostávajúci čas:</string>
+    <string name="system_update_success">Inovácia dokončená</string>
+    <string name="system_updating">Inovuje sa</string>
+    <string name="system_updating_tip">Po inovácii sa údaje nestratia</string>
+    <string name="update_check_title">Skontrolovať aktualizácie</string>
+    <string name="update_checking">Kontrolujú sa aktualizácie, počkajte, prosím…</string>
+    <string name="update_from_local">Lokálna aktualizácia</string>
+    <string name="update_log">Aktualizovať denník</string>
+    <string name="update_package_size">Veľkosť aktualizácie:</string>
+    <string name="upgrade_log">Aktualizovať denník</string>
+    <string name="upgrade_package_not_exist">Balík na inovovanie neexistuje, prevezmite ho znova.</string>
+    <string name="verify_fail">Zlyhalo overenie podpisu</string>
+    <string name="verifying">Kontrola súboru, prosím, počkajte…</string>
+    <string name="wipe_data">Vymazať údaje</string>
+    <string name="wipe_data_text">"Odporúčame vymazať svoje údaje (nainštalované aplikácie, správy SMS a ďalšie údaje) pred inštaláciou tejto aktualizácie.
+Chcete ich vymazať?"</string>
+    <string name="wipe_data_title">Upozornenie</string>
+</resources>

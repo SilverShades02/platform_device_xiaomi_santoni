@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="14.0sp" android:textColor="@color/permission_dialog_tip_color" android:gravity="top" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="8.0dip" android:text="@string/oneplus_rights_dialog_discription" android:singleLine="false" />
+    <TextView android:textSize="16.0sp" android:textColor="@color/permission_dialog_content_color" android:gravity="top" android:id="@id/read_contacts" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginLeft="24.0dip" android:layout_marginTop="8.0dip" android:text="@string/oneplus_read_contacts" />
+    <com.oneplus.lib.widget.button.OPCheckBox android:textColor="@color/permission_dialog_tip_color" android:id="@id/remember_my_choice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:checked="true" android:text="@string/oneplus_rights_dialog_checkbox_text" />
+</LinearLayout>

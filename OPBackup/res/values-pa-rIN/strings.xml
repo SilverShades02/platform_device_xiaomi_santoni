@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_to_restart">ਤੁਸੀਂ ਅਪਗ੍ਰੇਡ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਨੂੰ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨ ਹੀ ਵਾਲੇ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਕਿਰਿਆ ਦੌਰਾਨ ਆਪਣਾ ਡਿਵਾਈਸ ਬੰਦ ਨਾ ਕਰਨਾ।</string>
+    <string name="access">ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="alert_text_backup_data">"ਸਿਸਟਮ ਅੱਪਡੇਟ ਤੁਹਾਡੇ ਡੇਟਾ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਕਰੇਗਾ। 
+ਹਾਲਾਂਕਿ, ਤੁਹਾਡੇ ਡੇਟਾ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਪੱਕਾ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਕਅੱਪ ਲਓ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅੱਪੇਡਟ ਸਥਾਪਤ ਕਰੋ।"</string>
+    <string name="app_name">ਸਿਸਟਮ ਅਪਡੇਟ</string>
+    <string name="attention">ਨੁਕਤੇ</string>
+    <string name="battery_low_prompt">ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਦੀ ਚਾਰਜਿੰਗ 20% ਤੋਂ ਵੱਧ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਜਾਰੀ ਰੱਖਣ ਲਈ ਚਾਰਜ ਕਰੋ।</string>
+    <string name="battery_very_low_prompt">"ਬੈਟਰੀ ਬਹੁਤ ਘੱਟ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਅਪਡੇਟ ਜਾਰੀ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ 5% ਤੱਕ ਚਾਰਜ ਕਰੋ। ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਚਾਰਜ 'ਤੇ ਲਗਾਕੇ ਰੱਖੋ।"</string>
+    <string name="btn_text_upgrade_now">ਹੁਣੇ ਅੱਪਗ੍ਰੇਡ ਕਰੋ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="check_upgrade_log">ਅੱਪਡੇਟ ਲੌਗ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="click_to_install">ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ</string>
+    <string name="continue_to_download">ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="default_download_wifi">ਸਿਰਫ਼ Wi-Fi ਰਾਹੀਂ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="default_download_wifi_auto">"Wi-Fi 'ਤੇ ਸਵੈ-ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="dont_wipe_data">ਡੇਟਾ ਸਾਫ਼ ਨਾ ਕਰੋ</string>
+    <string name="download">ਡਾਉਨਲੋਡ</string>
+    <string name="download_cancel">ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਡਾਉਨਲੋਡ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="download_corrupted">ਡਾਉਨਲੋਡ ਦੀ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰੋ।</string>
+    <string name="download_error">ਡਾਉਨਲੋਡ ਦੌਰਾਨ ਸਰਵਰ ਨਾਲ ਸੰਪਰਕ ਬਣਾਈ ਰੱਖਣ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਆ ਗਈ ਸੀ, ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਡਾਉਨਲੋਡ ਨੂੰ ਮੁੜ ਜਾਰੀ ਕਰੋ।</string>
+    <string name="download_error_notification_text">ਬਾਅਦ ਵਿੱਚ ਡਾਉਨਲੋਡ ਨੂੰ ਮੁੜ ਜਾਰੀ ਰੱਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="download_error_notification_title">ਸਿਸਟਮ ਅਪਡੇਟ ਵਿੱਚ ਤਰੁੱਟੀ ਆਈ</string>
+    <string name="download_fail">ਡਾਉਨਲੋਡ ਦੌਰਾਨ ਇੱਕ ਸਮੱਸਿਆ ਆ ਗਈ ਸੀ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰੋ।</string>
+    <string name="download_fail_title">ਡਾਊਨਲੋਡ ਅਸਫਲ ਹੋਈ</string>
+    <string name="download_io_error">ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਸਟੋਰੇਜ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਥਾਂ ਖਾਲੀ ਕਰੋ ਅਤੇ ਡਾਊਨਲੋਡ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ।</string>
+    <string name="download_is_not_wifi">"ਮੋਬਾਈਲ ਡੇਟਾ 'ਤੇ ਡਾਉਨਲੋਡ ਕਰ ਰਿਹਾ ਹੈ, ਅਤਿਰਿਕਤ ਖਰਚਾ ਲੱਗ ਸਕਦਾ ਹੈ।
+ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"</string>
+    <string name="download_is_slow">"ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਬਹੁਤ ਹੌਲੀ ਹੈ ਅਤੇ ਅਪਡੇਟ ਡਾਉਨਲੋਡ ਕਰਨ ਵਿੱਚ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।
+ਜਾਰੀ ਰੱਖਣਾ ਹੈ?"</string>
+    <string name="download_no_network">ਨੈਟਵਰਕ ਨਹੀਂ ਲੱਭਿਆ, ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="download_no_network_title">ਨੈਟਵਰਕ ਨਹੀਂ ਲੱਭਿਆ</string>
+    <string name="download_now">ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="download_paused">"ਡਾਉਨਲੋਡ ਰੋਕ ਦਿੱਤੀ ਗਈ ਸੀ ਕਿਉਂਕਿ ਕੋਈ ਨੈਟਵਰਕ ਉਪਲੱਬਧ ਨਹੀਂ ਸੀ।
+ਕੋਈ ਨੈਟਵਰਕ ਉਪਲੱਬਧ ਹੋਣ 'ਤੇ ਇਹ ਮੁੜ ਜਾਰੀ ਹੋ ਜਾਵੇਗੀ।"</string>
+    <string name="download_paused_resume">"Wi-Fi ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਮਿਲ ਰਿਹਾ, ਡਾਊਨਲੋਡ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ ਗਿਆ। 
+ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+    <string name="download_paused_resume_by_manual">"ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਡਾਊਨਲੋਡ ਨੂੰ ਵਿਰਾਮ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।"</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s ਬਾਕੀ</string>
+    <string name="download_retry">ਦੁਬਾਰਾ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">ਡਾਉਨਲੋਡ ਰੋਕੀ ਗਈ</string>
+    <string name="downloaded_notification_error_text">ਬਾਅਦ ਵਿੱਚ ਡਾਉਨਲੋਡ ਨੂੰ ਮੁੜ ਜਾਰੀ ਰੱਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="downloaded_notification_error_title">ਡਾਉਨਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ ਆਈ।</string>
+    <string name="downloaded_notification_fail_text">ਡਾਉਨਲੋਡ ਦੌਰਾਨ ਇੱਕ ਸਮੱਸਿਆ ਆ ਗਈ ਸੀ, ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="downloaded_notification_fail_title">ਡਾਉਨਲੋਡ ਕਰਨ ਵਿੱਚ ਤਰੁੱਟੀ ਆਈ।</string>
+    <string name="downloaded_notification_io_error_text">ਥਾਂ ਖਾਲੀ ਕਰੋ ਅਤੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ।</string>
+    <string name="downloaded_notification_io_error_title">ਨਾਕਾਫ਼ੀ ਥਾਂ।</string>
+    <string name="downloaded_notification_pause_by_manual_text">ਡਾਊਨਲੋਡ ਨੂੰ ਵਿਰਾਮ ਦਿੱਤਾ ਗਿਆ ਸੀ।</string>
+    <string name="downloaded_notification_pause_text">ਡਾਉਨਲੋਡ ਰੋਕੀ ਗਈ ਸੀ ਕਿਉਂਕਿ ਕੋਈ ਨੈਟਵਰਕ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="downloaded_notification_pause_title">ਡਾਉਨਲੋਡ ਰੋਕੀ ਗਈ।</string>
+    <string name="downloaded_notification_title">ਸਿਸਟਮ ਅਪਡੇਟ ਡਾਉਨਲੋਡ ਹੋ ਗਈ</string>
+    <string name="downloading">%2$s ਦਾ %1$s ਡਾਉਨਲੋਡ ਕਰ ਰਿਹਾ</string>
+    <string name="downloading_notification_title">ਸਿਸਟਮ ਅਪਡੇਟ ਡਾਉਨਲੋਡ ਕਰ ਰਿਹਾ</string>
+    <string name="exists_new_version_title">ਨਵਾਂ ਸਿਸਟਮ ਸੰਸਕਰਣ ਲੱਭਿਆ</string>
+    <string name="has_new_version_notification">"ਇੱਕ ਨਵਾਂ ਸੰਸਕਰਣ ਮਿਲਿਆ, H2OS OTA ਅੱਪਡੇਟ 'ਤੇ ਜਾਓ"</string>
+    <string name="install">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="install_copy_fail">ਅਪਗ੍ਰੇਡ ਕਰਨ ਵਿੱਚ ਇੱਕ ਸਮੱਸਿਆ ਆ ਗਈ ਸੀ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="last_check_update">ਆਖ਼ਰੀ ਵਾਰ ਜਾਂਚਿਆ ਗਿਆ: %1$s</string>
+    <string name="need_more_space">ਅੱਪਗ੍ਰੇਡ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਥਾਂ ਨਹੀਂ ਹੈ, %s ਸਟੋਰੇਜ ਥਾਂ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਕੁਝ ਥਾਂ ਖਾਲੀ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="network_tip">"ਮੌਜੂਦਾ ਨੈੱਟਵਰਕ 2G/3G/4G ਹੈ। ਡਾਊਨਲੋਡ ਜਾਰੀ ਰੱਖਣ 'ਤੇ ਕੈਰੀਅਰ ਵੱਲੋਂ ਖਰਚਾ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="network_wrarning_checkbox">ਦੁਬਾਰਾ ਯਾਦ-ਦਹਾਨੀ ਨਾ ਵਿਖਾਓ</string>
+    <string name="network_wrarning_text">ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਡੇਟਾ ਟ੍ਰੈਫਿਕ ਪੈਦਾ ਕਰਦੀ ਹੈ। Wi-Fi ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੌਰਾਨ ਚਲਾਉਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ</string>
+    <string name="network_wrarning_title">ਯਾਦ-ਦਹਾਨੀ</string>
+    <string name="no_enough_space">ਨਾਕਾਫ਼ੀ ਸਟੋਰੇਜ ਥਾਂ। ਕਿਰਪਾ ਕਰਕੇ ਥਾਂ ਖਾਲੀ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="no_local_update_packges_title">ਸਥਾਪਨਾ ਪੈਕੇਜ ਨੂੰ ਰੂਟ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਭੇਜੋ</string>
+    <string name="no_upgrade_log">ਕੋਈ ਅੱਪਡੇਟ ਲੌਗ ਉਪਲਬਧ ਨਹੀਂ ਹੈ</string>
+    <string name="notification_download_fail">ਅੱਪਗ੍ਰੇਡ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ, ਕਿਰਪਾ ਕਰਕੇ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="notification_download_success">ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ ਹੋਈ, ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ</string>
+    <string name="notification_downloading">ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="notification_into_update_content">ਅੱਪਗ੍ਰੇਡ ਕਰਨ ਲਈ ਹੁਣੇ ਟੈਪ ਕਰੋ</string>
+    <string name="notification_into_update_title">ਸਿਸਟਮ ਅੱਪਡੇਟ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ ਹੋਈ</string>
+    <string name="oneplus_read_contacts">"ਨੈੱਟਵਰਕ 'ਤੇ ਪਹੁੰਚ ਕਰੋ"</string>
+    <string name="oneplus_rights_dialog_checkbox_text">ਮੇਰੀਆਂ ਚੋਣਾਂ ਯਾਦ ਰੱਖੋ</string>
+    <string name="oneplus_rights_dialog_discription">ਸਿਸਟਮ ਅੱਪਡੇਟ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਤੁਹਾਡੇ ਹੇਠਾਂ ਲਿਖੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="oneplus_rights_dialog_title">ਇਜਾਜ਼ਤ ਦੀ ਬੇਨਤੀ</string>
+    <string name="ota_check_update">ਅਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ</string>
+    <string name="ota_never_check_update">ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਅਪਡੇਟ ਲਈ ਕਦੇ ਵੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ।</string>
+    <string name="ota_new_update">ਨਵਾਂ ਸੰਸਕਰਣ ਉਪਲੱਬਧ ਹੈ</string>
+    <string name="ota_new_update_downloading">"ਨਵਾਂ ਸੰਸਕਰਣ ਉਪਲੱਬਧ ਹੈ
+ਡਾਉਨਲੋਡ ਹੋ ਰਿਹਾ…"</string>
+    <string name="ota_new_update_name">%1$s ਸਿਸਟਮ ਅਪਡੇਟ</string>
+    <string name="ota_new_update_name_downloading">"%1$s ਸਿਸਟਮ ਅਪਡੇਟ
+ਡਾਉਨਲੋਡ ਹੋ ਰਿਹਾ…"</string>
+    <string name="ota_new_update_name_paused">"%1$s ਸਿਸਟਮ ਅਪਡੇਟ
+ਡਾਉਨਲੋਡ ਰੋਕੀ ਗਈ…"</string>
+    <string name="ota_new_update_name_ready">"%1$s ਸਿਸਟਮ ਅਪਡੇਟ
+ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਤਿਆਰ"</string>
+    <string name="ota_new_update_paused">ਡਾਉਨਲੋਡ ਰੋਕੀ ਗਈ…</string>
+    <string name="ota_new_update_ready">"ਨਵਾਂ ਸੰਸਕਰਣ ਉਪਲੱਬਧ ਹੈ
+ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਤਿਆਰ"</string>
+    <string name="ota_no_update">ਤੁਹਾਡਾ ਸਿਸਟਮ ਨਵੀਨਤਮ ਹੈ</string>
+    <string name="ota_oem_unlock_detected_alert">OEM ਅਣਲੌਕ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਸਿਸਟਮ ਪੂਰਾ ਅੱਪਗ੍ਰੇਡ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੇਗਾ। ਆਪਣੇ ਡੇਟਾ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਪੱਕਾ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਕਅੱਪ ਲਓ।</string>
+    <string name="ota_root_detected_alert">ਰੂਟ ਦਾ ਪਤਾ ਲੱਗਿਆ, ਸਿਸਟਮ ਪੂਰਾ ਅੱਪਗ੍ਰੇਡ ਪੈਕੇਜ ਡਾਊਨਲੋਡ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੇਗਾ। ਆਪਣੇ ਡੇਟਾ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਪੱਕਾ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਕਅੱਪ ਲਓ। ਅੱਪਗ੍ਰੇਡ ਪੂਰੀ ਹੋਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਅਣ-ਰੂਟ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="pause_downloading">ਡਾਊਨਲੋਡ ਨੂੰ ਵਿਰਾਮ ਦਿਓ</string>
+    <string name="play_under_mobile_data">ਚਲਾਓ</string>
+    <string name="play_under_mobile_data_tips">"ਇਸ ਸਮੇਂ ਸੈਲਿਊਲਰ ਨੈੱਟਵਰਕ 'ਤੇ ਹੋ, ਕੀ ਚਲਾਉਣਾ ਜਾਰੀ ਰੱਖੀਏ?"</string>
+    <string name="preparing_download">ਡਾਉਨਲੋਡ ਦੀ ਤਿਆਰੀ ਕਰ ਰਿਹਾ…</string>
+    <string name="preparing_install">ਸਥਾਪਿਤ ਕਰਨ ਦੀ ਤਿਆਰੀ ਕਰ ਰਿਹਾ…</string>
+    <string name="ready_to_install">"ਸਿਸਟਮ ਅਪਡੇਟ ਤਿਆਰ ਹੈ। ਆਪਣਾ ਫ਼ੋਨ ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਅਤੇ ਅਪਡੇਟ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਹੇਠਾਂ ਸਥਾਪਿਤ ਕਰੋ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।"</string>
+    <string name="ready_to_upgrade">ਅੱਪਡੇਟ ਪੈਕੇਜ ਦੀ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...</string>
+    <string name="reject">ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ</string>
+    <string name="remind_later">ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੇਤੇ ਕਰਾਓ</string>
+    <string name="resume">ਮੁੜ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="rooted_warning">"ਰੂਟੇਡ ਡਿਵਾਈਸ ਦਾ ਪਤਾ ਲੱਗਿਆ, ਅਪਡੇਟ ਅਸਫ਼ਲ ਹੋ ਸਕਦੀ ਹੈ।
+ਕੀ ਤੁਸੀਂ ਅਪਗ੍ਰੇਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="searching">ਖੋਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="setting">ਸੈਟਿੰਗਾਂ</string>
+    <string name="share">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="show_new_version_info">ਅੱਪਡੇਟ ਕੀਤੀ ਗਈ ਸਮੱਗਰੀ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="str_ab_downgrade_not_allow">ਤੁਹਾਡੇ ਚੁਣੇ ਹੋਏ ਪੈਕੇਜ ਦਾ ਸੰਸਕਰਨ ਮੌਜੂਦਾ ਸਿਸਤਮ ਤੋਂ ਪੁਰਾਣਾ ਹੈ। ਬੂਟ ਅੱਪ ਅਸਫਲ ਹੋਣ ਤੋਂ ਬਚਣ ਲਈ, ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ਸਮਝ ਲਿਆ</string>
+    <string name="str_ab_upgrade_warning_wipe">"ਜੋ ਪੈਕੇਜ ਤੁਸੀਂ ਚੁਣਿਆ ਹੈ, ਉਹ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਦੇ ਬਾਅਦ ਫੈਕਟਰੀ ਡਿਫੌਲਟਾਂ 'ਤੇ ਰੀਸੈਟ ਕਰੇਗਾ।
+ਕੀ ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਹੀ ਇਸਨੂੰ ਸਥਾਪਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"ਇਸ ਸਿਸਟਮ ਅੱਪਡੇਟ ਨਾਲ ਤੁਹਾਡਾ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ।
+ਹਾਲਾਂਕਿ, ਆਪਣੇ ਡੇਟਾ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਪੱਕਾ ਕਰਨ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਕਅੱਪ ਲਓ।"</string>
+    <string name="str_abupdate_continue_download">ਡਾਉਨਲੋਡ ਕਰਨ ਅਤੇ ਸਥਾਪਤ ਕਰਨ ਵੱਲ ਅੱਗੇ ਵਧੋ</string>
+    <string name="str_abupdate_install_completed">ਸਿਸਟਮ ਅੱਪਡੇਟ ਸਥਾਪਨਾ ਪੂਰੀ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਅੱਪਡੇਟ ਮੁਕੰਮਲ ਕਰਨ ਲਈ ਰੀਬੂਟ ਕਰੋ।</string>
+    <string name="str_abupdate_install_failed">ਸਿਸਟਮ ਅੱਪਡੇਟ ਦੀ ਸਥਾਪਨਾ ਅਸਫਲ ਹੋਈ</string>
+    <string name="str_abupdate_install_update">ਹੁਣੇ ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="str_abupdate_installing">ਸਿਸਟਮ ਅੱਪਡੇਟ ਨੂੰ ਸਥਾਪਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="str_abupdate_local_package_log">ਇਸ ਸੰਸਕਰਣ ਵਿੱਚ ਕੋਈ ਚੇਂਜਲੌਗ ਨਹੀਂ ਹੈ</string>
+    <string name="str_abupdate_reboot">ਰੀਬੂਟ ਕਰੋ</string>
+    <string name="str_abupdate_retry_failed">ਸਿਸਟਮ ਅੱਪਡੇਟ ਦੀ ਸਥਾਪਨਾ ਅਸਫਲ ਹੋਈ। ਪੂਰਾ ਅੱਪਗ੍ਰੇਡ ਪੈਕੇਜ ਲੱਭਿਆ ਜਾ ਰਿਹਾ ਹੈ।</string>
+    <string name="str_abupdate_start_download">ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ ਅਤੇ ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="str_abupdate_try_again">ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="str_alert_local_downgrade">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਚੁਣਿਆ ਗਿਆ ਪੈਕੇਜ ਵਰਤਮਾਨ ਸੰਸਕਰਣ ਤੋਂ ਪੁਰਾਣਾ ਹੈ। ਡੇਟਾ ਅਨੁਕੂਲਤਾ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਕਾਰਨ ਇਹ ਬੂਟ ਹੋਣ ਵਿੱਚ ਅਸਫਲ ਹੋਣ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ। 
+ਕੀ ਤੁਸੀਂ ਪੱਕੇ ਤੌਰ 'ਤੇ ਪੁਰਾਣਾ ਸੰਸਕਰਣ ਸਥਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+    <string name="str_alert_local_downgrade_confirm">ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="str_beta_to_mp_not_allow">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਚੁਣਿਆ ਹੋਇਆ ਪੈਕੇਜ ਵਰਤਮਾਨ ਸਿਸਟਮ ਸੰਸਕਰਣ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ। ਬੂਟ ਅੱਪ ਅਸਫ਼ਲਤਾ ਤੋਂ ਬਚਣ ਲਈ, ਡੀਗ੍ਰੇਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।
+ਜੇਕਰ ਤੁਸੀਂ ਡੀਗ੍ਰੇਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਪੈਕੇਜ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ ਰਿਕਵਰੀ ਮੋਡ 'ਤੇ ਰੀਬੂਟ ਕਰੋ।"</string>
+    <string name="str_disabled_local_upgrade_summary">"ਕਿਉਂਕਿ ਤੁਸੀਂ ਸਿਸਟਮ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਜਾਂ ਸਥਾਪਤ ਕਰ ਰਹੇ ਹੋ, ਇਸ ਲਈ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਅੱਪਗ੍ਰੇਡ ਨਹੀਂ ਕਰ ਸਕਦੇ।"</string>
+    <string name="str_download_retry">ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰੋ ਅਤੇ ਸਥਾਪਤ ਕਰੋ</string>
+    <string name="str_mp_downgrade_not_allow">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਚੁਣਿਆ ਹੋਇਆ ਪੈਕੇਜ ਵਰਤਮਾਨ ਸਿਸਟਮ ਸੰਸਕਰਣ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ। ਬੂਟ ਅੱਪ ਅਸਫ਼ਲਤਾ ਤੋਂ ਬਚਣ ਲਈ, ਡੀਗ੍ਰੇਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।
+ਜੇਕਰ ਤੁਸੀਂ ਡੀਗ੍ਰੇਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਆਪਣੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲਓ, ਫਿਰ ਤੁਸੀਂ ਪੈਕੇਜ ਨੂੰ ਸਥਾਪਤ ਕਰਨ ਲਈ ਰਿਕਵਰੀ ਮੋਡ 'ਤੇ ਰੀਬੂਟ ਕਰ ਸਕਦੇ ਹੋ।"</string>
+    <string name="str_pause_download_new">ਵਿਰਾਮ ਦਿਓ</string>
+    <string name="str_time_incorrect_check_failed">ਅੱਪਡੇਟਾਂ ਦੀ ਜਾਂਚ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ ਕਿਉਂਕਿ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੀ ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਗਲਤ ਹਨ</string>
+    <string name="str_time_incorrect_download_failed">ਡਾਊਨਲੋਡ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ ਕਿਉਂਕਿ ਤੁਹਾਡੀ ਡਿਵਾਈਸ ਦੀ ਮਿਤੀ ਅਤੇ ਸਮਾਂ ਗਲਤ ਹਨ</string>
+    <string name="system_battery_low">ਬੈਟਰੀ ਘੱਟ ਹੈ (20%)। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਚਾਰਜ ਕਰੋ</string>
+    <string name="system_battery_low_title">ਘੱਟ ਬੈਟਰੀ</string>
+    <string name="system_can_fix_to_new_version">"ਸਿਸਟਮ ਨੂੰ ਨਵੀਨਤਮ ਸੰਸਕਰਣ 'ਤੇ ਫਿਕਸ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"</string>
+    <string name="system_can_update_to_new_version">ਹੁਣੇ ਅੱਪਗ੍ਰੇਡ ਕਰੋ</string>
+    <string name="system_download_complete">ਸਿਸਟਮ %s ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ ਹੋਈ</string>
+    <string name="system_download_fail">ਡਾਊਨਲੋਡ ਅਸਫਲ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਨੈੱਟਵਰਕ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="system_downloading">ਸਿਸਟਮ %s ਡਾਊਨਲੋਡ</string>
+    <string name="system_fix_download">ਫਿਕਸ ਪੈਕ ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="system_fix_now">ਠੀਕ ਕਰਨ ਲਈ ਹੁਣੇ ਰੀਬੂਟ ਕਰੋ</string>
+    <string name="system_repair_mode">ਮੁਰੱਮਤ ਮੋਡ</string>
+    <string name="system_update_checking">ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...</string>
+    <string name="system_update_download_finish">ਡਾਊਨਲੋਡ ਮੁਕੰਮਲ ਹੋਈ</string>
+    <string name="system_update_download_finish_tip">ਅੱਪਗ੍ਰੇਡ ਲਈ ਕਲਿੱਕ ਕਰੋ। ਸਿਸਟਮ ਸਵੈਚਲਿਤ ਤਰੀਕੇ ਨਾਲ ਰੀਸਟਾਰਟ ਹੋ ਜਾਵੇਗਾ</string>
+    <string name="system_update_downloading_tip">ਨਵੇਂ ਸੰਸਕਰਣ ਲਈ ਡੇਟਾ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ:</string>
+    <string name="system_update_error">ਨੈੱਟਵਰਕ ਕਨੈਕਟ ਨਹੀਂ ਹੈ</string>
+    <string name="system_update_fail">ਅੱਪਗ੍ਰੇਡ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="system_update_messages">ਸਿਸਟਮ %s ਅੱਪਡੇਟ ਯਾਦ-ਦਹਾਨੀ</string>
+    <string name="system_update_messages_download">"ਸਿਸਟਮ %s ਅੱਪਡੇਟ, ਡਾਊਨਲੋਡ ਅੱਪਡੇਟ 'ਤੇ ਕਲਿੱਕ ਕਰੋ"</string>
+    <string name="system_update_messages_failed_text">ਅੱਪਡੇਟ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ, ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਮੁਰੰਮਤ ਮੋਡ ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਵਾਸਤੇ ਟੈਪ ਕਰੋ</string>
+    <string name="system_update_messages_failed_title">ਸਿਸਟਮ ਅੱਪਡੇਟ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ</string>
+    <string name="system_update_messages_success_text">"ਸਿਸਟਮ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ %s 'ਤੇ ਅੱਪਡੇਟ ਕਰ ਦਿੱਤਾ ਗਿਆ ਸੀ"</string>
+    <string name="system_update_messages_success_title">ਸਿਸਟਮ ਅੱਪਡੇਟ ਹੋ ਚੁੱਕਾ ਹੈ</string>
+    <string name="system_update_no_network">ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਨੈੱਟਵਰਕ ਸੈੱਟ ਅੱਪ ਕਰੋ</string>
+    <string name="system_update_notification">ਸਿਸਟਮ ਅੱਪਡੇਟ ਸੂਚਨਾ</string>
+    <string name="system_update_now">ਅੱਪਗ੍ਰੇਡ ਕਰਨ ਲਈ ਹੁਣੇ ਰੀਬੂਟ ਕਰੋ</string>
+    <string name="system_update_remain_time">ਬਾਕੀ ਬਚਿਆ ਸਮਾਂ:</string>
+    <string name="system_update_success">ਅੱਪਗ੍ਰੇਡ ਮੁਕੰਮਲ ਹੋਈ</string>
+    <string name="system_updating">ਅੱਪਗ੍ਰੇਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="system_updating_tip">ਅੱਪਗ੍ਰੇਡ ਕਰਨ ਤੋਂ ਬਾਅਦ ਡੇਟਾ ਨਹੀਂ ਗੁਆਚੇਗਾ</string>
+    <string name="update_check_title">ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ</string>
+    <string name="update_checking">ਅਪਡੇਟਾਂ ਲਈ ਜਾਂਚ ਰਿਹਾ, ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ…</string>
+    <string name="update_from_local">ਸਥਾਨਕ ਅੱਪਗ੍ਰੇਡ</string>
+    <string name="update_log">ਅੱਪਡੇਟ ਲੌਗ</string>
+    <string name="update_package_size">ਆਕਾਰ ਅੱਪਡੇਟ ਕਰੋ:</string>
+    <string name="upgrade_log">ਅੱਪਡੇਟ ਲੌਗ</string>
+    <string name="upgrade_package_not_exist">ਅੱਪਗ੍ਰੇਡ ਪੈਕੇਜ ਮੌਜੂਦ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਡਾਊਨਲੋਡ ਕਰੋ।</string>
+    <string name="verify_fail">ਹਸਤਾਖਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨਾ ਅਸਫਲ ਹੋਇਆ</string>
+    <string name="verifying">ਫਾਈਲ ਦੀ ਤਸਦੀਕ ਕਰ ਰਿਹਾ, ਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ…</string>
+    <string name="wipe_data">ਡੇਟਾ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="wipe_data_text">"ਇਸ ਅਪਡੇਟ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਵੇਲੇ ਤੁਹਾਡੇ ਡੇਟਾ (ਸਥਾਪਿਤ ਐਪਸ, SMS ਅਤੇ ਹੋਰ ਡੇਟਾ) ਨੂੰ ਸਾਫ਼ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।
+ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੋਗੇ?"</string>
+    <string name="wipe_data_title">ਚੇਤਾਵਨੀ</string>
+</resources>

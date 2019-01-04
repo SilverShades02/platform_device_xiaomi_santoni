@@ -1,0 +1,4 @@
+contacts2.db
+calls
+content://call_log/calls
+number,number;presentation,presentation;date,date;duration,duration;type,type;new,new;name,name;numbertype,numbertype;numberlabel,numberlabel;countryiso,countryiso;voicemail_uri,voicemail_uri;is_read,is_read;geocoded_location,geocoded_location;lookup_uri,lookup_uri;matched_number,matched_number;normalized_number,normalized_number;photo_id,photo_id;formatted_number,formatted_number;

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/layout_empty_root" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:background="@color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/img_empty" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/layout_show_need_download" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="26.0dip" android:textColor="@color/oneplus_contorl_text_color_primary_default" android:id="@id/tv_os_version" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="57.0dip" android:text="@string/no_update_yet" style="@style/oneplus_contorl_text_style_highlight" />
+            <TextView android:textColor="@color/oneplus_contorl_text_color_secondary_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/see_what_new" style="@style/oneplus_contorl_text_style_body1" />
+            <com.oneplus.lib.widget.button.OPButton android:textColor="@color/opbackup_accent_color" android:gravity="center" android:id="@id/btn_download_wizard" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/download_view_version_features" style="@style/OnePlus.DeviceDefault.Widget.Material.Button.Borderless" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/layout_no_update" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="26.0dip" android:textColor="@color/oneplus_contorl_text_color_primary_default" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="57.0dip" android:text="@string/no_update_yet" style="@style/oneplus_contorl_text_style_highlight" />
+            <TextView android:textColor="@color/oneplus_contorl_text_color_secondary_default" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/good_things_worth_waiting" style="@style/oneplus_contorl_text_style_body1" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

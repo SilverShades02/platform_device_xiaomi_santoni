@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Strg +</string>
+    <string name="abc_menu_delete_shortcut_label">Löschen</string>
+    <string name="abc_menu_enter_shortcut_label">Eingabetaste</string>
+    <string name="abc_menu_function_shortcut_label">Funktionstaste +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta-Taste +</string>
+    <string name="abc_menu_shift_shortcut_label">Umschalttaste +</string>
+    <string name="abc_menu_space_shortcut_label">Leertaste +</string>
+    <string name="abc_menu_sym_shortcut_label">Sym-Taste +</string>
+    <string name="abc_prepend_shortcut_label">Menütaste +</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Mit %s teilen</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="about_to_restart">Sie sind im Begriff, Ihr Gerät zur Installation des Upgrades neu zu starten. Schalten Sie das Gerät nicht aus.</string>
+    <string name="access">Zulassen</string>
+    <string name="alert_text_backup_data">"Das System-Update wirkt sich nicht auf Ihre Daten aus.
+ Sichern Sie jedoch zuvor Ihre Daten, um die Datenintegrität zu schützen. Bitte starten Sie das Telefon neu und installieren Sie das Update."</string>
+    <string name="app_name">System-Update</string>
+    <string name="attention">Tipps</string>
+    <string name="battery_low_prompt">Das Gerät muss für die Aktualisierung mindestens zu 20 % aufgeladen sein. Bitte laden.</string>
+    <string name="battery_very_low_prompt">Zu geringer Ladestand. Laden Sie Ihr Gerät auf 5 % auf, bevor Sie das Update fortsetzen. Lassen Sie es angeschlossen.</string>
+    <string name="btn_text_upgrade_now">Jetzt upgraden</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="check_upgrade_log">Update-Protokoll überprüfen</string>
+    <string name="click_to_install">Klicken Sie auf Installieren</string>
+    <string name="continue_to_download">Weiter zum Download</string>
+    <string name="default_download_wifi">Download nur über Wi-Fi</string>
+    <string name="default_download_wifi_auto">Automatischer Download über Wi-Fi</string>
+    <string name="dont_wipe_data">Daten nicht löschen</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Möchten Sie den Download wirklich abbrechen?</string>
+    <string name="download_corrupted">Der Download konnte nicht überprüft werden, bitte erneut herunterladen.</string>
+    <string name="download_error">Fehler bei der Kommunikation mit dem Server während des Downloads. Setzen Sie den Download später fort.</string>
+    <string name="download_error_notification_text">Setzen Sie den Download später fort.</string>
+    <string name="download_error_notification_title">Fehler im System-Update</string>
+    <string name="download_fail">Es gab ein Problem beim Download, bitte erneut herunterladen.</string>
+    <string name="download_fail_title">Download fehlgeschlagen</string>
+    <string name="download_io_error">Nicht genug Speicherplatz. Geben Sie Speicherplatz frei, um den Download fortzusetzen.</string>
+    <string name="download_is_not_wifi">"Download mit mobilen Daten, eventuell fallen zusätzliche Gebühren an.
+Weiter?"</string>
+    <string name="download_is_slow">"Ihre Verbindung ist zu langsam. Der Download des Updates wird einige Minuten dauern.
+Fortsetzen?"</string>
+    <string name="download_no_network">Netzwerk nicht erkannt. Bitte später erneut versuchen.</string>
+    <string name="download_no_network_title">Netzwerk nicht erkannt</string>
+    <string name="download_now">Hier herunterladen</string>
+    <string name="download_paused">"Der Download wurde unterbrochen, weil kein Netzwerk verfügbar ist.
+Sobald ein Netzwerk zur Verfügung steht, wird er fortgesetzt."</string>
+    <string name="download_paused_resume">"Wi-Fi-Verbindung und Download unterbrochen. 
+Bitte später fortsetzen."</string>
+    <string name="download_paused_resume_by_manual">Sind Sie sicher, dass Sie den Download unterbrechen möchten? Sie können ihn später fortsetzen.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Noch %s</string>
+    <string name="download_retry">Download wiederholen</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Download unterbrochen</string>
+    <string name="downloaded_notification_error_text">Setzen Sie den Download später fort.</string>
+    <string name="downloaded_notification_error_title">Fehler beim Download</string>
+    <string name="downloaded_notification_fail_text">Es gab ein Problem beim Download, bitte erneut herunterladen.</string>
+    <string name="downloaded_notification_fail_title">Fehler beim Download.</string>
+    <string name="downloaded_notification_io_error_text">Speicherplatz freigeben und fortsetzen.</string>
+    <string name="downloaded_notification_io_error_title">Nicht genug Speicherplatz.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Der Download wurde unterbrochen.</string>
+    <string name="downloaded_notification_pause_text">Der Download wurde unterbrochen, weil kein Netzwerk verfügbar ist.</string>
+    <string name="downloaded_notification_pause_title">Download unterbrochen.</string>
+    <string name="downloaded_notification_title">System-Update heruntergeladen</string>
+    <string name="downloading">%1$s von %2$s werden heruntergeladen</string>
+    <string name="downloading_notification_title">Download des System-Updates</string>
+    <string name="exists_new_version_title">Neue Systemversion erkannt</string>
+    <string name="has_new_version_notification">Es wurde eine neue Version erkannt. Rufen Sie H2OS OTA Update auf</string>
+    <string name="install">Installieren</string>
+    <string name="install_copy_fail">Es gab ein Problem bei der Installation des Upgrades. Versuchen Sie es später erneut.</string>
+    <string name="last_check_update">Zuletzt überprüft: %1$s</string>
+    <string name="need_more_space">Nicht genügend Speicherplatz für das Update, %s Speicherplatz erforderlich. Bitte geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
+    <string name="network_tip">Aktuelles Netzwerk ist 2G/3G/4G. Weiter zum Download kann Gebühren des Anbieters zufolge haben.</string>
+    <string name="network_wrarning_checkbox">Erinnerung nicht mehr anzeigen</string>
+    <string name="network_wrarning_text">Die Anwendung generiert Datenverkehr. Ausführung mit Wi-Fi empfohlen</string>
+    <string name="network_wrarning_title">Erinnerung</string>
+    <string name="no_enough_space">Nicht genügend Speicherplatz. Bitte geben Sie Speicherplatz frei und versuchen Sie es erneut.</string>
+    <string name="no_local_update_packges_title">Installationspaket ins Root-Verzeichnis verschieben</string>
+    <string name="no_upgrade_log">Kein Update-Protokoll verfügbar</string>
+    <string name="notification_download_fail">Download des Upgrade-Pakets fehlgeschlagen. Bitte erneut herunterladen</string>
+    <string name="notification_download_success">Download abgeschlossen, klicken Sie auf Update</string>
+    <string name="notification_downloading">Herunterladen</string>
+    <string name="notification_into_update_content">Tippen Sie auf Jetzt upgraden</string>
+    <string name="notification_into_update_title">Download des Systemaktualisierungpakets abgeschlossen</string>
+    <string name="oneplus_read_contacts">Zugriff auf das Netzwerk</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Meine Auswahl merken</string>
+    <string name="oneplus_rights_dialog_discription">Sie benötigen für das System-Update die folgenden Berechtigungen</string>
+    <string name="oneplus_rights_dialog_title">App-Berechtigung</string>
+    <string name="ota_check_update">Auf Update überprüfen</string>
+    <string name="ota_never_check_update">Sie haben nie auf Updates überprüfen lassen.</string>
+    <string name="ota_new_update">Neue Version verfügbar</string>
+    <string name="ota_new_update_downloading">"Neue Version verfügbar
+Download..."</string>
+    <string name="ota_new_update_name">%1$s System-Update</string>
+    <string name="ota_new_update_name_downloading">"%1$s System-Update
+Download…"</string>
+    <string name="ota_new_update_name_paused">"%1$s System-Update
+Download angehalten…"</string>
+    <string name="ota_new_update_name_ready">"%1$s System-Update
+Installationsbereit"</string>
+    <string name="ota_new_update_paused">Download angehalten...</string>
+    <string name="ota_new_update_ready">"New Version verfügbar
+Installationsbereit"</string>
+    <string name="ota_no_update">Ihr System ist auf dem neuesten Stand.</string>
+    <string name="ota_oem_unlock_detected_alert">OEM-Entsperrung wird erkannt, das System startet nun den Download des kompletten Upgrade-Pakets. Führen Sie eine Sicherung durch, um Ihre Datenintegrität zu gewährleisten.</string>
+    <string name="ota_root_detected_alert">Root wird erkannt, das System startet nun den Download des kompletten Upgrade-Pakets. Bitte sichern Sie Ihre Daten, um die Datenintegrität zu gewährleisten. Ihr Gerät verlässt den Root-Modus, sobald das Upgrade abgeschlossen wurde.</string>
+    <string name="pause_downloading">Download unterbrechen</string>
+    <string name="play_under_mobile_data">Spielen</string>
+    <string name="play_under_mobile_data_tips">Im Moment Mobilfunknetz. Weiterspielen?</string>
+    <string name="preparing_download">Download wird vorbereitet...</string>
+    <string name="preparing_install">Vorbereiten der Installation...</string>
+    <string name="ready_to_install">Das System-Update ist installationsbereit. Starten Sie mit Installieren Ihr Telefon neu, um das Update zu installieren.</string>
+    <string name="ready_to_upgrade">Überprüfen des Update-Pakets...</string>
+    <string name="reject">Nicht zulassen</string>
+    <string name="remind_later">Später erinnern</string>
+    <string name="resume">Fortsetzen</string>
+    <string name="rooted_warning">"Gerät gerootet. Das Update kann möglicherweise fehlschlagen.
+Upgrade durchführen?"</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="searching">Suchen...</string>
+    <string name="setting">Einstellungen</string>
+    <string name="share">Freigeben</string>
+    <string name="show_new_version_info">Aktualisierte Inhalte überprüfen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Die Version Ihres ausgewählten Pakets ist niedriger als die des aktuellen Systems. Um Fehler beim Hochfahren zu vermeiden, sind Downgrades nicht zulässig.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">OK</string>
+    <string name="str_ab_upgrade_warning_wipe">"Das von Ihnen ausgewählte Paket wird Ihr Gerät nach der Installation auf die Werkseinstellungen zurücksetzen.
+Möchten Sie es wirklich installieren?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Das System-Update wirkt sich nicht auf Ihre Daten aus
+ Sichern Sie jedoch zuvor Ihre Daten, um die Datenintegrität zu gewährleisten."</string>
+    <string name="str_abupdate_continue_download">Herunterladen &amp; Installieren fortsetzen</string>
+    <string name="str_abupdate_install_completed">Die Installation des System-Updates ist beendet. Bitte starten Sie neu, um das Update abzuschließen.</string>
+    <string name="str_abupdate_install_failed">Fehler bei der Installation des System-Updates</string>
+    <string name="str_abupdate_install_update">JETZT INSTALLIEREN</string>
+    <string name="str_abupdate_installing">System-Update wird installiert</string>
+    <string name="str_abupdate_local_package_log">Diese Version hat kein Update-Protokoll</string>
+    <string name="str_abupdate_reboot">NEU STARTEN</string>
+    <string name="str_abupdate_retry_failed">Fehler bei der Installation des System-Updates. Es wird ein komplettes Upgrade-Paket gesucht.</string>
+    <string name="str_abupdate_start_download">Jetzt herunterladen &amp; installieren</string>
+    <string name="str_abupdate_try_again">ERNEUT VERSUCHEN</string>
+    <string name="str_alert_local_downgrade">"Das von Ihnen ausgewählte Paket ist älter als die aktuelle Version. Das führt möglicherweise zu einem Fehler beim Neustart aufgrund inkompatibler Daten.
+Sind Sie sicher, dass Sie die ältere Version installieren möchten?"</string>
+    <string name="str_alert_local_downgrade_confirm">Bestätigen</string>
+    <string name="str_beta_to_mp_not_allow">"Die Version des von Ihnen ausgewählten Pakets ist niedriger als die des aktuellen Systems. Um Fehler beim Hochfahren zu vermeiden, sind Downgrades nicht zulässig.
+Wenn Sie ein Downgrade durchführen möchten, führen Sie zur Installation des Pakets einen Neustart im Wiederherstellungsmodus (Recovery-Modus) durch."</string>
+    <string name="str_disabled_local_upgrade_summary">Es ist nicht möglich, ein lokales Upgrade durchzuführen, weil Sie ein System-Update herunterladen oder installieren.</string>
+    <string name="str_download_retry">Erneut herunterladen &amp; installieren</string>
+    <string name="str_mp_downgrade_not_allow">"Die Version des von Ihnen ausgewählten Pakets ist niedriger als die des aktuellen Systems. Um Fehler beim Hochfahren zu vermeiden, sind Downgrades nicht zulässig.
+Wenn Sie ein Downgrade durchführen möchten, sichern Sie zuerst Ihre Daten und führen Sie anschließend zur Installation des Pakets einen Neustart im Wiederherstellungsmodus (Recovery-Modus) durch."</string>
+    <string name="str_pause_download_new">Pause</string>
+    <string name="str_time_incorrect_check_failed">Die Suche nach Updates ist fehlgeschlagen, da das Datum und die Uhrzeit Ihres Geräts falsch sind</string>
+    <string name="str_time_incorrect_download_failed">Der Download ist fehlgeschlagen, da das Datum und die Uhrzeit Ihres Geräts falsch sind</string>
+    <string name="system_battery_low">Akku schwach (20 %). Bitte aufladen</string>
+    <string name="system_battery_low_title">Akku schwach</string>
+    <string name="system_can_fix_to_new_version">Das System kann auf die neueste Version aktualisiert werden</string>
+    <string name="system_can_update_to_new_version">Jetzt aktualisieren</string>
+    <string name="system_download_complete">Download von System %s abgeschlossen</string>
+    <string name="system_download_fail">Der Download ist fehlgeschlagen. Bitte überprüfen Sie das Netzwerk und versuchen Sie es erneut</string>
+    <string name="system_downloading">System %s herunterladen</string>
+    <string name="system_fix_download">Fixpack jetzt herunterladen</string>
+    <string name="system_fix_now">Neustart zur Fehlerbehebung</string>
+    <string name="system_repair_mode">Reparatur-Modus</string>
+    <string name="system_update_checking">Auf Updates überprüfen...</string>
+    <string name="system_update_download_finish">Download abgeschlossen</string>
+    <string name="system_update_download_finish_tip">Klicken Sie auf Upgrade. Das System wird automatisch neu gestartet</string>
+    <string name="system_update_downloading_tip">Download der Daten für die neue Version:</string>
+    <string name="system_update_error">Netzwerk nicht verbunden</string>
+    <string name="system_update_fail">Upgrade fehlgeschlagen. Bitte erneut versuchen</string>
+    <string name="system_update_messages">Erinnerung an das %s System-Update</string>
+    <string name="system_update_messages_download">%s System-Update. Klicken Sie auf Download des Updates</string>
+    <string name="system_update_messages_failed_text">Fehler bei der Aktualisierung. Tippen Sie hier für den Reparatur-Modus, um es erneut zu versuchen</string>
+    <string name="system_update_messages_failed_title">System-Update fehlgeschlagen</string>
+    <string name="system_update_messages_success_text">Das System wurde erfolgreich auf %s aktualisiert</string>
+    <string name="system_update_messages_success_title">Das System wurde aktualisiert</string>
+    <string name="system_update_no_network">Richten Sie zuerst das Netzwerk ein</string>
+    <string name="system_update_notification">Benachrichtigung über das System-Update</string>
+    <string name="system_update_now">Zum Upgrade jetzt neu starten</string>
+    <string name="system_update_remain_time">Verbleibende Zeit:</string>
+    <string name="system_update_success">Upgrade abgeschlossen</string>
+    <string name="system_updating">Upgraden</string>
+    <string name="system_updating_tip">Nach dem Update gehen die Daten verloren</string>
+    <string name="update_check_title">Auf Updates überprüfen</string>
+    <string name="update_checking">Überprüfen auf Updates, bitte warten...</string>
+    <string name="update_from_local">Lokales Upgrade</string>
+    <string name="update_log">Update-Protokoll</string>
+    <string name="update_package_size">Größe des Updates:</string>
+    <string name="upgrade_log">Update-Protokoll</string>
+    <string name="upgrade_package_not_exist">Upgrade-Paket nicht vorhanden, bitte erneut herunterladen.</string>
+    <string name="verify_fail">Bestätigung der Signatur fehlgeschlagen</string>
+    <string name="verifying">Überprüfen der Datei, bitte warten...</string>
+    <string name="wipe_data">Daten löschen</string>
+    <string name="wipe_data_text">"Es wird empfohlen, Ihre Daten zu löschen (installierte Apps, SMS und andere Daten), wenn Sie dieses Update installieren.
+Daten löschen?"</string>
+    <string name="wipe_data_title">Achtung</string>
+</resources>

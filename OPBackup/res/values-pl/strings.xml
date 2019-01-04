@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Funkcyjny+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacja</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez: %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="about_to_restart">Zamierzasz uruchomić urządzenie ponownie i zainstalować aktualizację. Nie wyłączaj urządzenia podczas procesu.</string>
+    <string name="access">Zezwalaj</string>
+    <string name="alert_text_backup_data">"Aktualizacja systemu nie wpłynie na twoje dane. 
+Tym nie mniej, aby zagwarantować integralność danych, wykonaj ich kopię zapasową. Uruchom telefon ponownie i zainstaluj aktualizację."</string>
+    <string name="app_name">Aktualizacja systemu</string>
+    <string name="attention">Porady</string>
+    <string name="battery_low_prompt">Przed aktualizacją urządzenie musi być naładowane powyżej 20%. Naładuj, aby kontynuować.</string>
+    <string name="battery_very_low_prompt">Bateria jest zbyt słaba. Naładuj telefon co najmniej do 5% przed dalszą aktualizacją i nie odłączaj telefonu od sieci.</string>
+    <string name="btn_text_upgrade_now">Uaktualnij teraz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="check_upgrade_log">Sprawdź dziennik aktualizacji</string>
+    <string name="click_to_install">Kliknij, aby zainstalować</string>
+    <string name="continue_to_download">Kontynuuj, aby pobrać</string>
+    <string name="default_download_wifi">Pobieraj tylko przez Wi-Fi</string>
+    <string name="default_download_wifi_auto">Automatyczne pobieranie przez Wi-Fi</string>
+    <string name="dont_wipe_data">Nie wyczyszczaj danych</string>
+    <string name="download">Pobierz</string>
+    <string name="download_cancel">Czy na pewno chcesz anulować pobieranie?</string>
+    <string name="download_corrupted">Nie można zweryfikować pobierania. Pobierz plik ponownie.</string>
+    <string name="download_error">Podczas pobierania wystąpił problem połączenia z serwerem, wznów pobieranie później.</string>
+    <string name="download_error_notification_text">Spróbuj wznowić pobieranie później.</string>
+    <string name="download_error_notification_title">Błąd w aktualizacji systemu</string>
+    <string name="download_fail">Podczas pobierania wystąpił problem, pobierz ponownie.</string>
+    <string name="download_fail_title">Pobieranie nie powiodło się</string>
+    <string name="download_io_error">Zbyt mało pamięci, aby pobrać aktualizację. Zwolnij miejsce i wznów pobieranie.</string>
+    <string name="download_is_not_wifi">"Pobieranie przez dane mobilne, mogą obowiązywać dodatkowe opłaty.
+Kontynuuj?"</string>
+    <string name="download_is_slow">"Połączenie jest zbyt wolne, i pobieranie aktualizacji może potrwać dłużej. 
+Kontynuuj?"</string>
+    <string name="download_no_network">Nie wykryto sieci, spróbuj później.</string>
+    <string name="download_no_network_title">Nie znaleziono sieci</string>
+    <string name="download_now">Pobierz teraz</string>
+    <string name="download_paused">"Pobieranie zostało wstrzymane przez niedostępność sieci. 
+Zostanie wznowione przy pojawieniu się sieci."</string>
+    <string name="download_paused_resume">"Utracono połączenie z Wi-Fi, pobieranie wstrzymano. 
+Spróbuj wznowić pobieranie później."</string>
+    <string name="download_paused_resume_by_manual">Czy na pewno chcesz wstrzymać pobieranie? Można wznowić pobieranie później.</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">Pozostało %s</string>
+    <string name="download_retry">Pobierz ponownie</string>
+    <string name="download_speed_text">%1$s , %2$s/s</string>
+    <string name="download_state_update_paused">Pobieranie wstrzymano</string>
+    <string name="downloaded_notification_error_text">Spróbuj wznowić pobieranie później.</string>
+    <string name="downloaded_notification_error_title">Błąd podczas pobierania.</string>
+    <string name="downloaded_notification_fail_text">Podczas pobierania wystąpił problem, spróbuj później.</string>
+    <string name="downloaded_notification_fail_title">Błąd podczas pobierania.</string>
+    <string name="downloaded_notification_io_error_text">Zwolnij miejsce i wznów pobieranie.</string>
+    <string name="downloaded_notification_io_error_title">Za mało miejsca.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Pobieranie zostało wstrzymane.</string>
+    <string name="downloaded_notification_pause_text">Pobieranie zostało wstrzymane przez niedostępność sieci.</string>
+    <string name="downloaded_notification_pause_title">Pobieranie zostało wstrzymane.</string>
+    <string name="downloaded_notification_title">Aktualizacja systemu została pobrana</string>
+    <string name="downloading">Pobieranie %1$s z %2$s</string>
+    <string name="downloading_notification_title">Pobieranie aktualizacji systemu</string>
+    <string name="exists_new_version_title">Wykryto nową wersję systemu</string>
+    <string name="has_new_version_notification">Wykryto nową wersję. Przejdź do aktualizacji H2OS OTA</string>
+    <string name="install">Zainstaluj</string>
+    <string name="install_copy_fail">W czasie zainstalowania aktualizacji wystąpił problem. Spróbuj ponownie.</string>
+    <string name="last_check_update">Ostatnio sprawdzano: %1$s</string>
+    <string name="need_more_space">Za mało miejsca do aktualizacji, potrzeba %s miejsca w pamięci. Zwolnij miejsce i spróbuj ponownie.</string>
+    <string name="network_tip">Obecna sieć to 2G/3G/4G. Dalsze pobieranie może spowodować naliczenie dodatkowych opłat przez operatora.</string>
+    <string name="network_wrarning_checkbox">Nie pokazuj ponownie przypomnienia</string>
+    <string name="network_wrarning_text">Ta aplikacja wytwarza ruch danych. Zaleca się wykonanie podczas korzystania z Wi-Fi</string>
+    <string name="network_wrarning_title">Przypomnienie</string>
+    <string name="no_enough_space">Zbyt mało miejsca w pamięci. Zwolnij miejsce i spróbuj ponownie.</string>
+    <string name="no_local_update_packges_title">Przenieś pakiet instalacyjny do katalogu głównego</string>
+    <string name="no_upgrade_log">Brak dostępnego dziennika aktualizacji</string>
+    <string name="notification_download_fail">Pobieranie pakietu aktualizacji nie powiodło się. Spróbuj pobrać ponownie</string>
+    <string name="notification_download_success">Pobieranie zakończone, kliknij przycisk Aktualizuj</string>
+    <string name="notification_downloading">Pobieranie</string>
+    <string name="notification_into_update_content">Dotknij, aby zaktualizować</string>
+    <string name="notification_into_update_title">Pobieranie pakietu aktualizacji systemu jest zakończone</string>
+    <string name="oneplus_read_contacts">Uzyskaj dostęp do sieci</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Pamiętaj mój wybór</string>
+    <string name="oneplus_rights_dialog_discription">Potrzebujesz następujących uprawnień, aby skorzystać z aktualizacji systemu</string>
+    <string name="oneplus_rights_dialog_title">Wniosek o uprawnienie</string>
+    <string name="ota_check_update">Sprawdź aktualizacje</string>
+    <string name="ota_never_check_update">Nigdy nie sprawdzano dostępności aktualizacji.</string>
+    <string name="ota_new_update">Dostępna jest nowa wersja</string>
+    <string name="ota_new_update_downloading">"Nowa wersja dostępna
+Pobieranie…"</string>
+    <string name="ota_new_update_name">Aktualizacja systemu %1$s</string>
+    <string name="ota_new_update_name_downloading">"%1$s Aktualizacja systemu
+Pobieranie…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Aktualizacja systemu
+Pobieranie wstrzymano…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Aktualizacja systemu
+Gotowy do instalacji"</string>
+    <string name="ota_new_update_paused">Pobieranie wstrzymano…</string>
+    <string name="ota_new_update_ready">"Nowa wersja dostępna
+Gotowy do instalacji"</string>
+    <string name="ota_no_update">Twój system jest aktualny</string>
+    <string name="ota_oem_unlock_detected_alert">Wykryto zdjęcie blokady OEM. System rozpocznie pobieranie pełnego pakietu aktualizacji. Aby zagwarantować integralność danych, wykonaj kopię zapasową.</string>
+    <string name="ota_root_detected_alert">Wykryto root. System zacznie pobieranie pełnego pakietu aktualizacji. Aby zapewnić integralność danych, wykonaj kopię zapasową. Root na urządzeniu zostanie usunięty po zakończeniu uaktualniania.</string>
+    <string name="pause_downloading">Wstrzymaj pobieranie</string>
+    <string name="play_under_mobile_data">Graj</string>
+    <string name="play_under_mobile_data_tips">Obecnie w sieci komórkowej, kontynuować grę?</string>
+    <string name="preparing_download">Przygotowanie do pobierania…</string>
+    <string name="preparing_install">Przygotowanie instalacji…</string>
+    <string name="ready_to_install">Dostępna jest aktualizacja systemu. Kliknij przycisk Zainstaluj poniżej, aby uruchomić telefon ponownie i zainstalować aktualizację.</string>
+    <string name="ready_to_upgrade">Sprawdzanie pakietu aktualizacji...</string>
+    <string name="reject">Nie zezwalaj</string>
+    <string name="remind_later">Przypomnij mi później</string>
+    <string name="resume">Wznów</string>
+    <string name="rooted_warning">"Wykryto zrootowane urządzenie, aktualizacja może zakończyć się niepowodzeniem.
+Czy chcesz zaktualizować?"</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="searching">Wyszukiwanie...</string>
+    <string name="setting">Ustawienia</string>
+    <string name="share">Udostępnij</string>
+    <string name="show_new_version_info">Sprawdź zaktualizowaną zawartość</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Wersja wybranego pakietu jest niższa niż obecnego systemu. Aby uniknąć problemu z uruchomieniem, nie zaleca się przechodzenia na niższą wersję.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ROZUMIEM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Wybrany pakiet, po zainstalowaniu, spowoduje zresetowanie urządzenia do ustawień fabrycznych.
+Czy na pewno chcesz go zainstalować?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Ta aktualizacja systemu nie wpłynie na twoje dane.
+Tym nie mniej, aby zagwarantować integralność danych, wykonaj kopię zapasową."</string>
+    <string name="str_abupdate_continue_download">Kontynuuj pobieranie i zainstaluj</string>
+    <string name="str_abupdate_install_completed">Instalacja aktualizacji systemu zakończona. Uruchom ponownie, aby zakończyć aktualizację.</string>
+    <string name="str_abupdate_install_failed">Instalacji aktualizacji systemu nie powiodła się</string>
+    <string name="str_abupdate_install_update">ZAINSTALUJ TERAZ</string>
+    <string name="str_abupdate_installing">Trwa instalacja aktualizacji systemu</string>
+    <string name="str_abupdate_local_package_log">Ta wersja nie ma dziennika aktualizacji</string>
+    <string name="str_abupdate_reboot">URUCHOM PONOWNIE</string>
+    <string name="str_abupdate_retry_failed">Instalacja aktualizacji systemu nie powiodła się. Sprawdzanie pełnego pakietu aktualizacji.</string>
+    <string name="str_abupdate_start_download">Pobierz i zainstaluj teraz</string>
+    <string name="str_abupdate_try_again">SPRÓBUJ PONOWNIE</string>
+    <string name="str_alert_local_downgrade">"Wersja wybranego pakietu jest starsza niż bieżąca wersja. Może to uniemożliwić załadowanie urządzenia z powodu niekompatybilności danych.
+Czy na pewno chcesz zainstalować starą wersję?"</string>
+    <string name="str_alert_local_downgrade_confirm">Potwierdź</string>
+    <string name="str_beta_to_mp_not_allow">"Wersja wybranego pakietu jest niższa niż obecnego systemu. Aby uniknąć problemu z uruchomieniem, nie zezwalamy na przechodzenie na niższą wersję.
+ Jeśli przejść na niższą wersję, uruchom ponownie w trybie odzyskiwania i zainstaluj pakiet."</string>
+    <string name="str_disabled_local_upgrade_summary">Nie można uaktualnić lokalnie, ponieważ pobierasz lub instalujesz aktualizację systemu.</string>
+    <string name="str_download_retry">Pobierz i zainstaluj ponownie</string>
+    <string name="str_mp_downgrade_not_allow">"Wersja wybranego pakietu jest niższa niż obecnego systemu. Aby uniknąć problemu z uruchomieniem, nie zezwalamy na przechodzenie na niższą wersję.
+ Jeśli nie chcesz przejść na niższą wersję, najpierw utwórz kopię zapasową, następnie uruchom ponownie w trybie odzyskiwania i zainstaluj pakiet."</string>
+    <string name="str_pause_download_new">Wstrzymaj</string>
+    <string name="str_time_incorrect_check_failed">Sprawdzanie aktualizacji nie powiodło się, ponieważ data i godzina urządzenia są nieprawidłowe</string>
+    <string name="str_time_incorrect_download_failed">Pobieranie nie powiodło się, ponieważ data i godzina urządzenia są nieprawidłowe</string>
+    <string name="system_battery_low">Niski stan baterii (20%). Naładuj ponownie</string>
+    <string name="system_battery_low_title">Niski stan baterii</string>
+    <string name="system_can_fix_to_new_version">System zostanie poprawiony do ostatniej wersji</string>
+    <string name="system_can_update_to_new_version">Aktualizuj teraz</string>
+    <string name="system_download_complete">Pobieranie systemu %s zakończone</string>
+    <string name="system_download_fail">Pobieranie nie powiodło się. Sprawdź sieci i spróbuj ponownie</string>
+    <string name="system_downloading">Pobieranie systemu %s</string>
+    <string name="system_fix_download">Pobierz teraz pakiet poprawek</string>
+    <string name="system_fix_now">Uruchom ponownie, aby poprawić teraz</string>
+    <string name="system_repair_mode">Tryb naprawy</string>
+    <string name="system_update_checking">Sprawdzanie aktualizacji...</string>
+    <string name="system_update_download_finish">Pobieranie ukończone</string>
+    <string name="system_update_download_finish_tip">Kliknij, aby zaktualizować. System automatycznie uruchomi się ponownie</string>
+    <string name="system_update_downloading_tip">Pobieranie danych do nowej wersji:</string>
+    <string name="system_update_error">Nie podłączono do sieci</string>
+    <string name="system_update_fail">Aktualizacja nie powiodła się. Spróbuj ponownie</string>
+    <string name="system_update_messages">Przypomnienie o aktualizacji systemu %s</string>
+    <string name="system_update_messages_download">Aktualizacja systemu %s, kliknij Pobierz aktualizację</string>
+    <string name="system_update_messages_failed_text">Aktualizacja nie powiodła się. Dotknij, aby wejść do trybu naprawy i spróbować ponownie</string>
+    <string name="system_update_messages_failed_title">Aktualizacja systemu nie powiodła się</string>
+    <string name="system_update_messages_success_text">System pomyślnie zaktualizowano do %s</string>
+    <string name="system_update_messages_success_title">System został zaktualizowany</string>
+    <string name="system_update_no_network">Najpierw skonfiguruj sieć</string>
+    <string name="system_update_notification">Powiadomienie o aktualizacji systemu</string>
+    <string name="system_update_now">Uruchom ponownie, aby zaktualizować</string>
+    <string name="system_update_remain_time">Pozostało czasu:</string>
+    <string name="system_update_success">Uaktualnienie zakończone</string>
+    <string name="system_updating">Uaktualnianie</string>
+    <string name="system_updating_tip">Dane nie zostaną utracone po uaktualnieniu</string>
+    <string name="update_check_title">Sprawdź aktualizacje</string>
+    <string name="update_checking">Sprawdzenie dostępności aktualizacji. Zaczekaj…</string>
+    <string name="update_from_local">Uaktualnienie lokalne</string>
+    <string name="update_log">Dziennik aktualizacji</string>
+    <string name="update_package_size">Rozmiar aktualizacji:</string>
+    <string name="upgrade_log">Dziennik aktualizacji</string>
+    <string name="upgrade_package_not_exist">Pakiet aktualizacji nie istnieje, proszę pobrać ponownie.</string>
+    <string name="verify_fail">Weryfikacja podpisu nie powiodła się</string>
+    <string name="verifying">Sprawdzanie pliku, zaczekaj…</string>
+    <string name="wipe_data">Wyczyść dane</string>
+    <string name="wipe_data_text">"Zaleca się wyczyścić dane (zainstalowane aplikacje, SMS i inne dane) podczas zainstalowania aktualizacji.
+Czy chcesz wyczyścić je?"</string>
+    <string name="wipe_data_title">Ostrzeżenie</string>
+</resources>

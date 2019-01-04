@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేయండి</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్ చేయి</string>
+    <string name="abc_capital_on">ఆన్ చేయి</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">స్పేస్</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">వెతుకు...</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="abc_searchview_description_query">ప్రశ్న శోధించండి</string>
+    <string name="abc_searchview_description_search">వెతుకు</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పించు</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో భాగస్వామ్యం చేయండి</string>
+    <string name="abc_toolbar_collapse_description">కుదించండి</string>
+    <string name="about_to_restart">అప్‌గ్రేడ్ ఇన్‌స్టాల్ చేయడానికి మీరు మీ పరికరాన్ని తిరిగి ప్రారంభించాల్సి ఉంటుంది. ప్రక్రియ సమయంలో దయచేసి పరికరాన్ని ఆఫ్ చేయవద్దు.</string>
+    <string name="access">అనుమతించు</string>
+    <string name="alert_text_backup_data">"సిస్టమ్ అప్‌డేట్ మీ డేటా సర్వీస్‌పై ప్రభావం చూపించదు.
+ అయితే, మీ డేటా యొక్క భద్రతను ధృవీకరించడం కొరకు, దయచేసి మీ డేటాను బ్యాకప్ చేయండి. దయచేసి మీ ఫోన్‌ని రీస్టార్ట్ చేయండి మరియు అప్‌డేట్‌ని ఇన్‌స్టాల్ చేయండి."</string>
+    <string name="app_name">సిస్టమ్ నవీకరణ</string>
+    <string name="attention">చిట్కాలు</string>
+    <string name="battery_low_prompt">అప్‌డేట్ చేయడం కొరకు ఈ పరికరానికి 20% కంటే ఎక్కువ ఛార్జ్ అవసరం అవుతుంది. కొనసాగడం కొరకు దయచేసి ఛార్జ్ చేయండి.</string>
+    <string name="battery_very_low_prompt">బ్యాటరీ చాలా తక్కువగా ఉంది, అప్‌డేట్‌తో కొనసాగడం కొరకు మీ ఫోన్‌ని కనీసం 5% ఛార్జ్ చేయండి. మీ ఫోన్‌ని ఫ్లగ్‌ ఇన్‌లో ఉంచండి.</string>
+    <string name="btn_text_upgrade_now">ఇప్పుడు అప్‌గ్రేడ్ చేయి</string>
+    <string name="cancel">క్యాన్సిల్ చేయి</string>
+    <string name="check_upgrade_log">అప్‌డేట్ లాగ్ చెక్ చేయి</string>
+    <string name="click_to_install">ఇన్‌స్టల్ చేయడానికి క్లిక్ చేయండి</string>
+    <string name="continue_to_download">డౌన్‌లోడ్ చేయడం కొనసాగించు</string>
+    <string name="default_download_wifi">Wi-Fi ద్వారా మాత్రమే డౌన్‌లోడ్ చేయి</string>
+    <string name="default_download_wifi_auto">Wi-Fi ద్వారా ఆటో- డౌన్‌లోడ్</string>
+    <string name="dont_wipe_data">డేటాను క్లియర్ చేయవద్దు</string>
+    <string name="download">డౌన్‌లోడ్</string>
+    <string name="download_cancel">డౌన్‌లోడ్‌ని మీరు తప్పకుండా క్యాన్సిల్ చేయాలని అనుకుంటున్నారా?</string>
+    <string name="download_corrupted">డౌన్‌లోడ్ వెరిఫై చేయలేదు, దయచేసి తరువాత డౌన్‌లోడ్ చేయండి.</string>
+    <string name="download_error">డౌన్‌లోడ్ సమయంలో సర్వర్‌తో కమ్యూనికేట్ చేయడంలో సమస్య ఏర్పడింది. దయచేసి తరువాత డౌన్‌లోడ్ తిరిగి ప్రారంభించండి.</string>
+    <string name="download_error_notification_text">తరువాత డౌన్‌లోడ్ తిరిగి ప్రారంభించడానికి ప్రయత్నించండి.</string>
+    <string name="download_error_notification_title">సిస్టమ్ అప్‌డేట్‌లో దోషం</string>
+    <string name="download_fail">డౌన్‌లోడ్ సమయంలో ఒక సమస్య ఉంది, దయచేసి తరువాత డౌన్‌లోడ్ చేయండి.</string>
+    <string name="download_fail_title">డౌన్‌లోడ్ విఫలమైంది</string>
+    <string name="download_io_error">అప్‌డేట్ డౌన్‌లోడ్ చేయడానికి తగినంత స్టోరేజీ లేదు, దయచేసి కొంత స్థలాన్ని ఖాళీ చేయండి మరియు డౌన్‌లోడ్‌ని పునరుద్ధరించండి.</string>
+    <string name="download_is_not_wifi">"మొబైల్ డేటాపై డౌన్‌లోడింగ్ చేసుకున్నట్లయితే, అదనపు ఛార్జీలు వర్తించబడవచ్చు.
+ కొనసాగాలా?"</string>
+    <string name="download_is_slow">"మీ కనెక్షన్ మరింత నెమ్మదిగా ఉంది మరియు అప్‌డేట్ డౌన్‌లోడ్ చేయడానికి కొన్ని నిమిషాలు పట్టవచ్చు.
+కొనసాగాలా?"</string>
+    <string name="download_no_network">నెట్‌వర్క్ గుర్తించబడలేదు, దయచేసి తరువాత ప్రయత్నించండి.</string>
+    <string name="download_no_network_title">నెట్‌వర్క్ గుర్తించబడలేదు</string>
+    <string name="download_now">ఇప్పుడు డౌన్‌లోడ్ చేయండి</string>
+    <string name="download_paused">"ఎలాంటి నెట్‌వర్క్ లభ్యం కావడం లేదు కనుక, డౌన్‌లోడ్ నిలిపివేయబడింది.
+ నెట్‌వర్క్ లభ్యమైనప్పుడు అది తిరిగి పునరుద్ధరించబడుతుంది."</string>
+    <string name="download_paused_resume">"Wi-Fi కనెక్షన్ పోయింది, డౌన్‌లోడ్ నిలిపివేయబడింది. 
+దయచేసి తరువాత తిిరగి ప్రారంభించడానికి ప్రయత్నించండి."</string>
+    <string name="download_paused_resume_by_manual">మీరు డౌన్‌లోడ్‌ని కచ్చితంగా పాజ్ చేయాలని అనుకుంటున్నారా? తరువాత మీరు తిరిగి కొనసాగించవచ్చు.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s ఎడమ</string>
+    <string name="download_retry">మళ్లీ డౌన్‌లోడ్ చేయి</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">డౌన్‌లోడ్ నిలిపివేయబడింది</string>
+    <string name="downloaded_notification_error_text">తరువాత డౌన్‌లోడ్ తిరిగి ప్రారంభించడానికి ప్రయత్నించండి.</string>
+    <string name="downloaded_notification_error_title">డౌన్‌లోడింగ్ చేయడంలో దోషం.</string>
+    <string name="downloaded_notification_fail_text">డౌన్‌లోడ్ చేసేటప్పుడు ఒక సమస్య ఏర్పడింది. దయచేసి తరువాత తిరిగి ప్రయత్నించండి.</string>
+    <string name="downloaded_notification_fail_title">డౌన్‌లోడింగ్ చేయడంలో దోషం.</string>
+    <string name="downloaded_notification_io_error_text">స్థలాన్ని ఖాళీ చేయండి మరియు కొనసాగించండి.</string>
+    <string name="downloaded_notification_io_error_title">తగినంత స్థలం లేదు.</string>
+    <string name="downloaded_notification_pause_by_manual_text">డౌన్‌లోడ్ నిలిపివేయబడింది.</string>
+    <string name="downloaded_notification_pause_text">ఎలాంటి నెట్‌వర్క్ లభ్యం కావడం లేదు కనుక డౌన్‌లోడ్ నిలిపివేయబడింది.</string>
+    <string name="downloaded_notification_pause_title">డౌన్‌లోడ్ పాజ్ చేయబడింది.</string>
+    <string name="downloaded_notification_title">సిస్టమ్ అప్‌డేట్ డౌన్‌లోడ్ అయింది</string>
+    <string name="downloading">%2$s యొక్క %1$sని డౌన్‌లోడింగ్ చేస్తోంది</string>
+    <string name="downloading_notification_title">సిస్టమ్ అప్‌డేట్ డౌన్‌లోడింగ్ చేస్తోంది</string>
+    <string name="exists_new_version_title">కొత్త సిస్టమ్ వెర్షన్ గుర్తించబడింది</string>
+    <string name="has_new_version_notification">కొత్త వెర్షన్ గుర్తించబడింది. H2OS OTA అప్‌డేట్‌కు వెళ్లండి</string>
+    <string name="install">ఇన్‌స్టల్ చేయి</string>
+    <string name="install_copy_fail">అప్‌గ్రేడ్ ఇన్‌స్టాల్ చేయడంలో ఏదో సమస్య ఏర్పడింది. దయచేసి తరువాత తిరిగి ప్రయత్నించండి.</string>
+    <string name="last_check_update">చివరగా తనిఖీ చేసింది: %1$s</string>
+    <string name="need_more_space">అప్‌గ్రేడ్ చేయడానికి తగినంత నిల్వ లేదు, అయితే %s స్టోరేజీ స్థలం అవసరం అవుతుంది. దయచేసి కొంత స్థలం క్లియర్ చేయండి మరియు తిరిగి ప్రయత్నించండి.</string>
+    <string name="network_tip">ప్రస్తుత నెట్‌వర్క్ 2G/3G/4G. డౌన్‌లోడ్ చేయడం కొనసాగించడం వల్ల క్యారియర్ నుంచి ఫీజు కావొచ్చు.</string>
+    <string name="network_wrarning_checkbox">మళ్లీ రిమైండర్‌ని చూపించవద్దు</string>
+    <string name="network_wrarning_text">ఈ అప్లికేషన్ వల్ల డేటా ట్రాఫిక్ ఉత్పత్తి అవుతుంది. Wi-Fi ఉపయోగించేటప్పుడు అమలు చేయాలని సిఫారసు చేయబడుతోంది</string>
+    <string name="network_wrarning_title">రిమైండర్</string>
+    <string name="no_enough_space">తగినంత స్టోరేజీ స్థలం లేదు. దయచేసి స్థలాన్ని ఖాళీచేయండి మరియు తరువాత ప్రయత్నించండి.</string>
+    <string name="no_local_update_packges_title">ఇన్‌స్టలేషన్ ప్యాకేజీని రూట్ డైరెక్టరీని తరలించండి</string>
+    <string name="no_upgrade_log">అప్‌డేట్ లాగ్ లభ్యం కావడం లేదు</string>
+    <string name="notification_download_fail">అప్‌డేట్ ప్యాకేజీ డౌన్‌లోడ్ విఫలమైంది, డౌన్‌లోడ్ చేసుకోవడం కొరకు దయచేసి తిరిగి ప్రయత్నించండి</string>
+    <string name="notification_download_success">డౌన్‌లోడ్ పూర్తయింది, అప్‌డేట్ మీద క్లిక్ చేయి</string>
+    <string name="notification_downloading">డౌన్‌లోడ్ చేస్తోంది</string>
+    <string name="notification_into_update_content">ఇప్పుడు అప్‌గ్రేడ్ చేయడానికి తట్టండి</string>
+    <string name="notification_into_update_title">సిస్టమ్ అప్‌డేట్ ప్యాకేజీ డౌన్‌లోడ్ పూర్తయింది</string>
+    <string name="oneplus_read_contacts">నెట్‌వర్క్ యాక్సెస్</string>
+    <string name="oneplus_rights_dialog_checkbox_text">నా సెక్షన్‌లను గుర్తుంచుకో</string>
+    <string name="oneplus_rights_dialog_discription">సిస్టమ్ అప్‌డేట్ ఉపయోగించడం కొరకు మీరు దిగువ అనుమతులను పాటించాల్సి ఉంటుంది</string>
+    <string name="oneplus_rights_dialog_title">పర్మిషన్ అప్లికేషన్</string>
+    <string name="ota_check_update">నవీకరణ కొరకు తనిఖీ చేయండి</string>
+    <string name="ota_never_check_update">ఒక నవీకరణ కొరకు మీరు ఎన్నడూ తనిఖీ చేయలేదు.</string>
+    <string name="ota_new_update">కొత్త వెర్షన్ లభ్యం అవుతోంది</string>
+    <string name="ota_new_update_downloading">"కొత్త వెర్షన్ లభ్యం అవుతోంది
+డౌన్‌లోడింగ్ చేస్తోంది…"</string>
+    <string name="ota_new_update_name">%1$s సిస్టమ్ నవీకరణ</string>
+    <string name="ota_new_update_name_downloading">"%1$s సిస్టమ్ నవీకరణ
+డౌన్‌లోడింగ్…"</string>
+    <string name="ota_new_update_name_paused">"%1$s సిస్టమ్ నవీకరణ
+డౌన్‌లోడ్ నిలిపివేయబడింది…"</string>
+    <string name="ota_new_update_name_ready">"%1$s సిస్టమ్ నవీకరణ
+ఇన్‌స్టల్ చేయడానికి సిద్ధం"</string>
+    <string name="ota_new_update_paused">డౌన్‌లోడ్ నిలిపివేయబడింది…</string>
+    <string name="ota_new_update_ready">"కొత్త వెర్షన్ లభ్యం
+ఇన్‌స్టాల్ చేయడానికి సిద్ధం"</string>
+    <string name="ota_no_update">మీ సిస్టమ్ అప్ టూ డేట్‌గా ఉంది</string>
+    <string name="ota_oem_unlock_detected_alert">OEM అన్‌లాక్ గుర్తించబడింది. సిస్టమ్ పూర్తి అప్‌గ్రేడ్ ప్యాకేజీని డౌన్‌లోడ్ చేయడం ప్రారంభిస్తుంది. మీ డేటా సమగ్రతను నిర్ధారించడానికి, దయచేసి బ్యాకప్ తీసుకోండి.</string>
+    <string name="ota_root_detected_alert">రూట్ గుర్తించబడింది, సిస్టమ్ ఫుల్ అప్‌గ్రేడ్ ప్యాకేజీ డౌన్‌లోడ్ చేయడం ప్రారంభిస్తుంది. మీ డేటా యొక్క భద్రతను ధృవీకరించడం కొరకు, దయచేసి మీ డేటాను బ్యాకప్ చేయండి. అప్‌డేట్ పూర్తయిన తరువాత మీ పరికరం అన్ రూట్ చేయబడుతుంది.</string>
+    <string name="pause_downloading">డౌన్‌లోడ్ నిలిపివేయి</string>
+    <string name="play_under_mobile_data">ప్లే చేయి</string>
+    <string name="play_under_mobile_data_tips">ప్రస్తుతం సెల్యూలర్ నెట్‌వర్క్‌లో ఉంది, ప్లే చేయడం కొనసాగించాలా?</string>
+    <string name="preparing_download">డౌన్‌లోడ్ సిద్ధం చేస్తోంది…</string>
+    <string name="preparing_install">ఇన్‌స్టలేషన్‌కు సిద్ధం అవుతోంది…</string>
+    <string name="ready_to_install">సిస్టమ్ అప్‌డేట్ రెడీగా ఉంది. మీ ఫోన్ రీస్టార్ట్ చేయడానికి మరియు అప్‌డేట్‌ని ఇన్‌స్టాల్ చేయడానికి దిగువ ఇన్‌స్టాల్ క్లిక్ చేయండి.</string>
+    <string name="ready_to_upgrade">అప్‌డేట్ ప్యాకేజీ వెరిఫై చేస్తోంది...</string>
+    <string name="reject">అనుమతించవద్దు</string>
+    <string name="remind_later">తరువాత గుర్తు చేయండి</string>
+    <string name="resume">కొనసాగించు</string>
+    <string name="rooted_warning">"రూటెడ్ పరికరం గుర్తించబడింది. అప్‌గ్రేడ్ విఫలం కావొచ్చు.
+ అప్‌గ్రేడ్ చేయాలని మీరు అనుకుంటున్నారా?"</string>
+    <string name="search_menu_title">వెతుకు</string>
+    <string name="searching">వెతుకుతోంది...</string>
+    <string name="setting">సెట్టింగ్‌లు</string>
+    <string name="share">పంచుకో</string>
+    <string name="show_new_version_info">అప్‌డేట్ చేయబడ్డ కంటెంట్ చెక్ చేయండి</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">మీరు ఎంచుకున్న ప్యాకేజీ యొక్క వెర్షన్ ప్రస్తుత సిస్టమ్ కంటే తక్కువ. బూటింగ్ విఫలం కాకుండా నివారించడానికి, డౌన్‌గ్రేడింగ్ అనుమతించబడింది.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">అర్థమైంది</string>
+    <string name="str_ab_upgrade_warning_wipe">"మీరు ఎంచుకున్న ప్యాకేజీ మీ పరికరాన్ని ఇన్‌స్టాలేషన్ తర్వాత ఫ్యాక్టరీ డిఫాల్ట్‌లకు రీసెట్ చేస్తుంది.
+మీరు దీనిని ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"ఈ సిస్టమ్ అప్‌డేట్ మీ డేటాపై ప్రభావం చూపదు. 
+ అయితే, మీ డేటా సమగ్రతను ధృవీకరించడం కొరకు, దయచేసి బ్యాకప్ చేయండి."</string>
+    <string name="str_abupdate_continue_download">డౌన్‌లోడ్ &amp; ఇన్‌స్టాల్ చేయడం కొనసాగించాలా</string>
+    <string name="str_abupdate_install_completed">సిస్టమ్ అప్‌డేట్ ఇన్‌స్టలేషన్ పూర్తయింది. దయచేసి అప్‌డేట్ పూర్తి చేయడం కొరకు రీబూట్ చేయండి.</string>
+    <string name="str_abupdate_install_failed">సిస్టమ్ అప్‌డేట్ ఇన్‌స్టలేషన్ విఫలమైంది</string>
+    <string name="str_abupdate_install_update">ఇప్పుడు ఇన్‌స్టాల్ చేయండి</string>
+    <string name="str_abupdate_installing">సిస్టమ్ అప్‌డేట్ ఇన్‌స్టాల్ చేయబడుతోంది</string>
+    <string name="str_abupdate_local_package_log">ఈ వెర్షన్‌లో ఛేంజ్‌లాగ్ లేదు</string>
+    <string name="str_abupdate_reboot">రీబూట్</string>
+    <string name="str_abupdate_retry_failed">సిస్టమ్ అప్‌డేట్ ఇన్‌స్టలేషన్ విఫలమైంది. ఫుల్ అప్‌గ్రేడ్ ప్యాకేజీ కొరకు చెక్ చేస్తోంది.</string>
+    <string name="str_abupdate_start_download">డౌన్‌లోడ్ &amp; ఇప్పుడు ఇన్‌స్టాల్ చేయండి</string>
+    <string name="str_abupdate_try_again">మళ్లీ ప్రయత్నించండి</string>
+    <string name="str_alert_local_downgrade">"మీరు ఎంచుకున్న ప్యాకేజీ ప్రస్తుత వెర్షన్ కంటే తక్కువ. డేటా కంపాటబిలిటీ సమస్యల వల్ల బూట్ విఫలం కావడానికి ఇది దారితీయవచ్చు. 
+ పాత వెర్షన్‌ని మీరు ఖచ్చితంగా ఇన్‌స్టాల్ చేయాలని అనుకుంటున్నారా?"</string>
+    <string name="str_alert_local_downgrade_confirm">నిర్ధారించు</string>
+    <string name="str_beta_to_mp_not_allow">"మీరు ఎంచుకున్న ప్యాకేజీ ప్రస్తుత సిస్టమ్ వెర్షన్ కంటే తక్కువగా ఉంది. బూట్ అప్ వైఫల్యానికి నివారించడానికి, డీగ్రెడేషన్ అనుమతించబడదు.
+మీరు డీగ్రేడ్ చేయాలనుకుంటే, దయచేసి ప్యాకేజీ ఇన్‌స్టాల్ చేయడానికి పునరుద్ధరణ మోడ్‌కు రీబూట్ చేయాలి."</string>
+    <string name="str_disabled_local_upgrade_summary">మీరు సిస్టమ్ అప్‌డేట్ డౌన్‌లోడ్ చేయడం లేదా ఇన్‌స్టాల్ చేయడం వల్ల స్థానికంగా అప్‌గ్రేడ్ చేయలేకపోయింది.</string>
+    <string name="str_download_retry">డౌన్‌లోడ్ &amp; మళ్లీ ఇన్‌స్టాల్ చేయండి</string>
+    <string name="str_mp_downgrade_not_allow">"మీరు ఎంచుకున్న ప్యాకేజీ ప్రస్తుత సిస్టమ్ వెర్షన్ కంటే తక్కువగా ఉంది. బూట్ అప్ వైఫల్యానికి నివారించడానికి, డీగ్రేడేషన్ అనుమతించబడదు.
+మీరు డీగ్రేడ్ చేయాలనుకుంటే, దయచేసి ముందుగా మీ డేటాను బ్యాకప్ చేయాలి, ఆపై ప్యాకేజీ ఇన్‌స్టాల్ చేయడానికి పునరుద్ధరణ మోడ్‌కు రీబూట్ చేయాలి."</string>
+    <string name="str_pause_download_new">పాజ్ చేయి</string>
+    <string name="str_time_incorrect_check_failed">నవీకరణల కోసం తనిఖీ విఫలమైంది ఎందుకంటే మీ పరికరం తేదీ మరియు సమయం తప్పు</string>
+    <string name="str_time_incorrect_download_failed">డౌన్‌లోడ్ విఫలమైంది ఎందుకంటే మీ పరికరం యొక్క తేదీ మరియు సమయం తప్పు</string>
+    <string name="system_battery_low">బ్యాటరీ తక్కువగా(20%) ఉంది. దయచేసి రీఛార్జ్ చేయండి</string>
+    <string name="system_battery_low_title">బ్యాటరీ తక్కువగా ఉంది</string>
+    <string name="system_can_fix_to_new_version">సిస్టమ్ తాజా వెర్షన్‌కి ఫిక్స్ చేయబడుతుంది</string>
+    <string name="system_can_update_to_new_version">ఇప్పుడు అప్‌డేట్ చేయి</string>
+    <string name="system_download_complete">సిస్టమ్ %s డౌన్‌లోడ్ పూర్తయింది</string>
+    <string name="system_download_fail">డౌన్‌లోడ్ విఫలమైంది. దయచేసి నెట్‌వర్క్ తనిఖీ చేయండి మరియు తిరిగి ప్రయత్నించండి</string>
+    <string name="system_downloading">సిస్టమ్ %s డౌన్‌లోడ్</string>
+    <string name="system_fix_download">ఇప్పుడు ఫిక్స్ ప్ాయక్ డౌన్‌లోడ్ చేసుకోండి</string>
+    <string name="system_fix_now">ఇప్పుడు ఫిక్స్ చేయడం కొరకు రీబూట్ చేయండి</string>
+    <string name="system_repair_mode">రిపేర్ మోడ్</string>
+    <string name="system_update_checking">అప్‌డేట్‌ల కొరకు చెక్ చేస్తోంది...</string>
+    <string name="system_update_download_finish">డౌన్‌లోడ్ పూర్తయింది</string>
+    <string name="system_update_download_finish_tip">అప్‌గ్రేడ్ చేయడం కొరకు క్లిక్ చేయండి. సిస్టమ్ ఆటోమేటిక్‌గా రీస్టార్ట్ అవుతుంది</string>
+    <string name="system_update_downloading_tip">కొత్త వెర్షన్ కొరకు డేటా డౌన్‌లోడ్ చేసుకుంటోంది:</string>
+    <string name="system_update_error">నెట్‌వర్క్ కనెక్ట్ చేయబడలేదు</string>
+    <string name="system_update_fail">అప్‌గ్రేడ్ విఫలవుతుంది. దయచేసి మళ్లీ ప్రయత్నించండి</string>
+    <string name="system_update_messages">సిస్టమ్ %s అప్‌డేట్ రిమైండర్</string>
+    <string name="system_update_messages_download">సిస్టమ్ %s అప్‌డేట్, డౌన్‌లోడ్ అప్‌డేట్ క్లిక్ చేయి</string>
+    <string name="system_update_messages_failed_text">అప్‌డేట్ విఫలమైంది, మళ్లీ ప్రయత్నించడం కొరకు రిపేర్ మోడ్‌లోనికి ప్రవేశించడం కొరకు తట్టండి</string>
+    <string name="system_update_messages_failed_title">సిస్టమ్ అప్‌డేట్ విఫలమైంది</string>
+    <string name="system_update_messages_success_text">సిస్టమ్ విజయవంతంగా %sకు అప్‌డేట్ చేయబడింది</string>
+    <string name="system_update_messages_success_title">సిస్టమ్ అప్‌డేట్ చేయబడింది</string>
+    <string name="system_update_no_network">దయచేసి మొదట నెట్‌వర్క్ సెటప్ చేయండి</string>
+    <string name="system_update_notification">సిస్టమ్ అప్‌డేట్ నోటిఫికేషన్</string>
+    <string name="system_update_now">ఇప్పుడు అప్‌గ్రేడ్ చేయడానికి రీబూట్ చేయండి</string>
+    <string name="system_update_remain_time">మిగిలిన సమయం:</string>
+    <string name="system_update_success">అప్‌గ్రేడ్ పూర్తయింది</string>
+    <string name="system_updating">అప్‌గ్రేడ్ చేస్తోంది</string>
+    <string name="system_updating_tip">అప్‌గ్రేడ్ తరువాత డేటా పోదు</string>
+    <string name="update_check_title">అప్‌డేట్‌ల కొరకు చెక్ చేయి</string>
+    <string name="update_checking">నవీకరణల కొరకు తనిఖీ చేస్తోంది, దయచేసి వేచి ఉండండి…</string>
+    <string name="update_from_local">లోకల్ అప్‌గ్రేడ్</string>
+    <string name="update_log">లాగ్‌ని అప్‌డేట్ చేయండి</string>
+    <string name="update_package_size">అప్‌డేట్ సైజు:</string>
+    <string name="upgrade_log">లాగ్‌ని అప్‌డేట్ చేయండి</string>
+    <string name="upgrade_package_not_exist">అప్‌గ్రేడ్ ప్యాకేజీ లభ్యం కావడం లేదు, దయచేసి మళ్లీ డౌన్‌లోడ్ చేయండి.</string>
+    <string name="verify_fail">సంతకం వెరిఫికేషన్ విఫలమైంది</string>
+    <string name="verifying">ఫైలును వెరిఫై చేస్తోంది, దయచేసి వేచి ఉండండి…</string>
+    <string name="wipe_data">డేటాను క్లియర్ చేయి</string>
+    <string name="wipe_data_text">"ఈ అప్‌డేట్ ఇన్‌స్టాల్ చేసేటప్పుడు మీ డేటా (ఇన్‌స్టాల్ చేయబడ్డ యాప్‌లు,SMS మరియు ఇతర డేటా) క్లియర్ చేయాలని మీకు సిఫారసు చేయబడుతోంది.
+ దానిని మీరు క్లియర్ చేయాలని అనుకుంటున్నారా?"</string>
+    <string name="wipe_data_title">హెచ్చరిక</string>
+</resources>

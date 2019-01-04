@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_to_restart">"You are about to restart your device to install the upgrade. Please don't turn off the device during the process."</string>
+    <string name="access">Allow</string>
+    <string name="alert_text_backup_data">"The system update will not affect your data. 
+However, to ensure your data integrity, please perform a backup. Please restart your phone and install the update."</string>
+    <string name="app_name">System Update</string>
+    <string name="appbar_scrolling_view_behavior">com.oneplus.lib.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="attention">Tips</string>
+    <string name="back_button_label">Back</string>
+    <string name="battery_low_prompt">The device needs to be above 20% charge to update. Please charge to continue.</string>
+    <string name="battery_very_low_prompt">Battery is too low, please charge your phone to 5% before continuing with the update. Keep your phone plugged in.</string>
+    <string name="btn_text_upgrade_now">Upgrade Now</string>
+    <string name="cancel">Cancel</string>
+    <string name="capital_off">OFF</string>
+    <string name="capital_on">ON</string>
+    <string name="check_upgrade_log">View Changelog</string>
+    <string name="click_to_install">Click to install</string>
+    <string name="continue_to_download">Continue to download</string>
+    <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
+    <string name="date_picker_day_typeface">sans-serif-medium</string>
+    <string name="date_picker_month_typeface">sans-serif-medium</string>
+    <string name="default_download_wifi">Download only via WiFi</string>
+    <string name="default_download_wifi_auto">Auto-download over Wi-Fi</string>
+    <string name="deleted_key">%1$s deleted</string>
+    <string name="dont_wipe_data">"Don't clear data"</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Are you sure you want to cancel the download?</string>
+    <string name="download_corrupted">The download could not be verified, please download again.</string>
+    <string name="download_error">There was a problem communicating with the server during the download, please resume the download later.</string>
+    <string name="download_error_notification_text">Try resuming the download later.</string>
+    <string name="download_error_notification_title">Error in system update</string>
+    <string name="download_fail">There was a problem during the download, please download again.</string>
+    <string name="download_fail_by_no_network">No network connection, please reconnect and resume your download.</string>
+    <string name="download_fail_title">Download failed</string>
+    <string name="download_io_error">There is insufficient storage to download the update, please free up space and resume the download.</string>
+    <string name="download_is_not_wifi">"Downloading over mobile data, additional charges may apply.
+Continue?"</string>
+    <string name="download_is_slow">"Your connection is too slow and it may take several minutes to download the update.
+Continue?"</string>
+    <string name="download_no_network">Network not detected, please try again later.</string>
+    <string name="download_no_network_title">Network not detected</string>
+    <string name="download_now">Download now</string>
+    <string name="download_paused">"The download was paused because no network is available.
+It will resume when there's a network."</string>
+    <string name="download_paused_resume">"Wi-Fi connection lost, download paused. 
+Please try to resume later."</string>
+    <string name="download_paused_resume_by_manual">Are you sure you want to pause download? You can resume later.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s left</string>
+    <string name="download_retry">Download again</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Download paused</string>
+    <string name="download_view_version_features">Download the update features</string>
+    <string name="downloaded_notification_error_text">Try resuming the download later.</string>
+    <string name="downloaded_notification_error_title">Error downloading.</string>
+    <string name="downloaded_notification_fail_text">There was a problem during the download, please try again later.</string>
+    <string name="downloaded_notification_fail_title">Error downloading.</string>
+    <string name="downloaded_notification_io_error_text">Free space and resume.</string>
+    <string name="downloaded_notification_io_error_title">Not enough space.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Download was paused.</string>
+    <string name="downloaded_notification_pause_text">The download was paused because no network is available.</string>
+    <string name="downloaded_notification_pause_title">Download paused.</string>
+    <string name="downloaded_notification_title">System update downloaded</string>
+    <string name="downloading">Downloading %1$s of %2$s</string>
+    <string name="downloading_notification_title">Downloading system update</string>
+    <string name="exists_new_version_title">New system version detected</string>
+    <string name="font_family_body_1_material">sans-serif</string>
+    <string name="font_family_body_2_material">sans-serif-medium</string>
+    <string name="font_family_button_material">sans-serif-medium</string>
+    <string name="font_family_caption_material">sans-serif</string>
+    <string name="font_family_title_material">sans-serif-medium</string>
+    <string name="good_things_worth_waiting">Good things are worth waiting for</string>
+    <string name="has_new_version_notification">A new version is detected, Go to H2OS OTA update</string>
+    <string name="hydrogen_version">H₂OS version</string>
+    <string name="install">Install</string>
+    <string name="install_copy_fail">There was a problem installing the upgrade. Please try again later.</string>
+    <string name="last_check_update">Last checked: %1$s</string>
+    <string name="need_more_space">Insufficient storage space to upgrade, but also need %s of storage space. Please clear some space and try again.</string>
+    <string name="network_tip">Current network is 2G/3G/4G. Continuing to download may incur fee from carrier.</string>
+    <string name="network_wrarning_checkbox">Do not show reminder again</string>
+    <string name="network_wrarning_text">This application produces data traffic. Execution recommended while using WiFi</string>
+    <string name="network_wrarning_title">Reminder</string>
+    <string name="next_button_label">Next</string>
+    <string name="no_enough_space">Insufficient storage space. Please free up space and try again.</string>
+    <string name="no_local_update_packges_title">Move installation package into root directory</string>
+    <string name="no_update_yet">No update feature yet</string>
+    <string name="no_upgrade_log">No update log available</string>
+    <string name="notification_download_fail">Upgrade package download failed, please retry to download</string>
+    <string name="notification_download_success">Download complete, click to update</string>
+    <string name="notification_downloading">Downloading</string>
+    <string name="notification_into_update_content">Tap to upgrade now</string>
+    <string name="notification_into_update_title">System update package download complete</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="oneplus_contorl_font_family_body1">sans-serif-book</string>
+    <string name="oneplus_contorl_font_family_body2">sans-serif-medium</string>
+    <string name="oneplus_contorl_font_family_button">sans-serif-medium</string>
+    <string name="oneplus_contorl_font_family_descriptions">sans-serif-book</string>
+    <string name="oneplus_contorl_font_family_display1">sans-serif-medium</string>
+    <string name="oneplus_contorl_font_family_display2">sans-serif-book</string>
+    <string name="oneplus_contorl_font_family_display3">sans-serif-light</string>
+    <string name="oneplus_contorl_font_family_display4">sans-serif-regular</string>
+    <string name="oneplus_contorl_font_family_headline">sans-serif-regular</string>
+    <string name="oneplus_contorl_font_family_highlight">sans-serif-book</string>
+    <string name="oneplus_contorl_font_family_subheading">sans-serif-book</string>
+    <string name="oneplus_contorl_font_family_subtitle">sans-serif-medium</string>
+    <string name="oneplus_contorl_font_family_title">sans-serif-medium</string>
+    <string name="oneplus_contorl_font_family_title_extended">sans-serif-medium</string>
+    <string name="oneplus_read_contacts">Access Network</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Remember my selections</string>
+    <string name="oneplus_rights_dialog_discription">You need the following permissions to use the system update</string>
+    <string name="oneplus_rights_dialog_title">Permission application</string>
+    <string name="op_accessibility_quick_settings_page">Page %1$d of %2$d</string>
+    <string name="op_appbar_scrolling_view_behavior">com.oneplus.lib.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="op_character_counter_pattern">%1$d / %2$d</string>
+    <string name="op_password_toggle_content_description">Toggle password visibility</string>
+    <string name="op_path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="op_path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="op_path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="op_path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="ota_check_update">Check for update</string>
+    <string name="ota_never_check_update">"You've never checked for an update."</string>
+    <string name="ota_new_update">New version available</string>
+    <string name="ota_new_update_downloading">"New version available
+Downloading…"</string>
+    <string name="ota_new_update_name">%1$s System Update</string>
+    <string name="ota_new_update_name_downloading">"%1$s System Update
+Downloading…"</string>
+    <string name="ota_new_update_name_paused">"%1$s System Update
+Download paused…"</string>
+    <string name="ota_new_update_name_ready">"%1$s System Update
+Ready to install"</string>
+    <string name="ota_new_update_paused">Download paused…</string>
+    <string name="ota_new_update_ready">"New version available
+Ready to install"</string>
+    <string name="ota_no_update">Your system is up to date</string>
+    <string name="ota_oem_unlock_detected_alert">OEM unlock is detected. System will begin downloading the full upgrade package. To ensure your data integrity, please perform a backup.</string>
+    <string name="ota_root_detected_alert">Root is detected, system will begin downloading the full upgrade package. To ensure your data integrity, please perform a backup. Your device will be un-rooted once the upgrade is completed.</string>
+    <string name="oxygen_version">OxygenOS version</string>
+    <string name="pause_downloading">Pause download</string>
+    <string name="play_under_mobile_data">Play</string>
+    <string name="play_under_mobile_data_tips">Currently in a cellular network, continue playing?</string>
+    <string name="preparing_download">Preparing download…</string>
+    <string name="preparing_install">Preparing installation…</string>
+    <string name="ready_to_install">System update is ready. Click install below to restart your phone and install the update.</string>
+    <string name="ready_to_upgrade">Verifying update package...</string>
+    <string name="reject">Do not allow</string>
+    <string name="remind_later">Remind me later</string>
+    <string name="resume">Resume</string>
+    <string name="rooted_warning">"Rooted device detected, update may fail.
+Would you like upgrade?"</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searching">Searching...</string>
+    <string name="searchview_description_clear">Clear query</string>
+    <string name="searchview_description_search">Search</string>
+    <string name="searchview_description_submit">Submit query</string>
+    <string name="searchview_description_voice">Voice search</string>
+    <string name="see_what_new">"Let's see what's new!"</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="setting">Settings</string>
+    <string name="share">Share</string>
+    <string name="show_new_version_info">Check updated content</string>
+    <string name="skip">Skip</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="start">Start</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">The version of your selected package is lower than that of the current system. To avoid booting up failure, downgrading is not allowed.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">GOT IT</string>
+    <string name="str_ab_upgrade_warning_wipe">"The package you selected will reset your device to factory defaults after the installation.
+Are you sure you want to install it?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"This system update will not affect your data.
+However, to ensure your data integrity, please perform a backup."</string>
+    <string name="str_abupdate_continue_download">Continue to download &amp; install</string>
+    <string name="str_abupdate_install_completed">Installation completed, restart to experience the new features!</string>
+    <string name="str_abupdate_install_failed">System update installation failed</string>
+    <string name="str_abupdate_install_update">INSTALL NOW</string>
+    <string name="str_abupdate_installing">System update is installing</string>
+    <string name="str_abupdate_local_package_log">This version has no changelog</string>
+    <string name="str_abupdate_reboot">REBOOT</string>
+    <string name="str_abupdate_retry_failed">System update installation failed. Checking for full upgrade package.</string>
+    <string name="str_abupdate_start_download">Download &amp; Install now</string>
+    <string name="str_abupdate_try_again">TRY AGAIN</string>
+    <string name="str_alert_local_downgrade">"The package you selected is lower than the current version. This may lead to failure to boot due to data compatibility issues.
+Are you sure you want to install the old version?"</string>
+    <string name="str_alert_local_downgrade_confirm">Confirm</string>
+    <string name="str_beta_to_mp_not_allow">"The package you selected is lower than current system's version. To avoid boot up failure, degradation is not allowed.
+If you do want to degrade, please reboot to Recovery Mode to install the package."</string>
+    <string name="str_disabled_local_upgrade_summary">Unable to upgrade locally because you are downloading or installing a system update.</string>
+    <string name="str_download_progress_text">%1$s MB / %2$s MB</string>
+    <string name="str_download_retry">Download &amp; Install again</string>
+    <string name="str_mp_downgrade_not_allow">"The package you selected is lower than current system's version. To avoid boot up failure, degradation is not allowed.
+If you do want to degrade, please back up your data first, then you can reboot to Recovery Mode to install the package."</string>
+    <string name="str_pause_download_new">Pause</string>
+    <string name="str_time_incorrect_check_failed">"Checking for updates failed because your device's date and time are incorrect"</string>
+    <string name="str_time_incorrect_download_failed">"Download failed because your device's date and time are incorrect"</string>
+    <string name="system_battery_low">Battery low (20%). Please recharge</string>
+    <string name="system_battery_low_title">Battery low</string>
+    <string name="system_can_fix_to_new_version">System can be fixed to the latest version</string>
+    <string name="system_can_update_to_new_version">Update now</string>
+    <string name="system_download_complete">System %s download complete</string>
+    <string name="system_download_fail">Download failed. Please check network and try again</string>
+    <string name="system_downloading">System %s download</string>
+    <string name="system_fix_download">Download fix pack now</string>
+    <string name="system_fix_now">Reboot to fix now</string>
+    <string name="system_repair_mode">Repair mode</string>
+    <string name="system_update">System update</string>
+    <string name="system_update_checking">Checking for updates...</string>
+    <string name="system_update_download">@string/download_now</string>
+    <string name="system_update_download_finish">Download complete</string>
+    <string name="system_update_download_finish_tip">Click to upgrade. System will automatically restart</string>
+    <string name="system_update_downloading_tip">Downloading data for new version:</string>
+    <string name="system_update_error">Network not connected</string>
+    <string name="system_update_fail">Upgrade failed. Please try again</string>
+    <string name="system_update_messages">System %s update reminder</string>
+    <string name="system_update_messages_download">System %s update ,click download update</string>
+    <string name="system_update_messages_failed_text">Update failed, tap to enter repair mode to try again</string>
+    <string name="system_update_messages_failed_title">System update failed</string>
+    <string name="system_update_messages_success_text">System was successfully updated to %s</string>
+    <string name="system_update_messages_success_title">System has been updated</string>
+    <string name="system_update_no_network">Please set up network first</string>
+    <string name="system_update_notification">System update notification</string>
+    <string name="system_update_now">Reboot to upgrade now</string>
+    <string name="system_update_ok">@android:string/ok</string>
+    <string name="system_update_remain_time">Time remaining:</string>
+    <string name="system_update_success">Upgrade complete</string>
+    <string name="system_updating">Upgrading</string>
+    <string name="system_updating_tip">Data will not be lost after upgrade</string>
+    <string name="theme_style">0</string>
+    <string name="time_picker_header_text">Set time</string>
+    <string name="time_picker_hour_label">hour</string>
+    <string name="time_picker_input_error">Enter a valid time</string>
+    <string name="time_picker_minute_label">minute</string>
+    <string name="time_picker_prompt_label">Type in time</string>
+    <string name="time_placeholder">--</string>
+    <item type="string" name="timepicker_ampm_circle_radius_multiplier">0.19</item>
+    <item type="string" name="timepicker_circle_radius_multiplier">0.82</item>
+    <item type="string" name="timepicker_circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="timepicker_numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="timepicker_numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="timepicker_numbers_radius_multiplier_outer">0.83</item>
+    <item type="string" name="timepicker_selection_radius_multiplier">0.16</item>
+    <item type="string" name="timepicker_text_size_multiplier_inner">0.14</item>
+    <item type="string" name="timepicker_text_size_multiplier_normal">0.17</item>
+    <item type="string" name="timepicker_text_size_multiplier_outer">0.11</item>
+    <item type="string" name="timepicker_transition_end_radius_multiplier">1.3</item>
+    <item type="string" name="timepicker_transition_mid_radius_multiplier">0.95</item>
+    <string name="try_again">Try again</string>
+    <string name="update_check_title">Check for updates</string>
+    <string name="update_checking">Checking for updates, please wait…</string>
+    <string name="update_completed">Update completed</string>
+    <string name="update_completed_welcome">"Let's see what's new!"</string>
+    <string name="update_from_local">Local upgrade</string>
+    <string name="update_log">Update log</string>
+    <string name="update_package_size">Update size: </string>
+    <string name="update_wizard_download_error_unknow">There was a problem during the download, please try again</string>
+    <string name="update_wizard_info">View update features</string>
+    <string name="upgrade_log">Update log</string>
+    <string name="upgrade_package_not_exist">Upgrade package does not exist, please download again.</string>
+    <string name="use_now">Experience now</string>
+    <string name="verify_fail">Signature verification failed</string>
+    <string name="verifying">Verifying file, please wait…</string>
+    <string name="version_features">Version features</string>
+    <string name="wipe_data">Clear data</string>
+    <string name="wipe_data_text">"It is recommended to clear your data (installed apps, SMS and other data) when installing this update.
+Would you like to clear it?"</string>
+    <string name="wipe_data_title">Warning</string>
+    <string name="wizard_update">Update features</string>
+    <item type="string" name="APKTOOL_DUMMY_d8">false</item>
+</resources>

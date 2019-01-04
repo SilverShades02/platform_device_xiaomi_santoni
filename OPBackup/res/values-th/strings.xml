@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_capital_off">ปิด</string>
+    <string name="abc_capital_on">เปิด</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">เมนู+</string>
+    <string name="abc_search_hint">ค้นหา…</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์ทาง %s</string>
+    <string name="abc_toolbar_collapse_description">ยุบ</string>
+    <string name="about_to_restart">คุณกำลังจะเริ่มการทำงานอุปกรณ์ของคุณใหม่เพื่อติดตั้งอัปเกรด กรุณาอย่าปิดเครื่องในระหว่างกระบวนการ</string>
+    <string name="access">อนุญาต</string>
+    <string name="alert_text_backup_data">"การอัปเดตระบบจะไม่ส่งผลต่อดาต้าของคุณ 
+อย่างไรก็ตาม เพื่อให้แน่ใจว่าข้อมูลของคุณอยู่ในสภาพสมบูรณ์ กรุณาสำรองข้อมูลไว้ก่อน กรุณาเริ่มเปิดโทรศัพท์ใหม่ แล้วติดตั้งอัปเดต"</string>
+    <string name="app_name">การอัปเดตระบบ</string>
+    <string name="attention">เคล็ดลับ</string>
+    <string name="battery_low_prompt">เครื่องต้องชาร์จเกิน 20% จึงจะอัปเดตได้ กรุณาชาร์จก่อนที่จะดำเนินการต่อไป</string>
+    <string name="battery_very_low_prompt">แบตเตอรี่เหลือน้อยเกินไป กรุณาชาร์จไฟโทรศัพท์ของคุณให้ถึง 5% ก่อนที่จะอัปเดตต่อ แล้วเสียบชาร์จไว้อย่างนั้น</string>
+    <string name="btn_text_upgrade_now">อัปเกรดตอนนี้</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="check_upgrade_log">ตรวจสอบล็อกการอัปเดต</string>
+    <string name="click_to_install">คลิกเพื่อติดตั้ง</string>
+    <string name="continue_to_download">ดำเนินการต่อเพื่อดาวน์โหลด</string>
+    <string name="default_download_wifi">ดาวน์โหลดผ่านทางวายฟายเท่านั้น</string>
+    <string name="default_download_wifi_auto">ดาวน์โหลดอัตโนมัติผ่านทางวายฟาย</string>
+    <string name="dont_wipe_data">ไม่ล้างข้อมูล</string>
+    <string name="download">ดาวน์โหลด</string>
+    <string name="download_cancel">คุณแน่ใจว่าต้องการยกเลิกดาวน์โหลดหรือไม่?</string>
+    <string name="download_corrupted">ไม่สามารถตรวจสอบการดาวน์โหลดได้ กรุณาดาวน์โหลดอีกครั้ง</string>
+    <string name="download_error">มีปัญหาในการสื่อสารกับเซิร์ฟเวอร์ระหว่างการดาวน์โหลด กรุณาดาวน์โหลดต่อในภายหลัง</string>
+    <string name="download_error_notification_text">ลองดาวน์โหลดต่อในภายหลัง</string>
+    <string name="download_error_notification_title">มีข้อผิดพลาดในการอัปเดตระบบ</string>
+    <string name="download_fail">มีปัญหาในระหว่างการดาวน์โหลด กรุณาดาวน์โหลดอีกครั้ง</string>
+    <string name="download_fail_title">ดาวน์โหลดล้มเหลว</string>
+    <string name="download_io_error">พื้นที่จัดเก็บไม่เพียงพอที่จะดาวน์โหลดอัปเดต กรุณาเตรียมที่ว่างแล้วค่อยดำเนินการดาวน์โหลดต่อ</string>
+    <string name="download_is_not_wifi">"กำลังดาวน์โหลดผ่านดาต้ามือถือ อาจมีค่าธรรมเนียมเพิ่มเติม
+ดำเนินการต่อหรือไม่?"</string>
+    <string name="download_is_slow">"การเชื่อมต่อของคุณช้าเกินไปและอาจใช้เวลาดาวน์โหลดอัปเดตหลายนาที
+ดำเนินการต่อหรือไม่?"</string>
+    <string name="download_no_network">ไม่พบเน็ตเวิร์ก กรุณาลองใหม่อีกครั้งภายหลัง</string>
+    <string name="download_no_network_title">ไม่พบเน็ตเวิร์ก</string>
+    <string name="download_now">ดาวน์โหลดตอนนี้</string>
+    <string name="download_paused">"การดาวน์โหลดถูกหยุดชั่วคราวเนื่องจากเน็ตเวิร์กไม่พร้อมใช้งาน
+จะดำเนินการต่อเมื่อมีเน็ตเวิร์กแล้ว"</string>
+    <string name="download_paused_resume">"การเชื่อมต่อวายฟายหลุดไป ดาวน์โหลดหยุดชั่วคราว
+กรุณาดำเนินการต่อภายหลัง"</string>
+    <string name="download_paused_resume_by_manual">คุณแน่ใจว่าต้องการหยุดดาวน์โหลดชั่วคราวหรือไม่? คุณสามารถดำเนินการต่อภายหลังได้</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">เหลือ %s</string>
+    <string name="download_retry">ดาวน์โหลดอีกครั้ง</string>
+    <string name="download_speed_text">%1$s, %2$s /s</string>
+    <string name="download_state_update_paused">ดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="downloaded_notification_error_text">ลองดาวน์โหลดต่อในภายหลัง</string>
+    <string name="downloaded_notification_error_title">การดาวน์โหลดผิดพลาด</string>
+    <string name="downloaded_notification_fail_text">มีปัญหาในระหว่างการดาวน์โหลด กรุณาลองใหม่อีกครั้ง</string>
+    <string name="downloaded_notification_fail_title">การดาวน์โหลดผิดพลาด</string>
+    <string name="downloaded_notification_io_error_text">เตรียมที่ว่างแล้วดำเนินการต่อ</string>
+    <string name="downloaded_notification_io_error_title">พื้นที่จัดเก็บไม่เพียงพอ</string>
+    <string name="downloaded_notification_pause_by_manual_text">ดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="downloaded_notification_pause_text">การดาวน์โหลดถูกหยุดชั่วคราวเนื่องจากเน็ตเวิร์กไม่พร้อมใช้งาน</string>
+    <string name="downloaded_notification_pause_title">ดาวน์โหลดหยุดชั่วคราว</string>
+    <string name="downloaded_notification_title">การอัปเดตระบบถูกดาวน์โหลดแล้ว</string>
+    <string name="downloading">กำลังดาวน์โหลด %1$s จาก %2$s</string>
+    <string name="downloading_notification_title">กำลังดาวน์โหลดการอัปเดตระบบ</string>
+    <string name="exists_new_version_title">พบรุ่นใหม่ของระบบ</string>
+    <string name="has_new_version_notification">ตรวจพบรุ่นใหม่ ไปที่การอัปเดต H2OS OTA</string>
+    <string name="install">ติดตั้ง</string>
+    <string name="install_copy_fail">มีปัญหาในการติดตั้งอัปเกรด กรุณาลองใหม่ในภายหลัง</string>
+    <string name="last_check_update">ตรวจสอบล่าสุด: %1$s</string>
+    <string name="need_more_space">พื้นที่เก็บข้อมูลไม่พอที่จะอัปเกรดและยังต้องการพื้นที่เก็บข้อมูลอีก %s กรุณาล้างพื้นที่บางส่วนแล้วลองใหม่อีกครั้ง</string>
+    <string name="network_tip">เน็ตเวิร์กปัจจุบันคือ 2G/3G/4G การดำเนินการต่อเพื่อดาวน์โหลดอาจมีค่าธรรมเนียมจากผู้ให้บริการได้</string>
+    <string name="network_wrarning_checkbox">ไม่ต้องแสดงตัวช่วยเตือนนี้อีก</string>
+    <string name="network_wrarning_text">แอปพลิเคชั่นนี้สร้างการรับส่งข้อมูล แนะนำให้ใช้งานในขณะที่ใช้วายฟาย</string>
+    <string name="network_wrarning_title">ตัวช่วยเตือน</string>
+    <string name="no_enough_space">พื้นที่เก็บไม่เพียงพอ กรุณาเพิ่มพื้นที่ว่างแล้วลองใหม่อีกครั้ง</string>
+    <string name="no_local_update_packges_title">ย้ายแพคเกจการติดตั้งลงไปในไดเรกทอรีรูท</string>
+    <string name="no_upgrade_log">ไม่มีล็อกอัปเดตอยู่</string>
+    <string name="notification_download_fail">การดาวน์โหลดแพคเกจอัปเกรดล้มเหลว กรุณาลองดาวน์โหลดใหม่อีกครั้ง</string>
+    <string name="notification_download_success">ดาวน์โหลดเสร็จสมบูรณ์ คลิกอัปเดต</string>
+    <string name="notification_downloading">กำลังดาวน์โหลด</string>
+    <string name="notification_into_update_content">แตะเพื่ออัปเกรดตอนนี้</string>
+    <string name="notification_into_update_title">การดาวน์โหลดแพคเกจอัปเดตระบบเสร็จสมบูรณ์</string>
+    <string name="oneplus_read_contacts">เข้าถึงเน็ตเวิร์ก</string>
+    <string name="oneplus_rights_dialog_checkbox_text">จดจำการเลือกของฉันไว้</string>
+    <string name="oneplus_rights_dialog_discription">คุณจำเป็นต้องมีสิทธิ์ต่อไปนี้เพื่อใช้งานการอัปเดตระบบ</string>
+    <string name="oneplus_rights_dialog_title">สิทธิ์แอปพลิเคชั่น</string>
+    <string name="ota_check_update">ตรวจดูอัปเดต</string>
+    <string name="ota_never_check_update">คุณไม่เคยตรวจดูอัปเดตเลย</string>
+    <string name="ota_new_update">มีรุ่นใหม่แล้ว</string>
+    <string name="ota_new_update_downloading">"มีรุ่นใหม่แล้ว
+กำลังดาวน์โหลด…"</string>
+    <string name="ota_new_update_name">การอัปเดตระบบ %1$s</string>
+    <string name="ota_new_update_name_downloading">"การอัปเดตระบบ %1$s
+กำลังดาวน์โหลด…"</string>
+    <string name="ota_new_update_name_paused">"การอัปเดตระบบ %1$s
+ดาวน์โหลดหยุดชั่วคราว…"</string>
+    <string name="ota_new_update_name_ready">"การอัปเดตระบบ %1$s
+พร้อมที่จะติดตั้ง"</string>
+    <string name="ota_new_update_paused">ดาวน์โหลดหยุดชั่วคราว...</string>
+    <string name="ota_new_update_ready">"มีรุ่นใหม่แล้ว
+พร้อมที่จะติดตั้ง"</string>
+    <string name="ota_no_update">ระบบของคุณใหม่ล่าสุดแล้ว</string>
+    <string name="ota_oem_unlock_detected_alert">ตรวจพบการปลดล็อก OEM ระบบจะเริ่มการดาวน์โหลดแพคเกจการอัปเกรดตัวเต็ม เพื่อให้แน่ใจว่าข้อมูลของคุณอยู่ในสภาพสมบูรณ์ กรุณาสำรองข้อมูลไว้ก่อน</string>
+    <string name="ota_root_detected_alert">ตรวจพบรูท ระบบจะเริ่มดาวน์โหลดแพคเกจอัปเกรดตัวเต็ม เพื่อให้แน่ใจว่าข้อมูลของคุณอยู่ในสภาพสมบูรณ์ กรุณาสำรองข้อมูลไว้ก่อน เครื่องคุณจะถูกถอดรูทออกเมื่อการอัปเกรดเสร็จสิ้น</string>
+    <string name="pause_downloading">หยุดดาวน์โหลดชั่วคราว</string>
+    <string name="play_under_mobile_data">เล่น</string>
+    <string name="play_under_mobile_data_tips">ขณะนี้อยู่ในเน็ตเวิร์กมือถือ เล่นต่อหรือไม่?</string>
+    <string name="preparing_download">กำลังเตรียมดาวน์โหลด...</string>
+    <string name="preparing_install">กำลังเตรียมการติดตั้ง...</string>
+    <string name="ready_to_install">การอัปเดตระบบพร้อมแล้ว คลิกติดตั้งด้านล่างเพื่อเริ่มการทำงานโทรศัพท์ของคุณใหม่แล้วติดตั้งอัปเดต</string>
+    <string name="ready_to_upgrade">กำลังตรวจสอบแพคเกจอัปเดต...</string>
+    <string name="reject">ไม่อนุญาต</string>
+    <string name="remind_later">เตือนฉันในภายหลัง</string>
+    <string name="resume">ทำงานต่อ</string>
+    <string name="rooted_warning">"พบอุปกรณ์ที่รูทแล้ว การอัปเดตอาจล้มเหลวได้
+คุณต้องการอัปเกรดหรือไม่?"</string>
+    <string name="search_menu_title">ค้นหา</string>
+    <string name="searching">กำลังค้นหา...</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="show_new_version_info">ตรวจดูเนื้อหาที่อัปเดต</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">เวอร์ชันของแพคเกจที่คุณเลือกต่ำกว่าระบบปัจจุบัน เพื่อหลีกเลี่ยงความล้มเหลวในการเริ่มต้นระบบ จึงไม่อนุญาตให้มีการดาวน์เกรด</string>
+    <string name="str_ab_downgrade_not_allow_confirm">เข้าใจแล้ว</string>
+    <string name="str_ab_upgrade_warning_wipe">"แพคเกจที่คุณเลือกจะรีเซ็ตอุปกรณ์ของคุณกลับไปยังค่าเริ่มต้นจากโรงงานหลังจากการติดตั้ง
+คุณแน่ใจหรือไม่ว่าต้องการติดตั้ง"</string>
+    <string name="str_abupdate_alert_local_upgrade">"การอัปเดตระบบจะไม่ส่งผลต่อดาต้าของคุณ
+อย่างไรก็ตาม เพื่อให้แน่ใจว่าข้อมูลของคุณอยู่ในสภาพสมบูรณ์ กรุณาสำรองข้อมูลไว้ก่อน"</string>
+    <string name="str_abupdate_continue_download">ดำเนินการต่อไปเพื่อดาวน์โหลดและติดตั้ง</string>
+    <string name="str_abupdate_install_completed">การติดตั้งอัปเดตระบบเสร็จสมบูรณ์ กรุณารีบูตเพื่อดำเนินการอัปเดตให้เสร็จสิ้น</string>
+    <string name="str_abupdate_install_failed">การติดตั้งอัปเดตระบบล้มเหลว</string>
+    <string name="str_abupdate_install_update">ติดตั้งตอนนี้</string>
+    <string name="str_abupdate_installing">กำลังติดตั้งอัปเดตระบบ</string>
+    <string name="str_abupdate_local_package_log">รุ่นนี้ไม่มีล็อกการเปลี่ยนแปลง</string>
+    <string name="str_abupdate_reboot">รีบูต</string>
+    <string name="str_abupdate_retry_failed">การติดตั้งอัปเดตระบบล้มเหลว กำลังตรวจสอบแพคเกจอัปเกรดตัวเต็ม</string>
+    <string name="str_abupdate_start_download">ดาวน์โหลดและติดตั้งตอนนี้</string>
+    <string name="str_abupdate_try_again">ลองอีกครั้ง</string>
+    <string name="str_alert_local_downgrade">"แพคเกจที่คุณเลือกรุ่นต่ำกว่ารุ่นปัจจุบัน ซึ่งอาจนำไปสู่การบูตไม่ได้เนื่องจากปัญหาความเข้ากันได้ของข้อมูลได้
+คุณแน่ใจหรือไม่ ว่าต้องการติดตั้งรุ่นเก่า?"</string>
+    <string name="str_alert_local_downgrade_confirm">ยืนยัน</string>
+    <string name="str_beta_to_mp_not_allow">"แพคเกจที่คุณเลือกต่ำกว่ารุ่นปัจจุบันของระบบ เพื่อหลีกเลี่ยงความล้มเหลวในการเริ่มต้นระบบ จึงไม่อนุญาตให้มีการดาวน์เกรด
+หากคุณต้องการดาวน์เกรด โปรดเริ่มต้นระบบเข้าสู่โหมดการกู้คืนเพื่อติดตั้งแพคเกจ"</string>
+    <string name="str_disabled_local_upgrade_summary">ไม่สามารถอัปเกรดจากเครื่องได้ เนื่องจากคุณกำลังดาวน์โหลดหรือติดตั้งอัปเดตระบบอยู่</string>
+    <string name="str_download_retry">ดาวน์โหลดและติดตั้งอีกครั้ง</string>
+    <string name="str_mp_downgrade_not_allow">"แพคเกจที่คุณเลือกต่ำกว่ารุ่นปัจจุบันของระบบ เพื่อหลีกเลี่ยงความล้มเหลวในการเริ่มต้นระบบ จึงไม่อนุญาตให้มีการดาวน์เกรด
+หากคุณต้องการดาวน์เกรด โปรดสำรองข้อมูลของคุณก่อน จากนั้นคุณจึงสามารถเริ่มต้นระบบเพื่อเข้าสู่โหมดการกู้คืนเพื่อติดตั้งแพคเกจได้"</string>
+    <string name="str_pause_download_new">หยุดชั่วคราว</string>
+    <string name="str_time_incorrect_check_failed">การตรวจดูอัปเดตล้มเหลวเนื่องจากวันและเวลาบนอุปกรณ์ของคุณไม่ถูกต้อง</string>
+    <string name="str_time_incorrect_download_failed">ดาวน์โหลดล้มเหลวเนื่องจากวันและเวลาบนอุปกรณ์ของคุณไม่ถูกต้อง</string>
+    <string name="system_battery_low">แบตเตอรี่ต่ำ (20%) กรุณาชาร์จใหม่</string>
+    <string name="system_battery_low_title">แบตเตอรี่ต่ำ</string>
+    <string name="system_can_fix_to_new_version">สามารถแก้ไขระบบเป็นรุ่นล่าสุดได้</string>
+    <string name="system_can_update_to_new_version">อัปเดตตอนนี้</string>
+    <string name="system_download_complete">ระบบ %s ดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="system_download_fail">ดาวน์โหลดไม่ได้ กรุณาตรวจสอบเน็ตเวิร์กแล้วลองใหม่อีกครั้ง</string>
+    <string name="system_downloading">ระบบ %s ดาวน์โหลด</string>
+    <string name="system_fix_download">ดาวน์โหลดแพคปรับปรุงแก้ไขตอนนี้</string>
+    <string name="system_fix_now">รีบูตเพื่อแก้ไขตอนนี้</string>
+    <string name="system_repair_mode">โหมดการซ่อมแซม</string>
+    <string name="system_update_checking">กำลังตรวจดูอัปเดต...</string>
+    <string name="system_update_download_finish">ดาวน์โหลดเสร็จสมบูรณ์</string>
+    <string name="system_update_download_finish_tip">คลิกเพื่ออัปเกรด ระบบจะเริ่มต้นใหม่โดยอัตโนมัติ</string>
+    <string name="system_update_downloading_tip">กำลังดาวน์โหลดข้อมูลสำหรับรุ่นใหม่:</string>
+    <string name="system_update_error">ไม่ได้เชื่อมต่อเน็ตเวิร์ก</string>
+    <string name="system_update_fail">อัปเกรดล้มเหลว กรุณาลองใหม่อีกครั้ง</string>
+    <string name="system_update_messages">ระบบ %s ตัวช่วยเตือนการอัปเดต</string>
+    <string name="system_update_messages_download">ระบบ %s อัปเดต คลิกดาวน์โหลดอัปเดต</string>
+    <string name="system_update_messages_failed_text">อัปเดตล้มเหลว แตะเพื่อเข้าสู่โหมดการซ่อมแซมเพื่อลองใหม่อีกครั้ง</string>
+    <string name="system_update_messages_failed_title">การอัปเดตระบบล้มเหลว</string>
+    <string name="system_update_messages_success_text">ระบบอัปเดตเป็น %s เรียบร้อยแล้ว</string>
+    <string name="system_update_messages_success_title">ระบบได้รับการอัปเดตแล้ว</string>
+    <string name="system_update_no_network">กรุณาตั้งค่าเน็ตเวิร์กก่อน</string>
+    <string name="system_update_notification">การแจ้งเตือนการอัปเดตระบบ</string>
+    <string name="system_update_now">รีบูตเพื่ออัปเกรดตอนนี้</string>
+    <string name="system_update_remain_time">เวลาที่เหลือ:</string>
+    <string name="system_update_success">อัปเกรดเสร็จสมบูรณ์</string>
+    <string name="system_updating">กำลังอัปเกรด</string>
+    <string name="system_updating_tip">ข้อมูลจะไม่สูญหายหลังจากการอัปเกรด</string>
+    <string name="update_check_title">ตรวจดูอัปเดต</string>
+    <string name="update_checking">กำลังตรวจดูอัปเดต กรุณารอสักครู่...</string>
+    <string name="update_from_local">อัปเกรดจากในพื้นที่</string>
+    <string name="update_log">ล็อกการอัปเดต</string>
+    <string name="update_package_size">ขนาดการอัปเดต: </string>
+    <string name="upgrade_log">ล็อกการอัปเดต</string>
+    <string name="upgrade_package_not_exist">ไม่มีแพคเกจอัปเกรดอยู่ กรุณาดาวน์โหลดใหม่อีกครั้ง</string>
+    <string name="verify_fail">การตรวจสอบลายเซ็นล้มเหลว</string>
+    <string name="verifying">กำลังตรวจสอบไฟล์ กรุณารอสักครู่...</string>
+    <string name="wipe_data">ล้างข้อมูล</string>
+    <string name="wipe_data_text">"แนะนำให้ล้างข้อมูลของคุณ (แอปที่ได้ติดตั้งไว้ SMS และข้อมูลอื่น ๆ) เมื่อติดตั้งอัปเดตนี้
+คุณต้องการล้างข้อมูลหรือไม่?"</string>
+    <string name="wipe_data_title">คำเตือน</string>
+</resources>

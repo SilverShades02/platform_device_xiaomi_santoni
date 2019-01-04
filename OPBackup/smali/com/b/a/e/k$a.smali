@@ -1,0 +1,151 @@
+.class Lcom/b/a/e/k$a;
+.super Ljava/lang/Object;
+.source "RequestManagerFragment.java"
+
+# interfaces
+.implements Lcom/b/a/e/m;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/b/a/e/k;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x2
+    name = "a"
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/b/a/e/k;
+
+
+# direct methods
+.method constructor <init>(Lcom/b/a/e/k;)V
+    .locals 0
+
+    .prologue
+    .line 225
+    iput-object p1, p0, Lcom/b/a/e/k$a;->a:Lcom/b/a/e/k;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a()Ljava/util/Set;
+    .locals 4
+    .annotation build Landroid/support/annotation/NonNull;
+    .end annotation
+
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/Set",
+            "<",
+            "Lcom/b/a/n;",
+            ">;"
+        }
+    .end annotation
+
+    .prologue
+    .line 231
+    iget-object v0, p0, Lcom/b/a/e/k$a;->a:Lcom/b/a/e/k;
+
+    invoke-virtual {v0}, Lcom/b/a/e/k;->d()Ljava/util/Set;
+
+    move-result-object v0
+
+    .line 232
+    new-instance v1, Ljava/util/HashSet;
+
+    invoke-interface {v0}, Ljava/util/Set;->size()I
+
+    move-result v2
+
+    invoke-direct {v1, v2}, Ljava/util/HashSet;-><init>(I)V
+
+    .line 233
+    invoke-interface {v0}, Ljava/util/Set;->iterator()Ljava/util/Iterator;
+
+    move-result-object v2
+
+    :cond_0
+    :goto_0
+    invoke-interface {v2}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_1
+
+    invoke-interface {v2}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lcom/b/a/e/k;
+
+    .line 234
+    invoke-virtual {v0}, Lcom/b/a/e/k;->b()Lcom/b/a/n;
+
+    move-result-object v3
+
+    if-eqz v3, :cond_0
+
+    .line 235
+    invoke-virtual {v0}, Lcom/b/a/e/k;->b()Lcom/b/a/n;
+
+    move-result-object v0
+
+    invoke-interface {v1, v0}, Ljava/util/Set;->add(Ljava/lang/Object;)Z
+
+    goto :goto_0
+
+    .line 238
+    :cond_1
+    return-object v1
+.end method
+
+.method public toString()Ljava/lang/String;
+    .locals 2
+
+    .prologue
+    .line 244
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-direct {v0}, Ljava/lang/StringBuilder;-><init>()V
+
+    invoke-super {p0}, Ljava/lang/Object;->toString()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, "{fragment="
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lcom/b/a/e/k$a;->a:Lcom/b/a/e/k;
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, "}"
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method

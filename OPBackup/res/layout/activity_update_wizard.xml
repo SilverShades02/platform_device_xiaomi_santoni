@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oneplus.opbackup.updatewizard.widget.OPBanners android:id="@id/opbanner" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.oneplus.lib.widget.button.OPButton android:id="@id/btn_finish" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/oneplus_contorl_margin_left1" android:text="@string/use_now" android:layout_alignParentBottom="true" android:layout_marginEnd="@dimen/oneplus_contorl_margin_left1" android:layout_alignParentEnd="true" />
+</RelativeLayout>

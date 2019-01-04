@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="actionbar_status_bg_repair">@color/actionbar_status_bg_repair</item>
+    <item type="drawable" name="backgroundcolor">@color/default_backgroundcolor</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>

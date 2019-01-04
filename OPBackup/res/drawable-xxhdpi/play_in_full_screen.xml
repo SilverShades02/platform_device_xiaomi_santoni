@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="63.0dip" android:width="63.0dip" android:viewportWidth="63.0" android:viewportHeight="63.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-1076.0" android:translateY="-816.0">
+        <group android:translateX="79.0" android:translateY="79.0">
+            <group android:translateX="997.0" android:translateY="737.0">
+                <path android:fillColor="#ffffffff" android:pathData="M 0 0 H 63 V 63 H 0 V 0 Z" android:strokeWidth="1.0" android:fillAlpha="0.1" android:fillType="evenOdd" />
+                <path android:pathData="M 0 0 L 63 0 L 63 63 L 0 63 Z" android:strokeWidth="1.0" android:fillType="evenOdd" />
+                <path android:fillColor="#ffffffff" android:pathData="M18.375,36.75 L13.125,36.75 L13.125,49.875 L26.25,49.875 L26.25,44.625 L18.375,44.625 L18.375,36.75 Z M13.125,26.25 L18.375,26.25 L18.375,18.375 L26.25,18.375 L26.25,13.125 L13.125,13.125 L13.125,26.25 Z M44.625,44.625 L36.75,44.625 L36.75,49.875 L49.875,49.875 L49.875,36.75 L44.625,36.75 L44.625,44.625 Z M36.75,13.125 L36.75,18.375 L44.625,18.375 L44.625,26.25 L49.875,26.25 L49.875,13.125 L36.75,13.125 Z" android:strokeWidth="1.0" />
+            </group>
+        </group>
+    </group>
+</vector>

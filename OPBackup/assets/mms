@@ -1,0 +1,4 @@
+mmssms.db
+pdu
+content://mms
+msg_box,msg_box;_id,_id;locked,locked;date,date;read,read;

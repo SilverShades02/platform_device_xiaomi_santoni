@@ -1,0 +1,4 @@
+mmssms.db
+sms
+content://sms
+person,person;date,date;date_sent,date_sent;read,read;status,status;address,address;type,type;seen,seen;body,body;service_center,service_center;locked,locked;

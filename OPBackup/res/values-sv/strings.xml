@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Visa startsidan</string>
+    <string name="abc_action_bar_up_description">Navigera uppåt</string>
+    <string name="abc_action_menu_overflow_description">Fler alternativ</string>
+    <string name="abc_action_mode_done">Klart</string>
+    <string name="abc_activity_chooser_view_see_all">Visa alla</string>
+    <string name="abc_activitychooserview_choose_application">Välj en app</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt + </string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl + </string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">retur</string>
+    <string name="abc_menu_function_shortcut_label">Funktion + </string>
+    <string name="abc_menu_meta_shortcut_label">Meta + </string>
+    <string name="abc_menu_shift_shortcut_label">Skift + </string>
+    <string name="abc_menu_space_shortcut_label">blanksteg</string>
+    <string name="abc_menu_sym_shortcut_label">Symbol + </string>
+    <string name="abc_prepend_shortcut_label">Meny + </string>
+    <string name="abc_search_hint">Sök …</string>
+    <string name="abc_searchview_description_clear">Ta bort frågan</string>
+    <string name="abc_searchview_description_query">Sökfråga</string>
+    <string name="abc_searchview_description_search">Sök</string>
+    <string name="abc_searchview_description_submit">Skicka fråga</string>
+    <string name="abc_searchview_description_voice">Röstsökning</string>
+    <string name="abc_shareactionprovider_share_with">Dela med</string>
+    <string name="abc_shareactionprovider_share_with_application">Dela med %s</string>
+    <string name="abc_toolbar_collapse_description">Komprimera</string>
+    <string name="about_to_restart">Du kommer att starta om din enhet för att installera uppdateringen. Stäng inte av enheten under den här processen.</string>
+    <string name="access">Tillåt</string>
+    <string name="alert_text_backup_data">"Systemuppdateringen kommer inte att påverka dina data. 
+Men för att säkerställa din dataintegritet bör du göra en säkerhetskopiering. Starta om telefonen och installera uppdateringen."</string>
+    <string name="app_name">Systemuppdatering</string>
+    <string name="attention">Tips</string>
+    <string name="battery_low_prompt">Enheten måste vara laddad med minst 20 %. Ladda för att fortsätta.</string>
+    <string name="battery_very_low_prompt">Batterinivån är för låg. Ladda din telefon till 5% innan du fortsätter med uppdateringen. Se till att din telefon är ansluten.</string>
+    <string name="btn_text_upgrade_now">Uppgradera nu</string>
+    <string name="cancel">Avbryt</string>
+    <string name="check_upgrade_log">Kontrollera uppdateringsloggen</string>
+    <string name="click_to_install">Tryck för att installera</string>
+    <string name="continue_to_download">Fortsätt att hämta</string>
+    <string name="default_download_wifi">Hämta enbart via Wi-Fi</string>
+    <string name="default_download_wifi_auto">Hämta automatiskt över Wi-Fi</string>
+    <string name="dont_wipe_data">Rensa inte data</string>
+    <string name="download">Hämta</string>
+    <string name="download_cancel">Är du säker på att du vill du avbryta hämtningen?</string>
+    <string name="download_corrupted">Hämtningen kan inte verifieras, hämta igen.</string>
+    <string name="download_error">Det gick inte kommunicera med servern under hämtningen, återuppta hämtningen senare.</string>
+    <string name="download_error_notification_text">Försök att återuppta hämtningen senare.</string>
+    <string name="download_error_notification_title">Fel i systemuppdatering</string>
+    <string name="download_fail">Ett problem uppstod under hämtningen, hämta igen.</string>
+    <string name="download_fail_title">Hämtningen misslyckades</string>
+    <string name="download_io_error">Det saknas tillräckligt med lagring för att hämta uppdateringen. Frigör utrymme och återuppta hämtningen.</string>
+    <string name="download_is_not_wifi">"Hämtar över mobildata, extrakostnader kan tillkomma.
+Vill du fortsätta?"</string>
+    <string name="download_is_slow">"Din anslutning är för långsam och det kan ta flera minuter att hämta uppdateringen.
+Vill du fortsätta?"</string>
+    <string name="download_no_network">Nätverket har inte identifierats, försök igen senare.</string>
+    <string name="download_no_network_title">Nätverket har inte identifierats</string>
+    <string name="download_now">Hämta nu</string>
+    <string name="download_paused">"Hämtningen pausades eftersom inget nätverk är tillgängligt.
+Den kommer att fortsätta när det finns ett nätverk."</string>
+    <string name="download_paused_resume">"Wi-Fi-anslutningen försvann, hämtningen har pausats. 
+Försök att återuppta senare."</string>
+    <string name="download_paused_resume_by_manual">Är du säker på att du vill pausa hämtningen? Du kan återuppta senare.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s kvar</string>
+    <string name="download_retry">Hämta igen</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Hämtningen har pausats</string>
+    <string name="downloaded_notification_error_text">Försök att återuppta hämtningen senare.</string>
+    <string name="downloaded_notification_error_title">Det gick inte att hämta.</string>
+    <string name="downloaded_notification_fail_text">Ett problem uppstod under hämtningen, försök igen senare.</string>
+    <string name="downloaded_notification_fail_title">Det gick inte att hämta.</string>
+    <string name="downloaded_notification_io_error_text">Frigör utrymme och fortsätt.</string>
+    <string name="downloaded_notification_io_error_title">Det finns inte tillräckligt med utrymme.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Hämtningen är pausad.</string>
+    <string name="downloaded_notification_pause_text">Hämtningen pausades eftersom inget närverk finns tillgängligt.</string>
+    <string name="downloaded_notification_pause_title">Hämtningen har pausats.</string>
+    <string name="downloaded_notification_title">Systemuppdateringen har hämtats</string>
+    <string name="downloading">Hämtar %1$s av %2$s</string>
+    <string name="downloading_notification_title">Hämtar systemuppdatering</string>
+    <string name="exists_new_version_title">Ny systemversion har identifierats</string>
+    <string name="has_new_version_notification">En ny version upptäcktes, gå till H2OS OTA-uppdatering</string>
+    <string name="install">Installera</string>
+    <string name="install_copy_fail">Ett problem uppstod under installationen av uppdateringen. Försök igen senare.</string>
+    <string name="last_check_update">Senast kontrollerad: %1$s</string>
+    <string name="need_more_space">Otillräckligt lagringsutrymme för att uppgradera, du behöver %s av lagringsutrymmet. Rensa utrymmet och försök igen.</string>
+    <string name="network_tip">Aktuellt nätverk är 2G/3G/4G. Om du fortsätter att hämta kan extra kostnader tillkomma från operatören.</string>
+    <string name="network_wrarning_checkbox">Visa inte påminnelse igen</string>
+    <string name="network_wrarning_text">Den här applikationen producerar datatrafik. Utförande rekommenderas när du använder Wi-Fi</string>
+    <string name="network_wrarning_title">Påminnelse</string>
+    <string name="no_enough_space">Otillräckligt med lagringsutrymme. Frigör utrymme och försök igen.</string>
+    <string name="no_local_update_packges_title">Flytta installationspaketet till rotkatalogen</string>
+    <string name="no_upgrade_log">Ingen uppdateringslogg finns tillgänglig</string>
+    <string name="notification_download_fail">Hämtning av uppgraderingspaketet misslyckades. Försök att hämta igen</string>
+    <string name="notification_download_success">Hämtningen är slutförd, klicka på uppdatera</string>
+    <string name="notification_downloading">Hämtar</string>
+    <string name="notification_into_update_content">Tryck för att uppgradera nu</string>
+    <string name="notification_into_update_title">Systemets uppdateringspaket har hämtats</string>
+    <string name="oneplus_read_contacts">Åtkomst till nätverk</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Kom ihåg mina val</string>
+    <string name="oneplus_rights_dialog_discription">Du behöver följande behörigheter för att använda systemuppdateringen</string>
+    <string name="oneplus_rights_dialog_title">Behörighet till applikation</string>
+    <string name="ota_check_update">Leta efter uppdatering</string>
+    <string name="ota_never_check_update">Du har aldrig letat efter en uppdatering.</string>
+    <string name="ota_new_update">Ny version finns tillgänglig</string>
+    <string name="ota_new_update_downloading">"Ny version finns tillgänglig
+Hämtar…"</string>
+    <string name="ota_new_update_name">%1$s systemuppdatering</string>
+    <string name="ota_new_update_name_downloading">"%1$s systemuppdatering
+Hämtar…"</string>
+    <string name="ota_new_update_name_paused">"%1$s systemuppdatering
+Hämtningen har pausats…"</string>
+    <string name="ota_new_update_name_ready">"%1$s systemuppdatering
+Redo att installeras"</string>
+    <string name="ota_new_update_paused">Hämtningen har pausats…</string>
+    <string name="ota_new_update_ready">"Ny version finns tillgänglig
+Redo att installeras"</string>
+    <string name="ota_no_update">Ditt system är uppdaterat</string>
+    <string name="ota_oem_unlock_detected_alert">OEM-upplåsning har upptäckts. Systemet kommer att börja ladda ned det fullt uppgraderade paketet. För att säkerställa din dataintegritet bör du göra en säkerhetskopiering.</string>
+    <string name="ota_root_detected_alert">Rot har upptäckts. Systemet kommer att börja ladda ned det fullt uppgraderade paketet. Gör en säkerhetskopiering för att skydda dina data. Din enhet kommer att rotas av när uppgraderingen har slutförts.</string>
+    <string name="pause_downloading">Pausa hämtning</string>
+    <string name="play_under_mobile_data">Spela</string>
+    <string name="play_under_mobile_data_tips">För tillfället i mobilt nätverk. Fortsätta spela?</string>
+    <string name="preparing_download">Förbereder hämtning…</string>
+    <string name="preparing_install">Förbereder installationen…</string>
+    <string name="ready_to_install">Systemuppdateringen är redo. Klicka på installera nedan för att starta om din telefon och installera uppdateringen.</string>
+    <string name="ready_to_upgrade">Verifierar uppdateringspaket...</string>
+    <string name="reject">Tillåt inte</string>
+    <string name="remind_later">Påminn mig senare</string>
+    <string name="resume">Återuppta</string>
+    <string name="rooted_warning">"En enhet med rot har upptäckts, uppdatering kan misslyckas.
+Vill du uppdatera?"</string>
+    <string name="search_menu_title">Sök</string>
+    <string name="searching">Söker...</string>
+    <string name="setting">Inställningar</string>
+    <string name="share">Dela</string>
+    <string name="show_new_version_info">Kontrollera det uppdaterade innehållet</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Versionen av valt paket är lägre än det nuvarande systemet. För att undvika att uppstart misslyckas, är nedgradering inte tillåtet.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">JAG FÖRSTÅR</string>
+    <string name="str_ab_upgrade_warning_wipe">"Paketet du valde kommer att återställa enheten till fabriksinställningarna efter installationen.
+Är du säker på att du vill installera det?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Systemuppdateringen påverkar inte dina data.
+Men för att säkerställa din dataintegritet bör du göra en säkerhetskopiering."</string>
+    <string name="str_abupdate_continue_download">Fortsätt att ladda ned &amp; installera</string>
+    <string name="str_abupdate_install_completed">Installation av systemuppdatering är klar. Starta om för att slutföra uppdateringen.</string>
+    <string name="str_abupdate_install_failed">Det gick inte att installera systemuppdateringen</string>
+    <string name="str_abupdate_install_update">INSTALLERA NU</string>
+    <string name="str_abupdate_installing">Installerar systemuppdatering</string>
+    <string name="str_abupdate_local_package_log">Den här versionen har ingen ändringslogg</string>
+    <string name="str_abupdate_reboot">STARTA OM</string>
+    <string name="str_abupdate_retry_failed">Det gick inte att installera systemuppdateringen. Letar efter det fullt uppgraderade paketet.</string>
+    <string name="str_abupdate_start_download">Ladda ned &amp; installera nu</string>
+    <string name="str_abupdate_try_again">FÖRSÖK IGEN</string>
+    <string name="str_alert_local_downgrade">"Paketet du har valt är äldre än den nuvarande versionen. Detta kan leda till att det inte går att starta på grund av problem med datakompatibilitet.
+Vill du verkligen installera den gamla versionen?"</string>
+    <string name="str_alert_local_downgrade_confirm">Bekräfta</string>
+    <string name="str_beta_to_mp_not_allow">"Paketet du valt är lägre än nuvarande systemets version. För att undvika fel vid start, tillåts inte degradering.
+Om du vill degradera ska du starta om till återställningsläget för att installera paketet."</string>
+    <string name="str_disabled_local_upgrade_summary">Det gick inte att uppgradera lokalt eftersom du laddar ned eller installerar en systemuppdatering.</string>
+    <string name="str_download_retry">Ladda ned &amp; installera igen</string>
+    <string name="str_mp_downgrade_not_allow">"Paketet du har valt är tidigare än det nuvarande systemets version. För att undvika fel vid start tillåts inte degradering.
+Om du vill degradera ska du säkerhetskopiera dina data innan du startar om till återställningsläget för att installera paketet."</string>
+    <string name="str_pause_download_new">Pausa</string>
+    <string name="str_time_incorrect_check_failed">Söka efter uppdateringar misslyckades eftersom enhetens datum och tid är felaktiga</string>
+    <string name="str_time_incorrect_download_failed">Nedladdning misslyckades eftersom enhetens datum och tid är felaktiga</string>
+    <string name="system_battery_low">Låg batterinivå (20 %). Ladda om</string>
+    <string name="system_battery_low_title">Låg batterinivå</string>
+    <string name="system_can_fix_to_new_version">Systemet kan uppdateras till den senaste versionen</string>
+    <string name="system_can_update_to_new_version">Uppdatera nu</string>
+    <string name="system_download_complete">System %s-hämtning slutförd</string>
+    <string name="system_download_fail">Hämtningen misslyckades. Kontrollera nätverket och försök igen</string>
+    <string name="system_downloading">System %s-hämtning</string>
+    <string name="system_fix_download">Hämta fixpaket nu</string>
+    <string name="system_fix_now">Starta om för att fixa nu</string>
+    <string name="system_repair_mode">Reparationsläge</string>
+    <string name="system_update_checking">Söker efter uppdateringar ...</string>
+    <string name="system_update_download_finish">Hämtningen har slutförts</string>
+    <string name="system_update_download_finish_tip">Klicka för att uppgradera. Systemet kommer att starta om automatiskt</string>
+    <string name="system_update_downloading_tip">Hämtar data för ny version:</string>
+    <string name="system_update_error">Nätverket är inte anslutet</string>
+    <string name="system_update_fail">Uppgraderingen misslyckades. Försök igen</string>
+    <string name="system_update_messages">Påminnelse om system %s-uppdatering</string>
+    <string name="system_update_messages_download">System %s-uppdatering, klicka på hämta uppdatering</string>
+    <string name="system_update_messages_failed_text">Det gick inte att uppdatera. Tryck på reparationsläge och försök igen</string>
+    <string name="system_update_messages_failed_title">Det gick inte att uppdatera systemet</string>
+    <string name="system_update_messages_success_text">Systemet har uppdaterats till %s</string>
+    <string name="system_update_messages_success_title">Systemet har uppdaterats</string>
+    <string name="system_update_no_network">Ställ först in nätverket</string>
+    <string name="system_update_notification">Meddelande om systemuppdatering</string>
+    <string name="system_update_now">Starta om för uppgradera nu</string>
+    <string name="system_update_remain_time">Återstående tid:</string>
+    <string name="system_update_success">Uppgradering slutförd</string>
+    <string name="system_updating">Uppgraderar</string>
+    <string name="system_updating_tip">Du kommer inte förlora data efter uppgradering</string>
+    <string name="update_check_title">Leta efter uppdateringar</string>
+    <string name="update_checking">Letar efter uppdateringar, vänta…</string>
+    <string name="update_from_local">Lokal uppgradering</string>
+    <string name="update_log">Uppdateringslogg</string>
+    <string name="update_package_size">Uppdatera storlek:</string>
+    <string name="upgrade_log">Uppdateringslogg</string>
+    <string name="upgrade_package_not_exist">Uppgraderingspaketet finns inte. Hämta igen.</string>
+    <string name="verify_fail">Det gick inte att verifiera signaturen</string>
+    <string name="verifying">Verifierar filen, vänta…</string>
+    <string name="wipe_data">Rensa data</string>
+    <string name="wipe_data_text">"Det rekommenderas att du rensar data (installerade appar, SMS och annan data) när du installerar den här uppdateringen.
+Vill du rensa den?"</string>
+    <string name="wipe_data_title">Varning</string>
+</resources>

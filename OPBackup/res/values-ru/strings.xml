@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about_to_restart">Вы собираетесь перезагрузить устройство для установки обновления. Пожалуйста, не выключайте устройство в процессе обновления.</string>
+    <string name="access">Разрешить</string>
+    <string name="alert_text_backup_data">"Обновление системы не повлияет на ваши данные. 
+Однако в целях безопасности рекомендуется сделать резервную копию данных. Затем перезагрузите телефон для установки обновления."</string>
+    <string name="app_name">Обновление системы</string>
+    <string name="attention">Советы</string>
+    <string name="battery_low_prompt">Для установки обновления заряд батареи устройства должен быть более 20%. Пожалуйста, сначала зарядите устройство.</string>
+    <string name="battery_very_low_prompt">Слишком низкий уровень заряда батареи. Пожалуйста, зарядите свой телефон до 5%, прежде чем продолжать установку обновления. Не отключайте телефон от электросети.</string>
+    <string name="btn_text_upgrade_now">Обновить сейчас</string>
+    <string name="cancel">Отмена</string>
+    <string name="check_upgrade_log">Проверить журнал обновлений</string>
+    <string name="click_to_install">Нажмите, чтобы установить</string>
+    <string name="continue_to_download">Продолжить загрузку</string>
+    <string name="default_download_wifi">Загрузка только через Wi-Fi</string>
+    <string name="default_download_wifi_auto">Автоматическая загрузка через Wi-Fi</string>
+    <string name="dont_wipe_data">Не очищать данные</string>
+    <string name="download">Скачать</string>
+    <string name="download_cancel">Вы уверены, что хотите отменить загрузку?</string>
+    <string name="download_corrupted">Не удалось проверить загрузку. Пожалуйста, скачайте снова.</string>
+    <string name="download_error">Во время загрузки возникли проблемы при обмене информацией с сервером. Пожалуйста, возобновите операцию позже.</string>
+    <string name="download_error_notification_text">Попробуйте возобновить загрузку позже.</string>
+    <string name="download_error_notification_title">Ошибка обновления системы</string>
+    <string name="download_fail">Во время загрузки возникла проблема. Пожалуйста, скачайте снова.</string>
+    <string name="download_fail_title">Ошибка загрузки</string>
+    <string name="download_io_error">Недостаточно места для загрузки обновления. Освободите место и возобновите загрузку.</string>
+    <string name="download_is_not_wifi">"За загрузку через мобильную сеть может взиматься дополнительная плата.
+ Продолжить?"</string>
+    <string name="download_is_slow">"Ваше соединение слишком медленное, и загрузка обновления может занять несколько минут.
+Продолжить?"</string>
+    <string name="download_no_network">Сеть не обнаружена, повторите попытку позже.</string>
+    <string name="download_no_network_title">Сеть не обнаружена</string>
+    <string name="download_now">Скачать сейчас</string>
+    <string name="download_paused">"Загрузка была приостановлена ввиду отсутствия сети.
+Загрузка возобновится при обнаружении сети."</string>
+    <string name="download_paused_resume">"Потеряно соединение Wi-Fi, загрузка приостановлена. 
+Попробуйте возобновить загрузку позже."</string>
+    <string name="download_paused_resume_by_manual">Вы уверены, что хотите приостановить загрузку? Вы сможете возобновить загрузку позже.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Осталось %s</string>
+    <string name="download_retry">Загрузить снова</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Загрузка приостановлена</string>
+    <string name="downloaded_notification_error_text">Попробуйте возобновить загрузку позже.</string>
+    <string name="downloaded_notification_error_title">Ошибка при загрузке.</string>
+    <string name="downloaded_notification_fail_text">Во время загрузки возникла проблема. Пожалуйста, попробуйте еще раз позже.</string>
+    <string name="downloaded_notification_fail_title">Ошибка при загрузке.</string>
+    <string name="downloaded_notification_io_error_text">Освободите место и возобновите процесс.</string>
+    <string name="downloaded_notification_io_error_title">Недостаточно места.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Загрузка была приостановлена.</string>
+    <string name="downloaded_notification_pause_text">Загрузка была приостановлена ввиду отсутствия сети.</string>
+    <string name="downloaded_notification_pause_title">Загрузка приостановлена.</string>
+    <string name="downloaded_notification_title">Обновление системы загружено</string>
+    <string name="downloading">Загружено %1$s из %2$s</string>
+    <string name="downloading_notification_title">Идет загрузка обновления системы</string>
+    <string name="exists_new_version_title">Обнаружена новая версия системы</string>
+    <string name="has_new_version_notification">Обнаружена новая версия. Перейдите к обновлению H2OS по протоколу беспроводной связи</string>
+    <string name="install">Установить</string>
+    <string name="install_copy_fail">Возникла проблема с установкой обновления. Пожалуйста, повторите попытку позже.</string>
+    <string name="last_check_update">Последняя проверка: %1$s</string>
+    <string name="need_more_space">Для обновления недостаточно места в хранилище. Необходимо еще %s для хранения. Освободите место и попробуйте снова.</string>
+    <string name="network_tip">Текущая сеть 2G/3G/4G. Продолжение загрузки может повлечь за собой дополнительные сборы мобильного оператора.</string>
+    <string name="network_wrarning_checkbox">Больше не показывать напоминание</string>
+    <string name="network_wrarning_text">Это приложение потребляет данные. Рекомендуется пользоваться им, подключившись к Wi-Fi</string>
+    <string name="network_wrarning_title">Напоминание</string>
+    <string name="no_enough_space">Недостаточно места для хранения. Пожалуйста, освободите место и повторите попытку.</string>
+    <string name="no_local_update_packges_title">Переместить установочный пакет в корневой каталог</string>
+    <string name="no_upgrade_log">Нет журнала обновлений</string>
+    <string name="notification_download_fail">Не удалось загрузить пакет обновления. Пожалуйста, попробуйте загрузить его снова</string>
+    <string name="notification_download_success">Загрузка завершена, нажмите \"Обновить\"</string>
+    <string name="notification_downloading">Загрузка</string>
+    <string name="notification_into_update_content">Нажмите, чтобы обновить сейчас</string>
+    <string name="notification_into_update_title">Загрузка пакета обновления системы завершена</string>
+    <string name="oneplus_read_contacts">Доступ к сети</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Запомнить мой выбор</string>
+    <string name="oneplus_rights_dialog_discription">Для обновления системы вам необходимы следующие разрешения</string>
+    <string name="oneplus_rights_dialog_title">Применение разрешения</string>
+    <string name="ota_check_update">Проверить обновления</string>
+    <string name="ota_never_check_update">Вы никогда не проверяли наличие обновления.</string>
+    <string name="ota_new_update">Есть новая версия</string>
+    <string name="ota_new_update_downloading">"Есть новая версия
+Идет загрузка…"</string>
+    <string name="ota_new_update_name">Обновление системы: %1$s</string>
+    <string name="ota_new_update_name_downloading">"Обновление системы %1$s 
+Идет загрузка…"</string>
+    <string name="ota_new_update_name_paused">"Обновление системы %1$s
+Загрузка приостановлена…"</string>
+    <string name="ota_new_update_name_ready">"Обновление системы %1$s
+Готово для установки"</string>
+    <string name="ota_new_update_paused">Загрузка приостановлена…</string>
+    <string name="ota_new_update_ready">"Есть новая версия
+Готова для установки"</string>
+    <string name="ota_no_update">На сегодняшний день в Вашей системе установлены все обновления</string>
+    <string name="ota_oem_unlock_detected_alert">Обнаружена разблокировка OEM, система начнет загрузку полного пакета обновления. В целях безопасности сделайте резервную копию данных.</string>
+    <string name="ota_root_detected_alert">Включен режим администрирования, система начнет загрузку полного пакета обновлений. В целях безопасности рекомендуется сделать резервную копию данных. По окончании обновления устройство выйдет из режима администрирования.</string>
+    <string name="pause_downloading">Приостановить загрузку</string>
+    <string name="play_under_mobile_data">Играть</string>
+    <string name="play_under_mobile_data_tips">Есть подключение к сотовой сети, продолжить игру?</string>
+    <string name="preparing_download">Подготовка загрузки…</string>
+    <string name="preparing_install">Подготовка к установке…</string>
+    <string name="ready_to_install">Обновление системы готово. Нажмите на кнопку \"Установить\" ниже, чтобы перезагрузить свой телефон и установить обновление.</string>
+    <string name="ready_to_upgrade">Проверка пакета обновления...</string>
+    <string name="reject">Не разрешать</string>
+    <string name="remind_later">Напомнить позднее</string>
+    <string name="resume">Возобновить</string>
+    <string name="rooted_warning">"Обнаружено рутированное устройство. Возможны проблемы с установкой обновления.
+Вы хотите установить обновление?"</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="searching">Поиск...</string>
+    <string name="setting">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="show_new_version_info">Проверить обновленное содержимое</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Версия выбранного пакета ниже текущей версии системы. Снижение версии запрещено во избежание сбоев при загрузке.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ЯСНО</string>
+    <string name="str_ab_upgrade_warning_wipe">"После установки выбранного пакета настройки устройства будут сброшены к заводским значениям по умолчанию. 
+Установить?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Обновление системы не повлияет на ваши данные.
+Однако в целях безопасности рекомендуется сделать резервную копию данных."</string>
+    <string name="str_abupdate_continue_download">Продолжить загрузку и установку</string>
+    <string name="str_abupdate_install_completed">Установка обновления системы завершена. Перезагрузите устройство.</string>
+    <string name="str_abupdate_install_failed">Не удалось установить обновление системы</string>
+    <string name="str_abupdate_install_update">УСТАНОВИТЬ СЕЙЧАС</string>
+    <string name="str_abupdate_installing">Установка обновления системы</string>
+    <string name="str_abupdate_local_package_log">У этой версии нет журнала изменений</string>
+    <string name="str_abupdate_reboot">ПЕРЕЗАГРУЗКА</string>
+    <string name="str_abupdate_retry_failed">Не удалось установить обновление системы. Поиск полного пакета обновления.</string>
+    <string name="str_abupdate_start_download">Загрузить и установить</string>
+    <string name="str_abupdate_try_again">ПОВТОР</string>
+    <string name="str_alert_local_downgrade">"Версия выбранного пакета старше, чем текущая версия. После его установки устройство может не загрузиться из-за несовместимости данных.
+Вы действительно хотите установить старую версию?"</string>
+    <string name="str_alert_local_downgrade_confirm">Подтвердить</string>
+    <string name="str_beta_to_mp_not_allow">"Версия выбранного пакета ниже текущей версии системы. Снижение версии системы запрещено во избежание сбоя загрузки.
+Если вы хотите снизить версию, перезагрузитесь в Режим Восстановления для установки пакета."</string>
+    <string name="str_disabled_local_upgrade_summary">Локальное обновление невозможно, так как обновление системы уже загружается или устанавливается.</string>
+    <string name="str_download_retry">Загрузить и установить снова</string>
+    <string name="str_mp_downgrade_not_allow">"Версия выбранного пакета ниже текущей версии системы. Снижение версии системы запрещено во избежание сбоя загрузки.
+Если вы хотите снизить версию, сначала сделайте резервную копию данных, затем перезагрузитесь в Режим Восстановления для установки пакета."</string>
+    <string name="str_pause_download_new">Пауза</string>
+    <string name="str_time_incorrect_check_failed">Не удалось проверить наличие обновлений, т. к. на устройстве установлены неправильные дата и время</string>
+    <string name="str_time_incorrect_download_failed">Не удалось выполнить загрузку, т. к. на устройстве установлены неправильные дата и время</string>
+    <string name="system_battery_low">Низкий заряд батареи (20%). Пожалуйста, зарядите батарею</string>
+    <string name="system_battery_low_title">Низкий заряд батареи</string>
+    <string name="system_can_fix_to_new_version">Систему можно исправить до самой последней версии</string>
+    <string name="system_can_update_to_new_version">Обновить сейчас</string>
+    <string name="system_download_complete">Загрузка системы %s завершена</string>
+    <string name="system_download_fail">Ошибка загрузки. Проверьте сеть и повторите попытку</string>
+    <string name="system_downloading">Загрузка системы %s</string>
+    <string name="system_fix_download">Загрузить пакет исправлений</string>
+    <string name="system_fix_now">Перезагрузить сейчас, чтобы исправить</string>
+    <string name="system_repair_mode">Режим восстановления</string>
+    <string name="system_update_checking">Поиск обновлений...</string>
+    <string name="system_update_download_finish">Загрузка завершена</string>
+    <string name="system_update_download_finish_tip">Нажмите, чтобы обновить. Система перезагрузится автоматически</string>
+    <string name="system_update_downloading_tip">Загрузка данных для новой версии:</string>
+    <string name="system_update_error">Нет соединения с сетью</string>
+    <string name="system_update_fail">Обновить не удалось. Пожалуйста, попробуйте снова</string>
+    <string name="system_update_messages">Напоминание об обновлении системы %s</string>
+    <string name="system_update_messages_download">Обновление системы %s. Нажмите \"Загрузить обновление\"</string>
+    <string name="system_update_messages_failed_text">Ошибка обновления. Коснитесь, чтобы повторить попытку в режиме восстановления</string>
+    <string name="system_update_messages_failed_title">Сбой в обновлении системы</string>
+    <string name="system_update_messages_success_text">Система была успешно обновлена до версии %s</string>
+    <string name="system_update_messages_success_title">Система обновлена</string>
+    <string name="system_update_no_network">Сначала настройте сеть</string>
+    <string name="system_update_notification">Уведомление об обновлении системы</string>
+    <string name="system_update_now">Перезагрузить сейчас, чтобы обновить</string>
+    <string name="system_update_remain_time">Остается времени:</string>
+    <string name="system_update_success">Обновление завершено</string>
+    <string name="system_updating">Обновление</string>
+    <string name="system_updating_tip">После обновления данные не будут потеряны</string>
+    <string name="update_check_title">Проверить обновления</string>
+    <string name="update_checking">Проверка обновлений. Пожалуйста, подождите…</string>
+    <string name="update_from_local">Местное обновление</string>
+    <string name="update_log">Журнал обновлений</string>
+    <string name="update_package_size">Размер обновления:</string>
+    <string name="upgrade_log">Журнал обновлений</string>
+    <string name="upgrade_package_not_exist">Нет пакета обновления. Пожалуйста, загрузите его снова.</string>
+    <string name="verify_fail">Не удалось проверить подпись</string>
+    <string name="verifying">Проверка файла; пожалуйста, подождите…</string>
+    <string name="wipe_data">Очистить данные</string>
+    <string name="wipe_data_text">"Рекомендуется очистить Ваши данные (установленные приложения, SMS и другие данные) при установке этого обновления.
+Вы хотели бы их очистить?"</string>
+    <string name="wipe_data_title">Предупреждение</string>
+</resources>

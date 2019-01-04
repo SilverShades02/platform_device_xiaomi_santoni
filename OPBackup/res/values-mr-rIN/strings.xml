@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_to_restart">अद्यतन स्थापित करण्यासाठी तुम्ही तुमचे साधन रिस्टार्ट करणार आहात. कृपया या प्रक्रियेदरम्यान साधन बंद करू नका.</string>
+    <string name="access">परवानगी द्या</string>
+    <string name="alert_text_backup_data">"सिस्टिम अद्यतन आपल्या डेटावर परिणाम करणार नाही.
+तथापि, आपल्या डेटाच्या अखंडत्वाची खात्री करण्यासाठी, कृपया डेटाचा बॅकअप घ्या. कृपया आपला फोन रिस्टार्ट केल्याची पुष्टी करा आणि अद्यतन स्थापित करा."</string>
+    <string name="app_name">सिस्टिम अद्यतन</string>
+    <string name="attention">टिप्स</string>
+    <string name="battery_low_prompt">अद्यतनीत करण्यासाठी साधन 20% हून अधिक चार्ज असणे गरजेचे आहे. कृपया सुरू ठेवण्यासाठी चार्ज करा.</string>
+    <string name="battery_very_low_prompt">बॅटरी खूप खाली आहे, कृपया अद्यतनासह सुरू ठेवण्यापूर्वी तुमचा फोन 5% चार्ज करा. तुमचा फोन प्लगला जोडून ठेवा.</string>
+    <string name="btn_text_upgrade_now">आता अद्यतन करा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="check_upgrade_log">अद्यतनीत लॉग तपासा</string>
+    <string name="click_to_install">स्थापित करण्यासाठी क्लिक करा</string>
+    <string name="continue_to_download">डाऊनलोड करणे सुरू ठेवा</string>
+    <string name="default_download_wifi">केवळ वायफाय मार्फत डाऊनलोड</string>
+    <string name="default_download_wifi_auto">वायफाय वर आपोआप डाऊनलोड</string>
+    <string name="dont_wipe_data">डेटा साफ करू नका</string>
+    <string name="download">डाऊनलोड करा</string>
+    <string name="download_cancel">तुम्हाला खात्री आहे का की तुम्हाला डाऊनलोड रद्द करायचे आहे?</string>
+    <string name="download_corrupted">डाऊनलोडची पडताळणी करता येऊ शकत नाही, कृपया पुन्हा डाऊनलोड करा.</string>
+    <string name="download_error">डाऊनलोड दरम्यान सर्व्हरशी संपर्क साधण्यात समस्या आली, कृपया नंतर डाऊनलोड करण्यास पुन्हा आरंभ करा.</string>
+    <string name="download_error_notification_text">डाऊनलोड नंतर पुन्हा आरंभ करण्याचा प्रयत्न करा.</string>
+    <string name="download_error_notification_title">सिस्टिम अद्यतनीत करण्यात त्रुटी</string>
+    <string name="download_fail">डाऊनलोड करताना समस्या आली, कृपया पुन्हा डाऊनलोड करा.</string>
+    <string name="download_fail_title">डाऊनलोड अयशस्वी झाले</string>
+    <string name="download_io_error">अद्यतन डाऊनलोड करण्यासाठी साठवणी अपुरी आहे, कृपया जागा मोकळी करा आणि डाऊनलोड पुन्हा सुरू करा.</string>
+    <string name="download_is_not_wifi">"मोबाइल डेटावर डाऊनलोड करीत आहे, अतिरिक्त शुल्क लागू होऊ शकते.
+सुरू ठेवायचे का?"</string>
+    <string name="download_is_slow">"तुमची जोडणी खूप धीमी आहे आणि अद्यतन डाऊनलोड करण्यासाठी ती बराच वेळ घेऊ शकेल.
+सुरू ठेवायचे का?"</string>
+    <string name="download_no_network">नेटवर्क सापडले नाही, कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="download_no_network_title">नेटवर्क सापडले नाही</string>
+    <string name="download_now">आत्ता डाऊनलोड करा</string>
+    <string name="download_paused">"डाऊनलोडला विराम दिला आहे कारण नेटवर्क उपलब्ध नाही.
+नेटवर्क उपलब्ध झाल्यावर ते पुन्हा सुरू होईल."</string>
+    <string name="download_paused_resume">"वाय-फाय जोडणी गमावली, डाऊनलोडला विराम दिला. 
+कृपया नंतर पुन्हा सुरू करण्याचा प्रयत्न करा."</string>
+    <string name="download_paused_resume_by_manual">आपल्याला डाऊनलोडला विराम देऊ इच्छिता याची आपल्याला खात्री आहे का? आपण नंतर पुन्हा सुरू करू शकता.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s बाकी</string>
+    <string name="download_retry">पुन्हा डाऊनलोड करा</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">डाऊनलोडला विराम दिला</string>
+    <string name="downloaded_notification_error_text">डाऊनलोड नंतर पुन्हा करण्याचा प्रयत्न करा.</string>
+    <string name="downloaded_notification_error_title">डाऊनलोड करताना त्रुटी.</string>
+    <string name="downloaded_notification_fail_text">डाऊनलोड करताना समस्या आली, कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="downloaded_notification_fail_title">डाऊनलोड करताना त्रुटी आली.</string>
+    <string name="downloaded_notification_io_error_text">जागा मोकळी करा आणि पुढे सुरू करा.</string>
+    <string name="downloaded_notification_io_error_title">पुरेशी जागा नाही.</string>
+    <string name="downloaded_notification_pause_by_manual_text">डाऊनलोडला विराम दिला.</string>
+    <string name="downloaded_notification_pause_text">डाऊनलोडला विराम दिला कारण नेटवर्क उपलब्ध नाही.</string>
+    <string name="downloaded_notification_pause_title">डाऊनलोडला विराम दिला.</string>
+    <string name="downloaded_notification_title">सिस्टिमचे अद्यतन डाऊनलोड झाले</string>
+    <string name="downloading">%2$s पैकी %1$s डाऊनलोड करीत आहे</string>
+    <string name="downloading_notification_title">सिस्टिम अद्यतन डाऊनलोड करीत आहे</string>
+    <string name="exists_new_version_title">नवीन सिस्टिम आवृत्ती सापडली</string>
+    <string name="has_new_version_notification">नवीन आवृत्ती आढळली. H2OS OTA अद्यतनावर जा</string>
+    <string name="install">स्थापित करा</string>
+    <string name="install_copy_fail">अद्यतन स्थापित करीत असताना समस्या आली. कृपया नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="last_check_update">शेवटचे तपासले:%1$s</string>
+    <string name="need_more_space">अद्यतन करण्यासाठी साठवणी जागा अपुरी, पण %s साठवणी जागा देखील गरजेची आहे. कृपया काही जागा साफ करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="network_tip">सध्याचे नेटवर्क 2G/3G/4G आहे. डाऊनलोड सुरू ठेवण्यामुळे कॅरियर शुल्क खर्च लागू शकतो.</string>
+    <string name="network_wrarning_checkbox">पुन्हा स्मरणक दाखवू नका</string>
+    <string name="network_wrarning_text">हा अनुप्रयोग डेटा रहदारी निर्माण करते. वायफाय वापरताना कार्यान्वित करण्याचे सुचविलेले आहे</string>
+    <string name="network_wrarning_title">स्मरणक</string>
+    <string name="no_enough_space">साठवणीची अपुरी जागा. कृपया जागा मोकळी करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="no_local_update_packges_title">इंस्टॉलेशन पॅकेज मूळ डिरेक्टरीमध्ये हलवा</string>
+    <string name="no_upgrade_log">अद्यतन लॉग उपलब्ध नाही</string>
+    <string name="notification_download_fail">अद्यतन पॅकेजचे डाऊनलोड अयशस्वी झाले, कृपया डाऊनलोड करण्याचा पुन्हा प्रयत्न करा</string>
+    <string name="notification_download_success">डाऊनलोड पूर्ण झाले, अद्यतन क्लिक करा</string>
+    <string name="notification_downloading">डाऊनलोड करीत आहे</string>
+    <string name="notification_into_update_content">आता अद्यतन करण्यासाठी टॅप करा</string>
+    <string name="notification_into_update_title">प्रणाली अद्यतन पॅकेज डाऊनलोड पूर्ण</string>
+    <string name="oneplus_read_contacts">नेटवर्कमध्ये प्रवेश करा</string>
+    <string name="oneplus_rights_dialog_checkbox_text">माझ्या निवडी लक्षात ठेवा</string>
+    <string name="oneplus_rights_dialog_discription">प्रणाली अद्यतन वापरण्यासाठी आपल्याला खालील परवानग्या गरजेच्या आहेत</string>
+    <string name="oneplus_rights_dialog_title">परवानगीचा अर्ज</string>
+    <string name="ota_check_update">अद्यतनासाठी तपासा</string>
+    <string name="ota_never_check_update">तुम्ही अद्यतनासाठी कधीही तपासलेले नाही.</string>
+    <string name="ota_new_update">नवीन आवृत्ती उपलब्ध</string>
+    <string name="ota_new_update_downloading">"नवीन आवृत्ती उपलब्ध
+डाऊनलोड करीत आहे…"</string>
+    <string name="ota_new_update_name">%1$s सिस्टिम अद्यतन</string>
+    <string name="ota_new_update_name_downloading">"%1$sसिस्टिम अद्यतन
+डाऊनलोड करीत आहे…"</string>
+    <string name="ota_new_update_name_paused">"%1$sसिस्टिम अद्यतन
+डाऊनलोडला विराम दिला…"</string>
+    <string name="ota_new_update_name_ready">"%1$sसिस्टिम अद्यतन
+स्थापित करण्यासाठी तयार"</string>
+    <string name="ota_new_update_paused">डाऊनलोडला विराम दिला…</string>
+    <string name="ota_new_update_ready">"नवीन आवृत्ती उपलब्ध
+स्थापित करण्यासाठी तयार"</string>
+    <string name="ota_no_update">तुमची सिस्टिम अद्ययावत आहे</string>
+    <string name="ota_oem_unlock_detected_alert">OEM अनलॉक आढळले आहे, सिस्टीम पूर्ण अपग्रेड पॅकेज डाउनलोड करण्यास सुरवात करेल. आपल्या डेटाच्या अखंडत्वाची खात्री करण्यासाठी कृपया बॅकअप घ्या.</string>
+    <string name="ota_root_detected_alert">मूळ सापडले आहे, सिस्टिम संपूर्ण अद्यतन पॅकेज डाऊनलोड करणे सुरू करेल. आपल्या डेटाच्या अखंडत्वाची खात्री करण्यासाठी, कृपया डेटाचा बॅकअप घ्या. एकदा अद्यतन पूर्ण झाले की आपले साधन अन-रूट केले जाईल.</string>
+    <string name="pause_downloading">डाऊनलोडला विराम द्या</string>
+    <string name="play_under_mobile_data">प्ले करा</string>
+    <string name="play_under_mobile_data_tips">सध्या सेल्युलर नेटवर्कमध्ये आहे, प्ले करणे सुरू ठेवायचे का?</string>
+    <string name="preparing_download">डाऊनलोडची तयारी करीत आहे…</string>
+    <string name="preparing_install">स्थापित करण्याची तयारी करीत आहे…</string>
+    <string name="ready_to_install">सिस्टिम अद्यतन तयार आहे. आपला फोन पुन्हा सुरू करण्यासाठी आणि अद्यतन स्थापित करण्यासाठी खाली स्थापित करा वर क्लिक करा.</string>
+    <string name="ready_to_upgrade">अद्यतन पॅकेजची पडताळणी करीत आहे...</string>
+    <string name="reject">परवानगी देऊ नका</string>
+    <string name="remind_later">मला नंतर आठवण करून द्या</string>
+    <string name="resume">पुन्हा आरंभ करा</string>
+    <string name="rooted_warning">"रुटेड साधन सापडले, अद्यतन अपयशी होऊ शकते.
+तुम्हाला अद्यतनीत करायचे आहे का?"</string>
+    <string name="searching">शोधत आहे...</string>
+    <string name="setting">सेटिंग्स</string>
+    <string name="share">शेअर</string>
+    <string name="show_new_version_info">अद्यतनीत सामग्री तपासा</string>
+    <string name="str_ab_downgrade_not_allow">आपण निवडलेल्या पॅकेजची आवृत्ती सध्याच्या प्रणालीच्या आधीची आहे. बुटिंग अप फेलर टाळण्यासाठी डाउनग्रेड करण्याची परवानगी नाही.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">समजले</string>
+    <string name="str_ab_upgrade_warning_wipe">"आपण निवडलेले पॅकेज इंस्टॉलेशन नंतर आपल्या डिव्हाईसला फॅक्ट्री डिफॉल्टवर रिसेट करेल.
+इंस्टॉल करण्याविषयी आपली खात्री आहे का?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"हे सिस्टिम अद्यतन आपल्या डेटावर परिणाम करणार नाही.
+तथापि, आपल्या डेटाच्या अखंडत्वाची खात्री करण्यासाठी कृपया बॅकअप घ्या."</string>
+    <string name="str_abupdate_continue_download">चालू ठेवा डाउनलोड करणे &amp; स्थापित करा</string>
+    <string name="str_abupdate_install_completed">सिस्टिम अद्यतन स्थापित करणे पूर्ण झाले आहे. कृपया अद्यतन पूर्ण करण्यासाठी रीबूट करा.</string>
+    <string name="str_abupdate_install_failed">सिस्टिम अद्यतन स्थापित करणे अयशस्वी झाले</string>
+    <string name="str_abupdate_install_update">आता स्थापित करा</string>
+    <string name="str_abupdate_installing">सिस्टिम अद्यतन स्थापित होत आहे</string>
+    <string name="str_abupdate_local_package_log">या आवृत्तीला अद्यतनीत लॉग नाही</string>
+    <string name="str_abupdate_reboot">रीबूट</string>
+    <string name="str_abupdate_retry_failed">सिस्टिम अद्यतन स्थापित करणे अयशस्वी झाले. संपूर्ण अद्यतन पॅकेजसाठी तपासत आहे.</string>
+    <string name="str_abupdate_start_download">डाऊनलोड करा &amp; आता स्थापित करा</string>
+    <string name="str_abupdate_try_again">पुन्हा प्रयत्न करा</string>
+    <string name="str_alert_local_downgrade">"आपण निवडलेले पॅकेज चालू आवृत्तीहून कमी आहे. यामुळे डेटाच्या सुसंगततेच्या समस्यांमुळे होणार्‍या बूट होण्यास अयशस्वी होईल.
+आपल्याला जुनी आवृत्ती स्थापित करायची आहे याची आपलयाला खात्री आहे का?"</string>
+    <string name="str_alert_local_downgrade_confirm">पुष्टी करा</string>
+    <string name="str_beta_to_mp_not_allow">"आपण निवडलेले पॅकेज वर्तमान प्रणालीच्या आवृत्तीपेक्षा कमी आहे. बुट अप अपयश टाळण्यासाठी, डिग्रेेडेशनची परवानगी नाही.
+जर आपल्याला डिग्रेड करायचे असेल तर कृपया पॅकेज इंस्टॉल करण्यासाठी रिकव्हरी मोडमध्ये रिबूट करा."</string>
+    <string name="str_disabled_local_upgrade_summary">स्थानिक अद्यतन अक्षम झाले कारण आपण सिस्टिम अद्यतन डाऊनलोड किंवा स्थापित करत आहात.</string>
+    <string name="str_download_retry">डाऊनलोड करा &amp; पुन्हा स्थापित करा</string>
+    <string name="str_mp_downgrade_not_allow">"आपण निवडलेले पॅकेज वर्तमान प्रणालीच्या आवृत्तीपेक्षा कमी आहे. बुट अप अपयश टाळण्यासाठी, डिग्रेेडेशनची परवानगी नाही.
+जर आपल्याला डिग्रेड करायचे असेल तर कृपया आधी आपल्या डेटाचे बॅकअप घ्या, त्यानंतर पॅकेज इंस्टॉल करण्यासाठी आपण रिकव्हरी मोडमध्ये रिबूट करू शकता."</string>
+    <string name="str_pause_download_new">विराम द्या</string>
+    <string name="str_time_incorrect_check_failed">अपडेट तपासणे अयशस्वी झाले कारण की आपल्या डिव्हाइसचा दिनांक आणि वेळ चुकीची आहे</string>
+    <string name="str_time_incorrect_download_failed">डाउनलोड अयशस्वी झाले कारण की आपल्या डिव्हाइसचा दिनांक आणि वेळ चुकीची आहे</string>
+    <string name="system_battery_low">बॅटरी कमी (20%). कृपया रीचार्ज करा</string>
+    <string name="system_battery_low_title">बॅटरी कमी</string>
+    <string name="system_can_fix_to_new_version">प्रणालीचे नवीनतम आवृत्तीत निराकरण करता येऊ शकते</string>
+    <string name="system_can_update_to_new_version">आता अद्यतन करा</string>
+    <string name="system_download_complete">प्रणाली %s डाऊनलोड पूर्ण</string>
+    <string name="system_download_fail">डाऊनलोड अयशस्वी झाले. कृपया नेटवर्क तपासा आणि पुन्हा प्रयत्न करा</string>
+    <string name="system_downloading">प्रणाली %s डाऊनलोड</string>
+    <string name="system_fix_download">निराकरण पॅक आता डाऊनलोड करा</string>
+    <string name="system_fix_now">आता निराकरण करण्यासाठी रीबूट करा</string>
+    <string name="system_repair_mode">दुरूस्ती मोड</string>
+    <string name="system_update_checking">अद्यतनांसाठी तपासत आहे...</string>
+    <string name="system_update_download_finish">डाऊनलोड पूर्ण झाले</string>
+    <string name="system_update_download_finish_tip">अद्यतन करण्यासाठी क्लिक करा. प्रणाली आपोआप पुन्हा सुरू होईल</string>
+    <string name="system_update_downloading_tip">नवीन आवृत्तीसाठी डेटा डाऊनलोड करीत आहे:</string>
+    <string name="system_update_error">नेटवर्क सापडले नाही</string>
+    <string name="system_update_fail">अद्यतन अयशस्वी झाले. कृपया पुन्हा प्रयत्न करा</string>
+    <string name="system_update_messages">प्रणाली %s अद्यतन स्मरणक</string>
+    <string name="system_update_messages_download">प्रणाली %s अद्यतन, अद्यतन डाऊनलोड करण्यासाठी क्लिक करा</string>
+    <string name="system_update_messages_failed_text">अद्यतन अयशवी झाले, पुन्हा प्रयत्न करुन दुरूस्ती मोड प्रविष्ट करण्यासाठी टॅप करा</string>
+    <string name="system_update_messages_failed_title">सिस्टिमचे अद्यतन अयशस्वी झाले</string>
+    <string name="system_update_messages_success_text">प्रणाली %s वर यशस्वीरित्या अद्यतनीत झाली</string>
+    <string name="system_update_messages_success_title">प्रणाली अद्यतनीत झाली</string>
+    <string name="system_update_no_network">कृपया प्रथम नेटवर्क सेट अप करा</string>
+    <string name="system_update_notification">प्रणाली अद्यतन सूचना</string>
+    <string name="system_update_now">आता अद्यतन करण्यासाठी रीबूट करा</string>
+    <string name="system_update_remain_time">शिल्लक वेळ:</string>
+    <string name="system_update_success">अद्यतन पूर्ण</string>
+    <string name="system_updating">अद्यतन करीत आहे</string>
+    <string name="system_updating_tip">अद्यतनंतर डेटा गमावला जाणार नाही</string>
+    <string name="update_check_title">अद्यतनासाठी तपासा</string>
+    <string name="update_checking">अद्यतनांसाठी तपासत आहे, कृपया थांबा…</string>
+    <string name="update_from_local">स्थानिक अद्यतन</string>
+    <string name="update_log">लॉग अद्यतनीत करा</string>
+    <string name="update_package_size">आकार अद्यतनीत करा:</string>
+    <string name="upgrade_log">लॉग अद्यतनीत करा</string>
+    <string name="upgrade_package_not_exist">अद्यतन पॅकेज अस्तित्वात नाही, कृपया पुन्हा डाऊनलोड करा.</string>
+    <string name="verify_fail">सही पडताळणी अयशस्वी झाली</string>
+    <string name="verifying">फाइलची पडताळणी करीत आहे, कृपया थांबा…</string>
+    <string name="wipe_data">डेटा साफ करा</string>
+    <string name="wipe_data_text">"हे अद्यतन स्थापित करताना तुमचा डेटा (स्थापित केलेली अॅप्स, एसएमएस आणि इतर डेटा) साफ करण्याचे सुचविले आहे.
+तुम्हाला ते साफ करायचे आहे का?"</string>
+    <string name="wipe_data_title">इशारा</string>
+</resources>

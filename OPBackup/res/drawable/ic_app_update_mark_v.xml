@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="-837.0" android:translateY="-128.0">
+        <group android:translateX="837.0" android:translateY="128.0">
+            <path android:fillColor="@color/oneplus_contorl_icon_color_accent_active_default" android:pathData="M18,15 L14,11 C14,10.448 14.448,10 15,10 L57,10 C57.552,10 58,10.448 58,11 L54,15 L18,15 Z M16,22.999 L12,17.999 C12,17.447 12.448,16.999 13,16.999 L59,16.999 C59.552,16.999 60,17.447 60,17.999 L56,22.999 L16,22.999 Z M13,31 L9,26 C9,25.448 9.448,25 10,25 L62,25 C62.552,25 63,25.448 63,26 L59,31 L13,31 Z M62.261,59.654 C62.06,60.888 61.754,62.42 60.351,63 L41,63 L40,63 L37,63 L35,63 L32,63 L31,63 L11.649,63 C10.246,62.42 9.94,60.888 9.74,59.654 L7,35 C7,34.448 7.448,34 8,34 L31,34 L32,34 L35,34 L37,34 L40,34 L41,34 L64,34 C64.552,34 65,34.448 65,35 L62.261,59.654 Z M34,38.9999 L34,49.1586302 L28,49.1586302 L36,57.2856143 L44,49.1586302 L38.002,49.1586302 L38.002,38.9999 L34,38.9999 Z" android:strokeWidth="1.0" android:fillAlpha="0.54" />
+            <path android:fillColor="#ffd43535" android:pathData="M 59 4 C 63.9705627485 4 68 8.02943725152 68 13 C 68 17.9705627485 63.9705627485 22 59 22 C 54.0294372515 22 50 17.9705627485 50 13 C 50 8.02943725152 54.0294372515 4 59 4 Z" android:strokeWidth="1.0" />
+        </group>
+    </group>
+</vector>

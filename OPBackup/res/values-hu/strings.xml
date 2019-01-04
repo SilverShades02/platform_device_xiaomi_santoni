@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="about_to_restart">Újra kívánja indítani a készüléket a frissítés telepítéséhez. Ne kapcsolja ki a készüléket a folyamat során.</string>
+    <string name="access">Megengedi</string>
+    <string name="alert_text_backup_data">"A rendszer frissítése nincs hatással az Ön adatszolgáltatására. 
+Azonban adatai biztonsága érdekében készítsen biztonsági mentést. Indítsa újra a telefont, és telepítse a frissítést."</string>
+    <string name="app_name">Rendszerfrissítés</string>
+    <string name="attention">Tippek</string>
+    <string name="battery_low_prompt">A frissítéshez az eszköz töltöttségének 20% felett kell lennie. Töltse fel a folytatáshoz.</string>
+    <string name="battery_very_low_prompt">Az akkumulátor lemerülőben van, töltse fel telefonját 5%-ra, mielőtt folytatná a frissítést.</string>
+    <string name="btn_text_upgrade_now">Frissítés most</string>
+    <string name="cancel">Mégse</string>
+    <string name="check_upgrade_log">Frissítési napló ellenőrzése</string>
+    <string name="click_to_install">Kattintson a telepítéshez</string>
+    <string name="continue_to_download">Letöltés folytatása</string>
+    <string name="default_download_wifi">Letöltés csak Wi-Fi-n keresztül</string>
+    <string name="default_download_wifi_auto">Automatikus letöltés Wi-Fi-n keresztül</string>
+    <string name="dont_wipe_data">Ne törölje az adatokat</string>
+    <string name="download">Letöltés</string>
+    <string name="download_cancel">Biztosan meg kívánja szakítani a letöltést?</string>
+    <string name="download_corrupted">A letöltést nem sikerült ellenőrizni, kérjük, töltse le újra.</string>
+    <string name="download_error">A letöltés során a kommunikációs hiba történt a kiszolgálóval, kérjük, folytassa a letöltést később.</string>
+    <string name="download_error_notification_text">Próbálja meg később folytatni a letöltést.</string>
+    <string name="download_error_notification_title">Hiba a rendszer frissítése során</string>
+    <string name="download_fail">A letöltés során probléma merült fel, kérjük, töltse le újra.</string>
+    <string name="download_fail_title">A letöltés meghiúsult</string>
+    <string name="download_io_error">Nincs elegendő tárhely a frissítés letöltéséhez, kérjük szabadítson fel helyet, és folytassa a letöltést.</string>
+    <string name="download_is_not_wifi">"Letöltés mobil adathálózaton keresztül, további költségek merülhetnek fel.
+Folytatja?"</string>
+    <string name="download_is_slow">"A kapcsolat túl lassú, lehet, hogy a frissítés letöltése hosszabb időt vehet igénybe.
+Folytatja?"</string>
+    <string name="download_no_network">Nincs észlelve hálózat, kérjük, próbálkozzon később.</string>
+    <string name="download_no_network_title">Nincs észlelve hálózat</string>
+    <string name="download_now">Letöltés most</string>
+    <string name="download_paused">"A letöltés felfüggesztve, mert nincs elérhető hálózat.
+Ha felújul a hálózat, folytatódik."</string>
+    <string name="download_paused_resume">"A Wi-Fi kapcsolat megszakadt, letöltés szüneteltetve. 
+Kérjük próbálja folytatni később."</string>
+    <string name="download_paused_resume_by_manual">Biztosan szüneteltetni kívánja a letöltést? Később folytathatja.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Hátravan %s</string>
+    <string name="download_retry">Töltse le újra</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Letöltés szünetel</string>
+    <string name="downloaded_notification_error_text">Próbálja meg később folytatni a letöltést.</string>
+    <string name="downloaded_notification_error_title">Letöltés hibája.</string>
+    <string name="downloaded_notification_fail_text">A letöltés során probléma merült fel, kérjük, próbálkozzon később.</string>
+    <string name="downloaded_notification_fail_title">Letöltés hibája.</string>
+    <string name="downloaded_notification_io_error_text">Szabadítson fel helyet, és folytassa.</string>
+    <string name="downloaded_notification_io_error_title">Nincs elég hely.</string>
+    <string name="downloaded_notification_pause_by_manual_text">A letöltés szüneteltetve.</string>
+    <string name="downloaded_notification_pause_text">A letöltés szünetel, mert nem áll rendelkezésre hálózat.</string>
+    <string name="downloaded_notification_pause_title">Letöltés szünetel.</string>
+    <string name="downloaded_notification_title">Rendszerfrissítés letöltve</string>
+    <string name="downloading">%1$s / %2$s letöltése</string>
+    <string name="downloading_notification_title">Rendszerfrissítés letöltése</string>
+    <string name="exists_new_version_title">A rendszer új verziója észlelve</string>
+    <string name="has_new_version_notification">Új verzió észlelve. Lépjen a H2OS OTA frissítésére</string>
+    <string name="install">Telepítés</string>
+    <string name="install_copy_fail">A frissítés telepítése során probléma merült fel. Kérjük, próbálkozzon később.</string>
+    <string name="last_check_update">Utoljára ellenőrizve: %1$s</string>
+    <string name="need_more_space">A frissítéshez nem elegendő a tárhely, további %s tárhelyre van szükség. Szabadítson fel tárhelyet, majd próbálja újra.</string>
+    <string name="network_tip">Az aktuális hálózati 2G / 3G / 4G. A letöltés folytatása után díjat számíthat fel a hálózat üzemeltetője.</string>
+    <string name="network_wrarning_checkbox">Ne jelenjen meg ismét az emlékeztető</string>
+    <string name="network_wrarning_text">Ez az alkalmazás adatforgalmat generál. Végrehajtása Wi-Fi használatával célszerű</string>
+    <string name="network_wrarning_title">Emlékeztető</string>
+    <string name="no_enough_space">Nincs elég tárhely. Kérjük, szabadítson fel lemezterületet, majd próbálja újra.</string>
+    <string name="no_local_update_packges_title">Mozgassa a telepítési csomagot a gyökérkönyvtárba</string>
+    <string name="no_upgrade_log">A frissítés napló nem elérhető</string>
+    <string name="notification_download_fail">Frissítőcsomag letöltése nem sikerült, próbálja meg újra letölteni</string>
+    <string name="notification_download_success">Letöltés teljesült, kattintson a frissítésre</string>
+    <string name="notification_downloading">Letöltés</string>
+    <string name="notification_into_update_content">Érintse meg a frissítéshez most</string>
+    <string name="notification_into_update_title">Rendszerfrissítő csomag letöltése befejezve</string>
+    <string name="oneplus_read_contacts">Hozzáférés hálózathoz</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Ne feledje a kijelöléseimet</string>
+    <string name="oneplus_rights_dialog_discription">A következő engedélyekre van szüksége a rendszerfrissítés használatához</string>
+    <string name="oneplus_rights_dialog_title">Engedély kérelem</string>
+    <string name="ota_check_update">Frissítés ellenőrzése</string>
+    <string name="ota_never_check_update">Még soha sem ellenőrizte a frissítést.</string>
+    <string name="ota_new_update">Új verzió elérhető</string>
+    <string name="ota_new_update_downloading">"Új verzió áll rendelkezésre
+Letöltés…"</string>
+    <string name="ota_new_update_name">%1$s rendszerfrissítés</string>
+    <string name="ota_new_update_name_downloading">"%1$s Rendszerfrissítés
+Letöltés…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Rendszerfrissítés
+Letöltés szünetel…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Rendszerfrissítés
+Telepítésre kész"</string>
+    <string name="ota_new_update_paused">Letöltés szünetel…</string>
+    <string name="ota_new_update_ready">"Új verzió áll rendelkezésre
+Telepítésre kész"</string>
+    <string name="ota_no_update">A rendszer aktuális</string>
+    <string name="ota_oem_unlock_detected_alert">OEM feloldás észlelhető. A rendszer elkezdi letölteni a teljes frissítési csomagot. Az adatok védelme érdekében végezzen biztonsági mentést.</string>
+    <string name="ota_root_detected_alert">Root észlelve, a rendszer elkezdi letölteni a teljes frissítőcsomagot. Azonban adatai biztonsága érdekében készítsen biztonsági mentést. A frissítés befejezése után a készülék megszűnik rootolt lenni.</string>
+    <string name="pause_downloading">Letöltés szüneteltetése</string>
+    <string name="play_under_mobile_data">Lejátszás</string>
+    <string name="play_under_mobile_data_tips">Jelenleg mobilhálózatban van, folytatja a játékot?</string>
+    <string name="preparing_download">Letöltés előkészítése…</string>
+    <string name="preparing_install">Telepítés előkészítése…</string>
+    <string name="ready_to_install">A rendszerfrissítés készen áll. Kattintson az alábbi Telepítés gombra, indítsa újra a telefont, és telepítse a frissítést.</string>
+    <string name="ready_to_upgrade">Ellenőrzi a frissítő csomagot...</string>
+    <string name="reject">Nem engedi meg</string>
+    <string name="remind_later">Emlékeztetés később</string>
+    <string name="resume">Felújítás</string>
+    <string name="rooted_warning">"Rootolt eszköz észlelve, lehet, hogy a frissítés sikertelen lesz.
+Kívánja frissíteni?"</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="searching">Keresés...</string>
+    <string name="setting">Beállítások</string>
+    <string name="share">Megosztás</string>
+    <string name="show_new_version_info">Ellenőrizze a frissített tartalmat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">A kiválasztott csomag verziószáma alacsonyabb, mint a jelenlegi rendszeré. A rendszerindítási hiba elkerülése érdekében nem ajánlott visszatérni egy régebbi verzióra.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">ÉRTEM</string>
+    <string name="str_ab_upgrade_warning_wipe">"A kijelölt csomag a telepítés után visszaállítja a készülékét az alapértelmezett gyári beállításokra.
+Biztosan telepíti?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"A rendszer frissítése nincs hatással az Ön adataira. 
+Azonban adatai biztonsága érdekében készítsen biztonsági mentést."</string>
+    <string name="str_abupdate_continue_download">Letöltés és telepítés folytatása</string>
+    <string name="str_abupdate_install_completed">A rendszerfrissítés telepítése befejeződött. Kérjük, a frissítés befejezéséhez indítsa újra a rendszert.</string>
+    <string name="str_abupdate_install_failed">A rendszerfrissítés sikertelen volt</string>
+    <string name="str_abupdate_install_update">TELEPÍTÉS MOST</string>
+    <string name="str_abupdate_installing">A rendszerfrissítés telepítése folyamatban van</string>
+    <string name="str_abupdate_local_package_log">Ez a verzió nem tartalmaz változásnaplót</string>
+    <string name="str_abupdate_reboot">ÚJRAINDÍTÁS</string>
+    <string name="str_abupdate_retry_failed">A rendszerfrissítés telepítése sikertelen volt. Teljes frissítési csomagot keresünk.</string>
+    <string name="str_abupdate_start_download">Letöltés és telepítés most</string>
+    <string name="str_abupdate_try_again">ÚJ PRÓBÁLKOZÁS</string>
+    <string name="str_alert_local_downgrade">"A kiválasztott csomag verziója alacsonyabb, mint a jelenlegi verzió. Ez betöltési hibához vezethet adatkompatibilitásból adódó problémák miatt. 
+Biztosan telepíteni kívánja a régi verziót?"</string>
+    <string name="str_alert_local_downgrade_confirm">Megerősítés</string>
+    <string name="str_beta_to_mp_not_allow">"A kiválasztott csomag régebbi az aktuális rendszerverziónál. A rendszerindítási hibák elkerülése érdekében nem ajánlott régebbi verzióra váltani.
+Ha régebbi verzióra szeretne váltani, indítsa újra a készüléket Visszaállítási módban a csomag telepítéséhez."</string>
+    <string name="str_disabled_local_upgrade_summary">Nem lehet helyben frissíteni, mert rendszerfrissítést tölt le vagy telepít.</string>
+    <string name="str_download_retry">Letöltés és telepítés újra</string>
+    <string name="str_mp_downgrade_not_allow">"A kiválasztott csomag régebbi az aktuális rendszerverziónál. A rendszerindítási hibák elkerülése érdekében nem ajánlott régebbi verzióra váltani.
+Ha régebbi verzióra szeretne váltani, mentse el az adatait, majd indítsa újra a készüléket Visszaállítási módban a csomag telepítéséhez."</string>
+    <string name="str_pause_download_new">Szünet</string>
+    <string name="str_time_incorrect_check_failed">Nem sikerült ellenőrizni a frissítéseket, mert a készüléken beállított dátum és idő helytelen</string>
+    <string name="str_time_incorrect_download_failed">A letöltés sikertelen volt, mert a készüléken beállított dátum és idő helytelen</string>
+    <string name="system_battery_low">Akkumulátor töltöttsége alacsony (20 %). Töltse fel az akkumulátort</string>
+    <string name="system_battery_low_title">Akkumulátor töltése alacsony</string>
+    <string name="system_can_fix_to_new_version">A rendszer a legfrissebb verzió szerint javítható</string>
+    <string name="system_can_update_to_new_version">Frissítsen most</string>
+    <string name="system_download_complete">Rendszer %s letöltés befejezve</string>
+    <string name="system_download_fail">A letöltés nem sikerült. Kérjük, ellenőrizze a hálózatot és próbálja újra</string>
+    <string name="system_downloading">Rendszer %s letöltés</string>
+    <string name="system_fix_download">Javítócsomag letöltése most</string>
+    <string name="system_fix_now">Indítsa most újra a rendszert a javításhoz</string>
+    <string name="system_repair_mode">Javítási üzemmód</string>
+    <string name="system_update_checking">Frissítések ellenőrzése...</string>
+    <string name="system_update_download_finish">A letöltés befejeződött</string>
+    <string name="system_update_download_finish_tip">Kattintson a frissítésre. A rendszer automatikusan újraindul</string>
+    <string name="system_update_downloading_tip">Adatok letöltése az új verzióhoz:</string>
+    <string name="system_update_error">Nincs csatlakozó hálózat</string>
+    <string name="system_update_fail">A frissítés nem sikerült. Próbálja újra</string>
+    <string name="system_update_messages">Rendszer %s frissítés emlékeztető</string>
+    <string name="system_update_messages_download">Rendszer %s frissítés, kattintson a frissítés letöltésére</string>
+    <string name="system_update_messages_failed_text">Frissítés nem sikerült, koppintással lépjen be a javítási üzemmódba, és próbálja meg újra</string>
+    <string name="system_update_messages_failed_title">A rendszer frissítése nem sikerült</string>
+    <string name="system_update_messages_success_text">A rendszert %s-re sikeresen frissítette</string>
+    <string name="system_update_messages_success_title">A rendszert frissítette</string>
+    <string name="system_update_no_network">Először állítsa be a hálózatot</string>
+    <string name="system_update_notification">Rendszerfrissítési értesítés</string>
+    <string name="system_update_now">Indítsa újra a rendszert a frissítéshez</string>
+    <string name="system_update_remain_time">Hátralévő idő:</string>
+    <string name="system_update_success">Frissítés befejezve</string>
+    <string name="system_updating">Frissítés</string>
+    <string name="system_updating_tip">Nem történik adatvesztés frissítés után</string>
+    <string name="update_check_title">Frissítések ellenőrzése</string>
+    <string name="update_checking">Frissítések keresése, kis türelmet…</string>
+    <string name="update_from_local">Helyi frissítés</string>
+    <string name="update_log">Frissítési napló</string>
+    <string name="update_package_size">Frissítés mérete:</string>
+    <string name="upgrade_log">Frissítési napló</string>
+    <string name="upgrade_package_not_exist">Frissítési csomag nem létezik, töltse le újra.</string>
+    <string name="verify_fail">Aláírás ellenőrzése sikertelen</string>
+    <string name="verifying">Fájl ellenőrzése, kérjük várjon…</string>
+    <string name="wipe_data">Adatok törlése</string>
+    <string name="wipe_data_text">"Azt tanácsoljuk, hogy a frissítés telepítése előtt törölje adatait (telepített alkalmazásokat, SMS üzeneteket és egyéb adatokat).
+Kívánja törölni?"</string>
+    <string name="wipe_data_title">Figyelmeztetés</string>
+</resources>

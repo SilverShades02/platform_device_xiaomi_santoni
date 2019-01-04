@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@color/oneplus_contorl_bg_color_default" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oneplus.lib.widget.listview.OPListView android:id="@android:id/list" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/layout_empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+        <TextView android:textColor="@color/oneplus_contorl_text_color_hint_default" android:id="@id/no_package_tips" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/no_local_update_packges_title" android:layout_marginStart="54.0dip" android:layout_marginEnd="54.0dip" style="@style/oneplus_contorl_text_style_body1" />
+        <ImageView android:layout_width="255.0dip" android:layout_height="110.0dip" android:layout_marginTop="92.0dip" android:src="@drawable/img_empty_local" />
+    </LinearLayout>
+</RelativeLayout>

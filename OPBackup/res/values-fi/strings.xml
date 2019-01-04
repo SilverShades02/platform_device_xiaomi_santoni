@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="about_to_restart">Olet käynnistämässä laitteesi asentaaksesi päivityksen. Älä sammuta laitetta tämän aikana.</string>
+    <string name="access">Salli</string>
+    <string name="alert_text_backup_data">"Järjestelmäpäivitys ei vaikuta tietoihin. 
+Varmista tietojen eheys varmuuskopioimalla ne. Käynnistä puhelin uudelleen ja asenna päivittys."</string>
+    <string name="app_name">Järjestelmäpäivitys</string>
+    <string name="attention">Vinkkejä</string>
+    <string name="battery_low_prompt">Laitteessa on oltava yli 20 % virtaa päivitystä varten. Lataa akku jatkaaksesi.</string>
+    <string name="battery_very_low_prompt">Akun kesto ei riitä. Lataa puhelimesi 5 %:iin asti ennen päivityksen jatkamista. Pidä puhelin kytkettynä laturiin.</string>
+    <string name="btn_text_upgrade_now">Päivitä nyt</string>
+    <string name="cancel">Peruuta</string>
+    <string name="check_upgrade_log">Tarkista päivitysloki</string>
+    <string name="click_to_install">Asenna napsauttamalla</string>
+    <string name="continue_to_download">Jatka latausta</string>
+    <string name="default_download_wifi">Lataa vain Wi-Fi-yhteydellä</string>
+    <string name="default_download_wifi_auto">Lataa automaattisesti Wi-Fillä</string>
+    <string name="dont_wipe_data">Älä tyhjennä tietoja</string>
+    <string name="download">Lataa</string>
+    <string name="download_cancel">Haluatko varmasti perua latauksen?</string>
+    <string name="download_corrupted">Latausta ei voitu tarkistaa, lataa uudelleen.</string>
+    <string name="download_error">Virhe palvelinyhteydessä latauksen aikana, voit jatkaa latausta myöhemmin.</string>
+    <string name="download_error_notification_text">Yritä jatkaa latausta myöhemmin.</string>
+    <string name="download_error_notification_title">Virhe järjestelmäpäivityksessä</string>
+    <string name="download_fail">Latauksessa tapahtui virhe, lataa uudelleen.</string>
+    <string name="download_fail_title">Lataus epäonnistui</string>
+    <string name="download_io_error">Tallennustilaa ei ole tarpeeksi päivityksen lataukseen. Vapauta tilaa ja jatka latausta.</string>
+    <string name="download_is_not_wifi">"Mobiilidatan lataaminen voi olla lisämaksullista.
+Haluatko jatkaa?"</string>
+    <string name="download_is_slow">"Yhteys on liian hidas, ja päivityksen lataus voi kestää useita minuutteja.
+Haluatko jatkaa?"</string>
+    <string name="download_no_network">Verkkoa ei havaittu, yritä myöhemmin uudelleen.</string>
+    <string name="download_no_network_title">Verkkoa ei havaittu</string>
+    <string name="download_now">Lataa nyt</string>
+    <string name="download_paused">"Lataus keskeytettiin, koska verkko ei ole käytettävissä.
+Lataus jatkuu, kun olet verkossa."</string>
+    <string name="download_paused_resume">"Wi-Fi-yhteys katkesi, ja lataus keskeytyi. 
+Yritä jatkaa latausta myöhemmin."</string>
+    <string name="download_paused_resume_by_manual">Haluatko varmasti keskeyttää latauksen? Voit jatkaa sitä myöhemmin.</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">%s jäljellä</string>
+    <string name="download_retry">Lataa uudelleen</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Lataus keskeytetty</string>
+    <string name="downloaded_notification_error_text">Yritä jatkaa latausta myöhemmin.</string>
+    <string name="downloaded_notification_error_title">Virhe ladattaessa.</string>
+    <string name="downloaded_notification_fail_text">Latauksen aikana tapahtui virhe, kokeile myöhemmin uudelleen.</string>
+    <string name="downloaded_notification_fail_title">Virhe ladattaessa.</string>
+    <string name="downloaded_notification_io_error_text">Vapauta tilaa ja jatka.</string>
+    <string name="downloaded_notification_io_error_title">Tila ei riitä.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Lataus keskeytettiin.</string>
+    <string name="downloaded_notification_pause_text">Lataus keskeytettiin, koska verkko ei ole käytettävissä.</string>
+    <string name="downloaded_notification_pause_title">Lataus keskeytetty.</string>
+    <string name="downloaded_notification_title">Järjestelmäpäivitys ladattu</string>
+    <string name="downloading">Ladataan: %1$s/%2$s</string>
+    <string name="downloading_notification_title">Ladataan järjestelmäpäivitystä</string>
+    <string name="exists_new_version_title">Uusi järjestelmän versio havaittu</string>
+    <string name="has_new_version_notification">Uusi versio havaittu. Siirry H2OS OTA -päivitykseen</string>
+    <string name="install">Asenna</string>
+    <string name="install_copy_fail">Ongelma päivityksen asennuksessa. Yritä myöhemmin uudelleen.</string>
+    <string name="last_check_update">Viimeksi tarkistettu: %1$s</string>
+    <string name="need_more_space">Tallennustila ei riitä päivittämiseen. Tallennustilaa tarvitaan %s. Vapauta tilaa ja yritä uudelleen.</string>
+    <string name="network_tip">Nykyinen verkko on 2G/3G/4G. Palveluntarjoaja voi veloittaa latauksen jatkamisesta.</string>
+    <string name="network_wrarning_checkbox">Älä näytä muistutusta uudelleen</string>
+    <string name="network_wrarning_text">Tämä sovellus käyttää datansiirtoa. Sen käyttö on suositeltavaa Wi-Fi-yhteydellä</string>
+    <string name="network_wrarning_title">Muistutus</string>
+    <string name="no_enough_space">Tallennustila ei riitä. Vapauta tilaa ja yritä uudelleen.</string>
+    <string name="no_local_update_packges_title">Siirrä asennuspaketti juurikansioon</string>
+    <string name="no_upgrade_log">Päivityslokia ei saatavilla</string>
+    <string name="notification_download_fail">Päivityspaketin lataus epäonnistui, yritä ladata uudelleen</string>
+    <string name="notification_download_success">Lataus valmis, napsauta päivitä</string>
+    <string name="notification_downloading">Lataa</string>
+    <string name="notification_into_update_content">Päivitä nyt napauttamalla</string>
+    <string name="notification_into_update_title">Järjestelmän päivityspaketin lataus valmis</string>
+    <string name="oneplus_read_contacts">Pääsy verkkoon</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Muista valintani</string>
+    <string name="oneplus_rights_dialog_discription">Tarvitset seuraavat käyttöoikeudet järjestelmäpäivityksen käyttöön</string>
+    <string name="oneplus_rights_dialog_title">Käyttöoikeuksien pyyntö</string>
+    <string name="ota_check_update">Etsi päivityksiä</string>
+    <string name="ota_never_check_update">Et ole koskaan etsinyt päivityksiä.</string>
+    <string name="ota_new_update">Uusi versio saatavilla</string>
+    <string name="ota_new_update_downloading">"Uusi versio saatavilla
+Ladataan…"</string>
+    <string name="ota_new_update_name">%1$s järjestelmäpäivitys</string>
+    <string name="ota_new_update_name_downloading">"%1$s järjestelmäpäivitys
+Ladataan…"</string>
+    <string name="ota_new_update_name_paused">"%1$s järjestelmäpäivitys
+Lataus keskeytetty…"</string>
+    <string name="ota_new_update_name_ready">"%1$s järjestelmäpäivitys
+Valmiina asentamaan"</string>
+    <string name="ota_new_update_paused">Lataus keskeytetty…</string>
+    <string name="ota_new_update_ready">"Uusi versio saatavilla
+Valmiina asentamaan"</string>
+    <string name="ota_no_update">Järjestelmä on ajan tasalla</string>
+    <string name="ota_oem_unlock_detected_alert">OEM:n lukituksen avaus on havaittu. Järjestelmä alkaa ladata täyttä päivityspakettia. Varmista tietojen eheys varmuuskopioimalla.</string>
+    <string name="ota_root_detected_alert">Roottaus on havaittu, järjestelmä aloittaa täyden päivityspaketin lataamisen. Varmista tietojen eheys varmuuskopioimalla ne. Laitteen roottaus kumotaan, kun päivitys on valmis.</string>
+    <string name="pause_downloading">Keskeytä lataus</string>
+    <string name="play_under_mobile_data">Toista</string>
+    <string name="play_under_mobile_data_tips">Tällä hetkellä verkossa, jatketaanko toistamista?</string>
+    <string name="preparing_download">Valmistellaan latausta…</string>
+    <string name="preparing_install">Valmistellaan asennusta…</string>
+    <string name="ready_to_install">Järjestelmäpäivitys on valmiina. Napsauta asennuspainiketta alla käynnistääksesi puhelimen uudelleen ja asentaaksesi päivityksen.</string>
+    <string name="ready_to_upgrade">Vahvistetaan päivityspakettia...</string>
+    <string name="reject">Älä salli</string>
+    <string name="remind_later">Muistuta myöhemmin</string>
+    <string name="resume">Jatka</string>
+    <string name="rooted_warning">"Rootattu laite havaittu, päivitys voi epäonnistua.
+Haluatko päivittää?"</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="searching">Etsitään...</string>
+    <string name="setting">Asetukset</string>
+    <string name="share">Jaa</string>
+    <string name="show_new_version_info">Tarkista päivitetty sisältö</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Valitsemasi paketin versio on aiempi kuin nykyisen järjestelmän. Palauttamista aiempaan versioon ei sallita, jotta käynnistys ei epäonnistuisi.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">SELVÄ</string>
+    <string name="str_ab_upgrade_warning_wipe">"Valitsemasi paketti palauttaa laitteesi tehdasasetuksiin asennuksen jälkeen.
+Haluatko varmasti asentaa sen?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Tämä järjestelmäpäivitys ei vaikuta tietoihin. 
+Varmista tietojen eheys varmuuskopioimalla ne."</string>
+    <string name="str_abupdate_continue_download">Jatketaan lataamista ja asentamista</string>
+    <string name="str_abupdate_install_completed">Järjestelmän päivitys on asennettu. Viimeistele päivitys käynnistämällä uudelleen.</string>
+    <string name="str_abupdate_install_failed">Järjestelmän päivityksen asentaminen epäonnistui</string>
+    <string name="str_abupdate_install_update">ASENNA NYT</string>
+    <string name="str_abupdate_installing">Järjestelmän päivitystä asennetaan</string>
+    <string name="str_abupdate_local_package_log">Tässä versiossa ei ole muutoslokia</string>
+    <string name="str_abupdate_reboot">KÄYNNISTÄ UUDELLEEN</string>
+    <string name="str_abupdate_retry_failed">Järjestelmäpäivityksen asentaminen epäonnistui. Tarkistetaan täyden päivityksen paketti.</string>
+    <string name="str_abupdate_start_download">Lataa ja asenna nyt</string>
+    <string name="str_abupdate_try_again">YRITÄ UUDELLEEN</string>
+    <string name="str_alert_local_downgrade">"Valittu paketti on vanhempi kuin nykyinen versio. Tämä voi johtaa käynnistymisen epäonnistumiseen tietojen yhteensopivuuden takia.
+Haluatko varmasti asentaa vanhan version?"</string>
+    <string name="str_alert_local_downgrade_confirm">Vahvista</string>
+    <string name="str_beta_to_mp_not_allow">"Valitsemasi paketti on matalampi kuin nykyinen järjestelmän versio. Jotta käynnistys ei epäonnistuisi, matalampaa versiota ei sallita.
+Jos haluat vaihtaa matalampaan versioon, käynnistä uudelleen palautustilaan, jotta voit asentaa paketin."</string>
+    <string name="str_disabled_local_upgrade_summary">Ei voi päivittää paikallisesti, koska järjestelmäpäivitystä vastaanotetaan tai asennetaan.</string>
+    <string name="str_download_retry">Lataa ja asenna uudelleen</string>
+    <string name="str_mp_downgrade_not_allow">"Valitsemasi paketti on matalampi kuin nykyinen järjestelmän versio. Jotta käynnistys ei epäonnistuisi, matalampaa versiota ei sallita.
+Jos haluat vaihtaa matalampaan versioon, varmuuskopioi ensin tiedot ja käynnistä sitten uudelleen palautustilaan, jotta voit asentaa paketin."</string>
+    <string name="str_pause_download_new">Keskeytä</string>
+    <string name="str_time_incorrect_check_failed">Päivitysten tarkistaminen epäonnistui, koska laitteen päivämäärä ja aika ovat virheelliset</string>
+    <string name="str_time_incorrect_download_failed">Lataus epäonnistui, koska laitteen päivämäärä ja aika ovat virheelliset</string>
+    <string name="system_battery_low">Akun varaus vähissä (20 %). Lataa akku</string>
+    <string name="system_battery_low_title">Akun varaus vähissä</string>
+    <string name="system_can_fix_to_new_version">Järjestelmä voidaan korjata uusimpaan versioon</string>
+    <string name="system_can_update_to_new_version">Päivitä nyt</string>
+    <string name="system_download_complete">Järjestelmän %s lataus onnistui</string>
+    <string name="system_download_fail">Lataus epäonnistui. Tarkista verkko ja yritä uudelleen</string>
+    <string name="system_downloading">Järjestelmän %s lataus</string>
+    <string name="system_fix_download">Lataa korjauspaketti nyt</string>
+    <string name="system_fix_now">Korjaa nyt käynnistämällä uudelleen</string>
+    <string name="system_repair_mode">Korjaustila</string>
+    <string name="system_update_checking">Tarkistetaan päivityksiä...</string>
+    <string name="system_update_download_finish">Lataaminen suoritettu</string>
+    <string name="system_update_download_finish_tip">Päivitä napsauttamalla. Järjestelmä käynnistyy uudelleen automaattisesti</string>
+    <string name="system_update_downloading_tip">Ladataan uuden version tietoja:</string>
+    <string name="system_update_error">Ei yhdistettynä verkkoon</string>
+    <string name="system_update_fail">Päivitys epäonnistui. Yritä uudelleen</string>
+    <string name="system_update_messages">Muistutus järjestelmän %s päivityksestä</string>
+    <string name="system_update_messages_download">Järjestelmän %s päivitys, lataa päivitys napsauttamalla</string>
+    <string name="system_update_messages_failed_text">Päivitys epäonnistui. Siirry korjaustilaan ja yritä uudelleen napauttamalla</string>
+    <string name="system_update_messages_failed_title">Järjestelmäpäivitys epäonnistui</string>
+    <string name="system_update_messages_success_text">Järjestelmä päivitettiin onnistuneesti versioon %s</string>
+    <string name="system_update_messages_success_title">Järjestelmä on päivitetty</string>
+    <string name="system_update_no_network">Määritä verkko ensin</string>
+    <string name="system_update_notification">Järjestelmäpäivityksen ilmoitus</string>
+    <string name="system_update_now">Päivitä nyt käynnistämällä uudelleen</string>
+    <string name="system_update_remain_time">Aikaa jäljellä:</string>
+    <string name="system_update_success">Päivitys valmis</string>
+    <string name="system_updating">Päivittää</string>
+    <string name="system_updating_tip">Tietoja ei menetetä päivityksen jälkeen</string>
+    <string name="update_check_title">Etsi päivityksiä</string>
+    <string name="update_checking">Tarkistetaan päivityksiä, odota…</string>
+    <string name="update_from_local">Paikallinen päivitys</string>
+    <string name="update_log">Päivitysloki</string>
+    <string name="update_package_size">Päivityksen koko:</string>
+    <string name="upgrade_log">Päivitysloki</string>
+    <string name="upgrade_package_not_exist">Päivityspakettia ei ole olemassa. Lataa uudelleen.</string>
+    <string name="verify_fail">Allekirjoituksen vahvistus epäonnistui</string>
+    <string name="verifying">Tiedostoa tarkistetaan, odota…</string>
+    <string name="wipe_data">Tyhjennä tiedot</string>
+    <string name="wipe_data_text">"On suositeltavaa tyhjentää tiedot (asennetut sovellukset, tekstiviestit jne.) ennen tämän päivityksen asentamista.
+Tyhjennetäänkö tiedot?"</string>
+    <string name="wipe_data_title">Varoitus</string>
+</resources>

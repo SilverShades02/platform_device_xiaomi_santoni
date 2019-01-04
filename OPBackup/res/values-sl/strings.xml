@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Krmarjenje domov</string>
+    <string name="abc_action_bar_up_description">Krmarjenje navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOPLJENO</string>
+    <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+    <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
+    <string name="about_to_restart">Nameravate vnovično zagnati napravo zaradi namestitve posodobitve. Med postopkom namestive ne izključite naprave.</string>
+    <string name="access">Dovoli</string>
+    <string name="alert_text_backup_data">"Posodobitev sistema ne vpliva na podatkovno storitev. 
+Pred posodobitvijo naredite varnostno kopijo svojih podatkov. Kliknite za začetek nadgradnje, ki je ne morete prekiniti. Po vnovičnem zagonu bo telefon posodobljen."</string>
+    <string name="app_name">Posodobitev sistema</string>
+    <string name="attention">Nasveti</string>
+    <string name="battery_low_prompt">Stanje napolnjenosti akumulatorja mora biti nad 20 %. Če želite nadaljevati, morate napolniti napravo.</string>
+    <string name="battery_very_low_prompt">Stanje napolnjenosti akumulatorja je prenizko. Napolnite telefon do 5 %, nato nadaljujte s posodobitvijo. Telefon pustite priključen v napajanje.</string>
+    <string name="btn_text_upgrade_now">Posodobi zdaj</string>
+    <string name="cancel">Prekliči</string>
+    <string name="check_upgrade_log">Preveri dnevnik posodobitev</string>
+    <string name="click_to_install">Kliknite za namestitev</string>
+    <string name="continue_to_download">Nadaljuj s prenosom</string>
+    <string name="default_download_wifi">Prenos samo prek omrežja Wi-Fi</string>
+    <string name="default_download_wifi_auto">Samodejni prenos prek brezžičnega omrežja</string>
+    <string name="dont_wipe_data">Ne počisti podatkov</string>
+    <string name="download">Prenos</string>
+    <string name="download_cancel">Res želite preklicati prenos?</string>
+    <string name="download_corrupted">Prenosa ni bilo mogoče preveriti. Poskusite znova.</string>
+    <string name="download_error">Med prenosom je prišlo do napake pri komunikaciji s strežnikom, zato s prenosom nadaljujte pozneje.</string>
+    <string name="download_error_notification_text">Poskusite nadaljevati pozneje.</string>
+    <string name="download_error_notification_title">Napaka v posodobitvi sistema</string>
+    <string name="download_fail">Med prenosom je prišlo do napake. Poskusite znova.</string>
+    <string name="download_fail_title">Prenos ni uspel</string>
+    <string name="download_io_error">Ni dovolj prostora za prenos posodobitve, sprostite nekaj prostora in nadaljujete s prenosom.</string>
+    <string name="download_is_not_wifi">"Prenos prek mobilnega omrežja bosta morda morali plačati dodatno.
+Želite nadaljevati?"</string>
+    <string name="download_is_slow">"Hitrost prenosa je prenizka, morda bo prenos posodobitev trajal več minut.
+Želite nadaljevati?"</string>
+    <string name="download_no_network">Omrežje ni zaznano, poskusite znova pozneje.</string>
+    <string name="download_no_network_title">Omrežje ni zaznano</string>
+    <string name="download_now">Prenesi zdaj</string>
+    <string name="download_paused">"Prenos je bil začasno zaustavljen zaradi nedosegljivosti omrežja.
+Ko bo omrežje najdeno, bo prenos znova v teku."</string>
+    <string name="download_paused_resume">"Povezava Wi-Fi je prekinjena, prenos je začasno zaustavljen. 
+Poskusite nadaljevati nekoliko kasneje."</string>
+    <string name="download_paused_resume_by_manual">Res želite začasno zaustaviti prenos? S prenosom lahko nadaljujete kasneje.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">Preostanek časa: %s</string>
+    <string name="download_retry">Znova prenese</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Prenos je začasno zaustavljen</string>
+    <string name="downloaded_notification_error_text">Poskusite nadaljevati pozneje.</string>
+    <string name="downloaded_notification_error_title">Napaka pri prenosu.</string>
+    <string name="downloaded_notification_fail_text">Med prenosom je prišlo do napake. Poskusite znova pozneje.</string>
+    <string name="downloaded_notification_fail_title">Napaka pri prenosu.</string>
+    <string name="downloaded_notification_io_error_text">Sprostite nekaj prostora in nadaljujte.</string>
+    <string name="downloaded_notification_io_error_title">Ni dovolj prostora.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Prenos je začasno zaustavljen.</string>
+    <string name="downloaded_notification_pause_text">Prenos je začasno zaustavljen ker ni na voljo nobenega omrežja.</string>
+    <string name="downloaded_notification_pause_title">Prenos je začasno zaustavljen.</string>
+    <string name="downloaded_notification_title">Posodobitev sistema je prenesena</string>
+    <string name="downloading">Prenos %1$s od %2$s</string>
+    <string name="downloading_notification_title">Prenos posodobitve sistema</string>
+    <string name="exists_new_version_title">Na voljo je nova različica sistema</string>
+    <string name="has_new_version_notification">Na voljo je nova različica, odprite posodobitev H2OS OTA</string>
+    <string name="install">Namesti</string>
+    <string name="install_copy_fail">Pri nameščanju posodobitve je prišlo do napake. Poskusite znova pozneje.</string>
+    <string name="last_check_update">Zadnjič preverjeno: %1$s</string>
+    <string name="need_more_space">Ni dovolj prostora za namestitev nadgradnje, za to je potrebno %s. Sprostite nekaj prostora in poskusite znova.</string>
+    <string name="network_tip">Trenutno omrežje je 2G/3G/4G. Če nadaljujete, vam lahko prenos podatkov operater dodatno zaračuna.</string>
+    <string name="network_wrarning_checkbox">Ne prikaži več opomnika</string>
+    <string name="network_wrarning_text">Ta aplikacija porablja mobilne podatke, zato je pri uporabi priporočljivo napravo povezati v omrežje Wi-Fi</string>
+    <string name="network_wrarning_title">Opomnik</string>
+    <string name="no_enough_space">Ni dovolj prostora. Sprostite nekaj prostora in poskusite znova.</string>
+    <string name="no_local_update_packges_title">Premakni namestitveni paket v korenski imenik</string>
+    <string name="no_upgrade_log">Dnevnik posodobitev ni na voljo</string>
+    <string name="notification_download_fail">Prenos posodobitev ni uspel, poskusite znova</string>
+    <string name="notification_download_success">Prenos je končan, kliknite za posodobitev</string>
+    <string name="notification_downloading">Prenašanje</string>
+    <string name="notification_into_update_content">Če želite opraviti posodobitev, tapnite zaslon</string>
+    <string name="notification_into_update_title">Prenos paketa s sistemskimi popravki je končan</string>
+    <string name="oneplus_read_contacts">Dostop do omrežja</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Zapomni si izbiro</string>
+    <string name="oneplus_rights_dialog_discription">Za posodobitev sistema potrebujete naslednja dovoljenja</string>
+    <string name="oneplus_rights_dialog_title">Uporaba dovoljenja</string>
+    <string name="ota_check_update">Preveri za posodobitve</string>
+    <string name="ota_never_check_update">Nikoli niste preverili za posodobitve.</string>
+    <string name="ota_new_update">Na voljo je nova različica</string>
+    <string name="ota_new_update_downloading">"Na voljo je nova različica
+Poteka prenos…"</string>
+    <string name="ota_new_update_name">Posodobitev sistema %1$s</string>
+    <string name="ota_new_update_name_downloading">"Posodobitev sistema %1$s
+Poteka prenos…"</string>
+    <string name="ota_new_update_name_paused">"Posodobitev sistema %1$s
+Prenos je začasno zaustavljen…"</string>
+    <string name="ota_new_update_name_ready">"Posodobitev sistema %1$s
+Pripravljeno za namestitev"</string>
+    <string name="ota_new_update_paused">Prenos je začasno zaustavljen…</string>
+    <string name="ota_new_update_ready">"Na voljo je nova različica
+Pripravljena za namestitev"</string>
+    <string name="ota_no_update">Sistem je posodobljen</string>
+    <string name="ota_oem_unlock_detected_alert">Zaznano je bilo odklepanje OEM. Sistem bo začel prenašati celoten paket za nadgradnjo. Če želite, da vaši podatki ostanejo nedotaknjeni, naredite varnostno kopijo.</string>
+    <string name="ota_root_detected_alert">Zaznan je način s skrbniškimi pravicami, sistem bo prenesel celoten posodobitveni paket. Po koncu posodobitve bo naprava brez skrbniških pravic.</string>
+    <string name="pause_downloading">Začasno zaustavi prenos</string>
+    <string name="play_under_mobile_data">Predvajaj</string>
+    <string name="play_under_mobile_data_tips">Trenutno ste povezani samo z mobilnim omrežjem, želite nadaljevati predvajanje?</string>
+    <string name="preparing_download">Priprava prenosa...</string>
+    <string name="preparing_install">Priprava namestitve...</string>
+    <string name="ready_to_install">Posodobitev sistema je pripravljena. Kliknite spodaj za vnovični zagon telefona in namestitev posodobitve.</string>
+    <string name="ready_to_upgrade">Preverjanje paketa posodobitev...</string>
+    <string name="reject">Ne dovoli</string>
+    <string name="remind_later">Opomni me pozneje</string>
+    <string name="resume">Nadaljuj</string>
+    <string name="rooted_warning">"Zaznana je naprava z omogočenimi skrbniškimi pravicami, posodobitev bo morda neuspešna.
+Želite nadaljevati s posodobitvijo?"</string>
+    <string name="search_menu_title">Iskanje</string>
+    <string name="searching">Iskanje...</string>
+    <string name="setting">Nastavitve</string>
+    <string name="share">Deli z drugimi</string>
+    <string name="show_new_version_info">Preveri posodobljene vsebine</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Različica izbranega paketa je nižja od različice trenutnega sistema. Zamenjava s starejšo različico ni dovoljena, da preprečite napake pri zagonu.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">RAZUMEM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Ko boste namestili paket, ki ste ga izbrali, se bo vaša naprava ponastavila na tovarniške nastavitve.
+Ali ste prepričani, da ga želite namestiti?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Posodobitev sistema ne vpliva na podatkovno storitev. 
+Pred posodobitvijo naredite varnostno kopijo svojih podatkov."</string>
+    <string name="str_abupdate_continue_download">Nadaljuj s prenosom in namestitvijo</string>
+    <string name="str_abupdate_install_completed">Posodobitev sistema je končana. Znova zaženite telefon, da dokončate namestitev.</string>
+    <string name="str_abupdate_install_failed">Posodobitev sistema ni uspela</string>
+    <string name="str_abupdate_install_update">NAMESTI ZDAJ</string>
+    <string name="str_abupdate_installing">Posodobitev sistema je v teku</string>
+    <string name="str_abupdate_local_package_log">Ta različica nima dnevnika sprememb</string>
+    <string name="str_abupdate_reboot">VNOVIČNI ZAGON</string>
+    <string name="str_abupdate_retry_failed">Posodobitev sistema ni uspela. Preverjanje za celoten posodobitveni paket.</string>
+    <string name="str_abupdate_start_download">Prenesi in namesti zdaj</string>
+    <string name="str_abupdate_try_again">POSKUSITE ZNOVA</string>
+    <string name="str_alert_local_downgrade">"Izbrani paket je starejši od trenutno nameščene različice. To lahko povzroči težave pri zagonu zaradi nezdružljivosti.
+Res želite namestiti starejšo različico?"</string>
+    <string name="str_alert_local_downgrade_confirm">Potrdi</string>
+    <string name="str_beta_to_mp_not_allow">"Različica paketa, ki ste ga izbrali, je nižja od trenutne različice sistema. Da ne bo prišlo do težave pri zagonu, uporaba starejših različic ni dovoljena.
+Če želite uporabiti starejšo različico, opravite vnovičen zagon do obnovitvenega načina, da namestite paket."</string>
+    <string name="str_disabled_local_upgrade_summary">Lokalna posodobitev ni mogoča, ker je v teku prenos ali namestitev posodobitve sistema.</string>
+    <string name="str_download_retry">Prenesi in znova namesti</string>
+    <string name="str_mp_downgrade_not_allow">"Različica paketa, ki ste ga izbrali, je nižja od trenutne različice sistema. Da ne bo prišlo do težave pri zagonu, uporaba starejših različic ni dovoljena.
+Če želite uporabiti starejšo različico, najprej napravite varnostno kopijo svojih podatkov, nato pa lahko opravite vnovičen zagon do obnovitvenega načina, da namestite paket."</string>
+    <string name="str_pause_download_new">Začasno zaustavi</string>
+    <string name="str_time_incorrect_check_failed">Iskanje posodobitev ni bilo uspešno, ker sta datum in čas vaše naprave napačna</string>
+    <string name="str_time_incorrect_download_failed">Prenos ni uspel, ker sta datum in čas vaše naprave napačna</string>
+    <string name="system_battery_low">Nizko stanje akumulatorja (20 %). Napolnite napravo</string>
+    <string name="system_battery_low_title">Nizko stanje akumulatorja</string>
+    <string name="system_can_fix_to_new_version">Sistem lahko posodobite na najnovejšo različico</string>
+    <string name="system_can_update_to_new_version">Posodobi zdaj</string>
+    <string name="system_download_complete">Prenos sistema %s je končan</string>
+    <string name="system_download_fail">Prenos ni uspel. Preverite delovanje omrežja in poskusite znova</string>
+    <string name="system_downloading">Prenos sistema %s</string>
+    <string name="system_fix_download">Prenesite paket s popravki</string>
+    <string name="system_fix_now">Če želite namestiti popravek, znova zaženite napravo</string>
+    <string name="system_repair_mode">Način za popravilo</string>
+    <string name="system_update_checking">Preverjanje za posodobitve...</string>
+    <string name="system_update_download_finish">Prenos je končan</string>
+    <string name="system_update_download_finish_tip">Kliknite, če želite nadgraditi. Sistem se bo samodejno znova zagnal</string>
+    <string name="system_update_downloading_tip">Prenos podatkov za novo različico:</string>
+    <string name="system_update_error">Ni povezave z omrežjem</string>
+    <string name="system_update_fail">Nadgradnja ni uspela. Poskusite znova</string>
+    <string name="system_update_messages">Opomnik za posodobitev sistema %s</string>
+    <string name="system_update_messages_download">Posodobitev sistema %s, kliknite za prenos posodobitve</string>
+    <string name="system_update_messages_failed_text">Posodobitev ni uspela, tapnite za izbiro načina za popravilo in poskusite znova</string>
+    <string name="system_update_messages_failed_title">Posodobitev sistema ni uspela</string>
+    <string name="system_update_messages_success_text">Sistem je bil uspešno posodobljen na različico %s</string>
+    <string name="system_update_messages_success_title">Sistem je bil posodobljen</string>
+    <string name="system_update_no_network">Najprej nastavite omrežje</string>
+    <string name="system_update_notification">Obvestilo o posodobitvi sistema</string>
+    <string name="system_update_now">Če želite opraviti posodobitev, znova zaženite napravo</string>
+    <string name="system_update_remain_time">Preostali čas:</string>
+    <string name="system_update_success">Posodobitev je končana</string>
+    <string name="system_updating">Nadgradnja</string>
+    <string name="system_updating_tip">Podatki po nadgradnji ne bodo izgubljeni</string>
+    <string name="update_check_title">Preveri za posodobitve</string>
+    <string name="update_checking">Preverjanje posodobitev. Počakajte...</string>
+    <string name="update_from_local">Lokalna nadgradnja</string>
+    <string name="update_log">Dnevnik posodobitev</string>
+    <string name="update_package_size">Velikost posodobitve:</string>
+    <string name="upgrade_log">Dnevnik posodobitev</string>
+    <string name="upgrade_package_not_exist">Posodobitveni paket ne obstaja, prenesite ga znova.</string>
+    <string name="verify_fail">Preverjanje podpisa ni uspelo</string>
+    <string name="verifying">Preverjanje datoteke, počakajte...</string>
+    <string name="wipe_data">Počisti podatke</string>
+    <string name="wipe_data_text">"Pred namestitvijo posodobitve je priporočljivo počistiti podatke (nameščene aplikacije, kratka sporočila in drugi podatki).
+Želite počistiti podatke?"</string>
+    <string name="wipe_data_title">Opozorilo</string>
+</resources>

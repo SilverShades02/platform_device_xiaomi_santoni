@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="63.0dip" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/package_icon" android:background="@drawable/package_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/item_left_margin" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/item_left_margin">
+        <TextView android:textSize="16.0sp" android:textColor="@color/local_package_name_color" android:ellipsize="marquee" android:id="@id/display_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/item_left_margin" android:singleLine="true" />
+        <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="13.0sp" android:textColor="@color/local_package_size_color" android:ellipsize="end" android:id="@id/display_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/item_left_margin" android:singleLine="true" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="13.0sp" android:textColor="@color/local_package_date_color" android:ellipsize="end" android:id="@id/display_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/item_left_margin" android:singleLine="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

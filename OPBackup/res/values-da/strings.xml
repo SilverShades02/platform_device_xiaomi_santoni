@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellemrum</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="about_to_restart">Du er ved at genstarte din enhed for at installere opgraderingen. Sluk venligst ikke enheden under processen.</string>
+    <string name="access">Tillad</string>
+    <string name="alert_text_backup_data">"Systemopdateringen vil ikke påvirke din datatjeneste. 
+Men for at sikre sikkerheden af dine data skal du sikkerhedskopiere dine data. Genstart telefonen og installer opdateringen."</string>
+    <string name="app_name">Systemopdatering</string>
+    <string name="attention">Tips</string>
+    <string name="battery_low_prompt">Enheden skal være over 20 opladet for at opdatere. Oplad for at fortsætte.</string>
+    <string name="battery_very_low_prompt">Batteriniveauet er for lavt, oplad venligst din telefon til 5% før du fortsætter med opdateringen. Lad din telefon være tilsluttet.</string>
+    <string name="btn_text_upgrade_now">Opgrader nu</string>
+    <string name="cancel">Annuller</string>
+    <string name="check_upgrade_log">Tjek opdateringslog</string>
+    <string name="click_to_install">Klik for at installere</string>
+    <string name="continue_to_download">Fortsæt med at downloade</string>
+    <string name="default_download_wifi">Download kun via Wi-Fi</string>
+    <string name="default_download_wifi_auto">Download automatisk over Wi-Fi</string>
+    <string name="dont_wipe_data">Fjern ikke data</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Er du sikker på, at du vil annullere downloadet?</string>
+    <string name="download_corrupted">Downloadet kunne ikke kontrolleres; download venligst igen.</string>
+    <string name="download_error">Der opstod et problem under kommunikationen med serveren under overførslen, fortsæt venligst overførslen senere.</string>
+    <string name="download_error_notification_text">Prøv at genoptage overførslen senere.</string>
+    <string name="download_error_notification_title">Fejl i systemopdatering</string>
+    <string name="download_fail">Der opstod et problem under downloadet; download venligst igen.</string>
+    <string name="download_fail_title">Download mislykkedes</string>
+    <string name="download_io_error">Der er ikke nok opbevaringsplads til at kunne hente opdateringen. Frigør venligst noget plads og genoptag overførslen.</string>
+    <string name="download_is_not_wifi">"Downloader via mobildata; der kan være ekstra omkostninger.
+Fortsæt?"</string>
+    <string name="download_is_slow">"Din forbindelse er for langsom, og det kan tage flere minutter at hente opdateringen.
+Fortsæt?"</string>
+    <string name="download_no_network">Netværk ikke fundet; prøv venligst igen senere.</string>
+    <string name="download_no_network_title">Netværk ikke fundet</string>
+    <string name="download_now">Download nu</string>
+    <string name="download_paused">"Downloadet blev pauseret, fordi intet netværk kan findes. 
+Det vil fortsætte, når der er et netværk."</string>
+    <string name="download_paused_resume">"Wi-Fi-forbindelsen mistet, download sat på pause. 
+Prøv venligst at genoptage senere."</string>
+    <string name="download_paused_resume_by_manual">Er du sikker på, at du vil sætte download på pause? Du kan genoptage senere.</string>
+    <string name="download_percent">%d %%</string>
+    <string name="download_remaining">%s venstre</string>
+    <string name="download_retry">Download igen</string>
+    <string name="download_speed_text">%1$s , %2$s/s</string>
+    <string name="download_state_update_paused">Download pauseret</string>
+    <string name="downloaded_notification_error_text">Prøv at genoptage overførslen senere.</string>
+    <string name="downloaded_notification_error_title">Fejl under overførsel.</string>
+    <string name="downloaded_notification_fail_text">Der opstod et problem under downloadet; prøv venligst igen senere.</string>
+    <string name="downloaded_notification_fail_title">Fejl under download.</string>
+    <string name="downloaded_notification_io_error_text">Frigør plads og genoptag.</string>
+    <string name="downloaded_notification_io_error_title">Ikke nok plads.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Overførslen blev sat på pause.</string>
+    <string name="downloaded_notification_pause_text">Downloadet blev pauseret, fordi intet netværk kan findes.</string>
+    <string name="downloaded_notification_pause_title">Download pauseret.</string>
+    <string name="downloaded_notification_title">Systemopdatering downloadet</string>
+    <string name="downloading">Downloadet %1$s af %2$s</string>
+    <string name="downloading_notification_title">Downloader systemopdatering</string>
+    <string name="exists_new_version_title">Ny systemversion detekteret</string>
+    <string name="has_new_version_notification">En ny version blev registreret. Gå til H2OS OTA-opdatering</string>
+    <string name="install">Installer</string>
+    <string name="install_copy_fail">Der opstod et problem under installation af opgraderingen. Prøv venligst igen senere.</string>
+    <string name="last_check_update">Sidst tjekket: %1$s</string>
+    <string name="need_more_space">Utilstrækkelig lagerplads til at opgradere, men behøver også %s lagerplads. Ryd noget plads, og prøv igen.</string>
+    <string name="network_tip">Aktuelt netværk er 2G/3G/4G. Hvis download fortsættes, kan det medføre et gebyr fra mobiloperatøren.</string>
+    <string name="network_wrarning_checkbox">Vis ikke påmindelsen igen</string>
+    <string name="network_wrarning_text">Dette program skaber datatrafik. Udførelse anbefales under brug af Wi-Fi</string>
+    <string name="network_wrarning_title">Påmindelse</string>
+    <string name="no_enough_space">Utilstrækkelig lagerplads. Frigør venligst plads, og prøv igen.</string>
+    <string name="no_local_update_packges_title">Flyt installationspakken til rodmappen</string>
+    <string name="no_upgrade_log">Ingen tilgængelig opdateringslog</string>
+    <string name="notification_download_fail">Download af opgraderingspakke mislykkedes, prøv at downloade den igen</string>
+    <string name="notification_download_success">Download er fuldført, klik på Opdater</string>
+    <string name="notification_downloading">Downloader</string>
+    <string name="notification_into_update_content">Tryk for at opgradere nu</string>
+    <string name="notification_into_update_title">Download af opdateringspakke til systemet er fuldført</string>
+    <string name="oneplus_read_contacts">Tilgå netværk</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Husk mine valg</string>
+    <string name="oneplus_rights_dialog_discription">Du behøver følgende tilladelser for at bruge systemopdateringen</string>
+    <string name="oneplus_rights_dialog_title">Tilladelsesprogram</string>
+    <string name="ota_check_update">Tjek for opdatering</string>
+    <string name="ota_never_check_update">Du har aldrig tjekket for opdatering.</string>
+    <string name="ota_new_update">Ny version tilgængelig</string>
+    <string name="ota_new_update_downloading">"Ny version tilgængelig
+Downloader…"</string>
+    <string name="ota_new_update_name">%1$s systemopdatering</string>
+    <string name="ota_new_update_name_downloading">"%1$s Systemopdatering
+Downloader…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Systemopdatering
+Download pauseret…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Systemopdatering
+Klar til at installere"</string>
+    <string name="ota_new_update_paused">Download pauseret…</string>
+    <string name="ota_new_update_ready">"Ny version tilgængelig
+Klar til at installere"</string>
+    <string name="ota_no_update">Dit system er opdateret</string>
+    <string name="ota_oem_unlock_detected_alert">Der er registreret OEM-oplåsning. Systemet vil begynde at hente den fulde opgraderingspakke. For at sikre dine data integritet bør du udføre en sikkerhedskopiering.</string>
+    <string name="ota_root_detected_alert">Root er registreret, systemet vil begynde at downloade den fulde opgraderingspakke. For at sikre dine datas integritet skal du sikkerhedskopiere dine data. Root fjernes fra enheden, når opgraderingen er fuldført.</string>
+    <string name="pause_downloading">Afbryd download midlertidigt</string>
+    <string name="play_under_mobile_data">Afspil</string>
+    <string name="play_under_mobile_data_tips">I øjeblikket tilsluttet et mobilnetværk, fortsætte med at afspille?</string>
+    <string name="preparing_download">Forbereder download…</string>
+    <string name="preparing_install">Forbereder installation…</string>
+    <string name="ready_to_install">Systemopdatering er klar. Klik på Installér nedenfor for at genstarte din telefon og installere opdateringen.</string>
+    <string name="ready_to_upgrade">Bekræfter opdateringspakke ...</string>
+    <string name="reject">Tillad ikke</string>
+    <string name="remind_later">Påmind mig senere</string>
+    <string name="resume">Fortsæt</string>
+    <string name="rooted_warning">"Rodfæstet enhed detekteret; opdatering kan mislykkes.
+Vil du opgradere?"</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="searching">Søger ...</string>
+    <string name="setting">Indstillinger</string>
+    <string name="share">Del</string>
+    <string name="show_new_version_info">Kontroller det opdaterede indhold</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Versionen af den valgte pakke er lavere end det nuværende system. For at undgå opstartsfejl, er nedgradering ikke tilladt.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">FORSTÅET</string>
+    <string name="str_ab_upgrade_warning_wipe">"Den valgte pakke vil nulstille din enhed til fabriksindstillingerne efter installationen.
+Er du sikker på, at du vil installere den?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Denne systemopdatering vil ikke påvirke din data.
+Men for at sikre dataenes integritet, skal du udføre en sikkerhedskopiering."</string>
+    <string name="str_abupdate_continue_download">Fortsætte med at downloade &amp; installere</string>
+    <string name="str_abupdate_install_completed">Installation af systemopdatering gennemført. Genstart for at fuldføre opdateringen.</string>
+    <string name="str_abupdate_install_failed">Installation af systemopdatering mislykkedes</string>
+    <string name="str_abupdate_install_update">INSTALLER NU</string>
+    <string name="str_abupdate_installing">Systemopdatering installeres</string>
+    <string name="str_abupdate_local_package_log">Denne version har ingen opdateringslog</string>
+    <string name="str_abupdate_reboot">GENSTART</string>
+    <string name="str_abupdate_retry_failed">Installation af systemopdatering mislykkedes. Kontrollerer om der er en komplet opgraderingspakke.</string>
+    <string name="str_abupdate_start_download">Download &amp; Installer nu</string>
+    <string name="str_abupdate_try_again">PRØV IGEN</string>
+    <string name="str_alert_local_downgrade">"Den pakke du har valgt, er ældre end den nuværende version. Dette kan føre til mislykket opstart på grund af problemer med datakompatibilitet.
+Er du sikker på, at du vil installere den gamle version?"</string>
+    <string name="str_alert_local_downgrade_confirm">Bekræft</string>
+    <string name="str_beta_to_mp_not_allow">"Den pakke, du har valgt, er lavere end den nuværende systemversion. For at undgå opstartsfejl er forringelse ikke tilladt. 
+Hvis du vil forringe, bedes du genstarte i genoprettelsestilstand for at installere pakken."</string>
+    <string name="str_disabled_local_upgrade_summary">Kunne ikke opgradere lokalt fordi du henter eller installerer en systemopdatering.</string>
+    <string name="str_download_retry">Download &amp; Installer igen</string>
+    <string name="str_mp_downgrade_not_allow">"Den pakke, du har valgt, er lavere end den nuværende systemversion. For at undgå opstartsfejl er nedgradering ikke tilladt.
+Hvis du vil nedgardere, bedes du genstarte i Genoprettelsestilstand for at installere pakken."</string>
+    <string name="str_pause_download_new">Pause</string>
+    <string name="str_time_incorrect_check_failed">Søgning efter opdateringer mislykkedes, fordi enhedens dato og klokkeslæt er forkert</string>
+    <string name="str_time_incorrect_download_failed">Overføsel mislykkedes, fordi enhedens dato og klokkeslæt er forkert</string>
+    <string name="system_battery_low">Lavt batteri (20 %). Genoplad det</string>
+    <string name="system_battery_low_title">Lavt batteri</string>
+    <string name="system_can_fix_to_new_version">Systemet kan repareres til den nyeste version</string>
+    <string name="system_can_update_to_new_version">Opdater nu</string>
+    <string name="system_download_complete">System %s-download er fuldført</string>
+    <string name="system_download_fail">Download mislykkedes. Kontroller netværket, og prøv igen</string>
+    <string name="system_downloading">System %s download</string>
+    <string name="system_fix_download">Download reparationspakke nu</string>
+    <string name="system_fix_now">Genstart for at reparere nu</string>
+    <string name="system_repair_mode">Reparationstilstand</string>
+    <string name="system_update_checking">Tjekker for opdateringer ...</string>
+    <string name="system_update_download_finish">Download fuldført</string>
+    <string name="system_update_download_finish_tip">Klik for at opgradere. Systemet genstarter automatisk</string>
+    <string name="system_update_downloading_tip">Downloader data til ny version:</string>
+    <string name="system_update_error">Netværk er ikke tilsluttet</string>
+    <string name="system_update_fail">Opgradering mislykkedes. Prøv igen</string>
+    <string name="system_update_messages">Påmindelse om system %s-opdatering</string>
+    <string name="system_update_messages_download">System %s-opdatering, klik for at downloade opdatering</string>
+    <string name="system_update_messages_failed_text">Opdatering mislykkedes, tryk for at aktivere reparationstilstanden og prøve igen</string>
+    <string name="system_update_messages_failed_title">Systemopdatering mislykkedes</string>
+    <string name="system_update_messages_success_text">Systemet blev automatisk opdateret til %s</string>
+    <string name="system_update_messages_success_title">Systemet er blevet opdateret</string>
+    <string name="system_update_no_network">Opret først netværket</string>
+    <string name="system_update_notification">Meddelelse om systemopdatering</string>
+    <string name="system_update_now">Genstart for at opgradere nu</string>
+    <string name="system_update_remain_time">Resterende tid:</string>
+    <string name="system_update_success">Opgradering er fuldført</string>
+    <string name="system_updating">Opgraderer</string>
+    <string name="system_updating_tip">Data vil ikke være gået tabt efter opgradering</string>
+    <string name="update_check_title">Kontroller for opdateringer</string>
+    <string name="update_checking">Søger efter opdateringer, vent venligst…</string>
+    <string name="update_from_local">Lokal opgradering</string>
+    <string name="update_log">Opdater log</string>
+    <string name="update_package_size">Størrelse på opdatering</string>
+    <string name="upgrade_log">Opdater log</string>
+    <string name="upgrade_package_not_exist">Opgraderingspakken findes ikke. Download den igen.</string>
+    <string name="verify_fail">Bekræftelse af signatur mislykkedes</string>
+    <string name="verifying">Kontrollerer fil, vent venligst…</string>
+    <string name="wipe_data">Fjern data</string>
+    <string name="wipe_data_text">"Det anbefales at fjerne dine data (installerede apps, SMS og andre data) før installation af denne opdatering. 
+Vil du fjerne data?"</string>
+    <string name="wipe_data_title">Advarsel</string>
+</resources>

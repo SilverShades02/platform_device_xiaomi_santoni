@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi tramite %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="about_to_restart">"Si è in procinto di riavviare il dispositivo per installare l'aggiornamento. Non spegnere il dispositivo durante il processo."</string>
+    <string name="access">Consenti</string>
+    <string name="alert_text_backup_data">"L'aggiornamento di sistema non toccherà i dati. 
+Tuttavia, per garantirne la sicurezza, effettua il backup dei dati. Riavvia il dispositivo per installare l'aggiornamento."</string>
+    <string name="app_name">Aggiornamento di sistema</string>
+    <string name="attention">Suggerimenti</string>
+    <string name="battery_low_prompt">"Il dispositivo deve avere una carica superiore al 20% per l'aggiornamento. Carica per continuare."</string>
+    <string name="battery_very_low_prompt">"La batteria è quasi del tutto scarica. Carica il telefono al 5% prima di continuare con l'aggiornamento. Non scollegare il telefono."</string>
+    <string name="btn_text_upgrade_now">Aggiorna subito</string>
+    <string name="cancel">Annulla</string>
+    <string name="check_upgrade_log">Controlla registro degli aggiornamenti</string>
+    <string name="click_to_install">Clicca per installare</string>
+    <string name="continue_to_download">Continua alla schermata di download</string>
+    <string name="default_download_wifi">Scarica solo tramite Wi-Fi</string>
+    <string name="default_download_wifi_auto">Download automatico tramite Wi-Fi</string>
+    <string name="dont_wipe_data">Non cancellare i dati</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Annullare il download?</string>
+    <string name="download_corrupted">Impossibile verificare il download. Ripetere nuovamente il download.</string>
+    <string name="download_error">Si è verificato un problema di comunicazione con il server durante il download. Riprendere il download più tardi.</string>
+    <string name="download_error_notification_text">Prova a riprendere il download più tardi.</string>
+    <string name="download_error_notification_title">"Errore nell'aggiornamento di sistema"</string>
+    <string name="download_fail">Si è verificato un problema durante il download. Ripetere nuovamente il download.</string>
+    <string name="download_fail_title">Download fallito</string>
+    <string name="download_io_error">"Spazio insufficiente per scaricare l'aggiornamento. Libera dello spazio e riprendi il download."</string>
+    <string name="download_is_not_wifi">"Download su rete dati mobile; potrebbero essere applicati costi aggiuntivi.
+ Continuare?"</string>
+    <string name="download_is_slow">"La connessione è troppo lenta e il download dell'aggiornamento potrebbe richiedere alcuni minuti.
+Continuare?"</string>
+    <string name="download_no_network">Rete non rilevata; riprova più tardi.</string>
+    <string name="download_no_network_title">Rete non rilevata</string>
+    <string name="download_now">Scarica ora</string>
+    <string name="download_paused">"Il download è stato sospeso a causa dell'assenza di una rete disponibile.
+Riprenderà non appena rilevata una rete."</string>
+    <string name="download_paused_resume">"Connessione Wi-Fi interrotta, download sospeso. 
+Prova a riprendere più tardi."</string>
+    <string name="download_paused_resume_by_manual">Vuoi davvero sospendere il download? Puoi riprenderlo in un secondo momento.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s rimasti</string>
+    <string name="download_retry">Scarica nuovamente</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Download sospeso</string>
+    <string name="downloaded_notification_error_text">Prova a riprendere il download più tardi.</string>
+    <string name="downloaded_notification_error_title">Errore durante il download.</string>
+    <string name="downloaded_notification_fail_text">Si è verificato un problema durante il download; riprova più tardi.</string>
+    <string name="downloaded_notification_fail_title">Errore durante il download.</string>
+    <string name="downloaded_notification_io_error_text">Libera dello spazio e riprendi.</string>
+    <string name="downloaded_notification_io_error_title">Spazio insufficiente.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Download sospeso.</string>
+    <string name="downloaded_notification_pause_text">Nessuna rete disponibile: il download è stato sospeso.</string>
+    <string name="downloaded_notification_pause_title">Download sospeso.</string>
+    <string name="downloaded_notification_title">Aggiornamento di sistema scaricato</string>
+    <string name="downloading">Download %1$s di %2$s</string>
+    <string name="downloading_notification_title">"Download dell'aggiornamento di sistema"</string>
+    <string name="exists_new_version_title">Nuova versione del sistema rilevata</string>
+    <string name="has_new_version_notification">È stata rilevata una nuova versione, visita la schermata di aggiornamento di H2OS OTA</string>
+    <string name="install">Installa</string>
+    <string name="install_copy_fail">"Si è verificato un problema durante l'installazione dell'aggiornamento. Riprova più tardi."</string>
+    <string name="last_check_update">Ultima verifica: %1$s</string>
+    <string name="need_more_space">"Spazio di archiviazione insufficiente per l'aggiornamento; sono necessari %s di spazio di archiviazione. Libera un po' di spazio e riprova."</string>
+    <string name="network_tip">"La rete attuale è 2G/3G/4G. Il proseguimento dell'operazione di download potrebbe comportare l'addebito di costi da parte dell'operatore telefonico."</string>
+    <string name="network_wrarning_checkbox">Non mostrare nuovamente il promemoria</string>
+    <string name="network_wrarning_text">Questa applicazione produce traffico dati. È consigliabile eseguirla quando si utilizza il Wi-Fi</string>
+    <string name="network_wrarning_title">Promemoria</string>
+    <string name="no_enough_space">Spazio di archiviazione insufficiente. Liberare spazio e riprovare.</string>
+    <string name="no_local_update_packges_title">Sposta il pacchetto di installazione nella directory principale</string>
+    <string name="no_upgrade_log">Nessun log di aggiornamento disponibile</string>
+    <string name="notification_download_fail">Download del pacchetto di aggiornamento fallito, riprova a scaricare</string>
+    <string name="notification_download_success">Download completo, fai clic su Aggiorna</string>
+    <string name="notification_downloading">Download in corso</string>
+    <string name="notification_into_update_content">Tocca per aggiornare subito</string>
+    <string name="notification_into_update_title">Download del pacchetto di aggiornamento sistema completo</string>
+    <string name="oneplus_read_contacts">Accedi alla rete</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Ricorda le mie selezioni</string>
+    <string name="oneplus_rights_dialog_discription">"Sono necessarie le seguenti autorizzazioni per utilizzare l'aggiornamento di sistema"</string>
+    <string name="oneplus_rights_dialog_title">Applicazione di autorizzazione</string>
+    <string name="ota_check_update">Verifica disponibilità aggiornamenti</string>
+    <string name="ota_never_check_update">Non hai mai verificato la disponibilità di aggiornamenti.</string>
+    <string name="ota_new_update">Nuova versione disponibile</string>
+    <string name="ota_new_update_downloading">"Nuova versione disponibile
+Download in corso…"</string>
+    <string name="ota_new_update_name">Aggiornamento di sistema %1$s</string>
+    <string name="ota_new_update_name_downloading">"Aggiornamento di sistema %1$s
+Download in corso…"</string>
+    <string name="ota_new_update_name_paused">"Aggiornamento di sistema %1$s
+Download sospeso…"</string>
+    <string name="ota_new_update_name_ready">"Aggiornamento di sistema %1$s
+Pronto per l'installazione"</string>
+    <string name="ota_new_update_paused">Download sospeso…</string>
+    <string name="ota_new_update_ready">"Nuova versione disponibile
+Pronta per l'installazione"</string>
+    <string name="ota_no_update">Il sistema è aggiornato</string>
+    <string name="ota_oem_unlock_detected_alert">"Sblocco OEM rilevato. Il sistema inizierà a scaricare il pacchetto di aggiornamento completo. Esegui il backup per garantire l'integrità dei dati."</string>
+    <string name="ota_root_detected_alert">"È stato rilevato un root, il sistema inizierà a scaricare il pacchetto di aggiornamento completo. Per garantirne la sicurezza dei dati, effettua un backup. Una volta completato l'aggiornamento, il dispositivo sarà privo di root."</string>
+    <string name="pause_downloading">Interrompi download</string>
+    <string name="play_under_mobile_data">Riproduci</string>
+    <string name="play_under_mobile_data_tips">Stai utilizzando una rete cellulare, continuare la riproduzione?</string>
+    <string name="preparing_download">Preparazione al download…</string>
+    <string name="preparing_install">"Preparazione all'installazione…"</string>
+    <string name="ready_to_install">"L'aggiornamento di sistema è pronto. Clicca su Installa in basso per riavviare il telefono e installare l'aggiornamento."</string>
+    <string name="ready_to_upgrade">Verifica pacchetto di aggiornamento in corso...</string>
+    <string name="reject">Non consentire</string>
+    <string name="remind_later">Ricordamelo più tardi</string>
+    <string name="resume">Riprendi</string>
+    <string name="rooted_warning">"È stato rilevato un root del dispositivo; potrebbe essere impossibile eseguire l'aggiornamento.
+Eseguire comunque l'aggiornamento?"</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="searching">Ricerca in corso...</string>
+    <string name="setting">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="show_new_version_info">Verifica la disponibilità di contenuti aggiornati</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">La versione del pacchetto selezionato è inferiore a quella del sistema attuale. Per evitare un errore di avvio, il passaggio a una versione inferiore non è consentito.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">OK</string>
+    <string name="str_ab_upgrade_warning_wipe">"Il pacchetto selezionato reimposta il dispositivo alle impostazioni di fabbrica dopo l'installazione. 
+Installarlo?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"L'aggiornamento di sistema non toccherà i dati.
+Tuttavia, per garantirne la sicurezza, effettua il backup dei dati."</string>
+    <string name="str_abupdate_continue_download">Continuare a scaricare ed installare</string>
+    <string name="str_abupdate_install_completed">"Installazione dell'aggiornamento di sistema completata. Riavvia per terminare l'operazione."</string>
+    <string name="str_abupdate_install_failed">"Impossibile installare l'aggiornamento di sistema"</string>
+    <string name="str_abupdate_install_update">INSTALLA SUBITO</string>
+    <string name="str_abupdate_installing">"Installazione dell'aggiornamento di sistema"</string>
+    <string name="str_abupdate_local_package_log">"Questa versione non ha un'elenco di modifiche"</string>
+    <string name="str_abupdate_reboot">RIAVVIA</string>
+    <string name="str_abupdate_retry_failed">"Impossibile installare l'aggiornamento di sistema. Controllo la presenza di un pacchetto di aggiornamento completo."</string>
+    <string name="str_abupdate_start_download">Scarica ed installa ora</string>
+    <string name="str_abupdate_try_again">RIPROVA</string>
+    <string name="str_alert_local_downgrade">"Il pacchetto selezionato ha una versione inferiore a quella attuale. Ciò potrebbe rendere impossibile l'avvio a causa di problemi di incompatibilità di dati.
+Vuoi davvero installare una versione obsoleta?"</string>
+    <string name="str_alert_local_downgrade_confirm">Conferma</string>
+    <string name="str_beta_to_mp_not_allow">"Il pacchetto selezionato è di una versione inferiore a quella corrente del sistema. Per evitare l'avvio, non è consentito passare a una versione inferiore.
+Se si desidera procedere con questa operazione, riavviare in modalità di ripristino per installare il pacchetto."</string>
+    <string name="str_disabled_local_upgrade_summary">"Impossibile effettuare l'aggiornamento localmente perché stai scaricando o installando un aggiornamento di sistema."</string>
+    <string name="str_download_retry">Scarica ed installa di nuovo</string>
+    <string name="str_mp_downgrade_not_allow">"Il pacchetto selezionato è inferiore rispetto alla versione del sistema attuale. Per evitare problemi all'avvio, non è consentito eseguire la riduzione delle prestazioni.
+Se si desidera ridurre le prestazioni, eseguire il back-up dei dati prima di riavviare in Modalità di ripristino per installare il pacchetto."</string>
+    <string name="str_pause_download_new">Sospendi</string>
+    <string name="str_time_incorrect_check_failed">"Controllo degli aggiornamenti non riuscito perché la data e l'ora del tuo dispositivo non sono corrette"</string>
+    <string name="str_time_incorrect_download_failed">"Download non riuscito perché la data e l'ora del tuo dispositivo non sono corrette"</string>
+    <string name="system_battery_low">Batteria scarica (20%). Sei pregato di ricaricare</string>
+    <string name="system_battery_low_title">Batteria scarica</string>
+    <string name="system_can_fix_to_new_version">"Il sistema può essere riparato aggiornandolo all'ultima versione"</string>
+    <string name="system_can_update_to_new_version">Aggiorna ora</string>
+    <string name="system_download_complete">Download di sistema %s completato</string>
+    <string name="system_download_fail">Download fallito. Verifica la disponibilità della rete e riprova</string>
+    <string name="system_downloading">Download di sistema %s</string>
+    <string name="system_fix_download">Scarica subito il pacchetto della fix</string>
+    <string name="system_fix_now">Riavvia il computer per risolvere subito il problema</string>
+    <string name="system_repair_mode">Modalità di ripristino</string>
+    <string name="system_update_checking">Verifica disponibilità aggiornamenti...</string>
+    <string name="system_update_download_finish">Download completato</string>
+    <string name="system_update_download_finish_tip">Fai clic per aggiornare. Il sistema verrà automaticamente riavviato</string>
+    <string name="system_update_downloading_tip">Download dei dati per la nuova versione:</string>
+    <string name="system_update_error">Rete disconnessa</string>
+    <string name="system_update_fail">Aggiornamento fallito. Sei pregato di riprovare</string>
+    <string name="system_update_messages">Promemoria di aggiornamento di sistema %s</string>
+    <string name="system_update_messages_download">Aggiornamento di sistema %s, fai clic su Scarica aggiornamento</string>
+    <string name="system_update_messages_failed_text">Aggiornamento fallito, tocca per accedere alla modalità di ripristino e riprova</string>
+    <string name="system_update_messages_failed_title">Aggiornamento di sistema fallito</string>
+    <string name="system_update_messages_success_text">Il sistema è stato aggiornato correttamente alla versione %s</string>
+    <string name="system_update_messages_success_title">Il sistema è stato aggiornato</string>
+    <string name="system_update_no_network">Impostare innanzitutto la rete</string>
+    <string name="system_update_notification">Notifica aggiornamento sistema</string>
+    <string name="system_update_now">Riavvia il telefono per aggiornare</string>
+    <string name="system_update_remain_time">Tempo rimanente:</string>
+    <string name="system_update_success">Aggiornamento completato</string>
+    <string name="system_updating">Aggiornamento</string>
+    <string name="system_updating_tip">"I dati non andranno persi dopo l'aggiornamento"</string>
+    <string name="update_check_title">Verifica disponibilità aggiornamenti</string>
+    <string name="update_checking">Verifica della disponibilità di aggiornamenti, attendere…</string>
+    <string name="update_from_local">Aggiornamento locale</string>
+    <string name="update_log">Aggiorna registro</string>
+    <string name="update_package_size">Dimensione aggiornamento: </string>
+    <string name="upgrade_log">Registro degli aggiornamenti</string>
+    <string name="upgrade_package_not_exist">Pacchetto di aggiornamento inesistente, scarica nuovamente.</string>
+    <string name="verify_fail">Verifica della firma fallita</string>
+    <string name="verifying">Verifica file; attendere…</string>
+    <string name="wipe_data">Cancella i dati</string>
+    <string name="wipe_data_text">"Si consiglia di cancellare i dati (app installate, SMS e altri dati) durante l'installazione dell'aggiornamento.
+Cancellare?"</string>
+    <string name="wipe_data_title">Attenzione</string>
+</resources>

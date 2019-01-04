@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:background="@color/oneplus_contorl_bg_color_default" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:id="@id/parent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="24.0dip" />
+    </ScrollView>
+    <TextView android:textColor="@color/oneplus_contorl_text_color_hint_default" android:layout_gravity="center" android:id="@id/no_update" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_upgrade_log" android:drawableTop="@drawable/empty" android:drawablePadding="6.0dip" android:layout_marginStart="@dimen/oneplus_contorl_layout_margin_left2" android:layout_marginEnd="@dimen/oneplus_contorl_layout_margin_left2" style="@style/oneplus_contorl_text_style_subheading" />
+</merge>

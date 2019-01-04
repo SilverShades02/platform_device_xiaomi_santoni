@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi gamit ang %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="about_to_restart">Paandarin mo muli ang iyong aparato upang i-install ang upgrade. Mangyaring patayin ang iyong aparato sa panahon ng proseso.</string>
+    <string name="access">Pahintulutan</string>
+    <string name="alert_text_backup_data">"Ang pag-update ng sistema ay hindi makakaapekto ay isang iyong data. 
+Gayunpaman, upang masiguro ang kaligtasan ng iyong data, mangyaring mag-backup ng iyong data. Mangyaring i-restart ang iyong telepono at i-install ang update."</string>
+    <string name="app_name">Pag-update ng sistema</string>
+    <string name="attention">Mga tips</string>
+    <string name="battery_low_prompt">Ang aparato ay kailangang maging higit sa 20% na naka charge upang i-update. Mangyaring i-charge upang magpatuloy.</string>
+    <string name="battery_very_low_prompt">Ang baterya ay napakababa, mangyaring i-charge ang inyong telepono sa 5% bago magpatuloy sa pag-update. Mangyaring panatilihing ang inyong telepono na naka plug.</string>
+    <string name="btn_text_upgrade_now">Mag-upgrade na ngayon</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="check_upgrade_log">Suriin ang update log</string>
+    <string name="click_to_install">I-klik para instala</string>
+    <string name="continue_to_download">Magpatuloy sa pag-download</string>
+    <string name="default_download_wifi">I-download sa pamamagitan ng Wi-Fi lamang</string>
+    <string name="default_download_wifi_auto">Auto-download sa pamamagitan ng Wi-Fi</string>
+    <string name="dont_wipe_data">Huwag alisin ang mga data</string>
+    <string name="download">Download</string>
+    <string name="download_cancel">Sigurado ka bang gusto mong kanselahin ang pag-download?</string>
+    <string name="download_corrupted">Hindi mapatunayan ang pag-download, mangyaring i-download muli.</string>
+    <string name="download_error">Nagkaroon ng problema sa pakikipag-ugnayan sa server sa panahon ng pag-download, mangyaring ipagpatuloy ang pag-download sa ibang pagkakataon.</string>
+    <string name="download_error_notification_text">Subuking ipagpatuloy ang pag-download sa ibang pagkakataon.</string>
+    <string name="download_error_notification_title">Kamalian sa pag-update ng system</string>
+    <string name="download_fail">Nagkaroon ng problema sa panahon ng pag-download, mangyaring i-download muli.</string>
+    <string name="download_fail_title">Nabigo ang pag-download</string>
+    <string name="download_io_error">Walang sapat na lalagyan upang i-download ang update, mangyaring mag-magbakante ng espasyo at ipagpatuloy ang pag-download.</string>
+    <string name="download_is_not_wifi">"Maaaring mailapat nagda-download sa mga mobile data, may karagdagang singil.
+Ipagpatuloy?"</string>
+    <string name="download_is_slow">"Ang iyong koneksyon ay masyadong mabagal at maaaring tumagal ng ilang minuto upang i-download ang update. 
+Ipagpatuloy?"</string>
+    <string name="download_no_network">Hindi mapansin ang Network, mangyaring subukin ulit mamaya.</string>
+    <string name="download_no_network_title">Hindi mapansin ang Network</string>
+    <string name="download_now">I-download ngayon</string>
+    <string name="download_paused">"Ang download ay naka-hinto dahil walang network na magagamit.
+Ito ay magpapatuloy kapag mayron ng network."</string>
+    <string name="download_paused_resume">"Ang koneksyon sa Wi-Fi ay nawala, ang download ay nahinto.
+Mangyaring subuking mamaya uli."</string>
+    <string name="download_paused_resume_by_manual">Sigurado ka bang nais mong ihinto pansamantala ang pag-download? Maaari kang magpatuloy mamaya.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s kaliwa</string>
+    <string name="download_retry">I-download muli</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Ang pag-Download ay nahinto</string>
+    <string name="downloaded_notification_error_text">Subuking ipagpatuloy ang pag-download sa ibang pagkakataon.</string>
+    <string name="downloaded_notification_error_title">Error sa pag-download.</string>
+    <string name="downloaded_notification_fail_text">Nagkaroon ng problema sa panahon ng pag-download, mangyaring subukin ulit mamaya.</string>
+    <string name="downloaded_notification_fail_title">Kamalian sa pag-download.</string>
+    <string name="downloaded_notification_io_error_text">Magbakante ng espasyo at ipagpatuloy.</string>
+    <string name="downloaded_notification_io_error_title">Walang sapat na espasyo.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Ang pag-download ay nahinto.</string>
+    <string name="downloaded_notification_pause_text">Ang download ay naka-hinto dahil walang network na magagamit.</string>
+    <string name="downloaded_notification_pause_title">Nahinto ang pag-download.</string>
+    <string name="downloaded_notification_title">Ang update ng sistema ay na-download na</string>
+    <string name="downloading">I-download ang %1$s ng %2$s</string>
+    <string name="downloading_notification_title">Nagda-download ang update sa sistema</string>
+    <string name="exists_new_version_title">Bagong bersyon ng sistema natukoy</string>
+    <string name="has_new_version_notification">Ang bagong bersyon ay napansin. Pumunta sa H2OS OTa na update</string>
+    <string name="install">I-install</string>
+    <string name="install_copy_fail">Nagkaroon ng problema sa pag-install ng upgrade. Mangyaring subukin muli sa ibang pagkakataon.</string>
+    <string name="last_check_update">Huling nasuri: %1$s</string>
+    <string name="need_more_space">Hindi sapat na espasyo sa imbakan upang i-upgrade, ngunit kailangan din na %s na espasyo ng imbakan. Linisin ang ilang mga puwang at subukin muli.</string>
+    <string name="network_tip">Ang kasalukuyang network ay 2G/3G/4G. Ang pagpapatuloy sa pag-download ay maaaring magkaroon ka ng bayarin mula sa tagapaghatid.</string>
+    <string name="network_wrarning_checkbox">Huwag nang ipakita muli ang paalaala</string>
+    <string name="network_wrarning_text">Ang aplikasyon na ito ay gumagawa ng trapiko ng data. Inirerekomenda ang pagpapatupad habang ginagamit ang Wi-Fi</string>
+    <string name="network_wrarning_title">Paalaala</string>
+    <string name="no_enough_space">Hindi sapat na espasyo sa storage. Mangyaring magbakante ng espasyo at subuking muli.</string>
+    <string name="no_local_update_packges_title">Ilipat ang mga pakete ng instalasyon sa root directory</string>
+    <string name="no_upgrade_log">Hindi magagamit ang mga log sa update</string>
+    <string name="notification_download_fail">Nabigo ang pakete ng pag-upgrade, mangyaring subukin muli ang pag-download</string>
+    <string name="notification_download_success">Kumpleto na ang download, i-klik ang update</string>
+    <string name="notification_downloading">Nag-dodownload</string>
+    <string name="notification_into_update_content">Tapikin upang mag-upgrade ngayon</string>
+    <string name="notification_into_update_title">Ang pakete sa pag-update ng sistema ay kumpletong na-download</string>
+    <string name="oneplus_read_contacts">I-access ang network</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Tandaan ang aking mga pinili</string>
+    <string name="oneplus_rights_dialog_discription">Kailangan mo ang sumusunod na mga pahintulot upang gamitin ang pag-update ng sistema</string>
+    <string name="oneplus_rights_dialog_title">Aplikasyon ng permiso</string>
+    <string name="ota_check_update">I-check para sa update</string>
+    <string name="ota_never_check_update">Hindi mo pa na-check para sa update.</string>
+    <string name="ota_new_update">Bagong bersyon ay magagamit</string>
+    <string name="ota_new_update_downloading">"Bagong bersyon ay magagamit
+Nag-downloading…"</string>
+    <string name="ota_new_update_name">%1$s Update na Sistema</string>
+    <string name="ota_new_update_name_downloading">"%1$s Update ng Sistema
+Nag-Downloading…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Update ng Sistema
+Ang pag-Download ay nahinto…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Update ng Sistema
+Pwede nang -i-install"</string>
+    <string name="ota_new_update_paused">Ang pag-Download ay nahinto…</string>
+    <string name="ota_new_update_ready">"Bagong bersyon ay magagamit
+Pwede nang ma-install"</string>
+    <string name="ota_no_update">Ang iyong sistema ay napapanahon</string>
+    <string name="ota_oem_unlock_detected_alert">Natukoy ang pag-unlock ng OEM. Sisimulan ng system ang pag-download ng buong upgrade package. Para matiyak ang integridad ng iyong data, mag-back up.</string>
+    <string name="ota_root_detected_alert">Natukoy na ang root, sisimulan ng sistema ang pagda-download ng pakete ng full upgrade. Upang mapanatili ang integridad ng data, mangyaring gumawa ng backup. Ang iyong device ay maaaring ma-unroot kapag natapos na ang pag-upgrade.</string>
+    <string name="pause_downloading">Ihinto ang download</string>
+    <string name="play_under_mobile_data">I-play</string>
+    <string name="play_under_mobile_data_tips">Kasalukuyan nasa cellular network, magpatuloy sa paglalaro?</string>
+    <string name="preparing_download">Inihahanda ang pag-download…</string>
+    <string name="preparing_install">Inihahanda ang pag-instalasyon…</string>
+    <string name="ready_to_install">Ang system update ay handa na. I-klik ang install sa ibaba upang i-restart muli ang iyong telepono at i-install ang update.</string>
+    <string name="ready_to_upgrade">Pinapatunayan ang pakete ng pag-update...</string>
+    <string name="reject">Huwag pahintulutan</string>
+    <string name="remind_later">Paalalahanan ako sa ibang pagkakataon</string>
+    <string name="resume">Ipagpatuloy</string>
+    <string name="rooted_warning">"Isang rooted na aparato ang napansin, maaaring hindi i-update.
+Gusto mo bang mag-upgrade?"</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="searching">Hinahanap...</string>
+    <string name="setting">Mga Pangtugma</string>
+    <string name="share">Ibahagi</string>
+    <string name="show_new_version_info">Suriin ang nilalaman ng update</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Ang bersyon ng iyong napiling package ay mas luma sa kasalukuyang system. Upang maiwasan ang hindi pag-boot, hindi pinapayagan ang pag-downgrade.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">NAKUHA KO</string>
+    <string name="str_ab_upgrade_warning_wipe">"Ire-reset ng package na napili mo ang iyong device sa mga factory default pagkatapos ma-install.
+Sigurado ka bang gusto mo itong i-install?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Ang update ng sistemang ito ay hindi makakaapekto sa iyong data.
+Gayunpaman, upang matiyak ang integridad ng iyong data, mangyaring magsagawa ng backup."</string>
+    <string name="str_abupdate_continue_download">Magptuloy na mag-download ng &amp; mag-instala</string>
+    <string name="str_abupdate_install_completed">Tapos na ang pag-update ng sistema. Mangyaring i-reboot upang tapusin ang pag-update.</string>
+    <string name="str_abupdate_install_failed">Nabigo ang pag-install ng update ng sistema</string>
+    <string name="str_abupdate_install_update">I-INSTALL NA</string>
+    <string name="str_abupdate_installing">Nag-iinstall ng update ng sistema</string>
+    <string name="str_abupdate_local_package_log">Walang changelog ang bersyon na ito</string>
+    <string name="str_abupdate_reboot">I-REBOOT</string>
+    <string name="str_abupdate_retry_failed">Nabigo ang pag-install ng update ng sistema. Sinusuri ang pakete para sa buong upgrade.</string>
+    <string name="str_abupdate_start_download">I-download ang &amp; mag-instala ngayon</string>
+    <string name="str_abupdate_try_again">SUBUKIN MULI</string>
+    <string name="str_alert_local_downgrade">"Ang pakete na iyong pinili ay mas mababa kaysa sa kasalukuyang bersyon. Maaaring magdulot ito ng kabiguang mag-boot dahil sa mga isyu sa pagkumpirma ng data. 
+Sigurado ka ba na nais mong i-install ang lumang bersyon?"</string>
+    <string name="str_alert_local_downgrade_confirm">Ikumpirma</string>
+    <string name="str_beta_to_mp_not_allow">"Ang package na napili mo ay mas mababa kaysa sa kasalukuyang bersyon ng system. Para maiwasan ang pagpalya sa pag-boot up, hindi pinapayagan ang pag-degrade.
+Kung gusto mong mag-degrade, mag-reboot sa Recovery Mode para i-install ang package."</string>
+    <string name="str_disabled_local_upgrade_summary">Hindi ma-upgrade ng lokal dahil ikaw ay nag-dodownload o nag-iinstall ng update ng sistema.</string>
+    <string name="str_download_retry">I-download ang &amp; mag-instala muli</string>
+    <string name="str_mp_downgrade_not_allow">"Ang pakete na pinili mo ay mas mababa kaysa sa kasalukuyang bersiyon ng system. Para maiwasan ang pagkabigo ng pag-boot up, hindi pinapayagan ang pag-degrade.
+Kung nais mong mag-degrade, paki-back up muna ang data mo, tapos maaari ka nang mag-reboot sa Recovery Mode para i-install ang package."</string>
+    <string name="str_pause_download_new">Mag-pause</string>
+    <string name="str_time_incorrect_check_failed">Hindi nakapagtingin ng mga update dahil mali ang petsa at oras ng iyong device</string>
+    <string name="str_time_incorrect_download_failed">Hindi nakapag-download dahil mali ang petsa at oras ng iyong device</string>
+    <string name="system_battery_low">Mababang baterya (20%). Mangyaring mag-recharge</string>
+    <string name="system_battery_low_title">Ubos na ang baterya</string>
+    <string name="system_can_fix_to_new_version">Ang sistema ay maaaring maayos upang makuha ang pinakabagong bersyon</string>
+    <string name="system_can_update_to_new_version">I-update na ngayon</string>
+    <string name="system_download_complete">Ang download %s ng sistema ay tapos na</string>
+    <string name="system_download_fail">Nabigo ang pag-download. Mangyaring suriin ang network at subukin muli</string>
+    <string name="system_downloading">Download ng %s sistema</string>
+    <string name="system_fix_download">I-download ang fix na pakete ngayon</string>
+    <string name="system_fix_now">I-reboot upang maayos ngayon</string>
+    <string name="system_repair_mode">Mode sa pagkumpuni</string>
+    <string name="system_update_checking">Tinitingnan ang mga update...</string>
+    <string name="system_update_download_finish">Kumpleto na ang download</string>
+    <string name="system_update_download_finish_tip">I-klik upang ma-upgrade. Ang sistema ay awtomatikong magsisimula muli</string>
+    <string name="system_update_downloading_tip">Nag-download ng data para sa bagong bersyon:</string>
+    <string name="system_update_error">Ang network ay hindi konektado</string>
+    <string name="system_update_fail">Nabigo ang pag-upgrade. Mangyaring subukin muli</string>
+    <string name="system_update_messages">Paalaala ng %s update ng sistema</string>
+    <string name="system_update_messages_download">Update ng %s sistema,i-klik ang update ng download</string>
+    <string name="system_update_messages_failed_text">Ang pag-update ay nabigo, i-klik upang pumasok sa mode ng repair upang subukin muli</string>
+    <string name="system_update_messages_failed_title">Nabigo ang pag-update ng sistema</string>
+    <string name="system_update_messages_success_text">Ang sistema ay matagumpay na na-update sa %s</string>
+    <string name="system_update_messages_success_title">Ang sistema ay na-update na</string>
+    <string name="system_update_no_network">Mangyaring i-set up muna ang network</string>
+    <string name="system_update_notification">Notipikasyon ng pag-update ng sistema</string>
+    <string name="system_update_now">I-reboot upang mag-upgrade ngayon</string>
+    <string name="system_update_remain_time">Oras na nalalabi:</string>
+    <string name="system_update_success">Tapos na ang pag-upgrade</string>
+    <string name="system_updating">Nag-uupgrade</string>
+    <string name="system_updating_tip">Ang data ay hindi mawawala pagkaraan ng pag-upgrade</string>
+    <string name="update_check_title">I-check para sa update</string>
+    <string name="update_checking">Sinsuri para sa mga update, mangyaring maghintay…</string>
+    <string name="update_from_local">Lokal na upgrade</string>
+    <string name="update_log">I-update ang log</string>
+    <string name="update_package_size">Laki ng update:</string>
+    <string name="upgrade_log">I-update ang log</string>
+    <string name="upgrade_package_not_exist">Ang pakete na na-upgrade ay hindi umiiral, mangyaring i-download muli.</string>
+    <string name="verify_fail">Nabigo ang pagpapatunay ng lagda</string>
+    <string name="verifying">Pinapatunayan ang file, mangyaring antayin…</string>
+    <string name="wipe_data">Alisin ang mga data</string>
+    <string name="wipe_data_text">"Ito ay inirerekomenda na i-clear ang iyong mga data (naka-install na apps, SMS at iba pang data) kapag mag-iinstall nitong update na ito.
+Gusto mo bang i-clear ang mga ito?"</string>
+    <string name="wipe_data_title">Babala</string>
+</resources>

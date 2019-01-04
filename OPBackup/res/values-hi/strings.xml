@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेज पर जाएं</string>
+    <string name="abc_action_bar_up_description">ऊपर जाएं</string>
+    <string name="abc_action_menu_overflow_description">ज़्यादा विकल्प</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई एप्‍लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजा जा रहा है…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ़ करें</string>
+    <string name="abc_searchview_description_query">सर्च क्वेरी</string>
+    <string name="abc_searchview_description_search">सर्च करें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">आवाज़ सर्च</string>
+    <string name="abc_shareactionprovider_share_with">इसके साथ शेयर करें</string>
+    <string name="abc_shareactionprovider_share_with_application">%s के साथ शेयर करें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="about_to_restart">आप अपग्रेड इंस्टॉल करने के लिए अपनी डिवाइस को रीस्टार्ट करने ही वाले हैं। कृपया प्रक्रिया के दौरान डिवाइस को बंद नहीं करें।</string>
+    <string name="access">अनुमति दें</string>
+    <string name="alert_text_backup_data">"सिस्टम अपडेट आपका डेटा प्रभावित नहीं करेगा। 
+हालाँकि, अपने डेटा की सुरक्षा सुनिश्चित करने हेतु, कृपया अपने डेटा का बैकअप ले लें। कृपया अपना फ़ोन रीस्टार्ट करें और अपडेट इंस्टॉल करें।"</string>
+    <string name="app_name">सिस्टम अपडेट</string>
+    <string name="attention">युक्तियाँ</string>
+    <string name="battery_low_prompt">अपडेट करने के लिए डिवाइस को 20% से अधिक चार्ज होना चाहिए। कृपया जारी रखने के लिए चार्ज करें।</string>
+    <string name="battery_very_low_prompt">बैटरी बहुत कम बची है, अपडेट जारी रखने से पहले कृपया फोन को चार्ज कर इसे 5% तक ले आएँ। कृपया फोन को प्लग इन करें।</string>
+    <string name="btn_text_upgrade_now">अब अपग्रेड करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="check_upgrade_log">अपडेट लॉग जाँचें</string>
+    <string name="click_to_install">इंस्टॉल करने के लिए क्लिक करें</string>
+    <string name="continue_to_download">डाउनलोड करने के लिए जारी रखें</string>
+    <string name="default_download_wifi">केवल वाईफ़ाई के माध्यम से डाउनलोड करें</string>
+    <string name="default_download_wifi_auto">वाई-फाई पर ऑटो-डाउनलोड</string>
+    <string name="dont_wipe_data">डेटा साफ़ नहीं करें</string>
+    <string name="download">डाउनलोड करें</string>
+    <string name="download_cancel">क्या आप सुनिश्चित हैं कि आप डाउनलोड रद्द करना चाहते हैं?</string>
+    <string name="download_corrupted">डाउनलोड सत्यापित नहीं हो सका, कृपया फिर से डाउनलोड करें।</string>
+    <string name="download_error">डाउनलोड के दौरान सर्वर से संपर्क बनाए रखने में कोई समस्या आ गई थी, कृपया डाउनलोड बाद में फिर से शुरू करें।</string>
+    <string name="download_error_notification_text">डाउनलोड को बाद में फिर चालू करने की कोशिश करें।</string>
+    <string name="download_error_notification_title">सिस्टम अपडेट में त्रुटि</string>
+    <string name="download_fail">डाउनलोड के दौरान कोई समस्या रही, कृपया फिर से डाउनलोड करें।</string>
+    <string name="download_fail_title">डाउनलोड विफल रहा</string>
+    <string name="download_io_error">अपडेट करने के लिए पर्याप्त स्टोरेज नहीं है, कृपया स्पेस खाली करें और फिर डाउनलोड शुरू करें।</string>
+    <string name="download_is_not_wifi">"मोबाइल डेटा पर डाउनलोड कर रहा है, अतिरिक्त शुल्क लागू हो सकते हैं।
+जारी रखें?"</string>
+    <string name="download_is_slow">"आपका कनेक्शन बहुत धीमा है और अपडेट डाउनलोड करने में यह कई मिनट लगा सकता है।
+जारी रखें?"</string>
+    <string name="download_no_network">नेटवर्क का पता नहीं लगा, कृपया बाद में फिर कोशिश करें।</string>
+    <string name="download_no_network_title">नेटवर्क का पता नहीं लगा</string>
+    <string name="download_now">अभी डाउनलोड करें</string>
+    <string name="download_paused">"डाउनलोड बीच में रोक दिया गया क्योंकि कोई नेटवर्क उपलब्ध नहीं है।
+इसे फिर शुरू कर दिया जाएगा जब नेटवर्क उपलब्ध होगा।"</string>
+    <string name="download_paused_resume">"वाई-फाई कनेक्शन नहीं मिल रहा, डाउनलोड रोका गया। 
+कृपया बाद में पुन: आरम्भ करने का प्रयास करें।"</string>
+    <string name="download_paused_resume_by_manual">क्या वाकई आप डाउनलोड कुछ समय के लिए रोक देना चाहते हैं? आप बाद में पुनरारंभ कर सकते हैं।</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s शेष</string>
+    <string name="download_retry">फिर से डाउनलोड करें</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">डाउनलोड रोका गया</string>
+    <string name="downloaded_notification_error_text">डाउनलोड को बाद में फिर चालू करने की कोशिश करें।</string>
+    <string name="downloaded_notification_error_title">डाउनलोड करने में त्रुटि।</string>
+    <string name="downloaded_notification_fail_text">डाउनलोड के दौरान एक समस्या आ गई, कृपया बाद में फिर से कोशिश करें।</string>
+    <string name="downloaded_notification_fail_title">डाउनलोड करने में त्रुटि।</string>
+    <string name="downloaded_notification_io_error_text">स्पेस खाली करें और पुन: आरम्भ करें।</string>
+    <string name="downloaded_notification_io_error_title">पर्याप्त स्पेस नहीं है।</string>
+    <string name="downloaded_notification_pause_by_manual_text">डाउनलोड रोका गया था।</string>
+    <string name="downloaded_notification_pause_text">डाउनलोड बीच में रुक गया क्योंकि कोई नेटवर्क उपलब्ध नहीं है।</string>
+    <string name="downloaded_notification_pause_title">डाउनलोड रोका गया।</string>
+    <string name="downloaded_notification_title">सिस्टम अपडेट डाउनलोड किया गया</string>
+    <string name="downloading">%1$s का %2$s डाउनलोड कर रहा</string>
+    <string name="downloading_notification_title">सिस्टम अपडेट डाउनलोड कर रहा</string>
+    <string name="exists_new_version_title">नए सिस्टम संस्करण का पता लगाया</string>
+    <string name="has_new_version_notification">एक नए संस्करण का पता चला है, H2OS OTA अपडेट पर जाएँ</string>
+    <string name="install">इंस्टॉल करें</string>
+    <string name="install_copy_fail">अपग्रेड को इंस्टॉल करने में कोई समस्या आ गई। कृपया बाद में फिर से कोशिश करें।</string>
+    <string name="last_check_update">पिछली जाँच: %1$s</string>
+    <string name="need_more_space">अपग्रेड करने हेतु पर्याप्त स्टोरेज स्पेस नहीं है, %s स्टोरेज स्पेस की ज़रूरत है। कुछ स्पेस खाली करें और दुबारा प्रयास करें।</string>
+    <string name="network_tip">वर्तमान नेटवर्क 2G/3G/4G है। डाउनलोड जारी रखने पर सेवाप्रदाता द्वारा शुल्क लग सकता है।</string>
+    <string name="network_wrarning_checkbox">रिमाइंडर दुबारा न दिखाएँ</string>
+    <string name="network_wrarning_text">यह ऐप्लिकेशन डेटा ट्रैफिक उत्पन्न करता है। इसलिए तब करना चाहिए जब वाईफ़ाई का उपयोग कर रहे हों</string>
+    <string name="network_wrarning_title">रिमाइंडर</string>
+    <string name="no_enough_space">अपर्याप्त स्टोरेज स्पेस। कृपया स्पेस खाली करें और फिर से कोशिश करें।</string>
+    <string name="no_local_update_packges_title">इंस्टालेशन पैकेज को रूट डायरेक्टरी में ले जाएँ</string>
+    <string name="no_upgrade_log">कोई अपडेट लॉग उपलब्ध नहीं</string>
+    <string name="notification_download_fail">अपग्रेड पैकेज डाउनलोड करना विफल रहा, कृपया डाउनलोड का दुबारा प्रयास करें</string>
+    <string name="notification_download_success">डाउनलोड पूर्ण, अपडेट पर क्लिक करें</string>
+    <string name="notification_downloading">डाउनलोड कर रहा</string>
+    <string name="notification_into_update_content">अभी अपग्रेड करने के लिए टैप करें</string>
+    <string name="notification_into_update_title">सिस्टम अपडेट पैकेज डाउनलोड करना पूरा हुआ</string>
+    <string name="oneplus_read_contacts">नेटवर्क पर पहुँच</string>
+    <string name="oneplus_rights_dialog_checkbox_text">मेरे चयन याद रखें</string>
+    <string name="oneplus_rights_dialog_discription">सिस्टम अपडेट का उपयोग करने के लिए निम्न अनुमतियों की आवश्यकता है</string>
+    <string name="oneplus_rights_dialog_title">अनुमति आवेदन</string>
+    <string name="ota_check_update">अपडेट के लिए जाँचें</string>
+    <string name="ota_never_check_update">आपने कभी किसी अपडेट के लिए चेक नहीं किया यानी जाँचा नहीं है।</string>
+    <string name="ota_new_update">नया संस्करण उपलब्ध है</string>
+    <string name="ota_new_update_downloading">"नया संस्करण उपलब्ध
+डाउनलोड हो रहा..."</string>
+    <string name="ota_new_update_name">%1$s सिस्टम अपडेट</string>
+    <string name="ota_new_update_name_downloading">"%1$s सिस्टम अपडेट
+डाउनलोड हो रहा..."</string>
+    <string name="ota_new_update_name_paused">"%1$s सिस्टम अपडेट
+डाउनलोड रोका गया..."</string>
+    <string name="ota_new_update_name_ready">"%1$s सिस्टम अपडेट
+इंस्टॉल करने के लिए तैयार"</string>
+    <string name="ota_new_update_paused">डाउनलोड रोका गया...</string>
+    <string name="ota_new_update_ready">"नया संस्करण उपलब्ध
+इंस्टॉल करने के लिए तैयार"</string>
+    <string name="ota_no_update">आपका सिस्टम अप-टू-डेट है</string>
+    <string name="ota_oem_unlock_detected_alert">OEM अनलॉक का पता चला है, सिस्टम पूर्ण अपग्रेड पैकेज डाउनलोड करना शुरू कर देगा। अपने डेटा को सुरक्षित बनाए रखने के लिए कृपया बैकअप ले लें।</string>
+    <string name="ota_root_detected_alert">रूट का पता लगा है, सिस्टम पूर्ण अपग्रेड पैकेज डाउनलोड करना शुरू कर देगा। अपने डेटा की सुरक्षा सुनिश्चित करने हेतु, कृपया अपने डेटा का बैकअप लें। अपग्रेड पूरा होने के बाद आपकी डिवाइस अनरूट हो जाएगी।</string>
+    <string name="pause_downloading">डाउनलोड रोकें</string>
+    <string name="play_under_mobile_data">प्ले</string>
+    <string name="play_under_mobile_data_tips">अभी सेलुलर नेटवर्क में हैं, प्ले जारी रखें?</string>
+    <string name="preparing_download">डाउनलोड की तैयारी कर रहा...</string>
+    <string name="preparing_install">इंस्टॉलेशन की तैयारी कर रहा...</string>
+    <string name="ready_to_install">सिस्टम अपडेट तैयार है। अपने फोन को रीस्टार्ट करने और अपडेट इंस्टॉल करने के लिए नीचे इंस्टॉल करें पर क्लिक करें।</string>
+    <string name="ready_to_upgrade">अपडेट पैकेज का सत्यापन कर रहा...</string>
+    <string name="reject">अनुमति न दें</string>
+    <string name="remind_later">मुझे बाद में याद दिलाएँ</string>
+    <string name="resume">फिर से शुरू</string>
+    <string name="rooted_warning">"रूटेड डिवाइस का पता लगा, अपडेट विफल हो सकता है।
+क्या आप अपग्रेड करना चाहेंगे?"</string>
+    <string name="search_menu_title">सर्च</string>
+    <string name="searching">खोज रहा...</string>
+    <string name="setting">सेटिंग्स</string>
+    <string name="share">साझा करें</string>
+    <string name="show_new_version_info">अपडेटेड सामग्री देखें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">आपके चुने गए पैकेज का संस्करण, मौजूदा सिस्टम से कम है. बूट होने की समस्या से बचने के लिए डाउनग्रेड करने की अनुमति नहीं है।</string>
+    <string name="str_ab_downgrade_not_allow_confirm">समझ आ गया</string>
+    <string name="str_ab_upgrade_warning_wipe">"आपके द्वारा चयनित पैकेज स्थापना के बाद आपके डिवाइस को फ़ैक्टरी डिफ़ॉल्ट पर रीसेट कर देगा।
+आपको यकीन है कि आप इसे स्थापित करना चाहते हैं?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"यह सिस्टम अपडेट आपके डेटा को प्रभावित नहीं करेगा।
+हालाँकि, आपके डेटा के यथावत बने रहने को सुनिश्चित करने के लिए, कृपया बैकअप ले लें।"</string>
+    <string name="str_abupdate_continue_download">डाउनलोड &amp; इंस्टॉल करें पर जारी रखें</string>
+    <string name="str_abupdate_install_completed">सिस्टम अपडेट इंस्टॉलेशन पूरा हुआ। कृपया अपडेट समाप्त करने के लिए रीबूट करें।</string>
+    <string name="str_abupdate_install_failed">सिस्टम अपडेट इंस्टॉलेशन विफल रहा</string>
+    <string name="str_abupdate_install_update">अभी इंस्टॉल करें</string>
+    <string name="str_abupdate_installing">सिस्टम अपडेट इंस्टॉल हो रहा है</string>
+    <string name="str_abupdate_local_package_log">इस संस्करण में कोई चेंजलॉग नहीं है</string>
+    <string name="str_abupdate_reboot">रीबूट करें</string>
+    <string name="str_abupdate_retry_failed">सिस्टम अपडेट इंस्टॉलेशन विफल रहा। फुल अपग्रेड पैकेज के लिए जाँच की जा रही।</string>
+    <string name="str_abupdate_start_download">अभी डाउनलोड &amp; इंस्टॉल करें</string>
+    <string name="str_abupdate_try_again">फिर कोशिश करें</string>
+    <string name="str_alert_local_downgrade">"आपके द्वारा चुना गया पैकेज वर्तमान संस्करण से पुराना है। यह डेटा संगतता समस्याओं के चलते बूट में विफलता की वजह बन सकता है।
+क्या आप वाकई पुराने संस्करण को इंस्टॉल करना चाहते हैं?"</string>
+    <string name="str_alert_local_downgrade_confirm">पुष्टि करें</string>
+    <string name="str_beta_to_mp_not_allow">"आपके द्वारा चयनित पैकेज वर्तमान सिस्टम के संस्करण से कम है। बूट अप विफलता से बचने के लिए, निम्नीकरण की अनुमति नहीं है।
+अगर आप डीग्रेड नहीं करना चाहते हैं, तो कृपया पैकेक इंस्टॉल करने के लिए रिकवरी मोड पर रिबूट करें।"</string>
+    <string name="str_disabled_local_upgrade_summary">स्थानिक रूप से अपग्रेड करने में अक्षम क्योंकि आप कोई सिस्टम अपडेट डाउनलोड या इंस्टॉल कर रहे हैं।</string>
+    <string name="str_download_retry">फिर से डाउनलोड &amp; इंस्टॉल करें</string>
+    <string name="str_mp_downgrade_not_allow">"आपके द्वारा चयनित पैकेज वर्तमान सिस्टम के संस्करण से कम है। बूट अप विफलता से बचने के लिए, निम्नीकरण की अनुमति नहीं है।
+अगर आप डीग्रेड करना चाहते हैं, तो कृपया पहले अपना डेटा बैकअप लें, फिर इस पैकेज को इंस्टॉल करने के लिए आप रिकवरी मोड रीबूट कर सकते हैं।"</string>
+    <string name="str_pause_download_new">रोकें</string>
+    <string name="str_time_incorrect_check_failed">आपके डिवाइस पर सेट तारीख और समय गलत होने की वजह से अपडेट नहीं जाँचें जा सके</string>
+    <string name="str_time_incorrect_download_failed">आपके डिवाइस पर सेट तारीख और समय गलत होने की वजह से डाउनलोड नहीं किया जा सका</string>
+    <string name="system_battery_low">बैटरी कम है (20%)। कृपया रीचार्ज करें</string>
+    <string name="system_battery_low_title">कम बैटरी</string>
+    <string name="system_can_fix_to_new_version">सिस्टम नवीनतम संस्करण पर फिक्स किया जा सकता है</string>
+    <string name="system_can_update_to_new_version">अभी अपडेट करें</string>
+    <string name="system_download_complete">सिस्टम %s डाउनलोड पूर्ण</string>
+    <string name="system_download_fail">डाउनलोड विफल रहा। कृपया नेटवर्क की जाँच करें और पुन: प्रयास करें</string>
+    <string name="system_downloading">सिस्टम %s डाउनलोड</string>
+    <string name="system_fix_download">फिक्स पैक अभी डाउनलोड करें</string>
+    <string name="system_fix_now">ठीक करने के लिए रीबूट करें</string>
+    <string name="system_repair_mode">रिपेयर मोड</string>
+    <string name="system_update_checking">अपडेट्स के लिए जाँच रहा...</string>
+    <string name="system_update_download_finish">डाउनलोड पूरा हो गया</string>
+    <string name="system_update_download_finish_tip">अपग्रेड करने के लिए क्लिक करें। सिस्टम स्वत: रीस्टार्ट हो जाएगा</string>
+    <string name="system_update_downloading_tip">नए संस्करण के लिए डेटा डाउनलोड कर रहा है:</string>
+    <string name="system_update_error">नेटवर्क कनेक्ट नहीं</string>
+    <string name="system_update_fail">अपग्रेड विफल रहा। कृपया पुन: प्रयास करें</string>
+    <string name="system_update_messages">सिस्टम %s अपडेट रिमाइंडर</string>
+    <string name="system_update_messages_download">सिस्टम %s अपडेट, अपडेट डाउनलोड करें पर क्लिक करें</string>
+    <string name="system_update_messages_failed_text">अपडेट विफल रहा, फिर से प्रयास करने हेतु रिपेयर मोड पर टैप करें</string>
+    <string name="system_update_messages_failed_title">सिस्टम अपडेट विफल रहा</string>
+    <string name="system_update_messages_success_text">सिस्टम सफलतापूर्वक %s पर अपडेट किया गया था</string>
+    <string name="system_update_messages_success_title">सिस्टम अपडेट किया गया है</string>
+    <string name="system_update_no_network">कृपया पहले नेटवर्क सेट करें</string>
+    <string name="system_update_notification">सिस्टम अपडेट नोटिफिकेशन</string>
+    <string name="system_update_now">अभी अपग्रेड करने के लिए रीबूट करें</string>
+    <string name="system_update_remain_time">शेष समय:</string>
+    <string name="system_update_success">अपग्रेड पूरा हुआ</string>
+    <string name="system_updating">अपग्रेड हो रहा</string>
+    <string name="system_updating_tip">अपग्रेड के बाद डेटा गायब नहीं होगा</string>
+    <string name="update_check_title">अपडेट के लिए जाँचें</string>
+    <string name="update_checking">अपडेट्स के लिए चेक कर रहा है, कृपया प्रतीक्षा करें...</string>
+    <string name="update_from_local">स्थानीय अपग्रेड</string>
+    <string name="update_log">अपडेट लॉग</string>
+    <string name="update_package_size">अपडेट आकार:</string>
+    <string name="upgrade_log">अपडेट लॉग</string>
+    <string name="upgrade_package_not_exist">अपग्रेड पैकेज मौजूद नहीं है, कृपया फिर से डाउनलोड करें।</string>
+    <string name="verify_fail">हस्ताक्षर सत्यापन विफल रहा</string>
+    <string name="verifying">फ़ाइल का सत्यापन कर रहा, कृपया प्रतीक्षा करें...</string>
+    <string name="wipe_data">डेटा साफ़ करें</string>
+    <string name="wipe_data_text">"इस अपडेट को जब इंस्टॉल करना हो तो यह सिफारिश की जाती है कि अपने डेटा (इंस्टॉल किए गए ऐप्स, एसएमएस और अन्य डेटा) साफ़ कर दें।
+क्या आप इन्हें साफ़ करना चाहते हैं?"</string>
+    <string name="wipe_data_title">चेतावनी</string>
+</resources>

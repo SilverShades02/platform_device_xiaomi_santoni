@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_to_restart">Anda akan mula semula peranti anda untuk memasang tingkatan. Sila jangan padamkan peranti semasa proses.</string>
+    <string name="access">Benarkan</string>
+    <string name="alert_text_backup_data">"Kemas kini sistem tidak akan menjejaskan data anda. 
+Walau bagaimanapun, untuk memastikan integriti data anda, sila jalankan sandaran. Klik mula semula telefon anda dan pasang pengemaskinian."</string>
+    <string name="app_name">Kemas kini Sistem</string>
+    <string name="attention">Petua</string>
+    <string name="battery_low_prompt">Peranti perlu melebihi caj 20% untuk dikemas kini. Sila caskan untuk meneruskan.</string>
+    <string name="battery_very_low_prompt">Bateri terlalu rendah, sila cas telefon anda kepada 5% sebelum meneruskan kemas kini. Pastikan telefon anda dipasang dalam.</string>
+    <string name="btn_text_upgrade_now">Tingkatkan Sekarang</string>
+    <string name="cancel">Batal</string>
+    <string name="check_upgrade_log">Semak log kemas kini</string>
+    <string name="click_to_install">Klik untuk pasang</string>
+    <string name="continue_to_download">Sambung untuk muat turun</string>
+    <string name="default_download_wifi">Muat turun sahaja melalui Wi-Fi</string>
+    <string name="default_download_wifi_auto">Muat turun secara automatik melalui Wi-Fi</string>
+    <string name="dont_wipe_data">Jangan padamkan data</string>
+    <string name="download">Muat turun</string>
+    <string name="download_cancel">Adakah anda pasti anda mahu membatalkan muat turun ini?</string>
+    <string name="download_corrupted">Muat turun tidak dapat disahkan, sila muat turun sekali lagi.</string>
+    <string name="download_error">Terdapat masalah berkomunikasi dengan pelayan semasa muat turun, sila sambung semula muat turun kemudian.</string>
+    <string name="download_error_notification_text">Cuba sambung semula muat turun kemudian.</string>
+    <string name="download_error_notification_title">Ralat dalam kemas kini sistem</string>
+    <string name="download_fail">Terdapat masalah semasa muat turun, sila muat turun sekali lagi.</string>
+    <string name="download_fail_title">Muat turun gagal</string>
+    <string name="download_io_error">Terdapat storan yang tidak mencukupi untuk memuat turun kemas kini, sila kosongkan ruang dan sambung semula muat turun.</string>
+    <string name="download_is_not_wifi">"Muat turun melalui data mudah alih, caj tambahan mungkin dikenakan. 
+Sambung?"</string>
+    <string name="download_is_slow">"Sambungan anda terlalu perlahan dan mungkin mengambil beberapa minit untuk muat turun kemas kini. 
+Sambung?"</string>
+    <string name="download_no_network">Rangkaian tidak dikesan, sila cuba lagi kemudian.</string>
+    <string name="download_no_network_title">Rangkaian tidak dikesan</string>
+    <string name="download_now">Muat turun sekarang</string>
+    <string name="download_paused">"Muat turun telah dihentikan seketika kerana tiada rangkaian tersedia. 
+Ia akan sambung semula apabila terdapat rangkaian."</string>
+    <string name="download_paused_resume">"Sambungan Wi-Fi hilang, muat turun dijeda. 
+Sila cuba untuk menyambung semula kemudian."</string>
+    <string name="download_paused_resume_by_manual">Adakah anda pasti hendak berhenti seketika muat turun? Anda boleh menyambung semula kemudian.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s kiri</string>
+    <string name="download_retry">Muat turun lagi</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Muat turun dijeda</string>
+    <string name="downloaded_notification_error_text">Cuba sambung semula muat turun kemudian.</string>
+    <string name="downloaded_notification_error_title">Ralat muat turun.</string>
+    <string name="downloaded_notification_fail_text">Terdapat masalah semasa muat turun, sila cuba lagi kemudian.</string>
+    <string name="downloaded_notification_fail_title">Ralat muat turun.</string>
+    <string name="downloaded_notification_io_error_text">Ruangan kosong dan sambung semula.</string>
+    <string name="downloaded_notification_io_error_title">Ruang tidak cukup.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Muat turun dijeda.</string>
+    <string name="downloaded_notification_pause_text">Muat turun telah dihentikan seketika kerana tiada rangkaian tersedia.</string>
+    <string name="downloaded_notification_pause_title">Muat turun yang dijeda.</string>
+    <string name="downloaded_notification_title">Kemas kini sistem telah dimuat turun</string>
+    <string name="downloading">Muat turun %1$s daripada %2$s</string>
+    <string name="downloading_notification_title">Muat turun kemas kini sistem</string>
+    <string name="exists_new_version_title">Versi system yang baru dikesan</string>
+    <string name="has_new_version_notification">Versi baru dikesan, Pergi ke kemas kini H2OS OTA</string>
+    <string name="install">Pasang</string>
+    <string name="install_copy_fail">Terdapat masalah memasang tingkatan. Sila cuba lagi kemudian.</string>
+    <string name="last_check_update">Disemak terakhir: %1$s</string>
+    <string name="need_more_space">Ruang storan yang tidak mencukupi untuk ditingkatkan, tetapi juga perlu %s ruang storan. Sila kosongkan sedikit ruang dan cuba lagi.</string>
+    <string name="network_tip">Rangkaian semasa ialah 2G / 3G / 4G. Meneruskan muat turun boleh mengenakan bayaran daripada pembawa.</string>
+    <string name="network_wrarning_checkbox">Jangan tunjukkan peringatan lagi</string>
+    <string name="network_wrarning_text">Aplikasi ini menghasilkan lalu lintas data. Pelaksanaan yang disyorkan semasa menggunakan Wi-Fi</string>
+    <string name="network_wrarning_title">Peringatan</string>
+    <string name="no_enough_space">Ruang simpanan yang tidak mencukupi. Sila kosongkan ruang dan cuba sekali lagi.</string>
+    <string name="no_local_update_packges_title">Pindah pakej pemasangan ke dalam direktori akar</string>
+    <string name="no_upgrade_log">Tiada log kemas kini tersedia</string>
+    <string name="notification_download_fail">Muat turun pakej peningkatan gagal, sila cuba lagi untuk muat turun</string>
+    <string name="notification_download_success">Muat turun selesai, klik kemas kini</string>
+    <string name="notification_downloading">Sedang muat turun</string>
+    <string name="notification_into_update_content">Ketik untuk meningkat sekarang</string>
+    <string name="notification_into_update_title">Muat turun pakej kemas kini sistem selesai</string>
+    <string name="oneplus_read_contacts">Capai Rangkaian</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Ingat pilihan saya</string>
+    <string name="oneplus_rights_dialog_discription">Anda memerlukan keizinan berikut untuk menggunakan kemas kini sistem</string>
+    <string name="oneplus_rights_dialog_title">Aplikasi kebenaran</string>
+    <string name="ota_check_update">Semak untuk kemas kini</string>
+    <string name="ota_never_check_update">Anda belum pernah disemak untuk kemas kini.</string>
+    <string name="ota_new_update">Versi baru tersedia</string>
+    <string name="ota_new_update_downloading">"Versi baru tersedia
+Sedang muat turun…"</string>
+    <string name="ota_new_update_name">Kemas Kini Sistem %1$s</string>
+    <string name="ota_new_update_name_downloading">"%1$s Kemas Kini Sistem
+Sedang Muat Turun…"</string>
+    <string name="ota_new_update_name_paused">"%1$s Kemas Kini Sistem
+Muat turun dijeda…"</string>
+    <string name="ota_new_update_name_ready">"%1$s Kemas Kini Sistem
+Bersedia untuk dipasang"</string>
+    <string name="ota_new_update_paused">Muat turun dijeda…</string>
+    <string name="ota_new_update_ready">"Versi baru tersedia
+Bersedia untuk dipasang"</string>
+    <string name="ota_no_update">Sistem anda adalah terkini</string>
+    <string name="ota_oem_unlock_detected_alert">Buka kunci OEM dikesan. Sistem akan mula memuat turun pakej naik taraf penuh. Untuk memastikan integriti data anda, sila jalankan sandaran.</string>
+    <string name="ota_root_detected_alert">Akar dikesan, sistem akan mula memuat turun pakej naik taraf penuh. Untuk memastikan integriti data anda, sila jalankan sandaran. Peranti anda akan disingkirkan sebaik sahaja naik taraf selesai.</string>
+    <string name="pause_downloading">Muat turun berhenti sebentar</string>
+    <string name="play_under_mobile_data">Main</string>
+    <string name="play_under_mobile_data_tips">Pada masa ini dalam rangkaian selular, terus bermain?</string>
+    <string name="preparing_download">Bersedia untuk muat turun…</string>
+    <string name="preparing_install">Menyediakan pemasangan…</string>
+    <string name="ready_to_install">Sistem kemas kini bersedia. Klik pasang di bawah untuk memulakan semula telefon anda dan pasang kemas kini.</string>
+    <string name="ready_to_upgrade">Mengesahkan pakej kemas kini...</string>
+    <string name="reject">Tidak benarkan</string>
+    <string name="remind_later">Ingatkan saya kemudian</string>
+    <string name="resume">Sambung semula</string>
+    <string name="rooted_warning">"Peranti bertapak dikesan, kemaskini mungkin gagal. 
+Adakah anda ingin meningkatkan?"</string>
+    <string name="searching">Mencari...</string>
+    <string name="setting">Seting</string>
+    <string name="share">Berkongsi</string>
+    <string name="show_new_version_info">Semak kandungan yang dikemas kini</string>
+    <string name="str_ab_downgrade_not_allow">Versi pakej yang anda pilih adalah lebih rendah berbanding dengan sistem semasa. Untuk mengelakkan kegagalan but, penurunan taraf tidak dibenarkan.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">FAHAM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Pakej yang anda pilih akan menetapkan semula peranti anda ke tetapan lalai kilang selepas pemasangan.
+Adakah anda pasti untuk memasangnya?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Pengemaskinian sistem ini tidak akan menjejaskan anda data. 
+Walau bagaimanapun, untuk memastikan integriti data anda, sila jalankan sandaran."</string>
+    <string name="str_abupdate_continue_download">Terus muat turun &amp; pasang</string>
+    <string name="str_abupdate_install_completed">Pemasangan pengemaskinian sistem selesai. Sila but semula untuk melengkapkan pengemaskinian.</string>
+    <string name="str_abupdate_install_failed">Pemasangan pengemaskinian sistem telah gagal</string>
+    <string name="str_abupdate_install_update">PASANG SEKARANG</string>
+    <string name="str_abupdate_installing">Pengemaskinian sistem update sedang memasang</string>
+    <string name="str_abupdate_local_package_log">Versi ini mempunyai log ubah</string>
+    <string name="str_abupdate_reboot">BUT SEMULA</string>
+    <string name="str_abupdate_retry_failed">Pemasangan pengemaskinian sistem telah gagal. Menyemak untuk pakej naik taraf penuh.</string>
+    <string name="str_abupdate_start_download">Muat turun &amp; Pasang sekarang</string>
+    <string name="str_abupdate_try_again">CUBA LAGI</string>
+    <string name="str_alert_local_downgrade">"Pakej yang anda pilih adalah lebih rendah daripada versi semasa. Ini boleh mengakibatkan kegagalan untuk but disebabkan oleh isu-isu keserasian data. 
+Adakah anda pasti yang anda ingin memasang versi lama?"</string>
+    <string name="str_alert_local_downgrade_confirm">Sahkan</string>
+    <string name="str_beta_to_mp_not_allow">"Pakej yang anda pilih adalah lebih rendah daripada versi semasa sistem. Untuk mengelakkan kegagalan but, menurun taraf tidak dibenarkan.
+Jika anda mahu menurunkan taraf, sila but semula kepada Mod Pemulihan untuk memasang pakej tersebut."</string>
+    <string name="str_disabled_local_upgrade_summary">Tidak dapat menaik taraf secara tempatan kerana anda memuat turun atau memasang pengemaskinian sistem.</string>
+    <string name="str_download_retry">Muat turun &amp; Pasang sekali lagi</string>
+    <string name="str_mp_downgrade_not_allow">"Pakej yang anda pilih adalah lebih rendah daripada versi semasa sistem. Untuk mengelakkan kegagalan but, menurun taraf tidak dibenarkan.
+Jika anda mahu menurunkan taraf, sila sandarkan data anda dahulu, kemudian anda boleh but semula kepada Mod Pemulihan untuk memasang pakej tersebut."</string>
+    <string name="str_pause_download_new">Berhenti seketika</string>
+    <string name="str_time_incorrect_check_failed">Gagal untuk menyemak kemas kini kerana tarikh dan masa peranti anda tidak betul</string>
+    <string name="str_time_incorrect_download_failed">Muat turun gagal kerana tarikh dan masa peranti anda tidak betul</string>
+    <string name="system_battery_low">Bateri rendah (20%). Sila cas semula</string>
+    <string name="system_battery_low_title">Bateri rendah</string>
+    <string name="system_can_fix_to_new_version">Sistem boleh dibaiki kepada versi terkini</string>
+    <string name="system_can_update_to_new_version">Kemas kini sekarang</string>
+    <string name="system_download_complete">Muat turun %s sistem lengkap</string>
+    <string name="system_download_fail">Muat turun gagal. Sila semak rangkaian dan cuba lagi</string>
+    <string name="system_downloading">Muat turun %s sistem</string>
+    <string name="system_fix_download">Muat turun pek baiki sekarang</string>
+    <string name="system_fix_now">But semula untuk membaiki sekarang</string>
+    <string name="system_repair_mode">Mod baiki</string>
+    <string name="system_update_checking">Menyemak untuk kemas kini...</string>
+    <string name="system_update_download_finish">Muat turun selesai</string>
+    <string name="system_update_download_finish_tip">Klik untuk peningkatan. Sistem akan mula semula secara automatik</string>
+    <string name="system_update_downloading_tip">Sedang muat turun data untuk versi baru:</string>
+    <string name="system_update_error">Rangkaian tidak dikesan</string>
+    <string name="system_update_fail">Peningkatan gagal. Sila cuba lagi</string>
+    <string name="system_update_messages">Peringatan kemas kini %s sistem</string>
+    <string name="system_update_messages_download">Kemas kini %s sistem, klik muat turun kemas kini</string>
+    <string name="system_update_messages_failed_text">Kemas kini gagal, ketik untuk memasuki mod membaiki untuk mencuba lagi</string>
+    <string name="system_update_messages_failed_title">Kemas kini sistem gagal</string>
+    <string name="system_update_messages_success_text">Sistem telah berjaya dikemas kini untuk %s</string>
+    <string name="system_update_messages_success_title">Sistem telah dikemas kini</string>
+    <string name="system_update_no_network">Sila sediakan rangkaian terlebih dahulu</string>
+    <string name="system_update_notification">Pemberitahuan peningkatan sistem</string>
+    <string name="system_update_now">But semula untuk peningkatan sekarang</string>
+    <string name="system_update_remain_time">Masa yang tinggal:</string>
+    <string name="system_update_success">Peningkatan selesai</string>
+    <string name="system_updating">Peningkatan</string>
+    <string name="system_updating_tip">Data tidak akan hilang selepas peningkatan</string>
+    <string name="update_check_title">Semak untuk kemas kini</string>
+    <string name="update_checking">Menyemak untuk kemas kini, sila tunggu…</string>
+    <string name="update_from_local">Peningkatan setempat</string>
+    <string name="update_log">Log kemas kini</string>
+    <string name="update_package_size">Kemas kini saiz:</string>
+    <string name="upgrade_log">Log kemas kini</string>
+    <string name="upgrade_package_not_exist">Pakej peningkatan tidak wujud, sila muat turun lagi.</string>
+    <string name="verify_fail">Pengesahan tandatangan gagal</string>
+    <string name="verifying">Mengesahkan fail, sila tunggu…</string>
+    <string name="wipe_data">Padamkan data</string>
+    <string name="wipe_data_text">"Adalah disyorkan untuk mengosongkan data anda (aplikasi dipasang, SMS dan data lain) semasa memasang kemas kini ini. 
+Adakah anda mahu mengosongkannya?"</string>
+    <string name="wipe_data_title">Amaran</string>
+</resources>

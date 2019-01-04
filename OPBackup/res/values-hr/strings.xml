@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">razmaknica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="about_to_restart">Ponovno ćete pokrenuti uređaj kako biste instalirali nadogradnju. Ne isključujte uređaj tijekom postupka.</string>
+    <string name="access">Omogući</string>
+    <string name="alert_text_backup_data">"Ažuriranje sustava neće utjecati na vaše podatke. 
+Ipak, kako biste osigurali integritet vaših podataka, izvršite sigurnosno kopiranje. Ponovno pokrenite telefon i instalirajte ažuriranje."</string>
+    <string name="app_name">Ažuriranje sustava</string>
+    <string name="attention">Savjeti</string>
+    <string name="battery_low_prompt">Uređaj treba biti napunjen preko 20% za ažuriranje. Napunite ga kako bi nastavio rad.</string>
+    <string name="battery_very_low_prompt">Baterija je gotovo prazna. Napunite telefon na 5% prije nastavka ažuriranja. Držite telefon priključen.</string>
+    <string name="btn_text_upgrade_now">Nadogradi sada</string>
+    <string name="cancel">Odustani</string>
+    <string name="check_upgrade_log">Provjeri zapisnik ažuriranja</string>
+    <string name="click_to_install">Kliknuti za instaliranje</string>
+    <string name="continue_to_download">Nastaviti preuzimanje</string>
+    <string name="default_download_wifi">Preuzmi samo preko Wi-Fi mreže</string>
+    <string name="default_download_wifi_auto">Automatsko preuzimanje preko Wi-Fi-a</string>
+    <string name="dont_wipe_data">Nemoj brisati podatke</string>
+    <string name="download">Preuzmi</string>
+    <string name="download_cancel">Jeste li sigurni da želite otkazati preuzimanje?</string>
+    <string name="download_corrupted">Preuzimanje nije moguće provjeriti, preuzmite ponovno.</string>
+    <string name="download_error">Pojavio se problem u komunikaciji s poslužiteljem tijekom preuzimanja, nastavite preuzimanje kasnije.</string>
+    <string name="download_error_notification_text">Pokušajte nastaviti preuzimanje nešto kasnije.</string>
+    <string name="download_error_notification_title">Pogreška u ažuriranju sustava</string>
+    <string name="download_fail">Došlo je do problema tijekom preuzimanja, preuzmite ponovno.</string>
+    <string name="download_fail_title">Preuzimanje nije uspjelo</string>
+    <string name="download_io_error">Nema dovoljno prostora za preuzimanje ažuriranja, oslobodite prostor i nastavite preuzimanje.</string>
+    <string name="download_is_not_wifi">"Preuzimanje putem mobilnih podataka, mogući su dodatni troškovi.
+Nastaviti?"</string>
+    <string name="download_is_slow">"Vaša veza je prespora i treba nekoliko minuta za preuzimanje ažuriranja.
+Nastaviti?"</string>
+    <string name="download_no_network">Mreža nije otkrivena, pokušajte ponovno kasnije.</string>
+    <string name="download_no_network_title">Mreža nije otkrivena</string>
+    <string name="download_now">Preuzmi sada</string>
+    <string name="download_paused">"Preuzimanje je privremeno prekinuto jer nema dostupne mreže.
+Nastavit će se kada bude postojala mreža."</string>
+    <string name="download_paused_resume">"Izgubljena je Wi-Fi veza, preuzimanje je zaustavljeno. 
+Pokušajte nastaviti kasnije."</string>
+    <string name="download_paused_resume_by_manual">Jeste li sigurni da želite zaustaviti preuzimanje? Možete nastaviti kasnije.</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">još %s</string>
+    <string name="download_retry">Preuzmi ponovno</string>
+    <string name="download_speed_text">%1$s, %2$s/s</string>
+    <string name="download_state_update_paused">Preuzimanje je zaustavljeno</string>
+    <string name="downloaded_notification_error_text">Pokušajte nastaviti preuzimanje nešto kasnije.</string>
+    <string name="downloaded_notification_error_title">Pogreška kod preuzimanja.</string>
+    <string name="downloaded_notification_fail_text">Došlo je do problema tijekom preuzimanja, pokušajte ponovno nešto kasnije.</string>
+    <string name="downloaded_notification_fail_title">Pogreška kod preuzimanja.</string>
+    <string name="downloaded_notification_io_error_text">Oslobodite prostor i nastavite.</string>
+    <string name="downloaded_notification_io_error_title">Nedovoljno prostora.</string>
+    <string name="downloaded_notification_pause_by_manual_text">Preuzimanje je zaustavljeno.</string>
+    <string name="downloaded_notification_pause_text">Preuzimanje je privremeno prekinuto jer nema dostupne mreže.</string>
+    <string name="downloaded_notification_pause_title">Preuzimanje zaustavljeno.</string>
+    <string name="downloaded_notification_title">Preuzeto ažuriranje sustava</string>
+    <string name="downloading">Preuzimanje %1$s od %2$s</string>
+    <string name="downloading_notification_title">Preuzimanje ažuriranja sustava</string>
+    <string name="exists_new_version_title">Pronađena nova verzija sustava</string>
+    <string name="has_new_version_notification">Nova verzija je otkrivena, idite na H2OS OTA ažuriranje</string>
+    <string name="install">Instaliraj</string>
+    <string name="install_copy_fail">Došlo je do problema tijekom instalacije nadogradnje. Pokušajte ponovno nešto kasnije.</string>
+    <string name="last_check_update">Posljednja provjera: %1$s</string>
+    <string name="need_more_space">Nedovoljno prostora za nadogradnju, ali potrebno je i %s prostora za pohranu. Oslobodite dio memorije i pokušajte ponovno.</string>
+    <string name="network_tip">Trenutačna mreža je 2G/3G/4G. Nastavak preuzimanja može podrazumijevati naknade operatera.</string>
+    <string name="network_wrarning_checkbox">Ne pokazuj više podsjetnik</string>
+    <string name="network_wrarning_text">Ovaj program stvara promet podataka. Izvršenje se preporučuje dok koristite Wi-Fi</string>
+    <string name="network_wrarning_title">Podsjetnik</string>
+    <string name="no_enough_space">Nedovoljno prostora. Oslobodite prostor i pokušajte ponovno.</string>
+    <string name="no_local_update_packges_title">Premjesti instalacijski paket u korijenski direktorij</string>
+    <string name="no_upgrade_log">Nema zapisnika ažuriranja</string>
+    <string name="notification_download_fail">Nije uspjelo ažuriranje paketa za nadogradnju, pokušajte ponovno za preuzimanje</string>
+    <string name="notification_download_success">Preuzimanje izvršeno, kliknite za ažuriranje</string>
+    <string name="notification_downloading">Preuzimanje</string>
+    <string name="notification_into_update_content">Dodirnite za nadgradnju sustava</string>
+    <string name="notification_into_update_title">Završeno preuzimanje paketa nadogradnje sustava</string>
+    <string name="oneplus_read_contacts">Pristup mreži</string>
+    <string name="oneplus_rights_dialog_checkbox_text">Zapamti moje odabire</string>
+    <string name="oneplus_rights_dialog_discription">Potrebne su vam sljedeće dozvole za korištenje ažuriranja sustava</string>
+    <string name="oneplus_rights_dialog_title">Odobrenje aplikacije</string>
+    <string name="ota_check_update">Provjeri ima li ažuriranja</string>
+    <string name="ota_never_check_update">Nikada niste provjerili ažuriranje.</string>
+    <string name="ota_new_update">Dostupna nova verzija</string>
+    <string name="ota_new_update_downloading">"Nova verzija dostupna
+Preuzimanje u tijeku..."</string>
+    <string name="ota_new_update_name">Ažuriranje sustava %1$s</string>
+    <string name="ota_new_update_name_downloading">"Ažuriranje sustava %1$s
+Preuzimanje u tijeku…"</string>
+    <string name="ota_new_update_name_paused">"Ažuriranje sustava %1$s
+Preuzimanje zaustavljeno…"</string>
+    <string name="ota_new_update_name_ready">"Ažuriranje sustava %1$s
+Spremno za instalaciju"</string>
+    <string name="ota_new_update_paused">Preuzimanje zaustavljeno...</string>
+    <string name="ota_new_update_ready">"Nova verzija dostupna
+Spremna za instalaciju"</string>
+    <string name="ota_no_update">Vaš sustav je ažuriran</string>
+    <string name="ota_oem_unlock_detected_alert">Otkriveno je OEM otključavanje. Sustav će pokrenuti preuzimanje cijelog paketa nadogradnje. Kako biste osigurali integritet vaših podataka, izvršite sigurnosno kopiranje.</string>
+    <string name="ota_root_detected_alert">Root je otkriven, sustav će početi preuzimati kompletni paket nadogradnje. Kako biste osigurali integritet vaših podataka, izvršite sigurnosno kopiranje. Uređaj će napustiti Root-modus nakon dovršetka nadogradnje.</string>
+    <string name="pause_downloading">Zaustavi preuzimanje</string>
+    <string name="play_under_mobile_data">Igrati</string>
+    <string name="play_under_mobile_data_tips">Trenutačno ste u mobilnoj mreži, želite li nastaviti igrati?</string>
+    <string name="preparing_download">Priprema se preuzimanje...</string>
+    <string name="preparing_install">Priprema instalacije...</string>
+    <string name="ready_to_install">Ažuriranje sustava je spremno. Kliknite Instaliraj dolje kako biste ponovno pokrenuli telefon i instalirali ažuriranje.</string>
+    <string name="ready_to_upgrade">Provjeravanje paketa ažuriranja...</string>
+    <string name="reject">Nemoj omogućiti</string>
+    <string name="remind_later">Podsjeti me kasnije</string>
+    <string name="resume">Sažetak</string>
+    <string name="rooted_warning">"Otkriven korijenski uređaj, ažuriranje možda neće uspjeti.
+Želite li nadograditi?"</string>
+    <string name="search_menu_title">Pretraživanje</string>
+    <string name="searching">Pretraživanje...</string>
+    <string name="setting">Postavke</string>
+    <string name="share">Podijeli</string>
+    <string name="show_new_version_info">Provjeri sadržaj ažuriranja</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_ab_downgrade_not_allow">Verzija odabranog paketa niža je od trenutačne verzije sustava. Kako bi se izbjegla pogreška u pokretanju sustava, vraćanje na stariju verziju nije dopušteno.</string>
+    <string name="str_ab_downgrade_not_allow_confirm">RAZUMIJEM</string>
+    <string name="str_ab_upgrade_warning_wipe">"Paket koji ste odabrali vratit će nakon instalacije postavke vašega telefona na tvornički zadane.
+Sigurno ga želite instalirati?"</string>
+    <string name="str_abupdate_alert_local_upgrade">"Ovo ažuriranje sustava neće utjecati na vaše podatke. 
+Ipak, kako biste osigurali integritet vaših podataka, izvršite sigurnosno kopiranje."</string>
+    <string name="str_abupdate_continue_download">Nastavi za preuzimanje &amp; instalaciju</string>
+    <string name="str_abupdate_install_completed">Ažuriranje sustava je instalirano. Ponovo pokrenite uređaj da biste dovršili ažuriranje.</string>
+    <string name="str_abupdate_install_failed">Instalacija ažuriranja sustava nije uspjela</string>
+    <string name="str_abupdate_install_update">INSTALIRAJ SADA</string>
+    <string name="str_abupdate_installing">Instalira se ažuriranje sustava</string>
+    <string name="str_abupdate_local_package_log">Ova verzija nema zapisnik ažuriranja</string>
+    <string name="str_abupdate_reboot">PONOVNO POKRENI</string>
+    <string name="str_abupdate_retry_failed">Instalacija ažuriranja sustava nije uspjela. Provjera cijelog paketa nadogradnje.</string>
+    <string name="str_abupdate_start_download">Preuzmi &amp; instaliraj sada</string>
+    <string name="str_abupdate_try_again">POKUŠAJ PONOVO</string>
+    <string name="str_alert_local_downgrade">"Paket koji ste odabrali niži je od trenutne verzije. To može dovesti do neuspjeha u podizanju sustava zbog problema s kompatibilnošću podataka.
+Jeste li sigurni da želite instalirati staru verziju?"</string>
+    <string name="str_alert_local_downgrade_confirm">Potvrdi</string>
+    <string name="str_beta_to_mp_not_allow">"Odabrani paket stariji je od trenutačne verzije sustava. Da biste izbjegli probleme s podizanjem sustava, degradacija nije dopuštena.
+Ako želite spustiti verziju sustava, ponovno pokrenite sustav u načinu Oporavka i instalirajte paket."</string>
+    <string name="str_disabled_local_upgrade_summary">Lokalna nadogradnja nije moguća, jer je u tijeku preuzimanje ili instaliranje ažuriranja sustava.</string>
+    <string name="str_download_retry">Preuzmi &amp; instaliraj ponovno</string>
+    <string name="str_mp_downgrade_not_allow">"Odabrani paket stariji je od trenutačne verzije sustava. Da biste izbjegli probleme s podizanjem sustava, snižavanje verzije nije dopušteno.
+Ako želite spustiti verziju sustava, prvo izradite sigurnosnu kopiju podataka, a zatim ponovno pokrenite sustav u načinu Oporavka i instalirajte paket."</string>
+    <string name="str_pause_download_new">Zaustavi</string>
+    <string name="str_time_incorrect_check_failed">Provjera ažuriranja nije uspjela jer je u uređaju pogrešno vrijeme i datum</string>
+    <string name="str_time_incorrect_download_failed">Preuzimanje nije uspjelo jer je u uređaju pogrešno vrijeme i datum</string>
+    <string name="system_battery_low">Baterija gotovo prazna (20%). Napunite je</string>
+    <string name="system_battery_low_title">Baterija gotovo prazna</string>
+    <string name="system_can_fix_to_new_version">Sustav može biti promijenjen na najnoviju verziju</string>
+    <string name="system_can_update_to_new_version">Ažuriraj sada</string>
+    <string name="system_download_complete">Završeno preuzimanje sustava %s</string>
+    <string name="system_download_fail">Preuzimanje nije uspjelo. Provjerite mrežu i pokušajte ponovno</string>
+    <string name="system_downloading">Preuzimanje sustava %s</string>
+    <string name="system_fix_download">Preuzmi sada paket za popravak</string>
+    <string name="system_fix_now">Ponovno pokrenite za popravak</string>
+    <string name="system_repair_mode">Način popravka</string>
+    <string name="system_update_checking">Provjera ažuriranja...</string>
+    <string name="system_update_download_finish">Preuzimanje je dovršeno</string>
+    <string name="system_update_download_finish_tip">Kliknite za nadogradnju. Sustav će se automatski ponovno pokrenuti</string>
+    <string name="system_update_downloading_tip">Preuzimanje podataka za novu verziju:</string>
+    <string name="system_update_error">Mreža nije povezana</string>
+    <string name="system_update_fail">Nadogradnja nije uspjela. Pokušajte ponovno</string>
+    <string name="system_update_messages">Podsjetnik za ažuriranje sustava %s</string>
+    <string name="system_update_messages_download">Ažuriranje sustava %s, kliknite za završetak preuzimanja</string>
+    <string name="system_update_messages_failed_text">Ažuriranje nije uspjelo, kliknite da biste pristupili načinu popravka i pokušajte ponovno</string>
+    <string name="system_update_messages_failed_title">Nije uspjelo ažuriranje sustava</string>
+    <string name="system_update_messages_success_text">Sustav je uspješno ažuriran na %s</string>
+    <string name="system_update_messages_success_title">Sustav je ažuriran</string>
+    <string name="system_update_no_network">Najprije postavi mrežu</string>
+    <string name="system_update_notification">Obavijest o ažuriranju sustava</string>
+    <string name="system_update_now">Sada ponovno pokrenite sustav za nadogradnju</string>
+    <string name="system_update_remain_time">Preostalo vrijeme:</string>
+    <string name="system_update_success">Nadogradnja dovršena</string>
+    <string name="system_updating">Nadogradnja</string>
+    <string name="system_updating_tip">Podaci će se izgubiti nakon nadogradnje</string>
+    <string name="update_check_title">Provjeri ima li ažuriranja</string>
+    <string name="update_checking">Provjera ažuriranja, pričekajte...</string>
+    <string name="update_from_local">Lokalna nadogradnja</string>
+    <string name="update_log">Ažuriraj zapisnik</string>
+    <string name="update_package_size">Veličina ažuriranja: </string>
+    <string name="upgrade_log">Ažuriraj zapisnik</string>
+    <string name="upgrade_package_not_exist">Paket nadogradnje ne postoji, preuzmite ponovno.</string>
+    <string name="verify_fail">Nije uspjela potvrda potpisa</string>
+    <string name="verifying">Provjera datoteke, pričekajte...</string>
+    <string name="wipe_data">Izbriši podatke</string>
+    <string name="wipe_data_text">"Preporučuje se brisanje vaših podataka (instalirane aplikacije, SMS-a i drugih podataka) kada instalirate ovo ažuriranje.
+Želite li ih ukloniti?"</string>
+    <string name="wipe_data_title">Upozorenje</string>
+</resources>
