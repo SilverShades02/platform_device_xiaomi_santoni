@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_santoni.mk
+    $(LOCAL_DIR)/pa_santoni.mk
