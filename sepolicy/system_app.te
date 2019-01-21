@@ -1,1 +1,2 @@
-allow system_app baseband_prop:file read;
+allow system_app { baseband_prop proc_pagetypeinfo sysfs_zram }:file r_file_perms;
+allow system_app sysfs_zram:dir search;

@@ -1,3 +1,2 @@
-allow { zygote webview_zygote } baseband_prop:file read;
-allow { zygote webview_zygote } baseband_prop:file open;
-allow { zygote webview_zygote } baseband_prop:file getattr;
+allow { zygote webview_zygote } { baseband_prop proc_cmdline }:file r_file_perms;
+
