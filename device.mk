@@ -184,10 +184,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PROPERTY_OVERRIDES += debug.hwui.use_buffer_age=false
 
-# Doze mode
-PRODUCT_PACKAGES += \
-    XiaomiDoze
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl \
@@ -455,3 +451,7 @@ PRODUCT_COPY_FILES += \
 # Wi-Fi Display
 PRODUCT_BOOT_JARS += \
     WfdCommon
+
+# Xiaomi Parts
+PRODUCT_PACKAGES += \
+    XiaomiParts
