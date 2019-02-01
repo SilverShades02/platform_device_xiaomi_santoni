@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_santoni.mk
+    $(LOCAL_DIR)/fred_santoni.mk
