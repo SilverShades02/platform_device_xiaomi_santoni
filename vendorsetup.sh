@@ -27,4 +27,4 @@
 #  IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-add_lunch_combo lineage_santoni-userdebug
+add_lunch_combo fred_santoni-userdebug

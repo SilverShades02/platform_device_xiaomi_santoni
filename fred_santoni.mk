@@ -19,8 +19,11 @@ TARGET_SCREEN_WIDTH := 720
 
 $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common FredOS stuff.
+$(call inherit-product, vendor/fred/config/common.mk)
+
+# Target boot animation size
+TARGET_BOOT_ANIMATION_RES := 720
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
